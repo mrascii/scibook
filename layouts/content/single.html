@@ -1,0 +1,39 @@
+{{ define "h1" }}
+
+<nav class="article-navbar">
+  <!-- JS code is in assets/js/events.js -->
+  <a href="{{ partial "get/edit-page-url" . }}">{{ i18n "EditPage" }}</a>
+  <select class="translate-to" onchange="onTranslateToSelected(this)" data-dir="{{ .File.Dir }}" data-basename="{{ .File.TranslationBaseName }}">
+    <option value="">{{ i18n "TranslateTo" }}</option>
+    {{ $currentPage := . }}
+    {{ $translated := partial "get/translated-languages" . }}
+    {{ range $langCode, $langName := site.Params.translationLanguages }}
+    {{ if not (in $translated $langCode) }}
+    <option value="{{ $langCode }}">{{ $langName }}</option>
+    {{ end }}
+    {{ end }}
+  </select>
+</nav>
+{{ end }}
+
+{{ define "main" }}
+
+<section class="article">
+  {{ .Render "article" }}
+</section>
+
+{{ range $category, $unused := site.Taxonomies }}
+<dl class="keywords">
+  {{ $pageTags := $.Param $category }}
+  {{ if $pageTags }}
+  <dt>{{ $category }}</dt>
+  <dd>
+    {{ range $i, $tag := $pageTags }}
+    <a href="{{ (site.GetPage (printf "/%s/%s" $category $tag)).RelPermalink }}">{{ . }}</a>
+    {{ end }}
+  </dd>
+  {{ end }}
+</dl>
+{{ end }}
+
+{{ end }}

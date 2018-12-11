@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="{{ "/" | absLangURL }}">{{ .Site.Params.shortTitle }}</a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navBarToggler" aria-controls="navBarToggler" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navBarToggler">
+    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+      {{ range .Translations }}
+      <li class="nav-item">
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a>
+      </li>
+      {{ end }}
+      <li class="nav-item">
+        <a class="nav-link" href="{{ relLangURL "contact" }}">{{ i18n "Contact" }}</a>
+      </li>
+    </ul>
+
+    <form class="form-inline" action="{{ absLangURL "search/" }}" method="GET">
+      <input id="search-input" name="q" class="form-control" type="search" placeholder="{{ i18n "SearchPlaceholder" }}" required minlength="1">
+    </form>
+
+  </div>
+</nav>

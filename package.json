@@ -1,0 +1,32 @@
+{
+  "name": "scibook-static",
+  "version": "1.0.0",
+  "description": "Static hugo web site for scibook",
+  "main": "tools/build_search_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "search_index": "tools/build_search_index.js"
+  },
+  "keywords": [
+    "scibook",
+    "hugo",
+    "web",
+    "site",
+    "static"
+  ],
+  "author": "mrascii",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "lunr": "^2.3.6",
+    "lunr-languages": "^1.1.0",
+    "popper.js": "^1.15.0"
+  },
+  "dependencies": {
+    "rtlcss": "^2.4.0"
+  }
+}

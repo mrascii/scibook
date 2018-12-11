@@ -1,0 +1,3 @@
+{{- $translated := slice -}}
+{{- range .AllTranslations }}{{ $translated = $translated | append .Lang }}{{ end -}}
+{{- return $translated -}}

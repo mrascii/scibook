@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+
+<head>
+  <!-- Up to 260 chars for search engines, config value can be replaced by page's frontmatter. -->
+  <!-- Moved outside of cached site-meta-link because it can be unique for each page. -->
+  <meta name="description" content="{{ $.Param "description" }}">
+  {{ partialCached "site-meta-link" .}}
+  <title>{{ block "title" . }}{{ .Title }} &ndash; {{ site.Title }}{{ end }}</title>
+
+  {{ partialCached "css" . }}
+</head>
+
+<body>
+  <div class="container-fluid">
+    {{ partial "navbar" . }}
+    <div class="row">
+      <aside class="col-lg-auto">
+        {{ block "aside-left" . }}
+        {{ partial "toc" . }}
+        {{ end }}
+      </aside>
+      <main class="col-lg">
+        {{ block "h1" . }}{{ with .Title }}<h1>{{ . }}</h1>{{ end }}{{ end }}
+        {{ block "main" . }}
+        {{end}}
+      </main>
+      <aside class="col-lg-auto w-25 d-none d-lg-block">
+        {{ block "aside-right" . }}
+        {{ partialCached "side-keywords" . }}
+        {{ end }}
+      </aside>
+    </div>
+    {{ block "footer" . }}{{ partial "site-footer" . }}{{ end }}
+    {{ block "scripts" . }}
+    {{- partial "site-scripts" (dict "js" site.Params.js "context" .) -}}
+    {{ end }}
+
+</body>
+
+</html>

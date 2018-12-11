@@ -1,0 +1,2 @@
+<!-- Example: partial "get/url-for-new-translation" (dict "lang" "en" "page" .) -->
+{{- return printf "%s/new/master/content/%s%s.%s.md" site.Params.githubRepo .page.File.Dir .page.File.TranslationBaseName .lang -}}

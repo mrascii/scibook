@@ -1,0 +1,15 @@
+{{ $context := .context }}
+{{ if ne hugo.Environment "production" }}
+{{ range .js }}
+<script src="{{ (resources.Get . | resources.ExecuteAsTemplate . $context).Permalink }}"></script>
+{{ end }}
+{{ else }}
+{{ $allScripts := slice }}
+{{ range .js }}
+{{ $js := resources.Get . | resources.ExecuteAsTemplate "js/bundled.js" $context }}
+{{ $allScripts = $allScripts | append $js }}
+{{ end }}
+{{ $js := $allScripts | resources.Concat "js/bundled.js" }}
+{{ $js = $js | minify | fingerprint }}
+<script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+{{ end }}

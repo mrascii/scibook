@@ -1,0 +1,33 @@
+{{ if not .Parent.IsHome }}
+
+{{- $current := . }}
+{{ $prevPrev := .Parent }}
+{{ $prev := .Parent }}
+{{ $isLastSubSection := true }}
+{{ range .Parent.Sections }}
+{{ if eq $prev $current }}
+{{ $isLastSubSection = false }}
+<div class="prevnext">
+  <a href="{{ $prevPrev.Permalink }}">
+    << {{ $prevPrev.Title }}</a>      <a href="{{ .Permalink }}">{{ .Title }} >>
+  </a>
+</div>
+{{ end }}
+{{ $prevPrev = $prev }}
+{{ $prev = . }}
+{{ end }}
+{{ if $isLastSubSection }}
+{{ $last := index .Parent.Parent.Sections 0 }}
+{{ range .Parent.Parent.Sections.Reverse }}
+{{ if eq $current.Parent . }}
+<div class="prevnext">
+  <a href="{{ $prevPrev.Permalink }}">
+    << {{ $prevPrev.Title }}</a>      <a href="{{ $last.Permalink }}">{{ $last.Title }} >>
+  </a>
+</div>
+{{ end }}
+{{ $last = . }}
+{{ end }}
+{{ end -}}
+
+{{ end }}

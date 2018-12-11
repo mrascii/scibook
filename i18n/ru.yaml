@@ -1,0 +1,44 @@
+- id: Home
+  translation: Главная
+- id: Contact
+  translation: Обратная связь
+- id: ReadMore
+  translation: Читать далее…
+- id: ContactName
+  translation: Имя
+- id: ContactNameHint
+  translation: Ваше имя (обязательно)
+- id: ContactNameRequiredHint
+  translation: Пожалуйста, введите ваше имя
+- id: ContactEmail
+  translation: Email
+- id: ContactEmailHint
+  translation: Ваша электронная почта (обязательно)
+- id: ContactSmallEmailHint
+  translation: Мы никогда и ни с кем не делимся вашей контактной информацией
+- id: ContactEmailRequiredHint
+  translation: Пожалуйста, введите вашу электронную почту
+- id: ContactCompany
+  translation: Организация
+- id: ContactCompanyHint
+  translation: Ваша компания или организация
+- id: ContactJobTitle
+  translation: Должность
+- id: ContactJobTitleHint
+  translation: Ваша должность или степень
+- id: ContactMessage
+  translation: Сообщение
+- id: ContactMessageHint
+  translation: Текст вашего сообщения (обязательно)
+- id: ContactMessageRequiredHint
+  translation: Пожалуйста, введите текст вашего сообщения
+- id: ContactSend
+  translation: Отправить
+- id: SearchPlaceholder
+  translation: Поиск…
+- id: SearchQueryNotFound
+  translation: "\"{0}\" не найдено."
+- id: EditPage
+  translation: Редактировать
+- id: TranslateTo
+  translation: Перевести на…

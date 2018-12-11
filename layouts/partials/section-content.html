@@ -1,0 +1,12 @@
+<!-- Displays "content" of a root section in a specific form. -->
+<ol class="article-previews">
+  {{ range .Sections }}
+  <li>
+    <a class="font-weight-bolder" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{- range (first 1 .Pages) -}}
+    {{ .Content }}
+    {{- end -}}
+    <a class="d-block text-right" href="{{ .Permalink }}">{{ i18n "ReadMore" }}</a>
+  </li>
+  {{ end }}
+</ol>

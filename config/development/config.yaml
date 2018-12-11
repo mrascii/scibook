@@ -1,0 +1,7 @@
+# Some hugo features are disabled for easier development.
+
+enableGitInfo: false
+disableKinds:
+  - sitemap
+  - RSS
+  - robotsTXT

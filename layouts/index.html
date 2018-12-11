@@ -1,0 +1,14 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<article>
+  {{.Content}}
+  <section>
+    {{ with .Site.GetPage "/content/vaccines/intro" }}
+    {{ partial "epigraph" . }}
+    {{ partial "load-introduction" . }}
+    {{ partial "article-from-pages" (dict "pages" .Pages "header" true) }}
+    {{ .Content }}
+    {{ end }}
+  </section>
+</article>
+{{ end }}

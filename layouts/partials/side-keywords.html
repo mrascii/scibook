@@ -1,0 +1,13 @@
+<ul class="list-unstyled small">
+  {{ range $taxonomy_term, $taxonomy := site.Taxonomies }}
+  {{ with $.Site.GetPage (printf "/%s" $taxonomy_term) }}
+  <li><a class="font-weight-bolder" href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+    <ul class="list-unstyled">
+      {{ range $taxonomy }}
+      <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+  </li>
+  {{ end }}
+  {{ end }}
+</ul>

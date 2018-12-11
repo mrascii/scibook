@@ -1,0 +1,11 @@
+{{ if .Params.title }}{{ with .Params }}
+<h6>
+  <a class="font-weight-bolder" href="{{ .article.link }}" target="_blank">{{ .title }}</a>
+  <span class="font-italic">
+    {{- with .article.year }}{{ . }}{{ end -}}
+    {{- if .article.author }}{{ if .article.year }}, {{ end }}{{ .article.author }}{{ end -}}
+    {{- if .article.magazine }}{{ if or .article.year .article.author }}, {{ end }} {{ .article.magazine }}{{ end -}}
+  </span>
+</h6>
+{{ end }}{{ end }}
+{{ .Content }}

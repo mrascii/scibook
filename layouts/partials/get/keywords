@@ -1,0 +1,5 @@
+{{- $keywords := .Params.countries -}}
+{{- with .Params.diseases }}{{ $keywords = union . $keywords }}{{ end -}}
+{{- with .Params.conditions }}{{ $keywords = union . $keywords }}{{ end -}}
+{{- with .Params.drugs }}{{ $keywords = union . $keywords }}{{ end -}}
+{{- return $keywords -}}

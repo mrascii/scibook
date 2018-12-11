@@ -1,0 +1,44 @@
+- id: Home
+  translation: Home
+- id: Contact
+  translation: Contact Us
+- id: ReadMore
+  translation: Read more…
+- id: ContactName
+  translation: Name
+- id: ContactNameHint
+  translation: Your name (required)
+- id: ContactNameRequiredHint
+  translation: Please enter your name
+- id: ContactEmail
+  translation: Email
+- id: ContactEmailHint
+  translation: your@email (required)
+- id: ContactSmallEmailHint
+  translation: We will never share your email with anyone else.
+- id: ContactEmailRequiredHint
+  translation: Please enter your email
+- id: ContactCompany
+  translation: Company
+- id: ContactCompanyHint
+  translation: Your company or institution (optional)
+- id: ContactJobTitle
+  translation: Job Title
+- id: ContactJobTitleHint
+  translation: Your job title or academic degree (optional)
+- id: ContactMessage
+  translation: Message
+- id: ContactMessageHint
+  translation: Enter your message here (required)
+- id: ContactMessageRequiredHint
+  translation: Please enter your message
+- id: ContactSend
+  translation: Send
+- id: SearchPlaceholder
+  translation: Search…
+- id: SearchQueryNotFound
+  translation: "\"{0}\" was not found."
+- id: EditPage
+  translation: Edit
+- id: TranslateTo
+  translation: Translate To…

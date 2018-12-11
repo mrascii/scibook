@@ -1,0 +1,26 @@
+{{ if gt 1 (len .Parent.Sections) }}
+
+{{ $current := . }}
+{{ $sections := .Parent.Sections }}
+{{ $prev := index $sections.Reverse 0 }}
+{{ $next := index $sections 0 }}
+{{ range $i, $section := $sections }}
+{{ if eq $section $current }}
+{{ if eq $i 0 }}
+{{ $next = index $sections (add $i 1) }}
+{{ else if eq $i (sub (len $sections) 1) }}
+{{ $prev = index $sections.Reverse 1 }}
+{{ else }}
+{{ $next = index $sections (add $i 1) }}
+{{ $prev = index $sections (sub $i 1) }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+<div class="prevnext">
+  <a href="{{ $prev.Permalink }}">
+    << {{ $prev.Title }}</a>     <a href="{{ $next.Permalink }}">{{ $next.Title }} >>
+  </a>
+</div>
+
+{{ end }}

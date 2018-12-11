@@ -1,0 +1,8 @@
+enableGitInfo: true
+# TODO: Assign Google Analytics
+#googleAnalytics: "UA-XXXXXXX-X"
+
+outputs:
+  home:
+  - HTML
+  - SearchIndex

@@ -1,0 +1,68 @@
+{{- define "main" -}}
+
+{{ with .Content }}<section>{{ . }}</section>{{ end }}
+<section id="search-results">
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+<!-- TODO: Merge all scripts into one for faster page load -->
+{{ $sources := slice "js/utils.js" "js/vendor-modified/elasticlunr.js" }}
+{{ if eq site.LanguageCode "ru" }}
+{{ $sources = $sources | append  "js/vendor/lunr.stemmer.support.js" "js/vendor/lunr.multi.js" "js/vendor/lunr.ru.js" }}
+{{ else if eq site.LanguageCode "he" }}
+{{ $sources = $sources | append  "js/vendor/lunr.stemmer.support.js" "js/vendor/lunr.multi.js" "js/vendor-modified/lunr.he.js" }}
+{{ end }}
+{{- partial "site-scripts" (dict "js" $sources "context" .) }}
+
+<script>
+  // Extract the query before window is loaded.
+  var encodedQuery = window.location.search.substring(1);
+  if (encodedQuery.length !== 0) {
+    var query = decodeURIComponent(encodedQuery);
+    query = query.replace('q=', '');
+    query = query.replace(/\+/g, ' ');
+    document.getElementById('search-input').value = query;
+
+    window.onload = function () {
+      // TODO: Flexible multilanguage support.
+      var language = '{{ site.LanguageCode }}';
+      if (language === 'ru')
+        elasticlunr.multiLanguage('en', 'ru')
+      else if (language === 'he')
+        elasticlunr.multiLanguage('en', 'he')
+
+      var index = loadSearchIndex();
+      var r = index.search(query, {
+        fields: {
+          title: { boost: 3, bool: "AND" },
+          tags: { boost: 2 },
+          content: { boost: 1 }
+        },
+        //bool: "AND",
+        //expand: true
+      });
+
+      if (r.length == 0) {
+        var html = '<p>{{ i18n "SearchQueryNotFound" }}</p>'.format(query);
+      } else {
+
+        var html = '<ol>';
+        for (var i = 0; i < r.length; i++) {
+          html += '<a href="' + r[i].doc.uri + '"><li>' + r[i].doc.title + '</li></a>';
+        }
+        html += '</ol>';
+      }
+      document.getElementById('search-results').innerHTML += html;
+    }
+  }
+</script>
+<!-- TODO: Use more memory-efficient approach to unload unnecessary script from the memory -->
+{{ $files := readDir (printf "static/%s/" site.LanguageCode) }}
+{{ range $files }}
+{{ if hasPrefix .Name "search-"}}
+<script src="{{ .Name | relURL }}"></script>
+{{ end }}
+{{ end }}
+
+{{- end -}}

@@ -1,0 +1,6 @@
+<!-- Returns a slice (language codes) of missing page translations ["en", "ru", ...] -->
+{{- $all := slice -}}
+{{- range site.Languages }}{{ $all = $all | append .Lang }}{{ end -}}
+{{- $translated := slice -}}
+{{- range .AllTranslations }}{{ $translated = $translated | append .Lang }}{{ end -}}
+{{- return symdiff $all $translated -}}

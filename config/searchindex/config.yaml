@@ -1,0 +1,16 @@
+# Generates only json files required to build a search index.
+# Explicitly set in build_search_index.sh
+#publishDir: search-index
+disableAliases: true
+disableKinds:
+  - section
+  - taxonomy
+  - taxonomyTerm
+  - sitemap
+  - RSS
+  - robotsTXT
+  - 404
+
+outputs:
+  home:
+  - SearchIndex

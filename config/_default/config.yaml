@@ -1,0 +1,83 @@
+baseURL: http://bdr.local/
+defaultContentLanguage: ru
+languageCode: ru-RU
+defaultContentLanguageInSubdir: true
+enableMissingTranslationPlaceholders: true
+enableRobotsTXT: true
+enableEmoji: true
+# Set the unicode character used for the "return" link in page footnotes.
+footnoteReturnLinkContents: ↩
+# Static files which are shared between all multilanguage sites.
+staticDir: static/common
+
+sitemap:
+  changefreq: daily
+
+params:
+  githubRepo: https://github.com/mrascii/scibook
+  shortTitle: SciBook
+  css:
+  - css/main.scss
+  cssltr:
+  - css/bootstrap.css
+  cssrtl:
+  - css/bootstrap-rtl.css
+  js:
+  - js/utils.js
+  - js/events.js
+#  - js/vendor/jquery.js
+#  - js/vendor/bootstrap.js
+#  - js/vendor/popper.js
+  translationLanguages:
+    en: English
+    ru: Русский
+    he: ייִדיש
+    de: Deutsch
+    fr: Français
+    es: Español
+    pt: Português
+    zh: 中文
+    ja: 日本語
+
+
+taxonomies:
+  country: countries
+  disease: diseases
+  drug: drugs
+  condition: conditions
+
+outputFormats:
+  SearchIndex:
+    mediaType: application/json
+    baseName: search
+    notAlternative: true
+
+blackfriday:
+  hrefTargetBlank: true
+  fractions: false
+  extensions: [hardLineBreak]
+
+languages:
+  ru:
+    weight: 1
+    languageName: Русский
+    languageCode: ru
+    title: "SciBook: анализ публикуемой информации о прививках"
+    description: "Обзор сотен научных статей на важные темы: прививки, высокая температура, жаропонижающие, витамины, роды. Мы за осознанный подход: никому не доверяйте, изучайте информацию и берите полную ответственность за здоровье себя и своих детей."
+    staticDir2: static/ru
+  en:
+    weight: 2
+    languageName: English
+    languageCode: en
+    title: "SciBook: analysis of published information about vaccinations and infections"
+    description: "Review of scientific articles on important topics: vaccinations, fever, antipyretics, vitamins, childbirth. Our conscious approach is to trust no one. Study the information and take full responsibility for your health and the health of your children."
+    staticDir2: static/en
+  he:
+    weight: 3
+    languageName: ייִדיש
+    languageCode: he
+    title: "SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות"
+    description: "סקירה של מאות מאמרים מדעיים על נושאים חשובים: חיסונים, חום, אנטיפרטיטים, ויטמינים, לידה. אנחנו עבור גישה מודעת: אמון אף אחד, ללמוד את המידע ולקחת אחריות מלאה על הבריאות של עצמך ואת הילדים שלך."
+    staticDir2: static/he
+
+copyright: © amantonio, scibook.org 2017–2019

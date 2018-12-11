@@ -1,0 +1,4 @@
+---
+title: חיפוש
+layout: search
+---

@@ -1,0 +1,1 @@
+{{- return (printf "%s/edit/master/content/%s" site.Params.GitHubRepo .File.Path) -}}

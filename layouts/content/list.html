@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<!-- Top level sections have a different layout -->
+{{- if in (partial "get/root-sections" .) . -}}
+{{- partial "section-next-prev" . -}}
+{{- partial "section-content" . -}}
+{{- partial "section-next-prev" . -}}
+{{- else -}}
+{{- partial "next-prev" . -}}
+{{- partial "epigraph" . -}}
+{{- partial "load-introduction" . -}}
+{{- partial "article-from-pages" (dict "pages" .Pages "header" true) -}}
+{{ if .Content -}}
+<section class="summary">
+  {{- .Content -}}
+</section>
+{{- end -}}
+{{- partial "next-prev" . -}}
+{{- end -}}
+
+{{- end -}}

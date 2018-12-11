@@ -1,0 +1,11 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+{{ hugo.Generator }}
+<meta name="robots" content="{{ if ne hugo.Environment "production" }}noarchive, nosnippet, no{{ end }}index, {{ if ne hugo.Environment "production" }}no{{ end }}follow">
+<meta name="referrer" content="{{ if eq hugo.Environment "production" }}unsafe-url{{ else }}same-origin{{ end }}">
+<meta name="copyright" content="{{ site.Copyright }}">
+
+<link rel="shortcut icon" href="{{ partial "get/md5" "/favicon.ico" }}">
+<link rel="icon" type="image/x-icon" href="{{ partial "get/md5" "/favicon.ico" }}">
+<link rel="icon" type="image/gif" href="{{ partial "get/md5" "/img/favicon.gif" }}">
+<link rel="canonical" href="{{.Permalink}}">

@@ -1,0 +1,16 @@
+{{ $cssFiles := site.Params.cssltr }}
+{{ if eq .Lang "he" }}{{ $cssFiles = site.Params.cssrtl }}{{ end }}
+{{ range $cssFiles | append site.Params.css }}
+
+{{ $css := resources.Get . }}
+{{ if in . ".scss" }}
+{{ $css = $css | toCSS (dict "enableSourceMap" true) }}
+{{ end }}
+{{ if eq hugo.Environment "production" }}
+{{ $css = $css | postCSS (dict "config" "config/postcss.config" "use" "autoprefixer") | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ else }}
+<link rel="stylesheet" href="{{ $css.Permalink }}">
+{{ end }}
+
+{{ end }}

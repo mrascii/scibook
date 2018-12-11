@@ -1,0 +1,5 @@
+{{- $title := .Get "alt" -}}
+{{- if not $title }}{{ $title = .Get "title" }}{{ end -}}
+{{- with $title }}{{ $title = trim . " .\n" }}{{ end -}}
+{{- with .Get "link" }}<a href="{{ . }}" {{ if $title}} title="{{ $title }}" {{ end }}>{{ end -}}
+  <img{{ with .Get "class" }} class="{{ . }}" {{ end }} src="{{ .Get "src" | relURL }}" {{ with $title }} alt="{{ $title }}" title="{{ $title }}" {{ end }}{{ with .Get "width" }} width="{{ . }}" {{ end }}{{ with .Get "height" }} height="{{ . }}" {{end}} />{{ if .Get "link" }}</a>{{ end -}}

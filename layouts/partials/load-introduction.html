@@ -1,0 +1,5 @@
+<!-- Load introduction content from 'introduction/index.[language].md' file (if it's present) -->
+{{ $headless := .Site.GetPage (printf "%sintroduction/index" .File.Dir) }}
+{{ if $headless }}
+{{ $headless.Content }}
+{{ end }}

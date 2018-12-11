@@ -1,0 +1,44 @@
+- id: Home
+  translation: דף הבית
+- id: Contact
+  translation: כתבו לנו
+- id: ReadMore
+  translation: המשך…
+- id: ContactName
+  translation: שם
+- id: ContactNameHint
+  translation: השם שלך (חובה)
+- id: ContactNameRequiredHint
+  translation: הזן את שמך
+- id: ContactEmail
+  translation: Email
+- id: ContactEmailHint
+  translation: כתובת האימייל שלך (חובה)
+- id: ContactSmallEmailHint
+  translation: לעולם לא נשתף את פרטי הקשר שלך עם אף אחד.
+- id: ContactEmailRequiredHint
+  translation: הזן את האימייל שלך
+- id: ContactCompany
+  translation: מבנה
+- id: ContactCompanyHint
+  translation: החברה או הארגון שלך
+- id: ContactJobTitle
+  translation: מיקום
+- id: ContactJobTitleHint
+  translation: התפקיד שלך או תואר אקדמי
+- id: ContactMessage
+  translation: ההודעה
+- id: ContactMessageHint
+  translation: טקסט ההודעה שלך (חובה)
+- id: ContactMessageRequiredHint
+  translation: נא להזין את ההודעה
+- id: ContactSend
+  translation: לשלוח
+- id: SearchPlaceholder
+  translation: חיפוש…
+- id: SearchQueryNotFound
+  translation: "\"{0}\" לא נמצא."
+- id: EditPage
+  translation: לערוך
+- id: TranslateTo
+  translation: לתרגם ל…
