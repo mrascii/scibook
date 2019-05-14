@@ -1,7 +1,7 @@
 <ol class="article-ol-section">
   <!-- Ranges through subpages, sorted by file name -->
   {{ $renderHeader := .header }}
-  {{ range sort .pages "File.LogicalName" }}
+  {{ range sort .pages "File.Dir" }}
   {{ if $renderHeader }}{{ with .Params.header }}<h2>{{ . }}</h2>{{ end }} {{ end }}
 
   <li>
