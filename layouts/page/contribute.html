@@ -1,0 +1,5 @@
+{{ define "main" }}
+<div>{{ .Summary }}</div>
+<hr />
+{{ with .Content }}<section>{{ . }}</section>{{ end }}
+{{ end }}
