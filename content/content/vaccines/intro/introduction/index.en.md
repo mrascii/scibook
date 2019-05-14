@@ -1,0 +1,4 @@
+---
+headless: true
+---
+Once upon a time, when I was still a young man fond of reading newspapers, a long article about two lesbians was published in one of the Friday issues. For a long time ago, I do not remember exactly what it was about, but it was something about the fact that they are not allowed to legalize relations. Among other things, it was written that the son of one of them became autistic because of a vaccination. This was reported in one line, after which they continued to discuss lesbian affairs. I was so amazed by this line and the fact that they are discussing such nonsense, instead of discussing the main thing - that the child became autistic after a vaccination, that I then kept this article for a long time, as a reminder that with the subject of vaccinations, you need to thoroughly understand somehow.

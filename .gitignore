@@ -2,7 +2,6 @@
 public/
 resources/
 node_modules/
-content/content
 *.pyc
 search-index/
 static/*/search-*.json.js*

@@ -1,0 +1,6 @@
+---
+analyst: amantonio
+---
+
+Другие возможные альтернативы анальгетикам: [маточное молочко](https://www.ncbi.nlm.nih.gov/pubmed/29853955), [мята](https://www.ncbi.nlm.nih.gov/pubmed/22468149), [крапива](https://www.ncbi.nlm.nih.gov/pubmed/25050274), [адеметионин](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC387830), [амигдалин](https://www.ncbi.nlm.nih.gov/pubmed/18670089), [святой базилик](https://www.ncbi.nlm.nih.gov/pubmed/25673470), [шафран](https://www.ncbi.nlm.nih.gov/pubmed/22484092), [гриб рейши](https://www.ncbi.nlm.nih.gov/pubmed/9862025), [кунжутное масло](https://www.ncbi.nlm.nih.gov/pubmed/26895663), [эфирное масло бергамота](https://www.ncbi.nlm.nih.gov/pubmed/29906556), [самогипноз](https://www.ncbi.nlm.nih.gov/pubmed/27935465), [медитация](https://www.ncbi.nlm.nih.gov/pubmed/27261986) и даже [дистанционный хилинг](https://www.ncbi.nlm.nih.gov/pubmed/19472862).
+Возможные альтернативы противовоспалительным препаратам: [кокосовое масло](https://www.ncbi.nlm.nih.gov/pubmed/20645831), [омега-3](https://www.ncbi.nlm.nih.gov/pubmed/16531187), [женьшень](https://www.ncbi.nlm.nih.gov/pubmed/18930781), [кратом](https://www.ncbi.nlm.nih.gov/pubmed/27018165), [байкалин](https://www.ncbi.nlm.nih.gov/pubmed/29163427) и [мангостин](https://www.ncbi.nlm.nih.gov/pubmed/18725264) [[1]](https://www.ncbi.nlm.nih.gov/pubmed/20064550).
