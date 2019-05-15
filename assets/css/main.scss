@@ -1,3 +1,5 @@
+// TODO: Get rid of bootstrap and set default globals here.
+
 // TODO: Support dark theme
 $text-color: black;
 $text-color-dark: white;
@@ -5,16 +7,18 @@ $main-bg-color: white;
 $main-bg-color-dark: black;
 $secondary-bg-color: #dedede;
 $secondary-bg-color-dark: #dedede;
-$lg: 992px;
-$lg1: 991px;
+$lg: 991px;
+$sm: 575px;
+$margin-between-articles: 0.5rem;
 
-html[lang="he"] {
+html [lang="he"] {
   direction: rtl;
 }
 
 body {
   color: $text-color;
   background-color: $main-bg-color;
+  line-height: 1.4;
   // @media screen and (prefers-color-scheme: dark) {
   //   color: $text-color-dark;
   //   background-color: $main-bg-color-dark;
@@ -51,8 +55,11 @@ ol ul {
 }
 
 blockquote {
-  padding-left: 60%;
-  text-align: right;
+  float: right;
+  footer {
+    text-align: right;
+  }
+  max-width: 50%;
 }
 
 // Marks "required" form labels
@@ -68,8 +75,14 @@ section.summary {
   // }
 }
 
-.article-ol-section li {
-  margin-bottom: 1rem;
+.article-ol-section {
+  li {
+    margin-bottom: $margin-between-articles;
+  }
+  > h2 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
 }
 
 figure img {
@@ -93,7 +106,7 @@ ol.toc {
   }
   list-style-position: inside;
   padding-inline-start: 0;
-  @media screen and (max-width: $lg1) {
+  @media screen and (max-width: $lg) {
     li {
       float: left;
       margin-left: 1rem;
@@ -133,6 +146,9 @@ ol.toc {
 
 .editLink {
   display: inline-block;
+  @media screen and (max-width: $sm) {
+    display: none;
+  }
   vertical-align: text-top;
   width: 0.5rem;
   height: 0.5rem;
@@ -143,9 +159,15 @@ ol.toc {
 .article {
   h6 {
     font-weight: normal;
+    margin-bottom: 0.1rem;
   }
   & > p {
     display: inline;
   }
+  margin-bottom: $margin-between-articles;
+}
+
+.search-page-form {
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }

@@ -1,6 +1,7 @@
 {{ if .Params.epigraph }}
 <blockquote class="small">
-  <p><q>{{ markdownify .Params.epigraph.text }}</q></p>
+  <q>{{ markdownify .Params.epigraph.text }}</q>
   {{ with .Params.epigraph.source -}}<footer>— {{ . }}</footer>{{- end -}}
 </blockquote>
+<div class="clearfix"></div>
 {{- end -}}
