@@ -15,22 +15,19 @@ function BuildIndex(language, inputJson, outputIndex) {
   var documents = JSON.parse(fs.readFileSync(inputJson));
 
   var index = elasticlunr(function() {
-    // if (language !== 'en') this.use(elasticlunr.multiLanguage(language,
-    // 'en'));
+    // TODO: Share this code with search.html to avoid copy-paste.
     if (language === 'ru')
       this.use(elasticlunr.multiLanguage('en', 'ru'));
     else if (language === 'he')
       this.use(elasticlunr.multiLanguage('en', 'he'));
 
+    // TODO: Reduce length of field names for smaller index size.
     this.setRef('id');
     this.addField('title');
     this.addField('section');
     this.addField('tags');
     this.addField('content');
     this.addField('uri');
-
-    // TODO? Results have position of matched text.
-    this.metadataWhitelist = ['position'];
 
     documents.forEach(function(doc) {
       this.addDoc(doc);

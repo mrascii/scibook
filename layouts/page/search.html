@@ -33,6 +33,7 @@
 
     window.onload = function () {
       // TODO: Flexible multilanguage support.
+      // TODO: Share this code with search.html to avoid copy-paste.
       var language = '{{ site.LanguageCode }}';
       if (language === 'ru')
         elasticlunr.multiLanguage('en', 'ru');
