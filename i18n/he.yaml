@@ -38,6 +38,8 @@
   translation: חיפוש…
 - id: SearchQueryNotFound
   translation: "\"{0}\" לא נמצא."
+- id: SearchFoundXResults
+  translation: "נמצאו {0} תוצאות:"
 - id: EditPage
   translation: לערוך
 - id: TranslateTo

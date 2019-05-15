@@ -32,8 +32,10 @@
       </aside>
     </div>
     {{ block "footer" . }}{{ partial "site-footer" . }}{{ end }}
-    {{ block "scripts" . }}
+
     {{- partial "site-scripts" (dict "js" site.Params.js "context" . "outfile" "js/bundled.js") -}}
+    {{ block "scripts" . }}
+    <!-- Optional additional scripts for custom pages/layouts. -->
     {{ end }}
 
 </body>

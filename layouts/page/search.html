@@ -1,3 +1,9 @@
+{{- define "h1" -}}
+<form class="form search-page-form" action="{{ absLangURL "search/" }}" method="GET">
+  <input id="search-page-input" name="q" class="form-control" type="search" placeholder="{{ .Title }}" required minlength="1">
+</form>
+{{- end -}}
+
 {{- define "main" -}}
 
 {{ with .Content }}<section>{{ . }}</section>{{ end }}
@@ -23,6 +29,16 @@
     query = query.replace('q=', '');
     query = query.replace(/\+/g, ' ');
     document.getElementById('search-input').value = query;
+    document.getElementById('search-page-input').value = query;
+
+    function resultToHTML(doc, query) {
+      function hl(str, query) {
+        // TODO: Highlight matched substrings.
+        return str;
+      }
+      return '<li><h6>{1}</h6><p>{2} <a href="{0}">#</a></p></li>'
+        .format(doc.uri, hl(doc.title), hl(doc.content));
+    }
 
     window.onload = function () {
       // TODO: Flexible multilanguage support.
@@ -46,10 +62,9 @@
       if (r.length == 0) {
         var html = '<p>{{ i18n "SearchQueryNotFound" }}</p>'.format(query);
       } else {
-
-        var html = '<ol>';
+        var html = '<p>{{ i18n "SearchFoundXResults" }}</p><ol>'.format(r.length);
         for (var i = 0; i < r.length; i++) {
-          html += '<a href="' + r[i].doc.uri + '"><li>' + r[i].doc.title + '</li></a>';
+          html += resultToHTML(r[i].doc, query);
         }
         html += '</ol>';
       }

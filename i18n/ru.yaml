@@ -38,6 +38,8 @@
   translation: Поиск…
 - id: SearchQueryNotFound
   translation: "\"{0}\" не найдено."
+- id: SearchFoundXResults
+  translation: "Найдено {0} результатов:"
 - id: EditPage
   translation: Редактировать
 - id: TranslateTo

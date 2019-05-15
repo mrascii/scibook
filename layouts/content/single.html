@@ -1,5 +1,12 @@
 {{ define "h1" }}
 
+<h1><a href="{{ .Parent.Parent.RelPermalink }}">{{ .Parent.Parent.Title }}</a> / <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></h1>
+
+{{ end }}
+
+{{ define "main" }}
+
+
 <nav class="article-navbar">
   <!-- JS code is in assets/js/events.js -->
   <a href="{{ partial "get/edit-page-url" . }}">{{ i18n "EditPage" }}</a>
@@ -14,9 +21,6 @@
     {{ end }}
   </select>
 </nav>
-{{ end }}
-
-{{ define "main" }}
 
 <section class="article">
   {{ .Render "article" }}
