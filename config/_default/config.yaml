@@ -25,9 +25,9 @@ params:
   js:
   - js/utils.js
   - js/events.js
-#  - js/vendor/jquery.js
-#  - js/vendor/bootstrap.js
-#  - js/vendor/popper.js
+  - js/vendor/jquery.js
+  - js/vendor/bootstrap.js
+  #- js/vendor/popper.js
   translationLanguages:
     en: English
     ru: Русский
@@ -55,7 +55,7 @@ outputFormats:
 blackfriday:
   hrefTargetBlank: true
   fractions: false
-  extensions: [hardLineBreak]
+  extensions: [hardLineBreak, strikethrough]
 
 languages:
   ru:
