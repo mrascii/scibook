@@ -967,7 +967,7 @@ elasticlunr.Index.prototype.search = function (query, userConfig) {
   }
 
   results.sort(function (a, b) { return b.score - a.score; });
-  return results;
+  return {results: results, tokens: tokens};
 };
 
 /**

@@ -38,7 +38,7 @@
 
 
 
-<link rel="stylesheet" href="https://mrascii.github.io/scibook/css/main.min.1b6378c7cfdc962d4b671d7c96ca6498055227817c1beae45d29516db5b4194f.css" integrity="sha256-G2N4x8/cli1LZx18lspkmAVSJ4F8G&#43;rkXSlRbbW0GU8=">
+<link rel="stylesheet" href="https://mrascii.github.io/scibook/css/main.min.19a3f07e66a188fc372c0f7a407354212abdff4f88775f5770f151ff8b4c2e34.css" integrity="sha256-GaPwfmahiPw3LA96QHNUISq9/0&#43;Id19XcPFR/4tMLjQ=">
 
 
 
@@ -739,7 +739,7 @@
 
 
 
-<script src="https://mrascii.github.io/scibook/js/search.min.a4c1495b151b90d687e884b0c3e6843b1f2de2bbbe7c6ea7cc44c5806cb4641a.js" integrity="sha256-pMFJWxUbkNaH6ISww&#43;aEOx8t4ru&#43;fG6nzETFgGy0ZBo="></script>
+<script src="https://mrascii.github.io/scibook/js/search.min.66f0c0ebeb80cb31d3e34bdb1c2bf8445bd671c5525d40e6eb35fc989194ea23.js" integrity="sha256-ZvDA6&#43;uAyzHT40vbHCv4RFvWccVSXUDm6zX8mJGU6iM="></script>
 
 
 
@@ -753,22 +753,13 @@
     document.getElementById('search-input').value = query;
     document.getElementById('search-page-input').value = query;
 
-    function resultToHTML(doc, query) {
-      function hl(str, query) {
-        
-        return str;
-      }
-      return '<li><h6>{1}</h6><p>{2} <a href="{0}">#</a></p></li>'
-        .format(doc.uri, hl(doc.title), hl(doc.content));
-    }
-
     window.onload = function () {
       
       var language = 'ru';
       if (language === 'ru')
-        elasticlunr.multiLanguage('en', 'ru')
+        elasticlunr.multiLanguage('en', 'ru');
       else if (language === 'he')
-        elasticlunr.multiLanguage('en', 'he')
+        elasticlunr.multiLanguage('en', 'he');
 
       var index = loadSearchIndex();
       var r = index.search(query, {
@@ -784,9 +775,23 @@
       if (r.length == 0) {
         var html = '<p>\x22{0}\x22 не найдено.</p>'.format(query);
       } else {
-        var html = '<p>Найдено {0} результатов:</p><ol>'.format(r.length);
-        for (var i = 0; i < r.length; i++) {
-          html += resultToHTML(r[i].doc, query);
+
+        function resultToHTML(doc, tokens) {
+          
+          tokens = tokens.map(q => q.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'));
+          var regexes = tokens.map(q => new RegExp('(' + q + '\\p{L}*)', 'giu'));
+          
+          function hl(str, regexes) {
+            regexes.forEach(re => str = str.replace(re, '<strong>$1</strong>'));
+            return str;
+          }
+          return '<li><h6>{1}</h6><p>{2} <a href="{0}">#</a></p></li>'
+            .format(doc.uri, hl(doc.title, regexes), hl(doc.content, regexes));
+        }
+
+        var html = '<p>Найдено {0} результатов:</p><ol>'.format(r.results.length);
+        for (var i = 0; i < r.results.length; i++) {
+          html += resultToHTML(r.results[i].doc, r.tokens);
         }
         html += '</ol>';
       }

@@ -48,7 +48,7 @@ var fieldSearchResults=this.fieldSearch(tokens,field,config);var fieldBoost=conf
 for(var docRef in fieldSearchResults){if(docRef in queryResults){queryResults[docRef]+=fieldSearchResults[docRef];}else{queryResults[docRef]=fieldSearchResults[docRef];}}}
 var results=[];var result;for(var docRef in queryResults){result={ref:docRef,score:queryResults[docRef]};if(this.documentStore.hasDoc(docRef)){result.doc=this.documentStore.getDoc(docRef);}
 results.push(result);}
-results.sort(function(a,b){return b.score-a.score;});return results;};elasticlunr.Index.prototype.fieldSearch=function(queryTokens,fieldName,config){var booleanType=config[fieldName].bool;var expand=config[fieldName].expand;var boost=config[fieldName].boost;var scores=null;var docTokens={};if(boost===0){return;}
+results.sort(function(a,b){return b.score-a.score;});return{results:results,tokens:tokens};};elasticlunr.Index.prototype.fieldSearch=function(queryTokens,fieldName,config){var booleanType=config[fieldName].bool;var expand=config[fieldName].expand;var boost=config[fieldName].boost;var scores=null;var docTokens={};if(boost===0){return;}
 queryTokens.forEach(function(token){var tokens=[token];if(expand==true){tokens=this.index[fieldName].expandToken(token);}
 var queryTokenScores={};tokens.forEach(function(key){var docs=this.index[fieldName].getDocs(key);var idf=this.idf(key,fieldName);if(scores&&booleanType=='AND'){var filteredDocs={};for(var docRef in scores){if(docRef in docs){filteredDocs[docRef]=docs[docRef];}}
 docs=filteredDocs;}
