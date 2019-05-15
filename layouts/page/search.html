@@ -7,13 +7,13 @@
 
 {{ define "scripts" }}
 <!-- TODO: Merge all scripts into one for faster page load -->
-{{ $sources := slice "js/utils.js" "js/vendor-modified/elasticlunr.js" }}
+{{ $sources := slice "js/vendor-modified/elasticlunr.js" }}
 {{ if eq site.LanguageCode "ru" }}
 {{ $sources = $sources | append  "js/vendor/lunr.stemmer.support.js" "js/vendor/lunr.multi.js" "js/vendor/lunr.ru.js" }}
 {{ else if eq site.LanguageCode "he" }}
 {{ $sources = $sources | append  "js/vendor/lunr.stemmer.support.js" "js/vendor/lunr.multi.js" "js/vendor-modified/lunr.he.js" }}
 {{ end }}
-{{- partial "site-scripts" (dict "js" $sources "context" .) }}
+{{- partial "site-scripts" (dict "js" $sources "context" . "outfile" "js/search.js") }}
 
 <script>
   // Extract the query before window is loaded.

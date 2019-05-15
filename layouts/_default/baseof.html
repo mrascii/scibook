@@ -33,7 +33,7 @@
     </div>
     {{ block "footer" . }}{{ partial "site-footer" . }}{{ end }}
     {{ block "scripts" . }}
-    {{- partial "site-scripts" (dict "js" site.Params.js "context" .) -}}
+    {{- partial "site-scripts" (dict "js" site.Params.js "context" . "outfile" "js/bundled.js") -}}
     {{ end }}
 
 </body>
