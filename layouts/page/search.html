@@ -31,22 +31,13 @@
     document.getElementById('search-input').value = query;
     document.getElementById('search-page-input').value = query;
 
-    function resultToHTML(doc, query) {
-      function hl(str, query) {
-        // TODO: Highlight matched substrings.
-        return str;
-      }
-      return '<li><h6>{1}</h6><p>{2} <a href="{0}">#</a></p></li>'
-        .format(doc.uri, hl(doc.title), hl(doc.content));
-    }
-
     window.onload = function () {
       // TODO: Flexible multilanguage support.
       var language = '{{ site.LanguageCode }}';
       if (language === 'ru')
-        elasticlunr.multiLanguage('en', 'ru')
+        elasticlunr.multiLanguage('en', 'ru');
       else if (language === 'he')
-        elasticlunr.multiLanguage('en', 'he')
+        elasticlunr.multiLanguage('en', 'he');
 
       var index = loadSearchIndex();
       var r = index.search(query, {
@@ -62,9 +53,23 @@
       if (r.length == 0) {
         var html = '<p>{{ i18n "SearchQueryNotFound" }}</p>'.format(query);
       } else {
-        var html = '<p>{{ i18n "SearchFoundXResults" }}</p><ol>'.format(r.length);
-        for (var i = 0; i < r.length; i++) {
-          html += resultToHTML(r[i].doc, query);
+
+        function resultToHTML(doc, tokens) {
+          // Escape tokens to become a part of a valid regex.
+          tokens = tokens.map(q => q.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'));
+          var regexes = tokens.map(q => new RegExp('(' + q + '\\p{L}*)', 'giu'));
+          // Highlight matched tokens.
+          function hl(str, regexes) {
+            regexes.forEach(re => str = str.replace(re, '<strong>$1</strong>'));
+            return str;
+          }
+          return '<li><h6>{1}</h6><p>{2} <a href="{0}">#</a></p></li>'
+            .format(doc.uri, hl(doc.title, regexes), hl(doc.content, regexes));
+        }
+
+        var html = '<p>{{ i18n "SearchFoundXResults" }}</p><ol>'.format(r.results.length);
+        for (var i = 0; i < r.results.length; i++) {
+          html += resultToHTML(r.results[i].doc, r.tokens);
         }
         html += '</ol>';
       }
