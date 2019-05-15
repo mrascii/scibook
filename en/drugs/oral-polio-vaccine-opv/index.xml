@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oral Polio Vaccine (OPV) on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/drugs/oral-polio-vaccine-opv/</link>
+    <description>Recent content in Oral Polio Vaccine (OPV) on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/drugs/oral-polio-vaccine-opv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Introduction of Diphtheria-Tetanus-Pertussis and Oral Polio Vaccine Among Young Infants in the Urban African Community: A Natural Experiment</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/004-the-introduction-of-diphtheria-tetanus-pertussis-and-oral-polio-vaccine-among-young-infants-in-the-urban-african-community-a-natural-experiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/004-the-introduction-of-diphtheria-tetanus-pertussis-and-oral-polio-vaccine-among-young-infants-in-the-urban-african-community-a-natural-experiment/</guid>
+      <description>Due to the fact that in Guinea-Bissau children were vaccinated once in three months, it turned out to be a natural experiment. Some children have already been vaccinated by the age of 3-5 months, and some haven’t.
+The risk of death in children vaccinated against diphtheria/tetanus/pertussis (DTP) was 10 times higher than that of the unvaccinated children. Children who were also vaccinated against poliomyelitis (OPV) died only 5 times more often that the unvaccinated children.</description>
+    </item>
+    
+  </channel>
+</rss>

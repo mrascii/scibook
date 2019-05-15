@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/cancer/</link>
+    <description>Recent content in Cancer on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/cancer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recombinant mumps virus as a cancer therapeutic agent</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/034-recombinant-mumps-virus-as-a-cancer-therapeutic-agent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/034-recombinant-mumps-virus-as-a-cancer-therapeutic-agent/</guid>
+      <description>All three of the previous studies were conducted in Japan, and the results were of no interest to anyone outside the country. Then, in 2016, the notorious Mayo Clinic decided to take samples of this virus from Japan and test them in vitro and on mice. It turned out that indeed, the virus has an anti-cancer effect.</description>
+    </item>
+    
+    <item>
+      <title>Studies on the use of mumps for the treatment of human cancer</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/032-studies-on-the-use-of-mumps-for-the-treatment-of-human-cancer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/032-studies-on-the-use-of-mumps-for-the-treatment-of-human-cancer/</guid>
+      <description>Two hundred cancer patients got intravenous injections of mumps virus (Urabe strain). The only side effect was a slight fever in half of the patients.
+In 26 patients regression of the tumor was observed. In majority of the patients the pain was alleviated. In 30 out of 35 patients, the bleeding decreased or stopped. In 30 out of 41 patients, ascites and swelling decreased or disappeared.</description>
+    </item>
+    
+  </channel>
+</rss>

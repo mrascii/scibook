@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ибупрофен on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/drugs/%D0%B8%D0%B1%D1%83%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D0%BD/</link>
+    <description>Recent content in Ибупрофен on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/drugs/%D0%B8%D0%B1%D1%83%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NSAIDs and chickenpox</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/044-nsaids-and-chickenpox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/044-nsaids-and-chickenpox/</guid>
+      <description>Недавно я закончил медицинский факультет, и за 6 лет обучения, несмотря на неоднократные встречи с ветрянкой, я ни разу не слышал, что противовоспалительные препараты осложняют течение ветрянки. Поэтому я не отнесся всерьез к статье в Daily Mail, предостерегающей от использования ибупрофена во время ветрянки.
+Однако я обнаружил, что министерство здравоохранения и прочие медицинские ассоциации действительно рекомендуют не использовать противовоспалительные во время ветрянки.
+Странно, что меня никто об этом не предупредил за всё время моего обучения.</description>
+    </item>
+    
+    <item>
+      <title>Nonsteroidal anti-inflammatory drug use and the risk of severe skin and soft tissue complications in patients with varicella or zoster disease</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</guid>
+      <description>Прием NSAIDs (нестероидные противовоспалительные препараты) в месяц предшествующий ветрянке ассоциирован с пятикратным риском осложнений. Парацетамол ассоциирован с повышением риска осложнений на 50%.
+В других исследованиях было установлено, что
+1) ибупрофен в месяц предшествующий ветрянке ассоциирован с трехкратным риском кожных суперинфекций.
+2) ибупрофен ассоциирован с повышением риска некротического фасциита в 11.5 раз.
+3) ибупрофен ссоциирован с повышением риска инвазивной стрептококковой инфекции группы А в 3.9 раз. Еще: [1].</description>
+    </item>
+    
+  </channel>
+</rss>

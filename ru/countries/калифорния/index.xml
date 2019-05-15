@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Калифорния on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/countries/%D0%BA%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F/</link>
+    <description>Recent content in Калифорния on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/countries/%D0%BA%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vitamin A levels in children with measles in Long Beach, California</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/032-vitamin-a-levels-in-children-with-measles-in-long-beach-california/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/032-vitamin-a-levels-in-children-with-measles-in-long-beach-california/</guid>
+      <description>Авторы проверили уровень витамина А у 20 детей больных корью в Калифорнии, и, к их удивлению, оказалось, что у половины из них был низкий уровень витамина А (меньше 0.7), несмотря на то, что все хорошо питались. В контрольной группе незараженных детей у всех был нормальный уровень витамина. Во второй контрольной группе (больные другими инфекционными заболеваниями) у 30% был низкий уровень витамина А. У всех больных корью был также низкий уровень ретинолсвязывающего белка и преальбумина.</description>
+    </item>
+    
+  </channel>
+</rss>

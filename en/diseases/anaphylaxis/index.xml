@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anaphylaxis on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/anaphylaxis/</link>
+    <description>Recent content in Anaphylaxis on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/anaphylaxis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/004/</guid>
+      <description>The concept of allergies was unknown until 1906. It was invented by an Austrian pediatrician and used to describe the strange symptoms he observed in those who received the diphtheria immunoglobulin.
+The concept of anaphylactic shock also did not exist until 1902.</description>
+    </item>
+    
+    <item>
+      <title>Adverse events associated with childhood vaccines other than pertussis and rubella</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/035-adverse-events-associated-with-childhood-vaccines-other-than-pertussis-and-rubella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/035-adverse-events-associated-with-childhood-vaccines-other-than-pertussis-and-rubella/</guid>
+      <description>An IOM report, in which, among other things, is stated that they have found a causal relationship between tetanus/diphtheria vaccine and Guillain-Barré syndrome, anaphylactic shock and brachial neuritis.</description>
+    </item>
+    
+  </channel>
+</rss>

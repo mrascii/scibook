@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adjuvants on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/drugs/adjuvants/</link>
+    <description>Recent content in Adjuvants on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/drugs/adjuvants/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effect of alternative aluminum adjuvants on the absorption and immunogenicity of HPV16 L1 VLPs in mice</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/papilloma/035-effect-of-alternative-aluminum-adjuvants-on-the-absorption-and-immunogenicity-of-hpv16-l1-vlps-in-mice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/papilloma/035-effect-of-alternative-aluminum-adjuvants-on-the-absorption-and-immunogenicity-of-hpv16-l1-vlps-in-mice/</guid>
+      <description>This articles compares the immune response to these new adjuvants with aluminum hydroxide on mice. The authors happily conclude that both of the new adjuvants induce an immune response 3-8 greater than the immune response to aluminum hydroxide. For some reason they never mention that eightfold immune response also means an eightfold risk of the autoimmune response.</description>
+    </item>
+    
+  </channel>
+</rss>

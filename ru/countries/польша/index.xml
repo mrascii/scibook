@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Польша on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/countries/%D0%BF%D0%BE%D0%BB%D1%8C%D1%88%D0%B0/</link>
+    <description>Recent content in Польша on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/countries/%D0%BF%D0%BE%D0%BB%D1%8C%D1%88%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hodgkin&#39;s disease: remissions after measles</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/056-hodgkins-disease-remissions-after-measles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/056-hodgkins-disease-remissions-after-measles/</guid>
+      <description>Трое детей с подтвержденной лимфомой Ходжкина заболели корью. После кори лимфома прошла у всех троих. У двух из них через два года был небольшой рецидив. У третьего ремиссия длится уже 6 лет. (Польша)</description>
+    </item>
+    
+    <item>
+      <title>The vaccine origin of the 1968 epidemic of type 3 poliomyelitis in Poland</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/050-the-vaccine-origin-of-the-1968-epidemic-of-type-3-poliomyelitis-in-poland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/050-the-vaccine-origin-of-the-1968-epidemic-of-type-3-poliomyelitis-in-poland/</guid>
+      <description>Вакцины, скорее всего, приведут в будущем к полному искоренению полиовируса. Это, в свою очередь, приведет к необходимости прекращения вакцинации, особенно живой вакциной. Однако некоторые научные вопросы на тему, как и когда прекращать вакцинацию, все еще остаются без удовлетворительного ответа. Один из самых важных вопросов, это насколько долго будут существовать мутировавшие вакцинные штаммы полиовируса, которые останутся последними, и смогут ли они заражать непривитых детей в поствакцинальную эпоху, приводя к новым эпидемиям полиомиелита?</description>
+    </item>
+    
+  </channel>
+</rss>

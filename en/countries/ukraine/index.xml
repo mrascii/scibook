@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ukraine on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/ukraine/</link>
+    <description>Recent content in Ukraine on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/ukraine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Current situation and control strategies for the resurgence of diphtheria in newly independent states of the former Soviet Union</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/023-current-situation-and-control-strategies-for-the-resurgence-of-diphtheria-in-newly-independent-states-of-the-former-soviet-union/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/023-current-situation-and-control-strategies-for-the-resurgence-of-diphtheria-in-newly-independent-states-of-the-former-soviet-union/</guid>
+      <description>Vaccination coverage in Ukraine is above 90% among children, and over half of adults have been vaccinated between 1991 and 1994. Nonetheless, the number of diphtheria cases is increasing.</description>
+    </item>
+    
+  </channel>
+</rss>

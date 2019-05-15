@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Лимфома on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0/</link>
+    <description>Recent content in Лимфома on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/054/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/054/</guid>
+      <description>У тех, кто болел в детстве корью, риск лимфомы Ходжкина был на 66% ниже, чем у тех, кто ей не болел. Перенесенная корь также ассоциирована с пониженным риском неходжкинской лимфомы на 40%. Ветрянка ассоциирована с уменьшением риска лимфомы на 47%.
+Риск лимфомы Ходжкина был ниже также у переболевших свинкой, краснухой, коклюшем и скарлатиной. Чем больше инфекционных болезней было в детстве, тем ниже был риск лимфомы. Три детские болезни ассоциированы со снижением риска неходжкинской лимфомы на 40%, а ходжкинской лимфомы на 80%.</description>
+    </item>
+    
+    <item>
+      <title>Do childhood diseases affect NHL and HL risk? A case-control study from northern and southern Italy</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/044-do-childhood-diseases-affect-nhl-and-hl-risk-a-case-control-study-from-northern-and-southern-italy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/044-do-childhood-diseases-affect-nhl-and-hl-risk-a-case-control-study-from-northern-and-southern-italy/</guid>
+      <description>Корь ассоциирована с уменьшением риска неходжкинской лимфомы на 40%, а ходжкинской лимфомы на 70%. Ветрянка, свинка и краснуха ассоциированы со сниженным риском ходжкинской лимфомы на 50%, а скарлатина на 80%.
+Две детские болезни ассоциированы с уменьшением риска неходжкинской лимфомы на 50%, а ходжкинской на 80%.</description>
+    </item>
+    
+  </channel>
+</rss>

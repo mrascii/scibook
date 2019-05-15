@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Germany on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/germany/</link>
+    <description>Recent content in Germany on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/germany/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influenza vaccination compliance among health care workers in a German university hospital</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/physicians/020-influenza-vaccination-compliance-among-health-care-workers-in-a-german-university-hospital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/physicians/020-influenza-vaccination-compliance-among-health-care-workers-in-a-german-university-hospital/</guid>
+      <description>For more than 20 years, German health care workers have been pushed to be vaccinated for influenza, but only 39% of doctors and 17% of nurses are vaccinated. They are afraid of side effects, believe that vaccination can lead to illness, and do not believe in its effectiveness. (Berlin, Germany)</description>
+    </item>
+    
+    <item>
+      <title>Sexually transmitted diphtheria</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/025-sexually-transmitted-diphtheria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/025-sexually-transmitted-diphtheria/</guid>
+      <description>The first case of infection with diphtheria through oral sex. A man, an immigrant from the USSR who lives in Germany, went to a male sex worker, and received from him with a blowjob also urethritis in addition with diphtheria. France), diphtheria has become more frequent in the last few years than in other developed countries (several cases per year).The reason for this is too liberal policy of these countries regarding reception of migrants from the countries of the third world.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>שום on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
+    <link>https://mrascii.github.io/scibook/he/drugs/%D7%A9%D7%95%D7%9D/</link>
+    <description>Recent content in שום on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/he/drugs/%D7%A9%D7%95%D7%9D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Garlic for the common cold</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/influenza/071-garlic-for-the-common-cold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/071-garlic-for-the-common-cold/</guid>
+      <description>סקירה שיטתית של Cochrane בנושא השפעת צריכת שום על הצטננות. נמצא רק מחקר מתאים אחד, ובו נטען כי צריכת שום מקטינה סיכון להצטננות פי 3.</description>
+    </item>
+    
+  </channel>
+</rss>

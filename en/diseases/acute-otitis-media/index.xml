@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acute otitis media on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/acute-otitis-media/</link>
+    <description>Recent content in Acute otitis media on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/acute-otitis-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pilot comparative study on the health of vaccinated and unvaccinated 6- to 12-year old U.S. children</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/003-pilot-comparative-study-on-the-health-of-vaccinated-and-unvaccinated-6-to-12-year-old-u.s.-children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/003-pilot-comparative-study-on-the-health-of-vaccinated-and-unvaccinated-6-to-12-year-old-u.s.-children/</guid>
+      <description>The study compares homeschooled children in four states of the USA. 405 vaccinated and 261 unvaccinated children.
+Acute diseases:
+Vaccinated children had chicken pox 4 times less often, whopping cough – 3 times less often and rubella – 10 times less often.
+Vaccinated children had otitis media 4 times more often and pneumonia – 6 times more often.
+Chronic diseases:
+Those vaccinated had allergic rhinitis 30 times more often. They had allergies 4 times more often, ASD – 4 more often, ADHD – 4 times more often, eczema – 3 times more often, learning disabilities – 5 times more often, neurological disorders – 4 times more often.</description>
+    </item>
+    
+  </channel>
+</rss>

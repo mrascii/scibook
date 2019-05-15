@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brazil on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/brazil/</link>
+    <description>Recent content in Brazil on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/brazil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outbreak of aseptic meningitis associated with mass vaccination with a urabe-containing measles-mumps-rubella vaccine: implications for immunization programs</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/019-outbreak-of-aseptic-meningitis-associated-with-mass-vaccination-with-a-urabe-containing-measles-mumps-rubella-vaccine-implications-for-immunization-programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/019-outbreak-of-aseptic-meningitis-associated-with-mass-vaccination-with-a-urabe-containing-measles-mumps-rubella-vaccine-implications-for-immunization-programs/</guid>
+      <description>After the mass MMR vaccination campaign in Brazil with the Japanese strain of mumps (Urabe), an outbreak of aseptic meningitis began. The risk of disease increased by 14-30 times.
+The fact that Urabe strain is associated with aseptic meningitis was already known, but Brazilian authorities decided to use this strain anyway, as it is cheaper and more effective than the Jeryl Lynn strain (which is used in the US), and because they thought the risk of meningitis was quite low.</description>
+    </item>
+    
+  </channel>
+</rss>

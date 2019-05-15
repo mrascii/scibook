@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meningoencephalitis on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/meningoencephalitis/</link>
+    <description>Recent content in Meningoencephalitis on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/meningoencephalitis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mumps meningoencephalitis</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/007-mumps-meningoencephalitis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/007-mumps-meningoencephalitis/</guid>
+      <description>Here is the report of 119 cases of meningoencephalitis caused by mumps in San Francisco in 12 years (1943-1955). Most cases are mild, with no complications, no neurological consequences, last less than 5 days, and rarely require hospitalization. Death due to mumps meningoencephalitis is a very rare phenomenon, and in the entire medical literature only 3 such cases have been described (including one out of these 119).</description>
+    </item>
+    
+  </channel>
+</rss>

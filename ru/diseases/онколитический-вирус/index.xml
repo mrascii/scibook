@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Онколитический вирус on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D0%BD%D0%BA%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B2%D0%B8%D1%80%D1%83%D1%81/</link>
+    <description>Recent content in Онколитический вирус on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D0%BD%D0%BA%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B2%D0%B8%D1%80%D1%83%D1%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oncolytic Polio Virotherapy of Cancer</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/062-oncolytic-polio-virotherapy-of-cancer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/062-oncolytic-polio-virotherapy-of-cancer/</guid>
+      <description>В настоящие время ведутся испытания использования полиовируса для лечения глиобластомы (опухоли мозга). Еще: [1], [2].
+Вирусы Коксаки тоже используются в качестве онколитических.</description>
+    </item>
+    
+    <item>
+      <title>Varicella zoster virus infection of malignant glioma cell cultures: a new candidate for oncolytic virotherapy?</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/038-varicella-zoster-virus-infection-of-malignant-glioma-cell-cultures-a-new-candidate-for-oncolytic-virotherapy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/038-varicella-zoster-virus-infection-of-malignant-glioma-cell-cultures-a-new-candidate-for-oncolytic-virotherapy/</guid>
+      <description>Вирус ветрянки убивает раковые клетки in vitro, и, вероятно, может использоваться в качестве онколитического вируса. Еще: [1].</description>
+    </item>
+    
+  </channel>
+</rss>

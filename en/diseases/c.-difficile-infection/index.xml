@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. difficile infection on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/c.-difficile-infection/</link>
+    <description>Recent content in C. difficile infection on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/c.-difficile-infection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/024/</guid>
+      <description>C. difficile bacterium also belongs to the same family. You did not hear anything about it either, and you did not vaccinate against it, even though it is associated with almost 30,000 deaths a year in the USA, meaning that it is ten thousand times more deadly than tetanus.
+But maybe the mortality rate for tetanus is so low due to vaccination? In 1950, before the mass vaccination began, only 500 people a year got sick with tetanus, 300 of them died.</description>
+    </item>
+    
+  </channel>
+</rss>

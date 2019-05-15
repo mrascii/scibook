@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hemorrhagic Vasculitis on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/hemorrhagic-vasculitis/</link>
+    <description>Recent content in Hemorrhagic Vasculitis on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/hemorrhagic-vasculitis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Henoch-Schönlein purpura and drug and vaccine use in childhood: a case-control study</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/023-henoch-sch%C3%B6nlein-purpura-and-drug-and-vaccine-use-in-childhood-a-case-control-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/023-henoch-sch%C3%B6nlein-purpura-and-drug-and-vaccine-use-in-childhood-a-case-control-study/</guid>
+      <description>In those vaccinated with MMR, the risk of hemorrhagic vasculitis was 3.4 times higher. In children, this disease usually goes away on its own, but in 1% of cases it can lead to kidney failure.</description>
+    </item>
+    
+  </channel>
+</rss>

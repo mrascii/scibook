@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fetal bovine serum on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/drugs/fetal-bovine-serum/</link>
+    <description>Recent content in Fetal bovine serum on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/drugs/fetal-bovine-serum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benefits and expenses due to animal serum used in cell culture production</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/036-benefits-and-expenses-due-to-animal-serum-used-in-cell-culture-production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/036-benefits-and-expenses-due-to-animal-serum-used-in-cell-culture-production/</guid>
+      <description>20-50% of fetal bovine serum is infected with bovine viral diarrhea virus, as well as other viruses.
+We are talking only about the viruses known to science, which constitute only a small fraction of all the existing viruses.</description>
+    </item>
+    
+    <item>
+      <title>Evidence of pestivirus RNA in human virus vaccines</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/038-evidence-of-pestivirus-rna-in-human-virus-vaccines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/038-evidence-of-pestivirus-rna-in-human-virus-vaccines/</guid>
+      <description>The authors examined five types of live vaccines and detected bovine viral diarrhea virus RNA in MMR vaccines of two different manufacturers, as well as in two monovalent vaccines against mumps and rubella, which most likely got there from fetal bovine serum.
+In infants, this virus might cause gastroenteritis, and in pregnant women, it might lead to the birth of children with microcephaly.</description>
+    </item>
+    
+    <item>
+      <title>Fetal Bovine Serum RNA Interferes with the Cell Culture derived Extracellular RNA</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/037-fetal-bovine-serum-rna-interferes-with-the-cell-culture-derived-extracellular-rna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/037-fetal-bovine-serum-rna-interferes-with-the-cell-culture-derived-extracellular-rna/</guid>
+      <description>Fetal bovine serum contains extracellular RNA, which is impossible to separate from the serum. This RNA interacts with human cells RNA, in which vaccine viruses are grown.</description>
+    </item>
+    
+    <item>
+      <title>The use of fetal bovine serum: ethical or scientific problem?</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/035-the-use-of-fetal-bovine-serum-ethical-or-scientific-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/035-the-use-of-fetal-bovine-serum-ethical-or-scientific-problem/</guid>
+      <description>One of the MMR components (and some other vaccines) is fetal bovine serum. Cells, in which the virus is grown, need to multiply. To do so, they need a nutrient medium with hormones, growth factors, proteins, amino acids, vitamins, etc. Fetal bovine serum is usually used as this medium. Since the serum should preferably be sterile, the blood of calves&amp;rsquo; fetuses is used instead of the cow’s blood.
+A pregnant cow is killed and the uterus is removed.</description>
+    </item>
+    
+    <item>
+      <title>Viral contamination of bovine foetal serum and cell cultures</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/039-viral-contamination-of-bovine-foetal-serum-and-cell-cultures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/039-viral-contamination-of-bovine-foetal-serum-and-cell-cultures/</guid>
+      <description>The fact that fetal bovine serum is infected with the bovine viral diarrhea virus was known already in 1977. It is known that this virus passes through placenta and can infect the calf fetus in the uterus. 60% of serum samples in Australia were contaminated with the virus. 8% of the vaccines against Bovine Rhinotracheitis were also contaminated.
+The virus was also found in bovine kidney cells, which are used in production of measles vaccine.</description>
+    </item>
+    
+  </channel>
+</rss>

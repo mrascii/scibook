@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diseases on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/</link>
+    <description>Recent content in Diseases on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Акродиния</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BA%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BA%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Аллергия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BB%D0%BB%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BB%D0%BB%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Анафилактический шок</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BD%D0%B0%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%88%D0%BE%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BD%D0%B0%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%88%D0%BE%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Анемия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BD%D0%B5%D0%BC%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BD%D0%B5%D0%BC%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Анорексия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BD%D0%BE%D1%80%D0%B5%D0%BA%D1%81%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D0%BD%D0%BE%D1%80%D0%B5%D0%BA%D1%81%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Артрит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%80%D1%82%D1%80%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%80%D1%82%D1%80%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Астма</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%81%D1%82%D0%BC%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%81%D1%82%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Атопический Дерматит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%82%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B5%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%82%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B5%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Аутизм</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%83%D1%82%D0%B8%D0%B7%D0%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%83%D1%82%D0%B8%D0%B7%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Аутоиммунные заболевания</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%83%D1%82%D0%BE%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B0%D1%83%D1%82%D0%BE%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Бессонница</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B1%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B1%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Болезнь Альцгеймера</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C-%D0%B0%D0%BB%D1%8C%D1%86%D0%B3%D0%B5%D0%B9%D0%BC%D0%B5%D1%80%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C-%D0%B0%D0%BB%D1%8C%D1%86%D0%B3%D0%B5%D0%B9%D0%BC%D0%B5%D1%80%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Болезнь Крона</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C-%D0%BA%D1%80%D0%BE%D0%BD%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C-%D0%BA%D1%80%D0%BE%D0%BD%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Болезнь Паркинсона</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C-%D0%BF%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D1%81%D0%BE%D0%BD%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C-%D0%BF%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D1%81%D0%BE%D0%BD%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вакцин-ассоциированный паралитический полиомиелит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B0%D0%BA%D1%86%D0%B8%D0%BD-%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BE%D0%BC%D0%B8%D0%B5%D0%BB%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B0%D0%BA%D1%86%D0%B8%D0%BD-%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BE%D0%BC%D0%B8%D0%B5%D0%BB%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Васкулит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B0%D1%81%D0%BA%D1%83%D0%BB%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B0%D1%81%D0%BA%D1%83%D0%BB%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вирус SV40</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B8%D1%80%D1%83%D1%81-sv40/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B8%D1%80%D1%83%D1%81-sv40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вирус гриппа штамм A (H1N1)</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B8%D1%80%D1%83%D1%81-%D0%B3%D1%80%D0%B8%D0%BF%D0%BF%D0%B0-%D1%88%D1%82%D0%B0%D0%BC%D0%BC-a-h1n1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B8%D1%80%D1%83%D1%81-%D0%B3%D1%80%D0%B8%D0%BF%D0%BF%D0%B0-%D1%88%D1%82%D0%B0%D0%BC%D0%BC-a-h1n1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вирус гриппа штамм A (H3N2)</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B8%D1%80%D1%83%D1%81-%D0%B3%D1%80%D0%B8%D0%BF%D0%BF%D0%B0-%D1%88%D1%82%D0%B0%D0%BC%D0%BC-a-h3n2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%B8%D1%80%D1%83%D1%81-%D0%B3%D1%80%D0%B8%D0%BF%D0%BF%D0%B0-%D1%88%D1%82%D0%B0%D0%BC%D0%BC-a-h3n2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Волчанка</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%BA%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B2%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Газовая гангрена</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B3%D0%B0%D0%BD%D0%B3%D1%80%D0%B5%D0%BD%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B3%D0%B0%D0%BD%D0%B3%D1%80%D0%B5%D0%BD%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Гастроэнтерит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%8D%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Геморрагический Васкулит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B5%D0%BC%D0%BE%D1%80%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B2%D0%B0%D1%81%D0%BA%D1%83%D0%BB%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B5%D0%BC%D0%BE%D1%80%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B2%D0%B0%D1%81%D0%BA%D1%83%D0%BB%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Гемофильная инфекция/бактерия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B5%D0%BC%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B5%D0%BC%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Гипогликемия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B8%D0%BF%D0%BE%D0%B3%D0%BB%D0%B8%D0%BA%D0%B5%D0%BC%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%B8%D0%BF%D0%BE%D0%B3%D0%BB%D0%B8%D0%BA%D0%B5%D0%BC%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глиома</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%BB%D0%B8%D0%BE%D0%BC%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%BB%D0%B8%D0%BE%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глухота</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%BB%D1%83%D1%85%D0%BE%D1%82%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%BB%D1%83%D1%85%D0%BE%D1%82%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Грипп</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D1%80%D0%B8%D0%BF%D0%BF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D1%80%D0%B8%D0%BF%D0%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Демиелинизация</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B4%D0%B5%D0%BC%D0%B8%D0%B5%D0%BB%D0%B8%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B4%D0%B5%D0%BC%D0%B8%D0%B5%D0%BB%D0%B8%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Дерматит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B4%D0%B5%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B4%D0%B5%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Диабет</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B4%D0%B8%D0%B0%D0%B1%D0%B5%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B4%D0%B8%D0%B0%D0%B1%D0%B5%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Диабет 1го типа</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B4%D0%B8%D0%B0%D0%B1%D0%B5%D1%82-1%D0%B3%D0%BE-%D1%82%D0%B8%D0%BF%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B4%D0%B8%D0%B0%D0%B1%D0%B5%D1%82-1%D0%B3%D0%BE-%D1%82%D0%B8%D0%BF%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Золотистый Стафилококк</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%84%D0%B8%D0%BB%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%84%D0%B8%D0%BB%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Инвагинация кишечника</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B8%D0%BD%D0%B2%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%B8%D1%88%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B8%D0%BD%D0%B2%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%B8%D1%88%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Инфаркт</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B8%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B8%D0%BD%D1%84%D0%B0%D1%80%D0%BA%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Кариес</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D0%B0%D1%80%D0%B8%D0%B5%D1%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D0%B0%D1%80%D0%B8%D0%B5%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Конъюктивит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D0%BE%D0%BD%D1%8A%D1%8E%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D0%BE%D0%BD%D1%8A%D1%8E%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Корь</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D0%BE%D1%80%D1%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D0%BE%D1%80%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Краснуха</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%85%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%85%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лейкемия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B5%D0%B9%D0%BA%D0%B5%D0%BC%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B5%D0%B9%D0%BA%D0%B5%D0%BC%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лимфаденопатия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%B0%D0%B4%D0%B5%D0%BD%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%B0%D0%B4%D0%B5%D0%BD%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лимфобластный лейкоз</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B5%D0%B9%D0%BA%D0%BE%D0%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B5%D0%B9%D0%BA%D0%BE%D0%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лимфома</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лимфома Бёркитта</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0-%D0%B1%D1%91%D1%80%D0%BA%D0%B8%D1%82%D1%82%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0-%D0%B1%D1%91%D1%80%D0%BA%D0%B8%D1%82%D1%82%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лимфома Ходжкина</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0-%D1%85%D0%BE%D0%B4%D0%B6%D0%BA%D0%B8%D0%BD%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0-%D1%85%D0%BE%D0%B4%D0%B6%D0%BA%D0%B8%D0%BD%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Макрофагический миофасцит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%84%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BE%D1%84%D0%B0%D1%81%D1%86%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%84%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BE%D1%84%D0%B0%D1%81%D1%86%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Малярия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B0%D0%BB%D1%8F%D1%80%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B0%D0%BB%D1%8F%D1%80%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Меланома</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Менингит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Менингококк</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Менингоэнцефалит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D1%8D%D0%BD%D1%86%D0%B5%D1%84%D0%B0%D0%BB%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D1%8D%D0%BD%D1%86%D0%B5%D1%84%D0%B0%D0%BB%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Метициллин-резистентный Золотистый Стафилококк</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D0%BB%D0%BB%D0%B8%D0%BD-%D1%80%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%84%D0%B8%D0%BB%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D0%BB%D0%BB%D0%B8%D0%BD-%D1%80%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%84%D0%B8%D0%BB%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Миелома</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B8%D0%B5%D0%BB%D0%BE%D0%BC%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B8%D0%B5%D0%BB%D0%BE%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Моракселла Катаралис</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%BE%D1%80%D0%B0%D0%BA%D1%81%D0%B5%D0%BB%D0%BB%D0%B0-%D0%BA%D0%B0%D1%82%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D1%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%BE%D1%80%D0%B0%D0%BA%D1%81%D0%B5%D0%BB%D0%BB%D0%B0-%D0%BA%D0%B0%D1%82%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Нарколепсия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D0%BB%D0%B5%D0%BF%D1%81%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D0%BB%D0%B5%D0%BF%D1%81%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Неврологические заболевания</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B5%D0%B2%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B5%D0%B2%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Нервный тик</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Нефротический синдром</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B5%D1%84%D1%80%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B5%D1%84%D1%80%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Онколитический вирус</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D0%BD%D0%BA%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B2%D0%B8%D1%80%D1%83%D1%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D0%BD%D0%BA%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B2%D0%B8%D1%80%D1%83%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Опоясывающий лишай</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D0%BF%D0%BE%D1%8F%D1%81%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9-%D0%BB%D0%B8%D1%88%D0%B0%D0%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D0%BF%D0%BE%D1%8F%D1%81%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9-%D0%BB%D0%B8%D1%88%D0%B0%D0%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ортостатическая непереносимость</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BD%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BD%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Орхит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%80%D1%85%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%80%D1%85%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Остеоартроз</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%81%D1%82%D0%B5%D0%BE%D0%B0%D1%80%D1%82%D1%80%D0%BE%D0%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%81%D1%82%D0%B5%D0%BE%D0%B0%D1%80%D1%82%D1%80%D0%BE%D0%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Острый вялый миелит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D0%B2%D1%8F%D0%BB%D1%8B%D0%B9-%D0%BC%D0%B8%D0%B5%D0%BB%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D0%B2%D1%8F%D0%BB%D1%8B%D0%B9-%D0%BC%D0%B8%D0%B5%D0%BB%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Острый средний отит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-%D0%BE%D1%82%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-%D0%BE%D1%82%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Панкреатит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%B0%D0%BD%D0%BA%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%B0%D0%BD%D0%BA%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Паралич Белла</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D1%87-%D0%B1%D0%B5%D0%BB%D0%BB%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D1%87-%D0%B1%D0%B5%D0%BB%D0%BB%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Паротит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%B0%D1%80%D0%BE%D1%82%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%B0%D1%80%D0%BE%D1%82%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Плечевой неврит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%BB%D0%B5%D1%87%D0%B5%D0%B2%D0%BE%D0%B9-%D0%BD%D0%B5%D0%B2%D1%80%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%BB%D0%B5%D1%87%D0%B5%D0%B2%D0%BE%D0%B9-%D0%BD%D0%B5%D0%B2%D1%80%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Пневмония</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%BD%D0%B5%D0%B2%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%BD%D0%B5%D0%B2%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Потеря волос</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Псевдомембранозный энтероколит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BC%D0%B5%D0%BC%D0%B1%D1%80%D0%B0%D0%BD%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9-%D1%8D%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BC%D0%B5%D0%BC%D0%B1%D1%80%D0%B0%D0%BD%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9-%D1%8D%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рак</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рак груди</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D0%BA-%D0%B3%D1%80%D1%83%D0%B4%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D0%BA-%D0%B3%D1%80%D1%83%D0%B4%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рак кожи</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D0%BA-%D0%BA%D0%BE%D0%B6%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D0%BA-%D0%BA%D0%BE%D0%B6%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рак яичника</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D0%BA-%D1%8F%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D0%BA-%D1%8F%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рассеянный склероз</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-%D1%81%D0%BA%D0%BB%D0%B5%D1%80%D0%BE%D0%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-%D1%81%D0%BA%D0%BB%D0%B5%D1%80%D0%BE%D0%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>СПИД</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%BF%D0%B8%D0%B4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%BF%D0%B8%D0%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сепсис</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B5%D0%BF%D1%81%D0%B8%D1%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B5%D0%BF%D1%81%D0%B8%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сердечно-сосудистые заболевания</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B5%D1%80%D0%B4%D0%B5%D1%87%D0%BD%D0%BE-%D1%81%D0%BE%D1%81%D1%83%D0%B4%D0%B8%D1%81%D1%82%D1%8B%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B5%D1%80%D0%B4%D0%B5%D1%87%D0%BD%D0%BE-%D1%81%D0%BE%D1%81%D1%83%D0%B4%D0%B8%D1%81%D1%82%D1%8B%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Синдром Гийена-Барре</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC-%D0%B3%D0%B8%D0%B9%D0%B5%D0%BD%D0%B0-%D0%B1%D0%B0%D1%80%D1%80%D0%B5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC-%D0%B3%D0%B8%D0%B9%D0%B5%D0%BD%D0%B0-%D0%B1%D0%B0%D1%80%D1%80%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Синдром внезапной детской смерти (СВДС)</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC-%D0%B2%D0%BD%D0%B5%D0%B7%D0%B0%D0%BF%D0%BD%D0%BE%D0%B9-%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8-%D1%81%D0%B2%D0%B4%D1%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC-%D0%B2%D0%BD%D0%B5%D0%B7%D0%B0%D0%BF%D0%BD%D0%BE%D0%B9-%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8-%D1%81%D0%B2%D0%B4%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Синдром хронической усталости</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC-%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC-%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Столбняк новорожденных</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D0%BD%D1%8F%D0%BA-%D0%BD%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D0%BD%D1%8F%D0%BA-%D0%BD%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Тромбоцитопеническая пурпура</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%82%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D1%86%D0%B8%D1%82%D0%BE%D0%BF%D0%B5%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D1%83%D1%80%D0%BF%D1%83%D1%80%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%82%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D1%86%D0%B8%D1%82%D0%BE%D0%BF%D0%B5%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D1%83%D1%80%D0%BF%D1%83%D1%80%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Тромбоцитопения</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%82%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D1%86%D0%B8%D1%82%D0%BE%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%82%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D1%86%D0%B8%D1%82%D0%BE%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Фебрильные Судороги</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%84%D0%B5%D0%B1%D1%80%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D1%83%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%84%D0%B5%D0%B1%D1%80%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D1%83%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Целиакия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%86%D0%B5%D0%BB%D0%B8%D0%B0%D0%BA%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%86%D0%B5%D0%BB%D0%B8%D0%B0%D0%BA%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Экзема</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BA%D0%B7%D0%B5%D0%BC%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BA%D0%B7%D0%B5%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Эмпиема</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BC%D0%BF%D0%B8%D0%B5%D0%BC%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BC%D0%BF%D0%B8%D0%B5%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Энцефалит</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BD%D1%86%D0%B5%D1%84%D0%B0%D0%BB%D0%B8%D1%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BD%D1%86%D0%B5%D1%84%D0%B0%D0%BB%D0%B8%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Энцефалопатия</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BD%D1%86%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BD%D1%86%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>глиобластома</title>
+      <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%BB%D0%B8%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D0%BB%D0%B8%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

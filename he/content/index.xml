@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
+    <link>https://mrascii.github.io/scibook/he/content/</link>
+    <description>Recent content in Contents on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/he/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

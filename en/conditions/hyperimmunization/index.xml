@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyperimmunization on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/conditions/hyperimmunization/</link>
+    <description>Recent content in Hyperimmunization on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/conditions/hyperimmunization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/037/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/037/</guid>
+      <description>Since tetanus vaccines are given at every opportunity, it leads to hyper-immunization (the level of antibodies above 5IU/ml). In Italy, among those born before 1968, 11% were hyper-immunized. Among those born after 1968, there were already 17%.
+In 53% of adults in Finland (over 50 years of age) the level of antibodies was above 1IU/ml. The number of side effects from the vaccine has doubled in a decade. The authors recommend getting booster vaccines once every 20 years, not 10.</description>
+    </item>
+    
+    <item>
+      <title>Is there a causative role for tetanus toxoid vaccination in the development of allergy-like symptoms and in the increasing prevalence of atopic diseases?</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/038-is-there-a-causative-role-for-tetanus-toxoid-vaccination-in-the-development-of-allergy-like-symptoms-and-in-the-increasing-prevalence-of-atopic-diseases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/038-is-there-a-causative-role-for-tetanus-toxoid-vaccination-in-the-development-of-allergy-like-symptoms-and-in-the-increasing-prevalence-of-atopic-diseases/</guid>
+      <description>If some vaccine component is similar to a protein produced by the body itself, then once the immune system learns how to react to the vaccine protein, it may also learn to react to its own protein (the one similar to the vaccine protein) in the same way. This is how one gets autoimmune disease. This phenomenon is called molecular mimicry.
+This article explains the mechanism of molecular mimicry between tetanus toxoid and IgE receptor, which is probably what leads to an increased risk of allergies in vaccinated people.</description>
+    </item>
+    
+  </channel>
+</rss>

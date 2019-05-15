@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lupus on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/lupus/</link>
+    <description>Recent content in Lupus on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/lupus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A case-control study of quadrivalent human papillomavirus vaccine-associated autoimmune negative events</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/papilloma/015-a-case-control-study-of-quadrivalent-human-papillomavirus-vaccine-associated-autoimmune-negative-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/papilloma/015-a-case-control-study-of-quadrivalent-human-papillomavirus-vaccine-associated-autoimmune-negative-events/</guid>
+      <description>The authors analyzed the serious adverse events of Gardasil in the USA. The vaccine is associated with an increase in the risk of gastroenteritis by 4.6 times, arthritis – 2.5 times, systemic lupus – 5.3 times, vasculitis – 4 times, alopecia – 8.3 times, nervous system diseases – 1.8 times.
+Vasculitis (inflammation of the blood vessels) starts, on average, 6 days after the vaccination, lupus – 19 days later, arthritis – after 55 days.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italy on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/italy/</link>
+    <description>Recent content in Italy on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/italy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influenza vaccination among healthcare workers in Italy</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/physicians/016-influenza-vaccination-among-healthcare-workers-in-italy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/physicians/016-influenza-vaccination-among-healthcare-workers-in-italy/</guid>
+      <description>Health workers are refusing influenza vaccination, despite ten years of efforts to increase vaccination rates. Only 30% of doctors, 11% of nurses, and 9% of clinical staff have been vaccinated against the flu. (Italy)</description>
+    </item>
+    
+    <item>
+      <title>Paediatricians knowledge, attitudes, and practices for immunizations for infants in Italy</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/physicians/012-paediatricians-knowledge-attitudes-and-practices-for-immunizations-for-infants-in-italy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/physicians/012-paediatricians-knowledge-attitudes-and-practices-for-immunizations-for-infants-in-italy/</guid>
+      <description>Only 10% of physicians had a good opinion of all vaccines.
+60% of doctors would like to know more about vaccines.
+Only 25% of doctors gave optional vaccines to their patients (whooping cough, measles, mumps, chickenpox, rubella, Hib, pneumococcus, meningococcus). (Italy)</description>
+    </item>
+    
+    <item>
+      <title>Tetanus: A rare and preventable cause of death among drug users and the elderly</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/027-tetanus-a-rare-and-preventable-cause-of-death-among-drug-users-and-the-elderly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/027-tetanus-a-rare-and-preventable-cause-of-death-among-drug-users-and-the-elderly/</guid>
+      <description>From 1984 to 1994, 40 people died of tetanus in the Lazio region in Italy (population of 5.1 million). 48% of them were elderly people, and among the younger ones, mostly intravenous drug users died. In the age group of under 30 years old, no death were recorded. Among those who were not drug users, only one person under the age of 40 died, and two more people under the age of 50.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MMRV Vaccine on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/drugs/mmrv-vaccine/</link>
+    <description>Recent content in MMRV Vaccine on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/drugs/mmrv-vaccine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/017/</guid>
+      <description>In 2010, two virologists, who had previously worked for Merck, sued the company. They claimed that Merck manipulated the results of the mumps vaccine clinical trial, which allowed the company to remain the exclusive MMR manufacturer in the United States.
+The lawsuit states that Merck organized a fictitious vaccine-testing program in the late 90s. The company obliged the scientists to participate in the program, promising them all bonuses if the vaccine got certified, and threatening prison if they were to report this fraud to the FDA.</description>
+    </item>
+    
+  </channel>
+</rss>

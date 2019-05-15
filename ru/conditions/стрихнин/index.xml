@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Стрихнин on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/conditions/%D1%81%D1%82%D1%80%D0%B8%D1%85%D0%BD%D0%B8%D0%BD/</link>
+    <description>Recent content in Стрихнин on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/conditions/%D1%81%D1%82%D1%80%D0%B8%D1%85%D0%BD%D0%B8%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effect of ascorbic acid in the treatment of tetanus</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/045-effect-of-ascorbic-acid-in-the-treatment-of-tetanus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/045-effect-of-ascorbic-acid-in-the-treatment-of-tetanus/</guid>
+      <description>Контролируемое исследование влияния витамина С на столбняк в Бангладеше. 117 больных пациентов разделили на две группы. Первая получала 1 г витамина С в день внутривенно в придачу к иммуноглобулину, а вторая группа получала только иммуноглобулин.
+В группе детей (1-12 лет) среди не получавших витамин 74% умерли. Среди тех, кто получал витамин С никто не умер.
+В группе взрослых (13-30 лет) среди не получавших витамин 68% умерли. Среди тех, кто получал витамин 37% умерли.</description>
+    </item>
+    
+  </channel>
+</rss>

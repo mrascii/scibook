@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Сепсис on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B5%D0%BF%D1%81%D0%B8%D1%81/</link>
+    <description>Recent content in Сепсис on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D1%81%D0%B5%D0%BF%D1%81%D0%B8%D1%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Delayed cord clamping in very preterm infants reduces the incidence of intraventricular hemorrhage and late-onset sepsis: a randomized, controlled trial</title>
+      <link>https://mrascii.github.io/scibook/ru/content/childbirth/cordclamping/014-delayed-cord-clamping-in-very-preterm-infants-reduces-the-incidence-of-intraventricular-hemorrhage-and-late-onset-sepsis-a-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/childbirth/cordclamping/014-delayed-cord-clamping-in-very-preterm-infants-reduces-the-incidence-of-intraventricular-hemorrhage-and-late-onset-sepsis-a-randomized-controlled-trial/</guid>
+      <description>Рандомизированное исследование среди недоношенных младенцев, родившихся до 32-й недели. Среди младенцев, которым сразу пережали пуповину, у 24% был сепсис. Среди младенцев с отсроченным пережатием пуповины (30-45 секунд) не было ни одного случая сепсиса.</description>
+    </item>
+    
+  </channel>
+</rss>

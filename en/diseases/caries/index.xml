@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caries on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/caries/</link>
+    <description>Recent content in Caries on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/caries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effects of Vitamin C Intake on the Degree of Tooth Injury Produced by Diphtheria Toxin</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/030-effects-of-vitamin-c-intake-on-the-degree-of-tooth-injury-produced-by-diphtheria-toxin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/030-effects-of-vitamin-c-intake-on-the-degree-of-tooth-injury-produced-by-diphtheria-toxin/</guid>
+      <description>When guinea pigs are injected with a sublethal dose of diphtheria toxin, a 30-50% decrease in the vitamin C level in tissues is observed within 24-48 hours.
+ Children who received little vitamin C, developed scurvy during the infection. It resolved spontaneously after recovery, without increasing the amount of vitamin C in the diet.
+ What correlated with the absence of tooth caries in children of 10-14 years of age are good nutrition and lack of diseases in infancy and childhood.</description>
+    </item>
+    
+  </channel>
+</rss>

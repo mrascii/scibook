@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Рыбий жир on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/drugs/%D1%80%D1%8B%D0%B1%D0%B8%D0%B9-%D0%B6%D0%B8%D1%80/</link>
+    <description>Recent content in Рыбий жир on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/drugs/%D1%80%D1%8B%D0%B1%D0%B8%D0%B9-%D0%B6%D0%B8%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vitamin A and Measles</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/040-vitamin-a-and-measles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/040-vitamin-a-and-measles/</guid>
+      <description>Обзорная статья про витамин А и корь. В Англии смертность от кори упала в 200 раз с 1908 до 1960 года, до начала вакцинации.
+Авторы пишут, что традиция давать детям каждый день рыбий жир (богатый витамином А) практически исчезла в Европе, и осталась лишь в Норвегии. Они рекомендуют давать витамин А вместе с прививкой.</description>
+    </item>
+    
+  </channel>
+</rss>

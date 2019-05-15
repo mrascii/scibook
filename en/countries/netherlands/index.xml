@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netherlands on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/netherlands/</link>
+    <description>Recent content in Netherlands on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/netherlands/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptation of Bordetella pertussis to vaccination: a cause for its reemergence?</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/030-adaptation-of-bordetella-pertussis-to-vaccination-a-cause-for-its-reemergence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/030-adaptation-of-bordetella-pertussis-to-vaccination-a-cause-for-its-reemergence/</guid>
+      <description>The authors performed a genetic analysis of pertussis bacterial strains in the Netherlands and concluded that the bacterium had mutated and adapted according to the vaccine. The predominate strains became those with different, mutated forms of pertactin and pertussis toxin. These strains did not exist before vaccination against pertussis began. The same trend was also observed in Finland, the USA and Italy.</description>
+    </item>
+    
+    <item>
+      <title>Negative attitude of highly educated parents and health care workers to future vaccinations in the Dutch childhood vaccination program</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/005-negative-attitude-of-highly-educated-parents-and-health-care-workers-to-future-vaccinations-in-the-dutch-childhood-vaccination-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/005-negative-attitude-of-highly-educated-parents-and-health-care-workers-to-future-vaccinations-in-the-dutch-childhood-vaccination-program/</guid>
+      <description>Parents with higher education are 3 times more likely to refuse vaccinations.
+Medical workers are 4 times more likely to refuse vaccinations.
+Atheists are 2.6 times more likely to refuse vaccinations. (Netherlands)</description>
+    </item>
+    
+    <item>
+      <title>Pathogen adaptation under imperfect vaccination: implications for pertussis</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/011-pathogen-adaptation-under-imperfect-vaccination-implications-for-pertussis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/011-pathogen-adaptation-under-imperfect-vaccination-implications-for-pertussis/</guid>
+      <description>While the number of cases of whooping cough among unvaccinated individuals has increased, the number of cases among vaccinated individuals has increased even more. Most cases of whooping cough happen among vaccinated.
+Also, according to data from the CDC, most patients with pertussis-induced whooping cough have been vaccinated.</description>
+    </item>
+    
+  </channel>
+</rss>

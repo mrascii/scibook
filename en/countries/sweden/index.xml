@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sweden on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/sweden/</link>
+    <description>Recent content in Sweden on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/sweden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Immunity and immunization of children against diphtheria in Sweden</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/007-immunity-and-immunization-of-children-against-diphtheria-in-sweden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/007-immunity-and-immunization-of-children-against-diphtheria-in-sweden/</guid>
+      <description>The protective level of antibodies of diphtheria is considered to be from 0.01 to 0.1 IU/ml. The exact value cannot be determined.
+ Not a single case of diphtheria has been recorded in Sweden from the late 1950s to 1984. 3 outbreaks were observed in 1984 (17 cases, 3 deaths). Almost all patients were chronic alcoholics. Most patients had the level of antibodies below 0.01 IU/ml.
+ Researchers measured the level of antibodies in children.</description>
+    </item>
+    
+    <item>
+      <title>Serological immunity to diphtheria in Sweden in 1978 and 1984</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/008-serological-immunity-to-diphtheria-in-sweden-in-1978-and-1984/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/008-serological-immunity-to-diphtheria-in-sweden-in-1978-and-1984/</guid>
+      <description>The authors measured antibodies level of 2,400 people in Sweden. 19% of people of the age of 20 and under did not have immunity against diphtheria. Among people over 40 years of age, only 15% had sufficient level of antibodies. Among the elderly, 81% of women and 56% of men did not have the immunity. On average, 70% of adult women and 50% of adult men had antibodies level below 0.</description>
+    </item>
+    
+    <item>
+      <title>Whooping cough in adults</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/014-whooping-cough-in-adults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/014-whooping-cough-in-adults/</guid>
+      <description>After 1978, it was discovered that 84% of pertussis patients had been vaccinated with three doses of the vaccine. Consequently, in 1979 Sweden stopped administering the vaccination. Only in 1996, when the acellular vaccine appeared, was vaccination reinstated.</description>
+    </item>
+    
+  </channel>
+</rss>

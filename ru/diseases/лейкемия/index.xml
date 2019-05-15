@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Лейкемия on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B5%D0%B9%D0%BA%D0%B5%D0%BC%D0%B8%D1%8F/</link>
+    <description>Recent content in Лейкемия on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%BB%D0%B5%D0%B9%D0%BA%D0%B5%D0%BC%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Childhood infectious diseases and risk of leukaemia in an adult population</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/052-childhood-infectious-diseases-and-risk-of-leukaemia-in-an-adult-population/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/052-childhood-infectious-diseases-and-risk-of-leukaemia-in-an-adult-population/</guid>
+      <description>Корь ассоциирована с пониженным риском хронического лимфолейкоза на 47%. Чем больше было детских болезней (свинка, ветрянка, коклюш и др.), тем ниже был риск лимфолейкоза. Одна-две детские болезни снижали его на 16%, а три и более болезни — на 53%.</description>
+    </item>
+    
+    <item>
+      <title>Childhood infectious diseases and risk of leukaemia in an adult population</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/044-childhood-infectious-diseases-and-risk-of-leukaemia-in-an-adult-population/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/044-childhood-infectious-diseases-and-risk-of-leukaemia-in-an-adult-population/</guid>
+      <description>У взрослых, переболевших коклюшем в детстве, риск развития некоторых видов лейкемии был в 1.5-2 раза ниже, чем у непереболевших коклюшем.</description>
+    </item>
+    
+    <item>
+      <title>Childhood leukemia and infectious diseases in the first year of life: a register-based case-control study</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/053-childhood-leukemia-and-infectious-diseases-in-the-first-year-of-life-a-register-based-case-control-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/053-childhood-leukemia-and-infectious-diseases-in-the-first-year-of-life-a-register-based-case-control-study/</guid>
+      <description>Простуды, температура и детские инфекции ассоциированы с уменьшением риска лейкемии.
+Еще подобные исследования:
+Urayama (2008). [1]. Radiat Prot Dosimetry
+Ribeiro (2008). [2]. Int J Cancer</description>
+    </item>
+    
+    <item>
+      <title>Risk of leukaemia in children infected with enterovirus: a nationwide, retrospective, population-based, Taiwanese-registry, cohort study</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/061-risk-of-leukaemia-in-children-infected-with-enterovirus-a-nationwide-retrospective-population-based-taiwanese-registry-cohort-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/061-risk-of-leukaemia-in-children-infected-with-enterovirus-a-nationwide-retrospective-population-based-taiwanese-registry-cohort-study/</guid>
+      <description>Исследование 568 тысяч детей в Тайване. У детей, зараженных энтеровирусами, риск заболеть лейкемией был на 56% ниже.</description>
+    </item>
+    
+  </channel>
+</rss>

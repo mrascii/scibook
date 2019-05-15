@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>China on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/china/</link>
+    <description>Recent content in China on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/china/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influenza vaccination amongst hospital health care workers in Beijing</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/physicians/018-influenza-vaccination-amongst-hospital-health-care-workers-in-beijing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/physicians/018-influenza-vaccination-amongst-hospital-health-care-workers-in-beijing/</guid>
+      <description>Only 13% of doctors and 21% of nurses vaccinated against influenza.
+40% of health care workers believe that flu vaccine can cause flu. (Beijing, China)</description>
+    </item>
+    
+    <item>
+      <title>The tetanus bacillus as an intestinal saprophyte in man</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/009-the-tetanus-bacillus-as-an-intestinal-saprophyte-in-man/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/009-the-tetanus-bacillus-as-an-intestinal-saprophyte-in-man/</guid>
+      <description>The answer to the question, how natural immunity is produced was already given back in the 20s of last century. Tetanus bacteria were found in the intestines of 35% of the 78 men tested in Beijing. Tetanus was a very rare disease in China in early 20th century (not counting the neonatal tetanus).
+Researchers found tetanus bacteria in the patients’ stool even after they spent three months in the hospital on a virtually sterile diet.</description>
+    </item>
+    
+  </channel>
+</rss>

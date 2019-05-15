@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>תימן on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
+    <link>https://mrascii.github.io/scibook/he/countries/%D7%AA%D7%99%D7%9E%D7%9F/</link>
+    <description>Recent content in תימן on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/he/countries/%D7%AA%D7%99%D7%9E%D7%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/diphtheria/027/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/diphtheria/027/</guid>
+      <description>בחודשים נובמבר-דצמבר 2017 החלו התפרצויות דיפתריה בתימן ובמחנה פליטים בבנגלאדש. זה, כמובן, קרה בגלל היקף חסוני נמוך וממש לא בגלל מלחמת האזרחים בתימן, ולא בגלל שבבנגלאדש בכל אוהל מצטופפים 30 פליטים.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mortality on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/conditions/mortality/</link>
+    <description>Recent content in Mortality on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/conditions/mortality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Co-administration of live measles and yellow fever vaccines and inactivated pentavalent vaccines is associated with increased mortality compared with measles and yellow fever vaccines only. An observational study from Guinea-Bissau</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/015-co-administration-of-live-measles-and-yellow-fever-vaccines-and-inactivated-pentavalent-vaccines-is-associated-with-increased-mortality-compared-with-measles-and-yellow-fever-vaccines-only.-an-observational-study-from-guinea-bissau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/015-co-administration-of-live-measles-and-yellow-fever-vaccines-and-inactivated-pentavalent-vaccines-is-associated-with-increased-mortality-compared-with-measles-and-yellow-fever-vaccines-only.-an-observational-study-from-guinea-bissau/</guid>
+      <description>Children who received a pentavalent vaccine (diphtheria/tetanus/pertussis/Hib/hepatitis B), in addition to measles and yellow fever vaccines, died 7.7 times more often than the children who did not receive a pentavalent vaccine.
+In this lecture Susan Humphries explains why the combination of live and killed vaccines leads to this effect.</description>
+    </item>
+    
+    <item>
+      <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
+      <description>Children from Guinea-Bissau, who received a diphtheria/tetanus/pertussis vaccine together with the measles vaccine died twice more often that those who only received a measles vaccine.
+Authors cite several more studies with the same results in Gambia, Malawi, Congo, Ghana and Senegal.</description>
+    </item>
+    
+    <item>
+      <title>Infant mortality rates regressed against the number of vaccine doses routinely given: Is there a biochemical or synergistic toxicity?</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/008-infant-mortality-rates-regressed-against-the-number-of-vaccine-doses-routinely-given-is-there-a-biochemical-or-synergistic-toxicity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/008-infant-mortality-rates-regressed-against-the-number-of-vaccine-doses-routinely-given-is-there-a-biochemical-or-synergistic-toxicity/</guid>
+      <description>The authors compare infant mortality in 30 countries, and the number of vaccinations done by the age of 12 months in those countries. There appears to be a linear correlation between them.
+The more vaccinations there are in the country, the higher is the mortality rate.
+  </description>
+    </item>
+    
+    <item>
+      <title>Relative trends in hospitalizations and mortality among infants by the number of vaccine doses and age, based on the Vaccine Adverse Event Reporting System (VAERS), 1990-2010</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/013-relative-trends-in-hospitalizations-and-mortality-among-infants-by-the-number-of-vaccine-doses-and-age-based-on-the-vaccine-adverse-event-reporting-system-vaers-1990-2010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/013-relative-trends-in-hospitalizations-and-mortality-among-infants-by-the-number-of-vaccine-doses-and-age-based-on-the-vaccine-adverse-event-reporting-system-vaers-1990-2010/</guid>
+      <description>The more vaccinations are done at a time, the higher the likelihood of hospitalization and death.The mortality among those who received 5-8 vaccinations was 1.5 times higher than those who received 1-4 vaccinations.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Switzerland on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/switzerland/</link>
+    <description>Recent content in Switzerland on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/switzerland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do physicians immunize their own children? Differences among pediatricians and nonpediatricians</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/physicians/009-how-do-physicians-immunize-their-own-children-differences-among-pediatricians-and-nonpediatricians/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/physicians/009-how-do-physicians-immunize-their-own-children-differences-among-pediatricians-and-nonpediatricians/</guid>
+      <description>5% of non-pediatric doctors do not vaccinate their children against measles, mumps and rubella. They believe that combined vaccines are unsafe, that it is better to have the disease than to get vaccinated, and that homeopathic treatment works well for these diseases.
+10% postpone DTaP vaccination for a later date, 15% postpone MMR vaccination.
+A third of the doctors did not vaccinate their children against hepatitis B and hemophilic bacilli. Only 12% were vaccinated against the flu, and only 3% were vaccinated against chickenpox.</description>
+    </item>
+    
+  </channel>
+</rss>

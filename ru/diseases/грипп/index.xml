@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Грипп on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D1%80%D0%B8%D0%BF%D0%BF/</link>
+    <description>Recent content in Грипп on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%B3%D1%80%D0%B8%D0%BF%D0%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effect of antipyretic therapy on the duration of illness in experimental influenza A, Shigella sonnei, and Rickettsia rickettsii infections</title>
+      <link>https://mrascii.github.io/scibook/ru/content/antipyretics/fever/019-effect-of-antipyretic-therapy-on-the-duration-of-illness-in-experimental-influenza-a-shigella-sonnei-and-rickettsia-rickettsii-infections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/antipyretics/fever/019-effect-of-antipyretic-therapy-on-the-duration-of-illness-in-experimental-influenza-a-shigella-sonnei-and-rickettsia-rickettsii-infections/</guid>
+      <description>Использовавшие жаропонижающие болели гриппом на 3.5 дня дольше, а шигеллёзом на 2.5 дня дольше. Чем больше доз жаропонижающих было использовано, тем дольше длилась болезнь.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiple sclerosis on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/multiple-sclerosis/</link>
+    <description>Recent content in Multiple sclerosis on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/multiple-sclerosis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A population-based case-control study on viral infections and vaccinations and subsequent multiple sclerosis risk</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/022-a-population-based-case-control-study-on-viral-infections-and-vaccinations-and-subsequent-multiple-sclerosis-risk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/022-a-population-based-case-control-study-on-viral-infections-and-vaccinations-and-subsequent-multiple-sclerosis-risk/</guid>
+      <description>In those who had been vaccinated with MMR before the age of ten, the risk of multiple sclerosis was 5 times higher.</description>
+    </item>
+    
+    <item>
+      <title>Aluminum Involvement in Neurotoxicity</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/aluminium/043-aluminum-involvement-in-neurotoxicity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/aluminium/043-aluminum-involvement-in-neurotoxicity/</guid>
+      <description>Removing aluminum by chelation therapy in multiple sclerosis patients led to improvement of their symptoms. Patients with neuro-degenerative diseases and multiple sclerosis have much higher levels of aluminum than healthy people.</description>
+    </item>
+    
+  </channel>
+</rss>

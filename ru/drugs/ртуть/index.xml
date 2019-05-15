@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ртуть on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/drugs/%D1%80%D1%82%D1%83%D1%82%D1%8C/</link>
+    <description>Recent content in Ртуть on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/drugs/%D1%80%D1%82%D1%83%D1%82%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mercury in vaccines from the Australian childhood immunization program schedule</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/sids/030-mercury-in-vaccines-from-the-australian-childhood-immunization-program-schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/sids/030-mercury-in-vaccines-from-the-australian-childhood-immunization-program-schedule/</guid>
+      <description>Авторы проверили 8 разных вакцин на содержание ртути и только в одной из них (Инфанрикс Гекса) ртуть обнаружили в концентрации 10 ppb. Затем проверили еще 3 вакцины Инфанрикс Гекса, и во всех нашли ртуть в похожей концентрации.
+Авторы отмечают, что хотя эта концентрация существенно ниже установленного предела безопасности (2 мкг/мл), результаты этого исследования указывают на неточности в официальных документах и в публичных сообщениях, в которых утверждается, что в вакцине нет ртути, и призывают срочно решить этот вопрос.</description>
+    </item>
+    
+  </channel>
+</rss>

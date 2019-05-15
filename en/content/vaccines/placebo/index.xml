@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Placebo on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/</link>
+    <description>Recent content in Placebo on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    <lastBuildDate>Thu, 29 Jun 2017 17:58:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/content/vaccines/placebo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/001/</guid>
+      <description>How is the safety of vaccines tested? Randomized double-blind placebo-controlled studies are done, and they look at the side effects which arise for the people who received the vaccine, and compare them to the control group.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/002/</guid>
+      <description>Clinical trials are very expensive, they cost tens of millions of dollars. Developing medicines costs hundreds of millions. But all of this is trivial for pharmaceutical companies. An FDA-licensed vaccination very quickly becomes part of the vaccination schedule of most countries, and yields billions in profit on an annual basis. For example, sales of one of the recently licensed vaccines, Gardasil (against HPV), account for more than 3 billion per year.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/003/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/003/</guid>
+      <description>Naturally, pharmaceutical companies want to lower the odds of unsuccessful clinical trials. But do they have a legal opportunity to do so?
+It turns out they do, and it is very simple. Instead of a placebo, you just need to use something which is not a real placebo, but something sufficiently toxic, which leads to the same side effects as the vaccine being tested. One of the most toxic components of vaccines is aluminium (this is shown in another section), which is used as an adjuvant in most vaccines.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/004/</guid>
+      <description>But in principle you don’t even have to agonize over the choice of placebo. It is by no means obligatory to use a placebo in randomized clinical vaccine studies. The studies don’t even have to be randomized or blind. You can simply give everyone the vaccination, and see what the side effects are. If the majority remains alive, it means that the vaccine is absolutely safe.
+Here are two very interesting articles:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/007/</guid>
+      <description>Unlike the clinical trials for medicines, where the contents of the placebo are often concealed, many vaccine producers do not normally conceal the used placebo. In order to find out, you just need to read the vaccine inserts. Here are only a few examples.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/008/</guid>
+      <description>Daptacel, a vaccine for diphtheria, tetanus and whooping cough (DTaP, Sanofi Pasteur). Three vaccines were used as the placebo: DTP, DT and an experimental vaccine for whooping cough.
+Yes, yes. An experimental vaccine was used as a placebo. Let that sink in.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/009/</guid>
+      <description>Infanrix, another vaccine for diphtheria, tetanus and whooping cough (DTaP, GlaxoSmithKline). The vaccine Pediarix was used as the placebo. In addition, both groups received these vaccines alongside vaccinations for hepatitis B, pneumococcus, chicken pox, polio, haemophilus influenzae, measles, mumps and rubella.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/010/</guid>
+      <description>Pediarix, a vaccine for diphtheria, tetanus, whooping cough, hepatitis B and polio (DTaP-HepB-IPV, GlaxoSmithKline). This vaccine was tested together with a vaccine for haemophilus influenzae. The control group received the vaccine Infanrix, as well as a vaccine for polio and haemophilus influenzae.
+That is, roughly speaking, Pediarix was used as the placebo in the Infanrix trials, and Infanrix was used as the placebo in the Pediarix trials. All of this was seasoned with a blend of several other vaccines, in order to completely eradicate the possibility of distinguishing any side effects from the vaccine being tested.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/011/</guid>
+      <description>The first vaccines for diphtheria, tetanus and whooping cough appeared long before anyone bothered with clinical trials or the use of placebos. Thus, here it can be argued that the use of a placebo to test them, i.e. not to vaccinate a portion of the children, is unethical. But even the clinical trials of new vaccines, against new diseases, use other vaccines as the placebo.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/012/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/012/</guid>
+      <description>Havrix, a vaccine for hepatitis A (GlaxoSmithKline) The clinical study included three groups. The first received Havrix. The second received Havrix + MMR (a vaccination against measles/mumps/rubella). The third received MMR + chicken pox, as well as Havrix after 42 days.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/013/</guid>
+      <description>Prevnar, pneumococcal vaccine (PCV7, Wyeth). The placebo was an experimental (!) meningococcal C vaccine.
+The next version of this vaccine Prevnar-13 (Pfizer) already used Prevnar as a placebo.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/014/</guid>
+      <description>Cervarix, human papillomavirus vaccine (GlaxoSmithKline). The placebo vaccine was a hepatitis A vaccine, as well as aluminum hydroxide.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/015/</guid>
+      <description>Engerix-B, a vaccine for hepatitis B (GlaxoSmithKline). There was no control group.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/016/</guid>
+      <description>Recombivax, a vaccine for hepatitis B (Merck). There was no control group.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/017/</guid>
+      <description>MMR-II, a vaccine for measles, mumps and rubella. There was no control group. Indeed, no clinical safety studies were done for this vaccine.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/018/</guid>
+      <description>In order to license a new vaccine, it is quite enough for the FDA for it not to be more dangerous than any other vaccine, whether an experimental vaccine, or aluminium hydroxide, or any other substance, which the pharmaceutical company is not obligated to disclose.
+In clinical studies for vaccines, a real, inactive placebo is virtually never used.
+So next time someone claims that vaccines are completely safe, ask them in comparison to what they are completely safe.</description>
+    </item>
+    
+    <item>
+      <title>Testing vaccines in pediatric research subjects</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/006-testing-vaccines-in-pediatric-research-subjects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/006-testing-vaccines-in-pediatric-research-subjects/</guid>
+      <description>In 1930, two doctors from the German city of Lübeck decided to vaccinate children en masse against tuberculosis with the BCG vaccine which, although it had been available since 1921, had not really been used. In the 12 months of this campaign, 208 children contracted tuberculosis due to the vaccinations, and 77 died. The doctors were arrested and convicted of murder.
+This led to discussion on the use of children in medical experiments.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s in placebos: who knows? Analysis of randomized, controlled trials</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/005-whats-in-placebos-who-knows-analysis-of-randomized-controlled-trials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/005-whats-in-placebos-who-knows-analysis-of-randomized-controlled-trials/</guid>
+      <description>Inert substances do not exist, and no norms exist for what a placebo must consist of. This, of course, affects the results of the studies.
+There is no requirement to disclose the contents of placebo used in clinical trials. Medical journals do not require this information either.
+The authors analysed 167 clinical studies, published in four of the most prestigious medical journals. Most of the clinical studies did not disclose the composition of the placebo.</description>
+    </item>
+    
+  </channel>
+</rss>

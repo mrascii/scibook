@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Острый вялый миелит on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D0%B2%D1%8F%D0%BB%D1%8B%D0%B9-%D0%BC%D0%B8%D0%B5%D0%BB%D0%B8%D1%82/</link>
+    <description>Recent content in Острый вялый миелит on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D0%B2%D1%8F%D0%BB%D1%8B%D0%B9-%D0%BC%D0%B8%D0%B5%D0%BB%D0%B8%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/015/</guid>
+      <description>Вот отрывок недавней передачи (июнь 2017) Sharyl Attkisson, одной из немногочисленных честных журналисток, где рассказывается о вспышке странной новой болезни среди детей в США (сотни случаев), как две капли воды похожей на полиомиелит. Назвали ее Острый Вялый Миелит (AFM). Предполагают, что она вызывается энтеровирусом EV-D68. В 2014 году было 1153 серьезных случаев заражения, 14 смертей, и 120 случаев паралича.
+CDC понятия не имеет, что это за болезнь. Более того, они вообще отказываются обсуждать ее, и сообщать сколько случаев зарегистрировано, и в каких штатах.</description>
+    </item>
+    
+    <item>
+      <title>Acute flaccid myelitis and enterovirus D68: Déjà vu all over again</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/016-acute-flaccid-myelitis-and-enterovirus-d68-d%C3%A9j%C3%A0-vu-all-over-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/016-acute-flaccid-myelitis-and-enterovirus-d68-d%C3%A9j%C3%A0-vu-all-over-again/</guid>
+      <description>AFM существовал много сотен лет. Его архетип это полиомиелит. Существует более 100 энтеровирусов, которые могут заражать людей. Их делят на 4 группы — A, B, C и D. Полиовирус принадлежит к группе С. (D68 — это 68-й вирус группы D).
+Практически полное искоренение полиовируса не означает искоренение острого вялого паралича. Возможно, что с исчезновением полиовируса, другие, менее вирулентные вирусы заражают людей, приспосабливаются к ним, и таким образом, повышают свою вирулентность. Эта гипотеза подтверждается ВОЗ, которая сообщила об увеличении случаев острого вялого паралича за последние 15 лет.</description>
+    </item>
+    
+    <item>
+      <title>Vaccines and the U.S. Mystery of Acute Flaccid Myelitis</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/017-vaccines-and-the-u.s.-mystery-of-acute-flaccid-myelitis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/017-vaccines-and-the-u.s.-mystery-of-acute-flaccid-myelitis/</guid>
+      <description>Во время эпидемии полиомиелита в Великобритании в 1949 году, прививка DTP повышала риск паралича в 20 раз. То же самое наблюдалось и в Нью Йорке.
+Автор предполагает, что то же самое происходит и сейчас с AFM. Прививки повышают риск того, что вирус, похожий на полиовирус, проникает в нервную систему.</description>
+    </item>
+    
+  </channel>
+</rss>

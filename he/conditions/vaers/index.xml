@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VAERS on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
+    <link>https://mrascii.github.io/scibook/he/conditions/vaers/</link>
+    <description>Recent content in VAERS on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/he/conditions/vaers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/meningococcal/047/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/meningococcal/047/</guid>
+      <description>ב-VAERS נרשמו יותר מ-170 מקרי מוות ויותר מ-400 מקרי נכות קבועה אחרי חיסוני מנינגוקוק.
+ב-2016 שבעה ילדים בני פחות מ-3 נפטרו אחרי החיסון ועוד 15 הפכו לנכים (בארה&amp;rdquo;ב החיסונים האלה אינם מהווים חלק מחיסוני שגרה ורק ילדים מקבוצות הסיכון מחוסנים בהם, או שהם ניתנים בטעות). באותה השנה 9 ילדים בני פחות מ-5 נפטרו ממנינגוקוק. בהנחה שב-VAERS נרשמים רק 1%-10% מכל תופעות הלוואי שהתרחשו, חיסוני מנינגוקוק כנראה הורגים יותר אנשים מאשר המנינגוקוק עצמו.</description>
+    </item>
+    
+    <item>
+      <title>Electronic Support for Public Health–Vaccine Adverse Event Reporting System (ESP:VAERS)</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/meningococcal/046-electronic-support-for-public-healthvaccine-adverse-event-reporting-system-espvaers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/meningococcal/046-electronic-support-for-public-healthvaccine-adverse-event-reporting-system-espvaers/</guid>
+      <description>אף על פי שתופעות לוואי של תרופות מתרחשות אצל 25% ממטופלי חוץ, רק 0.3% מכלל תופעות הלוואי ו-1%-13% מתופעות לוואי חמורות מדווחות ל-FDA.
+כמו כן נרשמות פחות מ-1% מתופעות לוואי של חיסונים.</description>
+    </item>
+    
+    <item>
+      <title>The reporting sensitivities of two passive surveillance systems for vaccine adverse events</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/meningococcal/045-the-reporting-sensitivities-of-two-passive-surveillance-systems-for-vaccine-adverse-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/meningococcal/045-the-reporting-sensitivities-of-two-passive-surveillance-systems-for-vaccine-adverse-events/</guid>
+      <description>ב-VAERS נרשמו 72% ממקרי פוליו הנגרם ע&amp;rdquo;י חיסון OPV, אך רק 4% ממקרי hypotonic-hyporesponsive episode בעקבות חיסן DTP, ופחות מ-1% ממקרי טרומבוציטופניה בעקבות MMR. תופעות אשר מתרחשות כעבור פרק זמן משמעותי לאחר החיסון, ותופעות שבדרך כלל לא מקושרות לחיסונים מדווחות לעיתים רחוקות הרבה יותר.
+פחות מ-5% מהדיווחים שמגיעים ל-VAERS מבוצעים ע&amp;rdquo;י ההורים.</description>
+    </item>
+    
+  </channel>
+</rss>

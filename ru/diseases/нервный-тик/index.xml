@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Нервный тик on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BA/</link>
+    <description>Recent content in Нервный тик on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9-%D1%82%D0%B8%D0%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A dose-response relationship between organic mercury exposure from thimerosal-containing vaccines and neurodevelopmental disorders</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/mercury/025-a-dose-response-relationship-between-organic-mercury-exposure-from-thimerosal-containing-vaccines-and-neurodevelopmental-disorders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/mercury/025-a-dose-response-relationship-between-organic-mercury-exposure-from-thimerosal-containing-vaccines-and-neurodevelopmental-disorders/</guid>
+      <description>Каждый микрограмм ртути в вакцинах ассоциирован с повышением риска первазивного расстройства развития на 5.4%, риска специфической задержки развития на 3.5%, нервных тиков на 3.4%, и гиперкинетического расстройства на 5%.</description>
+    </item>
+    
+    <item>
+      <title>Thimerosal exposure and increased risk for diagnosed tic disorder in the United States: a case-control study</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/mercury/024-thimerosal-exposure-and-increased-risk-for-diagnosed-tic-disorder-in-the-united-states-a-case-control-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/mercury/024-thimerosal-exposure-and-increased-risk-for-diagnosed-tic-disorder-in-the-united-states-a-case-control-study/</guid>
+      <description>Вакцинация с тиомерсалом ассоциирована с повышенным риском нервных тиков.
+Хотя нервные тики когда-то считались очень редкими, сегодня они считаются наиболее распространенным двигательным нарушением.
+В 2000 году был описан первый случай нервных тиков вследствие отравления ртутью. Впоследствии были проведены эпидемиологические исследования, которые обнаружили связь между тиомерсалом в вакцинах и повышенным риском нервных тиков.</description>
+    </item>
+    
+  </channel>
+</rss>

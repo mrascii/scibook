@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Плечевой неврит on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%BB%D0%B5%D1%87%D0%B5%D0%B2%D0%BE%D0%B9-%D0%BD%D0%B5%D0%B2%D1%80%D0%B8%D1%82/</link>
+    <description>Recent content in Плечевой неврит on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%BF%D0%BB%D0%B5%D1%87%D0%B5%D0%B2%D0%BE%D0%B9-%D0%BD%D0%B5%D0%B2%D1%80%D0%B8%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adverse events associated with childhood vaccines other than pertussis and rubella. Summary of a report from the Institute of Medicine</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/035-adverse-events-associated-with-childhood-vaccines-other-than-pertussis-and-rubella.-summary-of-a-report-from-the-institute-of-medicine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/035-adverse-events-associated-with-childhood-vaccines-other-than-pertussis-and-rubella.-summary-of-a-report-from-the-institute-of-medicine/</guid>
+      <description>Отчет Institute of Medicine, в котором, среди прочего, сообщается о том, что они обнаружили причинно-следственную связь между прививкой от столбняка/дифтерии и синдромом Гийена-Барре, анафилактическим шоком и с плечевым невритом.</description>
+    </item>
+    
+  </channel>
+</rss>

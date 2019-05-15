@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Плацебо on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/drugs/%D0%BF%D0%BB%D0%B0%D1%86%D0%B5%D0%B1%D0%BE/</link>
+    <description>Recent content in Плацебо on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/drugs/%D0%BF%D0%BB%D0%B0%D1%86%D0%B5%D0%B1%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing vaccines in pediatric research subjects</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/placebo/006-testing-vaccines-in-pediatric-research-subjects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/placebo/006-testing-vaccines-in-pediatric-research-subjects/</guid>
+      <description>В 1930-м году два врача из немецкого города Любек решили массово прививать детей от туберкулеза вакциной BCG, которая хоть и была доступна с 1921-го года, но не особо использовалась. За 12 месяцев этой кампании, 208 детей заболело туберкулезом из-за прививки, и 77 умерли. Врачей арестовали и осудили за убийство.
+Это привело к дискуссии об использовании людей в медицинских экспериментах.
+В 2008-м году США отказались от Хельсинской декларации. (Вместо нее используют Good Clinical Practice, которая не настолько ограничивает фармацевтические компании, как Хельсинская декларация).</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s in placebos: who knows? Analysis of randomized, controlled trials</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/placebo/005-whats-in-placebos-who-knows-analysis-of-randomized-controlled-trials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/placebo/005-whats-in-placebos-who-knows-analysis-of-randomized-controlled-trials/</guid>
+      <description>Не существует инертных субстанций, и не существует каких-либо нормативов, каким должен быть состав плацебо. Это, разумеется, влияет на результаты исследований.
+Результаты клинических исследований не обязаны разглашать, какой был состав используемого плацебо. Медицинские журналы также не требуют этой информации.
+Авторы проанализировали 167 клинических исследований, опубликованных в четырех самых престижных медицинских журналах. Большинство клинических исследований не разглашали состав плацебо. Лишь исследования 8% таблеток и 26% инъекций сообщали, что было использовано в качестве плацебо.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japan on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/japan/</link>
+    <description>Recent content in Japan on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/japan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CDC Pinkbook Mumps</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/002-cdc-pinkbook-mumps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/002-cdc-pinkbook-mumps/</guid>
+      <description>In pre-vaccination times, 15-27% of mumps cases were asymptomatic. The number of asymptomatic cases today is unknown, as it is unclear how the vaccine modifies clinical symptoms. Orchitis (testicular inflammation) is the most common complication of mumps, but it is only possible in post-pubertal males. Orchitis is primarily unilateral. Infertility caused by mumps orchitis is quite rare, even in cases of bilateral orchitis.
+Prior to introduction of the vaccine, cases of mumps were not recorded.</description>
+    </item>
+    
+  </channel>
+</rss>

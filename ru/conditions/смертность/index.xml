@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Смертность on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/conditions/%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
+    <description>Recent content in Смертность on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/conditions/%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Co-administration of live measles and yellow fever vaccines and inactivated pentavalent vaccines is associated with increased mortality compared with measles and yellow fever vaccines only. An observational study from Guinea-Bissau</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/015-co-administration-of-live-measles-and-yellow-fever-vaccines-and-inactivated-pentavalent-vaccines-is-associated-with-increased-mortality-compared-with-measles-and-yellow-fever-vaccines-only.-an-observational-study-from-guinea-bissau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/015-co-administration-of-live-measles-and-yellow-fever-vaccines-and-inactivated-pentavalent-vaccines-is-associated-with-increased-mortality-compared-with-measles-and-yellow-fever-vaccines-only.-an-observational-study-from-guinea-bissau/</guid>
+      <description>Дети, которым сделали пятивалентную прививку (дифтерия/столбняк/коклюш/Hib/гепатит В) в придачу к прививкам от кори и желтой лихорадки, умирали в 7.7 раза чаще, чем дети, которым не сделали пятивалентную прививку.
+В этой лекции Сюзен Хамфриз объясняет, почему комбинирование живых и мертвых вакцин приводит к такому эффекту.</description>
+    </item>
+    
+    <item>
+      <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
+      <description>Дети из Гвинеи-Биссау, которым сделали прививку от дифтерии/столбняка/коклюша вместе с прививкой от кори умирали в 2 раза чаще, чем те, которым сделали только прививку от кори.
+Авторы приводят еще несколько исследований с такими же результатами в Гамбии, Малави, Конго, Гане и Сенегале.</description>
+    </item>
+    
+    <item>
+      <title>Infant mortality rates regressed against number of vaccine doses routinely given: Is there a biochemical or synergistic toxicity?</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/008-infant-mortality-rates-regressed-against-number-of-vaccine-doses-routinely-given-is-there-a-biochemical-or-synergistic-toxicity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/008-infant-mortality-rates-regressed-against-number-of-vaccine-doses-routinely-given-is-there-a-biochemical-or-synergistic-toxicity/</guid>
+      <description>Авторы сравнивают младенческую смертность в 30 странах, и количество прививок в них до 12-месячного возраста. Между ними получается линейная корреляция. Чем больше в стране прививок, тем выше в ней уровень младенческой смертности.
+  </description>
+    </item>
+    
+    <item>
+      <title>Relative trends in hospitalizations and mortality among infants by the number of vaccine doses and age, based on the Vaccine Adverse Event Reporting System (VAERS), 1990–2010</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/013-relative-trends-in-hospitalizations-and-mortality-among-infants-by-the-number-of-vaccine-doses-and-age-based-on-the-vaccine-adverse-event-reporting-system-vaers-19902010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/013-relative-trends-in-hospitalizations-and-mortality-among-infants-by-the-number-of-vaccine-doses-and-age-based-on-the-vaccine-adverse-event-reporting-system-vaers-19902010/</guid>
+      <description>Чем больше прививок делается за один раз, тем выше вероятность госпитализации и смерти. Смертность среди тех, кто получил 5-8 прививок была в 1.5 раза выше, чем у тех, кто получил 1-4 прививки.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

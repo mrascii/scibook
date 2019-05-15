@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>וירוס אונקוליטי on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
+    <link>https://mrascii.github.io/scibook/he/diseases/%D7%95%D7%99%D7%A8%D7%95%D7%A1-%D7%90%D7%95%D7%A0%D7%A7%D7%95%D7%9C%D7%99%D7%98%D7%99/</link>
+    <description>Recent content in וירוס אונקוליטי on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/he/diseases/%D7%95%D7%99%D7%A8%D7%95%D7%A1-%D7%90%D7%95%D7%A0%D7%A7%D7%95%D7%9C%D7%99%D7%98%D7%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oncolytic Polio Virotherapy of Cancer</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/polio/062-oncolytic-polio-virotherapy-of-cancer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/polio/062-oncolytic-polio-virotherapy-of-cancer/</guid>
+      <description>כיום נערכים ניסויים בשימוש נגיף פוליו לטיפול בגליובלאסטומה (גידול במוח). עוד:
+[1], [2].
+גם נגיף קוקסאקי משמש כנגיף אונקוליטי (נוגד סרטן).</description>
+    </item>
+    
+    <item>
+      <title>Varicella zoster virus infection of malignant glioma cell cultures: a new candidate for oncolytic virotherapy?</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/varicella/038-varicella-zoster-virus-infection-of-malignant-glioma-cell-cultures-a-new-candidate-for-oncolytic-virotherapy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/varicella/038-varicella-zoster-virus-infection-of-malignant-glioma-cell-cultures-a-new-candidate-for-oncolytic-virotherapy/</guid>
+      <description>נגיף של אבעבועות רוח מחסל תאים סרטניים in vitro, וככל הנראה יכול לשמש כנגיף אונקוליטי. עוד: [1].</description>
+    </item>
+    
+  </channel>
+</rss>

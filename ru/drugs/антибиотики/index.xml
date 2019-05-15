@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Антибиотики on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/drugs/%D0%B0%D0%BD%D1%82%D0%B8%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA%D0%B8/</link>
+    <description>Recent content in Антибиотики on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/drugs/%D0%B0%D0%BD%D1%82%D0%B8%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Antibiotics for whooping cough (pertussis)</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/041-antibiotics-for-whooping-cough-pertussis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/041-antibiotics-for-whooping-cough-pertussis/</guid>
+      <description>Систематический обзор влияния антибиотиков на коклюш, проведенный Cochrane.
+Антибиотики уничтожают коклюшную бактерию, то есть делают человека незаразным, но они никак не влияют на течение болезни. Превентивная профилактика контактов младенцев антибиотиками неэффективна.
+Согласно некоторым исследованиям, использование антибиотиков приводит лишь к более длительной болезни.</description>
+    </item>
+    
+    <item>
+      <title>Association between prior antibiotic therapy and subsequent risk of community-acquired infections: a systematic review</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/008-association-between-prior-antibiotic-therapy-and-subsequent-risk-of-community-acquired-infections-a-systematic-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/008-association-between-prior-antibiotic-therapy-and-subsequent-risk-of-community-acquired-infections-a-systematic-review/</guid>
+      <description>Использование антибиотиков впоследствии повышает риск пневмококковой инфекции, а также риск Hib, менингита, инфекций золотистым стафилококком, сальмонеллой и кампилобактером, брюшного тифа, фурункулов, мастита, ОРВИ и инфекций мочевых путей.</description>
+    </item>
+    
+    <item>
+      <title>Early childhood infection and atopic disorder</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/035-early-childhood-infection-and-atopic-disorder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/035-early-childhood-infection-and-atopic-disorder/</guid>
+      <description>У привитых цельноклеточной вакциной риск аллергии был на 76% выше. У принимавших антибиотики в первые два года жизни риск аллергии был в 2 раза выше.
+Один курс антибиотиков повышал риск аллергии на 85; два курса антибиотиков повышали риск в 3 раза; а три курса антибиотиков повышали риск аллергии в 8 раз.
+У тех, кто переболели корью, и не получили прививку, риск аллергии был на 45% ниже (здесь нет статистической значимости).</description>
+    </item>
+    
+    <item>
+      <title>Seven-Valent Pneumococcal Conjugate Vaccine and Nasopharyngeal Microbiota in Healthy Children</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/022-seven-valent-pneumococcal-conjugate-vaccine-and-nasopharyngeal-microbiota-in-healthy-children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/022-seven-valent-pneumococcal-conjugate-vaccine-and-nasopharyngeal-microbiota-in-healthy-children/</guid>
+      <description>У привитых от пневмококка, в верхних дыхательных путях живут меньше пневмококковых бактерий невакцинных серотипов, но больше гемофильной палочки и стафилококка, а также намного больше анаэробных бактерий (Veilonella, Prevotella, Bacteroidetes, Leptotrichia), Actinomyces, Rothia, Neisseria, Fusobacterium, Megasphaera и стрептококков. Известно, что некоторые из этих бактерий повышают риск среднего отита. Временный бактериальный дисбаланс также повышает риск отита.
+У принимавших антибиотики было в 4 раза меньше коринебактерий и Dolosigranulum, и в 6.3 раза больше стафилококка.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zanamivir on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
+    <link>https://mrascii.github.io/scibook/he/drugs/zanamivir/</link>
+    <description>Recent content in Zanamivir on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/he/drugs/zanamivir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Antiviral medications for influenza</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/influenza/063-antiviral-medications-for-influenza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/063-antiviral-medications-for-influenza/</guid>
+      <description>לפי מחקרים לא איכותיים ולא אובייקטיביים, בעיקר כאלה שלא פורסמו, תכשירים כמו טמיפלו ורלנזה מקצרים את משך מחלת השפעת ב-0.6-0.7 ימים. הם לא מקטינים את הסיכון לדלקת ריאות ולאישפוז.
+המכירות של טמיפלו הסתכמו ביותר מ-18 מיליארד דולר. רוב המלאי לא נוצל. התכשירים אינם מומלצים אם עברו יותר מ-48 שעות מהופעת התסמינים.</description>
+    </item>
+    
+    <item>
+      <title>Vitamin D for influenza</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/influenza/091-vitamin-d-for-influenza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/091-vitamin-d-for-influenza/</guid>
+      <description>טמיפלו ורלנזה - אלה שני תכשירים שגורמים ליותר נזק מאשר תועלת. ראיתי מקרים רבים של הקאות, שלשולים, הזיות ופגיעה בתפקוד קוגניטיבי במטופלים בבתי אבות וכן בצוותים הרפואים. הפסקת השימוש בתכשירים אלה תוביל לחיסכון עצום במשאבים.
+המכון לרפואה האמריקאי (IOM) ממליץ לאנשים מתחת לגיל 70 ליטול ויטמין D במינון של 600IE. זה יאפשר ל-97.5% מהם להגיע לרמה מעל 50nmol/L. אבל ההמלצה הזאת מבוססת על שגיאה סטטיסטית, וכדי להשיג את הערכים האלה יש ליטול 8800IE.</description>
+    </item>
+    
+  </channel>
+</rss>

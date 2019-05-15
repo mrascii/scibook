@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Краснуха on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%85%D0%B0/</link>
+    <description>Recent content in Краснуха on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%85%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Possible effect of measles on leukaemia</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/060-possible-effect-of-measles-on-leukaemia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/060-possible-effect-of-measles-on-leukaemia/</guid>
+      <description>Из четырех случаев лимфобластного лейкоза в 1965 году, двое умерли, а двое заболели корью во время лечения и до сих пор живы. Одна девочка заболела в придачу к кори еще и краснухой. Автор считает, что возможно и у вируса краснухи есть благотворный эффект.</description>
+    </item>
+    
+  </channel>
+</rss>

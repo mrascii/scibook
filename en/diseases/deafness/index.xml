@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deafness on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/deafness/</link>
+    <description>Recent content in Deafness on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/deafness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reports of sensorineural deafness after measles, mumps, and rubella immunization</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/006-reports-of-sensorineural-deafness-after-measles-mumps-and-rubella-immunization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/006-reports-of-sensorineural-deafness-after-measles-mumps-and-rubella-immunization/</guid>
+      <description>Here is the description of 9 cases of deafness after the MMR vaccine within four years of vaccination. The authors conclude that in 3 cases deafness was unrelated to the vaccine (but they do not provide an explanation for this conclusion), and in 6 other cases it may or may not have been related to the vaccine.
+Since unilateral deafness is hard to diagnose in children, and they get vaccinated at the age of 12 months, there may have been other cases that were missed.</description>
+    </item>
+    
+  </channel>
+</rss>

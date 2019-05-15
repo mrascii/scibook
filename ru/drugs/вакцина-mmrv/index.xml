@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Вакцина MMRV on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/drugs/%D0%B2%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B0-mmrv/</link>
+    <description>Recent content in Вакцина MMRV on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/drugs/%D0%B2%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B0-mmrv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/008/</guid>
+      <description>Вакцина от кори всегда является частью трехвалентной вакцины MMR (КПК) (с краснухой и свинкой), или четыреxвалентой вакцины MMRV (с краснухой, свинкой и ветрянкой). Моновалентной вакцины от кори в развитых странах не производят, но в России и в некоторых странах третьего мира она вроде всё ещё доступна. Обычно дают две дозы — в 12 месяцев и в 5-6 лет.
+В отличие от неживых вакцин, которые мы рассматривали до сих пор, корь это ослабленная вакцина, которая содержит живой вирус.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/098/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/098/</guid>
+      <description>Согласно VAERS, с 2000 года в США после прививки MMR или MMRV умерли 174 человека и 742 стали инвалидами. От кори за это время умерли 4 человека. В 2015 году был первый случай смерти от кори за последние 12 лет (женщины с подавленным химиотерапией иммунитетом). До этого были два случая смерти в начале 2000-х: мальчика с подавленным иммунитетом и 75-летнего мужчины.
+А от гриппа в США умирают тысячи человек в год.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/mumps/017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/mumps/017/</guid>
+      <description>В 2010-м году двое вирусологов работавших ранее в Merck подали на компанию в суд. Они заявили, что Merck подделывала результаты клинических испытаний вакцины от свинки, что позволило компании оставаться единственным производителем MMR в США.
+В иске заявляется, что Merck организовала фиктивную программу тестирования вакцины в конце 90-х. Компания обязывала ученых участвовать в программе, обещала им высокие премии, если вакцина пройдет сертификацию, и угрожала тюрьмой, если они сообщат об этом мошенничестве в FDA.</description>
+    </item>
+    
+    <item>
+      <title>Measles, mumps, rubella, and varicella combination vaccine: safety and immunogenicity alone and in combination with other vaccines given to children. Measles, Mumps, Rubella, Varicella Vaccine Study Group</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/012-measles-mumps-rubella-and-varicella-combination-vaccine-safety-and-immunogenicity-alone-and-in-combination-with-other-vaccines-given-to-children.-measles-mumps-rubella-varicella-vaccine-study-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/012-measles-mumps-rubella-and-varicella-combination-vaccine-safety-and-immunogenicity-alone-and-in-combination-with-other-vaccines-given-to-children.-measles-mumps-rubella-varicella-vaccine-study-group/</guid>
+      <description>После МMRV образуется значительно меньше антител от ветрянки, чем после отдельной вакцины, но больше антител от кори по сравнению с MMR. Еще: [1].</description>
+    </item>
+    
+  </channel>
+</rss>

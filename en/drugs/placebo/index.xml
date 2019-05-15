@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Placebo on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/drugs/placebo/</link>
+    <description>Recent content in Placebo on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/drugs/placebo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing vaccines in pediatric research subjects</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/006-testing-vaccines-in-pediatric-research-subjects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/006-testing-vaccines-in-pediatric-research-subjects/</guid>
+      <description>In 1930, two doctors from the German city of Lübeck decided to vaccinate children en masse against tuberculosis with the BCG vaccine which, although it had been available since 1921, had not really been used. In the 12 months of this campaign, 208 children contracted tuberculosis due to the vaccinations, and 77 died. The doctors were arrested and convicted of murder.
+This led to discussion on the use of children in medical experiments.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s in placebos: who knows? Analysis of randomized, controlled trials</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/placebo/005-whats-in-placebos-who-knows-analysis-of-randomized-controlled-trials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/placebo/005-whats-in-placebos-who-knows-analysis-of-randomized-controlled-trials/</guid>
+      <description>Inert substances do not exist, and no norms exist for what a placebo must consist of. This, of course, affects the results of the studies.
+There is no requirement to disclose the contents of placebo used in clinical trials. Medical journals do not require this information either.
+The authors analysed 167 clinical studies, published in four of the most prestigious medical journals. Most of the clinical studies did not disclose the composition of the placebo.</description>
+    </item>
+    
+  </channel>
+</rss>

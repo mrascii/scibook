@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Энцефалопатия on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BD%D1%86%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F/</link>
+    <description>Recent content in Энцефалопатия on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D1%8D%D0%BD%D1%86%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/009/</guid>
+      <description>Первая вакцина от кори была неживая, но через несколько лет массивного использования оказалось, что она приводит к атипичной кори, а также к пневмонии и к энцефалопатии. Первые ослабленные вакцины были настолько сильными, что вместе с вакциной кололи также иммуноглобулин, поэтому в 1965-м и в 1967-м вакцину ослабляли еще больше.</description>
+    </item>
+    
+    <item>
+      <title>Acute encephalopathy followed by permanent brain injury or death associated with further attenuated measles vaccines: a review of claims submitted to the National Vaccine Injury Compensation Program</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/087-acute-encephalopathy-followed-by-permanent-brain-injury-or-death-associated-with-further-attenuated-measles-vaccines-a-review-of-claims-submitted-to-the-national-vaccine-injury-compensation-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/087-acute-encephalopathy-followed-by-permanent-brain-injury-or-death-associated-with-further-attenuated-measles-vaccines-a-review-of-claims-submitted-to-the-national-vaccine-injury-compensation-program/</guid>
+      <description>Исследование 48 детей с энцефалопатией после MMR. Авторы заключают, что между MMR и энцефалопатией скорее всего существует причинно-следственная связь.</description>
+    </item>
+    
+    <item>
+      <title>Adverse Reactions Following Immunization with MMR Vaccine in Children at Selected Provinces of Iran</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/083-adverse-reactions-following-immunization-with-mmr-vaccine-in-children-at-selected-provinces-of-iran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/083-adverse-reactions-following-immunization-with-mmr-vaccine-in-children-at-selected-provinces-of-iran/</guid>
+      <description>Исследование побочных эффектов MMR в Иране (43 тысячи привитых детей). У 1.8% начался паротит. У двух была энцефалопатия, и еще у двух анафилактический шок. То есть риск энцефалопатии и анафилактического шока составляет примерно 1 на 20,000, а не 1 на миллион, как обычно любят заявлять.
+Риск конвульсий (не фебрильных) был 1 на 2000 вакцинаций у младенцев. Риск фебрильных судорог — 1 на 1750.</description>
+    </item>
+    
+  </channel>
+</rss>

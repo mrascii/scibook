@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venezuela on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/venezuela/</link>
+    <description>Recent content in Venezuela on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/venezuela/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/026/</guid>
+      <description>In 2016, 25 years after diphtheria has been fully eradicated, a diphtheria outbreak began in Venezuela. Since the vaccination coverage there was only increasing, each year, and given the humanitarian crisis currently happening there, it is hard to blame the outbreak on the lack of vaccination. However, WHO wouldn’t be WHO if they let the facts confuse them.</description>
+    </item>
+    
+  </channel>
+</rss>

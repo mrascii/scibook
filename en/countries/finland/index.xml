@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finland on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/finland/</link>
+    <description>Recent content in Finland on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/finland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Epidemiology of three cases of severe diphtheria in Finnish patients with low antitoxin antibody levels</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/024-epidemiology-of-three-cases-of-severe-diphtheria-in-finnish-patients-with-low-antitoxin-antibody-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/024-epidemiology-of-three-cases-of-severe-diphtheria-in-finnish-patients-with-low-antitoxin-antibody-levels/</guid>
+      <description>In the 90s, due to the opening of borders, a flood of tourists poured from Finland to Russia and from Russia to Finland. 400 thousand Finns visited Russia every year, and 200 thousand Russians visited Finland. 10 million trips were made. Despite the epidemic in Russia, only 10 Finns contracted diphtheria in Russia. Almost all of them were middle-aged men; only three of them had a severe form (described below), five had a mild form, and two were only carriers.</description>
+    </item>
+    
+  </channel>
+</rss>

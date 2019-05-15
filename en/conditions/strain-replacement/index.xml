@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strain replacement on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/conditions/strain-replacement/</link>
+    <description>Recent content in Strain replacement on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/conditions/strain-replacement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prevalence of HPV After the Introduction of the Vaccination Program in the United States</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/papilloma/017-prevalence-of-hpv-after-the-introduction-of-the-vaccination-program-in-the-united-states/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/papilloma/017-prevalence-of-hpv-after-the-introduction-of-the-vaccination-program-in-the-united-states/</guid>
+      <description>Nature abhors a vacuum. By preventing girls from getting the infection from two or four strains of HPV, the vaccine only causes them to be replaced with other strains.
+There is a decrease in prevalence of the four strains of HPV in young girls, but there is no change in the prevalence of HPV, taking into account all strains of the virus.</description>
+    </item>
+    
+    <item>
+      <title>Shift in the prevalence of HPV types in cervical cytology specimens in the era of HPV vaccination</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/papilloma/018-shift-in-the-prevalence-of-hpv-types-in-cervical-cytology-specimens-in-the-era-of-hpv-vaccination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/papilloma/018-shift-in-the-prevalence-of-hpv-types-in-cervical-cytology-specimens-in-the-era-of-hpv-vaccination/</guid>
+      <description>Oncogenic strains of HPV, 16 and 18, have been replaced with other oncogenic strains: 31, 51, 53, 56 and 66.
+Three more studies with the same conclusions in [Italy==https://www.ncbi.nlm. nih.gov/pmc/articles/PMC3599585/], Netherlands and [the USA==https://www.ncbi .nlm.nih.gov/pmc/articles/PMC4635939/].</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pancreatitis on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/diseases/pancreatitis/</link>
+    <description>Recent content in Pancreatitis on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/diseases/pancreatitis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Waning immunity against mumps in vaccinated young adults, France 2013</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/011-waning-immunity-against-mumps-in-vaccinated-young-adults-france-2013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/011-waning-immunity-against-mumps-in-vaccinated-young-adults-france-2013/</guid>
+      <description>In 2013, 15 mumps outbreaks were registered in France. 72% of the cases had been vaccinated twice. The effectiveness of the vaccine was 49% for one dose and 55% for two doses.
+Among those who had been vaccinated once, the risk of getting mumps increased by 7% for every year that had passed since the vaccination.
+Among those who had been vaccinated twice, the risk of getting mumps increased by 10% for every year that had passed after the second dose.</description>
+    </item>
+    
+  </channel>
+</rss>

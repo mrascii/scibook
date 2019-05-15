@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Менингококк on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA/</link>
+    <description>Recent content in Менингококк on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/diseases/%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%BA%D0%BE%D0%BA%D0%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inhibitory and Bactericidal Effects of Hydrogen Peroxide Production by Streptococcus pneumoniae on Other Inhabitants of the Upper Respiratory Tract</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/016-inhibitory-and-bactericidal-effects-of-hydrogen-peroxide-production-by-streptococcus-pneumoniae-on-other-inhabitants-of-the-upper-respiratory-tract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/016-inhibitory-and-bactericidal-effects-of-hydrogen-peroxide-production-by-streptococcus-pneumoniae-on-other-inhabitants-of-the-upper-respiratory-tract/</guid>
+      <description>In vitro, пневмококк обладает бактерицидным воздействием на гемофильную палочку. Пневмококк выделяет пероксид водорода, который и убивает гемофильную палочку. Пневмококк обладает также ингибирующим воздействием на менингококковую бактерию, которая тоже погибает при воздействии пероксидом водорода, хотя для этого необходима более высокая его концентрация.
+Выработка пневмококком пероксида водорода коррелирует с концентрацией кислорода в окружающей среде.
+Другие бактерии, которые выделяют пероксид водорода — это лактобациллы и оральные стрептококки.
+Бактерии, которых убивает или ингибирует перекись водорода — это золотистый стафилококк, гонококк (бактерия вызывающая гонорею) и дифтерийная палочка.</description>
+    </item>
+    
+    <item>
+      <title>Rising rate of pneumococcal bacteremia at the Children&#39;s Hospital of Philadelphia</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/015-rising-rate-of-pneumococcal-bacteremia-at-the-childrens-hospital-of-philadelphia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/015-rising-rate-of-pneumococcal-bacteremia-at-the-childrens-hospital-of-philadelphia/</guid>
+      <description>За пять лет после начала вакцинации от Hib, заболеваемость пневмококковой бактериемией в Филадельфии выросла в 2 раза (с 38 до 73 случаев в год). Заболеваемость гемофильной бактериемией снизилась с 34 до 9 случаев в год, а заболеваемость менингококковой бактериемией не изменилась (3 случая в год).
+Заболеваемость пневмококковым менингитом увеличилась на 50% (с 5.2 до 7.6 случаев в год). Заболеваемость гемофильным менингитом снизилась с 18 до 5.6 случаев в год, а заболеваемость менингококковым менингитом не изменилась (3 случая в год).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Новая Зеландия on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/countries/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F/</link>
+    <description>Recent content in Новая Зеландия on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/countries/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B7%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Antibody persistence following MeNZB vaccination of adults and children and response to a fourth dose in toddlers</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/022-antibody-persistence-following-menzb-vaccination-of-adults-and-children-and-response-to-a-fourth-dose-in-toddlers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/022-antibody-persistence-following-menzb-vaccination-of-adults-and-children-and-response-to-a-fourth-dose-in-toddlers/</guid>
+      <description>В 1991 году в Новой Зеландии началась эпидемия менингококка серогруппы В. В 2001 она достигла своего пика, и пошла на убыль.
+К 2004-му году была разработана специальная вакцина для новозеландского штамма. Так как проводить рандомизированные испытания во время эпидемии посчитали неэтичным, в 2004 году была начата кампания вакцинации всех детей с 6-недельного возраста до 19 лет. К 2006-му году были привиты 80% детей, и кампания была прекращена.
+Через 7 месяцев после третьей дозы вакцины, количество антител у младенцев вернулось практически к первоначальному уровню.</description>
+    </item>
+    
+    <item>
+      <title>BCG vaccination and the subsequent development of cancer in humans</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/020-bcg-vaccination-and-the-subsequent-development-of-cancer-in-humans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/020-bcg-vaccination-and-the-subsequent-development-of-cancer-in-humans/</guid>
+      <description>Но если смотреть на все виды рака, то вакцинация БЦЖ была ассоциирована с повышениям риска онкологических заболеваний на 13%. Еще: [1] [2] [3]
+После того, как на южном острове Новой Зеландии перестали прививать БЦЖ, а на северном острове продолжили, смертность от неходжкинской лимфомы на северном острове увеличилась, а на южном острове уменьшилась, хотя до этого она была одинакова. Авторы заключают, что предложения использовать БЦЖ против лейкемии неблагоразумны.</description>
+    </item>
+    
+    <item>
+      <title>Is infant immunization a risk factor for childhood asthma or allergy?</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/005-is-infant-immunization-a-risk-factor-for-childhood-asthma-or-allergy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/005-is-infant-immunization-a-risk-factor-for-childhood-asthma-or-allergy/</guid>
+      <description>Новая Зеландия, 23 непривитых (от DTP и полио) из 1265 десятилетних детей. Среди привитых у 23% была астма, 22% консультировались насчет астмы, и у 30% была аллергия.
+Среди непривитых не было ни одного случая астмы, ни консультаций насчет астмы, ни аллергий.</description>
+    </item>
+    
+    <item>
+      <title>Unvaccinated children are healthier</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/009-unvaccinated-children-are-healthier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/009-unvaccinated-children-are-healthier/</guid>
+      <description>Опрос в Новой Зеландии. 226 привитых детей и 269 непривитых.
+У привитых в 5 раз чаще была астма, в 10 раз чаще ангина, в 2 раза чаще экзема, в 4 раза чаще апноэ, в 4 раза чаще гиперактивность, в 4 раза чаще отит, и им в 8 раз чаще вставляли ушную дренажную трубку.
+У 5% привитых удаляли миндалины. Среди непривитых не было удаления мигдалин.
+У 1.7% привитых была эпилепсия. Среди непривитых не было случаев эпилепсии.</description>
+    </item>
+    
+  </channel>
+</rss>

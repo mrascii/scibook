@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Норвегия on SciBook: анализ публикуемой информации о прививках</title>
+    <link>https://mrascii.github.io/scibook/ru/countries/%D0%BD%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F/</link>
+    <description>Recent content in Норвегия on SciBook: анализ публикуемой информации о прививках</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/ru/countries/%D0%BD%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effect of outer membrane vesicle vaccine against group B meningococcal disease in Norway</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/020-effect-of-outer-membrane-vesicle-vaccine-against-group-b-meningococcal-disease-in-norway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/020-effect-of-outer-membrane-vesicle-vaccine-against-group-b-meningococcal-disease-in-norway/</guid>
+      <description>В Норвегии наблюдается самая высокая заболеваемость менингококковой инфекцией в Европе, и 80% случаев приходятся на серогруппу В. (В 1970/80-х там была эпидемия, и заболеваемость составляла 1 на 14-21,000).
+Было проведено двойное-слепое рандомизированное исследование (170,000 человек) вакциной на основе белков наружной мембраны (OMV). В качестве плацебо использовался гидроксид алюминия.
+Эффективность вакцины составила всего 57%, поэтому ее решили не вносить в календарь прививок.</description>
+    </item>
+    
+    <item>
+      <title>Increase in pneumococcal bacteraemia in Sweden</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/013-increase-in-pneumococcal-bacteraemia-in-sweden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/013-increase-in-pneumococcal-bacteraemia-in-sweden/</guid>
+      <description>Между 1990 и 1995 заболеваемость пневмококковой бактериемией среди взрослых в Швеции выросла в 2.6 раз. То же самое наблюдалось и в Норвегии.</description>
+    </item>
+    
+  </channel>
+</rss>

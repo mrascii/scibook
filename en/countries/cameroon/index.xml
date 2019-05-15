@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cameroon on SciBook: analysis of published information about vaccinations and infections</title>
+    <link>https://mrascii.github.io/scibook/en/countries/cameroon/</link>
+    <description>Recent content in Cameroon on SciBook: analysis of published information about vaccinations and infections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© amantonio, scibook.org 2017–2019</copyright>
+    
+	<atom:link href="https://mrascii.github.io/scibook/en/countries/cameroon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frequent failure of adolescent booster responses to tetanus toxoid despite infant immunization: Waning of infancy-induced immune memory?</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/041-frequent-failure-of-adolescent-booster-responses-to-tetanus-toxoid-despite-infant-immunization-waning-of-infancy-induced-immune-memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/041-frequent-failure-of-adolescent-booster-responses-to-tetanus-toxoid-despite-infant-immunization-waning-of-infancy-induced-immune-memory/</guid>
+      <description>Booster vaccines are less effective for those who got their tetanus vaccine during infancy, as compared to those who got vaccinated later in life.</description>
+    </item>
+    
+  </channel>
+</rss>
