@@ -29,7 +29,7 @@
 </section>
 
 {{ range $category, $unused := site.Taxonomies }}
-<dl class="keywords">
+<dl class="tags">
   {{ $pageTags := $.Param $category }}
   {{ if $pageTags }}
   <dt>{{ $category }}</dt>

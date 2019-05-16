@@ -1,0 +1,5 @@
+{{- $tags := .Params.countries -}}
+{{- with .Params.diseases }}{{ $tags = union . $tags }}{{ end -}}
+{{- with .Params.conditions }}{{ $tags = union . $tags }}{{ end -}}
+{{- with .Params.drugs }}{{ $tags = union . $tags }}{{ end -}}
+{{- return $tags -}}

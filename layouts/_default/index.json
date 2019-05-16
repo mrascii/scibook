@@ -6,7 +6,7 @@
       "section": {{ .Parent.Title | jsonify }},
       "title": {{ .Title | jsonify }},
       "content": {{ replace .Plain "\n" " " | strings.TrimSuffix " " | jsonify }},
-      "tags": {{ $tags := partial "get/keywords" . }}{{ if $tags }}{{ delimit $tags ", " | jsonify }}{{ else }}""{{ end }}
+      "tags": {{ $tags := partial "get/tags" . }}{{ if $tags }}{{ delimit $tags ", " | jsonify }}{{ else }}""{{ end }}
     }
   {{- end}}
 ]
