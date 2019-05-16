@@ -5,4 +5,3 @@ enableGitInfo: true
 outputs:
   home:
   - HTML
-  - SearchIndex
