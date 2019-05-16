@@ -5,7 +5,7 @@ article:
   type: article
   authors: Levy
   year: 1984
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/6741921
   pubmed: 6741921
 ---

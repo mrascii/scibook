@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cohen
   year: 2009
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/bmj/section-pdf/186422?path=/bmj/339/7734/Feature.full.pdf
   pubmed: 19995818
 drugs:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Stajich
   year: 2000
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/10802503
   pubmed: 10802503
 countries:

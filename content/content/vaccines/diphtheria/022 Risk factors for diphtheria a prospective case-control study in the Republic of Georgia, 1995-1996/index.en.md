@@ -5,7 +5,7 @@ article:
   type: article
   authors: Quick
   year: 2000
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/10657203
   pubmed: 10657203
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mandal
   year: 2013
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/23595832
   pubmed: 23595832
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2005
-  magazine: Autoimmunity
+  journal: Autoimmunity
   link: https://www.ncbi.nlm.nih.gov/pubmed/16206512
   pubmed: 16206512
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Luyten
   year: 2014
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/25454883
   pubmed: 25454883
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Jones
   year: 2004
-  magazine: J Perinat Educ
+  journal: J Perinat Educ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595182/
   pubmed: PMC1595182
 ---

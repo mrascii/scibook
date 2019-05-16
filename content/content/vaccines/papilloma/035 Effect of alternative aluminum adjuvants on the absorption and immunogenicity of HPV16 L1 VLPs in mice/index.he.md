@@ -5,7 +5,7 @@ article:
   type: article
   authors: Caulfield
   year: 2007
-  magazine: Hum Vaccin
+  journal: Hum Vaccin
   link: https://www.ncbi.nlm.nih.gov/pubmed/17581283
   pubmed: 17581283
 drugs:

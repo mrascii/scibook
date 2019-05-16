@@ -6,7 +6,7 @@ article:
   type: article
   authors: Beebeejaun
   year: 2017
-  magazine: Euro Surveill
+  journal: Euro Surveill
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5388117/
   pubmed: PMC5388117
 conditions:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Hemming
   year: 2014
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/24326415
   pubmed: 24326415
 conditions:

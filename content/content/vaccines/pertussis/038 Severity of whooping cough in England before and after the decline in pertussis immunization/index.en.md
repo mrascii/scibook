@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pollock
   year: 1984
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1628449/
   pubmed: PMC1628449
 drugs:

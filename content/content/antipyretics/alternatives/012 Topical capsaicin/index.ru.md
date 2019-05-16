@@ -5,7 +5,7 @@ article:
   type: article
   authors: Derry
   year: 2017
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/28085183
   pubmed: 28085183
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Matricardi
   year: 1997
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2126410/
   pubmed: PMC2126410
 diseases:

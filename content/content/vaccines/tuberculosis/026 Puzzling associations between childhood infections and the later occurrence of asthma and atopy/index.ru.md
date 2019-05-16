@@ -5,7 +5,7 @@ article:
   type: article
   authors: von Hertzen
   year: 2000
-  magazine: Ann Med
+  journal: Ann Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/11028687
   pubmed: 11028687
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bruyn
   year: 1957
-  magazine: Calif Med
+  journal: Calif Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1512024/
   pubmed: PMC1512024
 diseases:

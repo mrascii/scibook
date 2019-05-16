@@ -5,7 +5,7 @@ article:
   type: article
   authors: Menten
   year: 1935
-  magazine: J. Nutr
+  journal: J. Nutr
   link: https://www.cabdirect.org/cabdirect/abstract/19351405461
 drugs:
 - Vitamin C

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Aaby
   year: 2002
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/12443670
   pubmed: 12443670
 countries:

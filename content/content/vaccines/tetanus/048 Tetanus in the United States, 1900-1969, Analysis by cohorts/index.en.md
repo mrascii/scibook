@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fraser
   year: 1972
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/5074684
   pubmed: 5074684
 countries:

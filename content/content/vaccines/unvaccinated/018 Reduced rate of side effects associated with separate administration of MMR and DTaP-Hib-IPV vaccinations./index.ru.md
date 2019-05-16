@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shneyer
   year: 2009
-  magazine: Isr Med Assoc J
+  journal: Isr Med Assoc J
   link: https://www.ncbi.nlm.nih.gov/pubmed/20166340
   pubmed: 20166340
 countries:

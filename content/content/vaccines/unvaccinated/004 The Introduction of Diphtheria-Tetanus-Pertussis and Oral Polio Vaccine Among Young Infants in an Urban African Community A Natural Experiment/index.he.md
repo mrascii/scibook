@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mogensen
   year: 2017
-  magazine: EBioMedicine
+  journal: EBioMedicine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5360569
   pubmed: PMC5360569
 conditions:

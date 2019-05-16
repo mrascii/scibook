@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ota
   year: 2004
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/14670334
   pubmed: 2146315
 ---

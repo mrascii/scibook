@@ -5,7 +5,7 @@ article:
   type: article
   authors: Myers
   year: 2005
-  magazine: Cancer Gene Ther
+  journal: Cancer Gene Ther
   link: https://www.ncbi.nlm.nih.gov/pubmed/15746945
   pubmed: 15746945
 diseases:

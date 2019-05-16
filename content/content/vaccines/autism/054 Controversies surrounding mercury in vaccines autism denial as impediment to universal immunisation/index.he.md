@@ -5,7 +5,7 @@ article:
   type: article
   authors: Chhawchharia
   year: 2014
-  magazine: Indian J Med Ethics
+  journal: Indian J Med Ethics
   link: https://www.ncbi.nlm.nih.gov/pubmed/25377033
   pubmed: 25377033
 ---

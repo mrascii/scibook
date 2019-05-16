@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cramer
   year: 2011
-  magazine: Cancer Causes Control
+  journal: Cancer Causes Control
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951028/
   pubmed: PMC2951028
 diseases:

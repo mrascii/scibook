@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dey
   year: 1966
-  magazine: Naturwissenschaften
+  journal: Naturwissenschaften
   link: https://www.ncbi.nlm.nih.gov/pubmed/5986216
   pubmed: 5986216
 drugs:

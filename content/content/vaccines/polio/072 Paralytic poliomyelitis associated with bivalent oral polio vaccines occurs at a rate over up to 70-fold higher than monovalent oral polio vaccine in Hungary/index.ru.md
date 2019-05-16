@@ -5,7 +5,7 @@ article:
   type: article
   authors: Estívariz
   year: 2011
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: http://www.ncbi.nlm.nih.gov/pubmed/21685412
   pubmed: 21685412
 diseases:

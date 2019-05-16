@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mercer
   year: 2018
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.jpeds.com/article/S0022-3476(18)30775-3/abstract
   pubmed: 10.1016/j.jpeds.2018.06.006
 diseases:

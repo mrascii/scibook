@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hewitson
   year: 2010
-  magazine: J Toxicol Environ Health A
+  journal: J Toxicol Environ Health A
   link: https://www.ncbi.nlm.nih.gov/pubmed/20711932
   pubmed: 20711932
 ---

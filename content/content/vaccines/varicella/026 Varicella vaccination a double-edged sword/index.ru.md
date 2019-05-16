@@ -5,7 +5,7 @@ article:
   type: article
   authors: Edmunds
   year: 2002
-  magazine: Commun Dis Public Health
+  journal: Commun Dis Public Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/12434688
   pubmed: 12434688
 diseases:

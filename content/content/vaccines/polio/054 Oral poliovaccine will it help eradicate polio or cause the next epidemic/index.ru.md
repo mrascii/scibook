@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shulman
   year: 2006
-  magazine: Isr Med Assoc J
+  journal: Isr Med Assoc J
   link: https://www.ncbi.nlm.nih.gov/pubmed/16805227
   pubmed: 16805227
 conditions:

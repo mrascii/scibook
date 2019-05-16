@@ -5,7 +5,7 @@ article:
   type: article
   authors: Martín
   year: 2005
-  magazine: Biologicals
+  journal: Biologicals
   link: https://www.ncbi.nlm.nih.gov/pubmed/16650772
   pubmed: 16650772
 conditions:

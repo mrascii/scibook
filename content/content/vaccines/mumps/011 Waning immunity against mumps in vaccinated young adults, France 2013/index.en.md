@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vygen
   year: 2016
-  magazine: Euro Surveill
+  journal: Euro Surveill
   link: https://www.ncbi.nlm.nih.gov/pubmed/26987576
   pubmed: 26987576
 diseases:

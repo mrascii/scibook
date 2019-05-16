@@ -5,7 +5,7 @@ article:
   type: article
   authors: Weibel
   year: 1998
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/9481001
   pubmed: 9481001
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bergfors
   year: 2014
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/24752308
   pubmed: 24752308
 ---

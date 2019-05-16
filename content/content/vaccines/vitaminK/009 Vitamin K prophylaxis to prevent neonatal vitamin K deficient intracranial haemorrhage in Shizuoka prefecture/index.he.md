@@ -6,7 +6,7 @@ article:
   type: article
   authors: Nishiguchi
   year: 1996
-  magazine: Br J Obstet Gynaecol
+  journal: Br J Obstet Gynaecol
   link: https://www.ncbi.nlm.nih.gov/pubmed/8916992
   pubmed: 8916992
 countries:

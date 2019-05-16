@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kugelman
   year: 2018
-  magazine: Rambam Maimonides Med J
+  journal: Rambam Maimonides Med J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115478
   pubmed: PMC6115478
 ---

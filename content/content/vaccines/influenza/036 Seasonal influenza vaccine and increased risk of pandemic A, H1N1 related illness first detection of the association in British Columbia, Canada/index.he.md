@@ -6,7 +6,7 @@ article:
   type: article
   authors: Janjua
   year: 2010
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/20887210
   pubmed: 20887210
 diseases:

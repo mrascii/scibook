@@ -5,7 +5,7 @@ article:
   type: article
   authors: Smith
   year: 2007
-  magazine: J Neurosci
+  journal: J Neurosci
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2387067
   pubmed: PMC2387067
 drugs:

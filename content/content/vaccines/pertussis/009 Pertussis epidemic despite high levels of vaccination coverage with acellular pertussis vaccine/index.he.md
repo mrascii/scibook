@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sala-Farré
   year: 2013
-  magazine: Enferm Infecc Microbiol Clin.
+  journal: Enferm Infecc Microbiol Clin.
   link: https://www.ncbi.nlm.nih.gov/pubmed/24216286
   pubmed: 24216286
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zinsser
   year: 2018
-  magazine: Women Birth
+  journal: Women Birth
   link: https://www.ncbi.nlm.nih.gov/pubmed/28882580
   pubmed: 28882580
 ---

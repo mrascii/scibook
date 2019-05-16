@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cramer
   year: 2013
-  magazine: Clin J Pain
+  journal: Clin J Pain
   link: https://www.ncbi.nlm.nih.gov/pubmed/23246998
   pubmed: 23246998
 ---

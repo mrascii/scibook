@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sánchez
   year: 1997
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/9152284/
   pubmed: 9152284
 ---

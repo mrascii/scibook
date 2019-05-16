@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lee
   year: 2006
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/16625613
   pubmed: 16625613
 ---

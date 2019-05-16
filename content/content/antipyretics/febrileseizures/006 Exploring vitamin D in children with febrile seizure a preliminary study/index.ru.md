@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shariatpanahi
   year: 2018
-  magazine: Int J Pediatr
+  journal: Int J Pediatr
   link: https://ijp.mums.ac.ir/article_10506.html
 diseases:
 - Фебрильные Судороги

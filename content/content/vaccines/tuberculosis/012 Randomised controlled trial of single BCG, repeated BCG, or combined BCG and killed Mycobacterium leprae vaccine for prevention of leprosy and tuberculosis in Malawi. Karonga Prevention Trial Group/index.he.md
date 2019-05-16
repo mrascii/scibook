@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 1996
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/8691924
   pubmed: 8691924
 countries:

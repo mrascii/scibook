@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bai
   year: 2002
-  magazine: Indian Pediatr
+  journal: Indian Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/12037277
   pubmed: 12037277
 countries:

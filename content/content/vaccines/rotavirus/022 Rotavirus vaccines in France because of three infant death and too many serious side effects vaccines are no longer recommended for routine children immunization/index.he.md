@@ -5,7 +5,7 @@ article:
   type: article
   authors: Michal-Teitelbaum
   year: 2015
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/350/bmj.h2867/rr-1
 diseases:
 - התפשלות מעיים

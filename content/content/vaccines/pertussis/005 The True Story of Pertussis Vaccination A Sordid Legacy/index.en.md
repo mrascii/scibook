@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2002
-  magazine: J Hist Med Allied Sci.
+  journal: J Hist Med Allied Sci.
   link: https://www.researchgate.net/publication/11177062_The_True_Story_of_Pertussis_Vaccination_A_Sordid_Legacy
   pubmed: 12211972
 drugs:

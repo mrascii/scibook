@@ -5,7 +5,7 @@ article:
   type: article
   authors: Linhart
   year: 2017
-  magazine: EBioMedicine
+  journal: EBioMedicine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5514401
   pubmed: PMC5514401
 ---

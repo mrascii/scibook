@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pandolfi
   year: 2017
-  magazine: Eur J Public Health
+  journal: Eur J Public Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/28204465
   pubmed: 28204465
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Langmuir
   year: 1962
-  magazine: Am J Public Health Nations Health
+  journal: Am J Public Health Nations Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1522578
   pubmed: PMC1522578
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: CNT Collaboration
   year: 2013
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/23726390
   pubmed: 23726390
 ---

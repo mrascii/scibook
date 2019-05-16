@@ -5,7 +5,7 @@ article:
   type: article
   authors: Birck
   year: 2009
-  magazine: J Clin Rheumatol
+  journal: J Clin Rheumatol
   link: https://www.ncbi.nlm.nih.gov/pubmed/19734734
   pubmed: 19734734
 ---

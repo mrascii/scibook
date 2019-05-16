@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sullivan
   year: 1984
-  magazine: Neurology
+  journal: Neurology
   link: https://www.ncbi.nlm.nih.gov/pubmed/6540400
   pubmed: 6540400
 diseases:

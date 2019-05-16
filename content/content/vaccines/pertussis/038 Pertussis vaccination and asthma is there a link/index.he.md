@@ -5,7 +5,7 @@ article:
   type: article
   authors: Odent
   year: 1994
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/8057511
   pubmed: 8057511
 diseases:

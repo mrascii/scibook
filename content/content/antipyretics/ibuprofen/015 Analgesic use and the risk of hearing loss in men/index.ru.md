@@ -5,7 +5,7 @@ article:
   type: article
   authors: Curhan
   year: 2010
-  magazine: Am J Med
+  journal: Am J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/20193831
   pubmed: 20193831
 ---

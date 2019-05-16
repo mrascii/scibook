@@ -5,7 +5,7 @@ article:
   type: article
   authors: Best
   year: 1991
-  magazine: Epidemiol Infect
+  journal: Epidemiol Infect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2272034
   pubmed: PMC2272034
 ---

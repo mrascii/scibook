@@ -5,7 +5,7 @@ article:
   type: article
   authors: Puliyel
   year: 2018
-  magazine: Indian J Med Ethics
+  journal: Indian J Med Ethics
   link: https://www.ncbi.nlm.nih.gov/pubmed/28918379
   pubmed: 28918379
 diseases:

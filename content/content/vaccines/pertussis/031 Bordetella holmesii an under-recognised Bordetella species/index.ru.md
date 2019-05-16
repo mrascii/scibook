@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pittet
   year: 2014
-  magazine: Lancet Infect Dis
+  journal: Lancet Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/24721229
   pubmed: 24721229
 ---

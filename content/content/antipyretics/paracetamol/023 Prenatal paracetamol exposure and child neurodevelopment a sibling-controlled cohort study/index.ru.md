@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brandlistuen
   year: 2013
-  magazine: Int J Epidemiol
+  journal: Int J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3887567
   pubmed: PMC3887567
 ---

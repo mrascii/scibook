@@ -5,7 +5,7 @@ article:
   type: article
   authors: Little
   year: 2014
-  magazine: J Investig Med High Impact Case Rep
+  journal: J Investig Med High Impact Case Rep
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4528880/
   pubmed: PMC4528880
 conditions:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mergler
   year: 2013
-  magazine: Vaccines (Basel)
+  journal: Vaccines (Basel)
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4515582
   pubmed: PMC4515582
 countries:

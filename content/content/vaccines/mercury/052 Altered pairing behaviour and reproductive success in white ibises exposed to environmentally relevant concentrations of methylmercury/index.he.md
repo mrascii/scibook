@@ -6,7 +6,7 @@ article:
   type: article
   authors: Frederick
   year: 2011
-  magazine: Proc Biol Sci
+  journal: Proc Biol Sci
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3097836/
 ---
 

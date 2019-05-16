@@ -5,7 +5,7 @@ article:
   type: article
   authors: Israels
   year: 1995
-  magazine: Semin Thromb Hemost
+  journal: Semin Thromb Hemost
   link: https://www.ncbi.nlm.nih.gov/pubmed/8747698/
   pubmed: 8747698
 diseases:

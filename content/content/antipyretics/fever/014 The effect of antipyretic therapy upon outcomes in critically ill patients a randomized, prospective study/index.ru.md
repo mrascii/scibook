@@ -6,7 +6,7 @@ article:
   type: article
   authors: Schulman
   year: 2005
-  magazine: Surg Infect (Larchmt)
+  journal: Surg Infect (Larchmt)
   link: https://www.ncbi.nlm.nih.gov/pubmed/16433601
   pubmed: 16433601
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: CDC
   year: 2005
-  magazine: MMWR Morb Mortal Wkly Rep
+  journal: MMWR Morb Mortal Wkly Rep
   link: https://www.ncbi.nlm.nih.gov/pubmed/16224452
   pubmed: 16224452
 diseases:

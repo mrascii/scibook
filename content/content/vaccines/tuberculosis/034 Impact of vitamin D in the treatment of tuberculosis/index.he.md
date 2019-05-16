@@ -6,7 +6,7 @@ article:
   type: article
   authors: Luong
   year: 2011
-  magazine: Am J Med Sci
+  journal: Am J Med Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/21289501
   pubmed: 21289501
 drugs:

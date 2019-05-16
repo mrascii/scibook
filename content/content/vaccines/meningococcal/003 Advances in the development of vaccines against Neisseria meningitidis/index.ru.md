@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tan
   year: 2010
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: http://www.nejm.org/doi/full/10.1056/NEJMra0906357
   pubmed: 10.1056/NEJMra0906357
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gergen
   year: 1995
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/7862178
   pubmed: 7862178
 countries:

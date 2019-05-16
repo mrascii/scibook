@@ -6,7 +6,7 @@ article:
   type: article
   authors: Kc
   year: 2017
-  magazine: JAMA Pediatr
+  journal: JAMA Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/28114607
   pubmed: 28114607
 diseases:

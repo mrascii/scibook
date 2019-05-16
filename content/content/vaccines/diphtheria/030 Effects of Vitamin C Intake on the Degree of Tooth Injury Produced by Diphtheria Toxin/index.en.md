@@ -5,7 +5,7 @@ article:
   type: article
   authors: King
   year: 1940
-  magazine: Am. J. Public Health
+  journal: Am. J. Public Health
   link: http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.30.9.1068
   pubmed: 10.2105/AJPH.30.9.1068
 drugs:

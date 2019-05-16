@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fischer
   year: 2016
-  magazine: Oncol Lett
+  journal: Oncol Lett
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4907297/
   pubmed: PMC4907297
 conditions:

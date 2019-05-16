@@ -5,7 +5,7 @@ article:
   type: article
   authors: Davies
   year: 2016
-  magazine: Br J Ophthalmol
+  journal: Br J Ophthalmol
   link: https://www.ncbi.nlm.nih.gov/pubmed/26178905
   pubmed: 26178905
 diseases:

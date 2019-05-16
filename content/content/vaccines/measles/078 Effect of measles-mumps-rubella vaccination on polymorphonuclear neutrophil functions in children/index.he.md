@@ -5,7 +5,7 @@ article:
   type: article
   authors: Toraldo
   year: 1992
-  magazine: Acta Paediatr
+  journal: Acta Paediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/1467611
   pubmed: 1467611
 drugs:

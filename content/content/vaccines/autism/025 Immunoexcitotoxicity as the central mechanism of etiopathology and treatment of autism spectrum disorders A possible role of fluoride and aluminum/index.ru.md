@@ -5,7 +5,7 @@ article:
   type: article
   authors: Strunecka
   year: 2018
-  magazine: Surg Neurol Int
+  journal: Surg Neurol Int
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909100
   pubmed: PMC5909100
 ---

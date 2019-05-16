@@ -5,7 +5,7 @@ article:
   type: article
   authors: King
   year: 2006
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/17167135
   pubmed: 17167135
 ---

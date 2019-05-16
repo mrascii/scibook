@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dórea
   year: 2010
-  magazine: J Expo Sci Environ Epidemiol
+  journal: J Expo Sci Environ Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/20010978
   pubmed: 20010978
 conditions:

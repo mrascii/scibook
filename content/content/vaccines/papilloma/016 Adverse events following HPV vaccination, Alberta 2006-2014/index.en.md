@@ -5,7 +5,7 @@ article:
   type: article
   authors: Liu
   year: 2016
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/26921782
   pubmed: 26921782
 ---

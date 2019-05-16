@@ -5,7 +5,7 @@ article:
   type: article
   authors: da Cunha
   year: 2002
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/11803071
   pubmed: 11803071
 drugs:

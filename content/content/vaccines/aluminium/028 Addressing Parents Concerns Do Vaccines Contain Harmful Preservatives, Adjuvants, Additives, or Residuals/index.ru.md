@@ -5,7 +5,7 @@ article:
   type: article
   authors: Offit
   year: 2003
-  magazine: Pediatrics
+  journal: Pediatrics
   link: http://pediatrics.aappublications.org/content/112/6/1394
 drugs:
 - Алюминий

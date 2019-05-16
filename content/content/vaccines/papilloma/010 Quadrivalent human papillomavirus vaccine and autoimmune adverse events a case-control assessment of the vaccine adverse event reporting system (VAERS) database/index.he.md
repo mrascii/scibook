@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2017
-  magazine: Immunol Res
+  journal: Immunol Res
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5406441
   pubmed: 28730271
 ---

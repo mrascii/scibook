@@ -5,7 +5,7 @@ article:
   type: article
   authors: Maselle
   year: 1991
-  magazine: FEMS Microbiol Immunol.
+  journal: FEMS Microbiol Immunol.
   link: https://www.ncbi.nlm.nih.gov/pubmed/1878260
   pubmed: 1878260
 diseases:

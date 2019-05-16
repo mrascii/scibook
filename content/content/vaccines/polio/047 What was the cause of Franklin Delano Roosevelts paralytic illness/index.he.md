@@ -6,7 +6,7 @@ article:
   type: article
   authors: Goldman
   year: 2003
-  magazine: J Med Biogr
+  journal: J Med Biogr
   link: https://www.ncbi.nlm.nih.gov/pubmed/14562158
   pubmed: 14562158
 diseases:

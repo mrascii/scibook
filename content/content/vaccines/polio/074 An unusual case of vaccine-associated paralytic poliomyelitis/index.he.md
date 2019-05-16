@@ -5,7 +5,7 @@ article:
   type: article
   authors: Desai
   year: 2014
-  magazine: Can J Infect Dis Med Microbiol
+  journal: Can J Infect Dis Med Microbiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4173946
   pubmed: PMC4173946
 ---

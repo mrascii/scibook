@@ -5,7 +5,7 @@ article:
   type: article
   authors: Di Pierro
   year: 2017
-  magazine: Eur Rev Med Pharmacol Sci
+  journal: Eur Rev Med Pharmacol Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/29164565
   pubmed: 29164565
 ---

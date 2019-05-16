@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tseng
   year: 2017
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/28025240/
   pubmed: 28025240
 diseases:

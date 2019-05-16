@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mitkus
   year: 2011
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/22001122
   pubmed: 22001122
 ---

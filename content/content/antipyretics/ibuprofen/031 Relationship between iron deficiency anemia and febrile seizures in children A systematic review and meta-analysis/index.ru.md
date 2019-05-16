@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kwak
   year: 2017
-  magazine: Seizure
+  journal: Seizure
   link: https://www.ncbi.nlm.nih.gov/pubmed/28957722
   pubmed: 28957722
 diseases:

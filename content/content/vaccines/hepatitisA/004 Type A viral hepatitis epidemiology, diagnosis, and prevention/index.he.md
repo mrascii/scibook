@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lemon
   year: 1997
-  magazine: Clin Chem
+  journal: Clin Chem
   link: https://www.ncbi.nlm.nih.gov/pubmed/9265900
   pubmed: 9265900
 diseases:

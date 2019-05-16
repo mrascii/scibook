@@ -5,7 +5,7 @@ article:
   type: article
   authors: Petrovsky
   year: 2015
-  magazine: Drug Saf
+  journal: Drug Saf
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4615573
   pubmed: PMC4615573
 ---

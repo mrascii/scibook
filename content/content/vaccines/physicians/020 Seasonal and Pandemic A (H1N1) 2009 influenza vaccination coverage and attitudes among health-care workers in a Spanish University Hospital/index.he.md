@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vírseda
   year: 2010
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/20471438
   pubmed: 20471438
 conditions:

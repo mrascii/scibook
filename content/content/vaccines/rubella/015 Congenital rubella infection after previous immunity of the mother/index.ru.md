@@ -5,7 +5,7 @@ article:
   type: article
   authors: Saule
   year: 1988
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/3366138
   pubmed: 3366138
 ---

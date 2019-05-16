@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hamza
   year: 2012
-  magazine: Mol Biol Rep
+  journal: Mol Biol Rep
   link: https://www.ncbi.nlm.nih.gov/pubmed/21691704
   pubmed: 21691704
 ---

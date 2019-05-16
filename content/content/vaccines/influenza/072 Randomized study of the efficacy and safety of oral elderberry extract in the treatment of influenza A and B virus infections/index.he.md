@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zakay-Rones
   year: 2004
-  magazine: J Int Med Res
+  journal: J Int Med Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/15080016
   pubmed: 15080016
 drugs:

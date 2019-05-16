@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jeong
   year: 2016
-  magazine: J Virol Methods
+  journal: J Virol Methods
   link: https://www.ncbi.nlm.nih.gov/pubmed/27590978/
   pubmed: 27590978
 countries:

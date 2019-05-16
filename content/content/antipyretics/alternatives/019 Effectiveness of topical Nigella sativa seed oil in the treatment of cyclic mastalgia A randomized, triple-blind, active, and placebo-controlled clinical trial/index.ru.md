@@ -5,7 +5,7 @@ article:
   type: article
   authors: Huseini
   year: 2016
-  magazine: Planta Med
+  journal: Planta Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/26584456
   pubmed: 26584456
 ---

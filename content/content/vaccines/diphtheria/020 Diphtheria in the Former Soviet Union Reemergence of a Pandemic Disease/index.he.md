@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vitek
   year: 1998
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2640235
   pubmed: PMC2640235
 countries:

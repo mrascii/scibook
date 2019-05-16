@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hofstetter
   year: 2017
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/28392141
   pubmed: 28392141
 ---

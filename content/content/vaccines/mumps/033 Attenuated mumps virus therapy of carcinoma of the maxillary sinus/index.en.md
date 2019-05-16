@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sato
   year: 1979
-  magazine: Int J Oral Surg
+  journal: Int J Oral Surg
   link: https://www.ncbi.nlm.nih.gov/pubmed/118126
   pubmed: 118126
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ohmit
   year: 2015
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25416812/
   pubmed: 25416812
 ---

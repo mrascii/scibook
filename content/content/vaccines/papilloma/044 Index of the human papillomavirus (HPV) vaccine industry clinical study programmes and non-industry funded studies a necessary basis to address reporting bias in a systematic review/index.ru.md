@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jørgensen
   year: 2018
-  magazine: Systematic Reviews
+  journal: Systematic Reviews
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5774129
   pubmed: PMC5774129
 ---

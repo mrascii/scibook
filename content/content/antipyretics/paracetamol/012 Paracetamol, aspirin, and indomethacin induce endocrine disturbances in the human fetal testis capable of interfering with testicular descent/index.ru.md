@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mazaud-Guittot
   year: 2013
-  magazine: J Clin Endocrinol Metab
+  journal: J Clin Endocrinol Metab
   link: https://www.ncbi.nlm.nih.gov/pubmed/24030937
   pubmed: 24030937
 ---

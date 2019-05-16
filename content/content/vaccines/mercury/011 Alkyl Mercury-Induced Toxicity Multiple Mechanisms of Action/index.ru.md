@@ -6,7 +6,7 @@ article:
   type: article
   authors: Risher
   year: 2017
-  magazine: Rev Environ Contam Toxicol
+  journal: Rev Environ Contam Toxicol
   link: https://www.ncbi.nlm.nih.gov/pubmed/27161558
   pubmed: 27161558
 ---

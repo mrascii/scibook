@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2014
-  magazine: J Biochem Pharmacol Res
+  journal: J Biochem Pharmacol Res
   link: https://www.researchgate.net/publication/261474301
   pubmed: 261474301
 ---

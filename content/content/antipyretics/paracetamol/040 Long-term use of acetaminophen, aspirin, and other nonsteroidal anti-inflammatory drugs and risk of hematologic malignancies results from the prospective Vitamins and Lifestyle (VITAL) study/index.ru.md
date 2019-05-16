@@ -5,7 +5,7 @@ article:
   type: article
   authors: Walter
   year: 2011
-  magazine: J Clin Oncol
+  journal: J Clin Oncol
   link: https://www.ncbi.nlm.nih.gov/pubmed/21555699
   pubmed: 21555699
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kubota
   year: 2015
-  magazine: Atherosclerosis
+  journal: Atherosclerosis
   link: https://www.ncbi.nlm.nih.gov/pubmed/26122188
   pubmed: 26122188
 diseases:

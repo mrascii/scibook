@@ -5,7 +5,7 @@ article:
   type: article
   authors: Eskola
   year: 2001
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/11172176
   pubmed: 11172176
 diseases:

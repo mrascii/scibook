@@ -5,7 +5,7 @@ article:
   type: article
   authors: Waki
   year: 2014
-  magazine: Lett Appl Microbiol
+  journal: Lett Appl Microbiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4285317
   pubmed: PMC4285317
 drugs:

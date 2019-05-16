@@ -6,7 +6,7 @@ article:
   type: article
   authors: Galazka
   year: 1991
-  magazine: Epidemiol Infect
+  journal: Epidemiol Infect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2272032
   pubmed: PMC2272032
 ---

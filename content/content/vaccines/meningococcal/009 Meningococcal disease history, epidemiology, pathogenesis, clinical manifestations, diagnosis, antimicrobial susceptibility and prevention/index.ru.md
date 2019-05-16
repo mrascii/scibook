@@ -5,7 +5,7 @@ article:
   type: article
   authors: Manchanda
   year: 2006
-  magazine: Indian J Med Microbiol
+  journal: Indian J Med Microbiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/16505549
   pubmed: 16505549
 ---

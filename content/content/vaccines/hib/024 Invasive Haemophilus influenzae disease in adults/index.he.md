@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sarangi
   year: 2000
-  magazine: Epidemiol Infect
+  journal: Epidemiol Infect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810930
   pubmed: PMC2810930
 conditions:

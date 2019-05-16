@@ -5,7 +5,7 @@ article:
   type: article
   authors: Viezeliene
   year: 2013
-  magazine: J Trace Elem Med Biol
+  journal: J Trace Elem Med Biol
   link: https://www.ncbi.nlm.nih.gov/pubmed/27052279
   pubmed: 27052279
 drugs:

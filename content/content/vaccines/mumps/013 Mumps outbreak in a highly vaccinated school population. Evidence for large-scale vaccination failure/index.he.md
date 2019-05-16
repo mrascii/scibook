@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cheek
   year: 1995
-  magazine: Arch Pediatr Adolesc Med
+  journal: Arch Pediatr Adolesc Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/7795768
   pubmed: 7795768
 ---

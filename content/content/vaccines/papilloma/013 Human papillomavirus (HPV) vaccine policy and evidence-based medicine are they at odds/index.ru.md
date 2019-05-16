@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tomljenovic
   year: 2014
-  magazine: Ann Med
+  journal: Ann Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/22188159
   pubmed: 22188159
 ---

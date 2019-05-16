@@ -6,7 +6,7 @@ article:
   type: article
   authors: Elswood
   year: 1994
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/7935079/
   pubmed: 7935079
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: McLeod
   year: 1922
-  magazine: Biochem J
+  journal: Biochem J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1259100/
   pubmed: PMC1259100
 ---

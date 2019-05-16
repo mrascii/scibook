@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shuel
   year: 2011
-  magazine: Int J Infect Dis
+  journal: Int J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/21134777
   pubmed: 21134777
 conditions:

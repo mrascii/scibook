@@ -5,7 +5,7 @@ article:
   type: article
   authors: Suo
   year: 2017
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5555361/
   pubmed: PMC5555361
 countries:

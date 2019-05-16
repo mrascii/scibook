@@ -5,7 +5,7 @@ article:
   type: article
   authors: Durso
   year: 2015
-  magazine: Psychol Sci
+  journal: Psychol Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/25862546
   pubmed: 25862546
 ---

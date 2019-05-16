@@ -5,7 +5,7 @@ article:
   type: article
   authors: Welsby
   year: 2006
-  magazine: Postgrad Med J
+  journal: Postgrad Med J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563790/
   pubmed: PMC2563790
 diseases:

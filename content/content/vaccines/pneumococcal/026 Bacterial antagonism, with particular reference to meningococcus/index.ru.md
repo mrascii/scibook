@@ -5,7 +5,7 @@ article:
   type: article
   authors: Colebrook
   year: 1915
-  magazine: Lancet
+  journal: Lancet
   link: http://www.sciencedirect.com/science/article/pii/S0140673601560572
 ---
 

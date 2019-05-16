@@ -5,7 +5,7 @@ article:
   type: article
   authors: Breakwell
   year: 2018
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737556/
   pubmed: PMC5737556
 countries:

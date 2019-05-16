@@ -5,7 +5,7 @@ article:
   type: article
   authors: Khan
   year: 2013
-  magazine: BMC Med
+  journal: BMC Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/23557144
   pubmed: 23557144
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Morra
   year: 2017
-  magazine: Sci Rep
+  journal: Sci Rep
   link: https://www.ncbi.nlm.nih.gov/pubmed/29167460
   pubmed: 29167460
 diseases:

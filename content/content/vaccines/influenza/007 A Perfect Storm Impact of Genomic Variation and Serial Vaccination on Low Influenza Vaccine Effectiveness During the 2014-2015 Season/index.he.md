@@ -5,7 +5,7 @@ article:
   type: article
   authors: Skowronski
   year: 2016
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4901864
   pubmed: PMC4901864
 diseases:

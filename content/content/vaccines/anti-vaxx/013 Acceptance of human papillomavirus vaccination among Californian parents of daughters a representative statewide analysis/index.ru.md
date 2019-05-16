@@ -5,7 +5,7 @@ article:
   type: article
   authors: Constantine
   year: 2007
-  magazine: J Adolesc Health
+  journal: J Adolesc Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/17259050
   pubmed: 17259050
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: McLean
   year: 2014
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207422/
   pubmed: PMC4207422
 diseases:

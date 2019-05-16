@@ -5,7 +5,7 @@ article:
   type: article
   authors: Alexandre
   year: 2010
-  magazine: Acta Paediatr
+  journal: Acta Paediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/20626365
   pubmed: 20626365
 countries:

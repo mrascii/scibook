@@ -5,7 +5,7 @@ article:
   type: article
   authors: Plaisance
   year: 2000
-  magazine: Pharmacotherapy
+  journal: Pharmacotherapy
   link: https://www.ncbi.nlm.nih.gov/pubmed/11130213
   pubmed: 11130213
 diseases:

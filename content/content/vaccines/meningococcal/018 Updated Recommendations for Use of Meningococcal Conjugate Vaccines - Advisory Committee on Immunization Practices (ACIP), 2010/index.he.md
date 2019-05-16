@@ -6,7 +6,7 @@ article:
   type: article
   authors: CDC
   year: 2011
-  magazine: JAMA
+  journal: JAMA
   link: https://jamanetwork.com/journals/jama/fullarticle/896276
 countries:
 - ארה"ב

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Leow
   year: 2011
-  magazine: Respirology
+  journal: Respirology
   link: https://www.ncbi.nlm.nih.gov/pubmed/21244571
   pubmed: 21244571
 drugs:

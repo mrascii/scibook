@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jefferson
   year: 2006
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1626345
   pubmed: PMC1626345
 ---

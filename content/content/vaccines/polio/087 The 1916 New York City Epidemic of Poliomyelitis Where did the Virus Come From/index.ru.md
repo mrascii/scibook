@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wyatt
   year: 2011
-  magazine: Open Vaccine J
+  journal: Open Vaccine J
   link: https://benthamopen.com/ABSTRACT/TOVACJ-4-13
 countries:
 - США

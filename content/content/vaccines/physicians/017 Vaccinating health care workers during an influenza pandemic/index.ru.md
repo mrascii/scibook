@@ -5,7 +5,7 @@ article:
   type: article
   authors: Head
   year: 2012
-  magazine: Occup Med Lond
+  journal: Occup Med Lond
   link: https://www.ncbi.nlm.nih.gov/pubmed/22773657
   pubmed: 22773657
 conditions:

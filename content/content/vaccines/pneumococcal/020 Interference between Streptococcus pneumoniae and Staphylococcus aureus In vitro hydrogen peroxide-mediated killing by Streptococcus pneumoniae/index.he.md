@@ -5,7 +5,7 @@ article:
   type: article
   authors: Regev-Yochay
   year: 2006
-  magazine: J Bacteriol
+  journal: J Bacteriol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482988/
   pubmed: PMC1482988
 diseases:

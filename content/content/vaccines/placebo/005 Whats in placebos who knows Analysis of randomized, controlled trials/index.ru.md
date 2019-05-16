@@ -6,7 +6,7 @@ article:
   type: article
   authors: Golomb
   year: 2010
-  magazine: Ann Intern Med.
+  journal: Ann Intern Med.
   link: https://www.ncbi.nlm.nih.gov/pubmed/20956710
   pubmed: 20956710
 drugs:

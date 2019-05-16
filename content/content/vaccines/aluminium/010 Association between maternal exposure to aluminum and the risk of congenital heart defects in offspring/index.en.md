@@ -5,7 +5,7 @@ article:
   type: article
   authors: Liu
   year: 2016
-  magazine: Birth Defects Res A Clin Mol Teratol
+  journal: Birth Defects Res A Clin Mol Teratol
   link: https://www.ncbi.nlm.nih.gov/pubmed/26707789/
   pubmed: 26707789
 conditions:

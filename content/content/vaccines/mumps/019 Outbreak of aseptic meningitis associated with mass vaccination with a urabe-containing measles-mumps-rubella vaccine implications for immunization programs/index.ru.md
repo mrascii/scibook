@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dourado
   year: 2000
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/10707922
   pubmed: 10707922
 drugs:

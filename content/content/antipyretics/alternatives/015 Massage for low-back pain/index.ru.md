@@ -5,7 +5,7 @@ article:
   type: article
   authors: Furlan
   year: 2015
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/26329399
   pubmed: 26329399
 ---

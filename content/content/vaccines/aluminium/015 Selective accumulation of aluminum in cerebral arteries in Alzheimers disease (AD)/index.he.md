@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bhattacharjee
   year: 2013
-  magazine: J Inorg Biochem
+  journal: J Inorg Biochem
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720708
   pubmed: PMC3720708
 diseases:

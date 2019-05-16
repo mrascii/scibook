@@ -5,7 +5,7 @@ article:
   type: article
   authors: Larson
   year: 2016
-  magazine: EBioMedicine
+  journal: EBioMedicine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5078590
   pubmed: PMC5078590
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Holm
   year: 2015
-  magazine: Toxicol Sci
+  journal: Toxicol Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/26259604
   pubmed: 26259604
 ---

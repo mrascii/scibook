@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2015
-  magazine: Clin Chim Acta
+  journal: Clin Chim Acta
   link: https://www.ncbi.nlm.nih.gov/pubmed/25708367
   pubmed: 25708367
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Rana
   year: 2018
-  magazine: Neonatology
+  journal: Neonatology
   link: https://www.ncbi.nlm.nih.gov/pubmed/30278462
   pubmed: 30278462
 countries:

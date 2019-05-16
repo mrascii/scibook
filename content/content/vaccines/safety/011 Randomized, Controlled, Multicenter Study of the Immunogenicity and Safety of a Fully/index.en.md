@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vesikari
   year: 2013
-  magazine: Clin Vaccine Immunol.
+  journal: Clin Vaccine Immunol.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3807208/
   pubmed: PMC3807208
 ---

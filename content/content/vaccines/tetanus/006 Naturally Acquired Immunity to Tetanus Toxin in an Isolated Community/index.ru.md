@@ -6,7 +6,7 @@ article:
   type: article
   authors: Matzkin
   year: 1985
-  magazine: Infect Immun
+  journal: Infect Immun
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC261948/
   pubmed: PMC261948
 conditions:

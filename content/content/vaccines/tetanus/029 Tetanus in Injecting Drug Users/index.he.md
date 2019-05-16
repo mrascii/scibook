@@ -5,7 +5,7 @@ article:
   type: article
   authors: Beeching
   year: 2005
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/330/7485/208
   pubmed: PMC3294684
 conditions:

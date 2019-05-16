@@ -6,7 +6,7 @@ article:
   type: article
   authors: Paul
   year: 2004
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/15532129/
   pubmed: 15532129
 countries:

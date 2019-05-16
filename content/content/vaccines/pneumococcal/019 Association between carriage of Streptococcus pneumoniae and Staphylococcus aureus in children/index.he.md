@@ -5,7 +5,7 @@ article:
   type: article
   authors: Regev-Yochay
   year: 2004
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/15304469
   pubmed: 15304469
 diseases:

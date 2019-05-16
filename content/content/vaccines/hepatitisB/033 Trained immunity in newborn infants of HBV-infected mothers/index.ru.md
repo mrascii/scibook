@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hong
   year: 2015
-  magazine: Nature Comm
+  journal: Nature Comm
   link: https://www.nature.com/articles/ncomms7588
   pubmed: 10.1038/ncomms7588
 ---

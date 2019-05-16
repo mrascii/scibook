@@ -5,7 +5,7 @@ article:
   type: article
   authors: West
   year: 1966
-  magazine: Cancer
+  journal: Cancer
   link: https://www.ncbi.nlm.nih.gov/pubmed/5939299
   pubmed: 5939299
 diseases:

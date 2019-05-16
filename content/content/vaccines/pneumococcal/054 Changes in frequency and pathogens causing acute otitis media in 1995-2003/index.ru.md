@@ -6,7 +6,7 @@ article:
   type: article
   authors: Casey
   year: 2004
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/15361720
   pubmed: 15361720
 diseases:

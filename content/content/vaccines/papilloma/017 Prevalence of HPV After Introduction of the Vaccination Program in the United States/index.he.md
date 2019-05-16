@@ -6,7 +6,7 @@ article:
   type: article
   authors: Markowitz
   year: 2016
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/26908697
   pubmed: 26908697
 conditions:

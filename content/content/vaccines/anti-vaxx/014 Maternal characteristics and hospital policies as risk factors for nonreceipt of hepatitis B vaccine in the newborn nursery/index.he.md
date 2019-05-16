@@ -5,7 +5,7 @@ article:
   type: article
   authors: O'Leary
   year: 2012
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: http://www.ncbi.nlm.nih.gov/pubmed/21941215
   pubmed: 21941215
 drugs:

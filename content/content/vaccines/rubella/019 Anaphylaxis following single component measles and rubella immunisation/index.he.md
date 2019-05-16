@@ -5,7 +5,7 @@ article:
   type: article
   authors: Erlewyn-Lajeunesse
   year: 2008
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pubmed/18941022
   pubmed: 18941022
 diseases:

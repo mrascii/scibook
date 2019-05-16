@@ -5,7 +5,7 @@ article:
   type: article
   authors: da Costa
   year: 2016
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/28699595
   pubmed: 28699595
 ---

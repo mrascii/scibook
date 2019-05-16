@@ -5,7 +5,7 @@ article:
   type: article
   authors: Schink
   year: 2014
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/24374498
   pubmed: 24374498
 diseases:

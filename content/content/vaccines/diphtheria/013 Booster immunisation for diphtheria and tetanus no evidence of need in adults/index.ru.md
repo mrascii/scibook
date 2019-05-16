@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mathias
   year: 1985
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/2860299
   pubmed: 2860299
 countries:

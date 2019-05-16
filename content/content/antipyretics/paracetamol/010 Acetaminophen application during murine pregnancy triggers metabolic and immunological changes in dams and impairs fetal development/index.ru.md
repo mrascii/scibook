@@ -6,7 +6,7 @@ article:
   type: article
   authors: Kessler
   year: 2012
-  magazine: J Reprod Immunol
+  journal: J Reprod Immunol
   link: https://www.researchgate.net/publication/256993489_Acetaminophen_application_during_murine_pregnancy_triggers_metabolic_and_immunological_changes_in_dams_and_impairs_fetal_development
 ---
 

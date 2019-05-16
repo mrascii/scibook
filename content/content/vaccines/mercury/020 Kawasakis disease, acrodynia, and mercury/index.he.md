@@ -6,7 +6,7 @@ article:
   type: article
   authors: Mutter
   year: 2008
-  magazine: Curr Med Chem
+  journal: Curr Med Chem
   link: https://www.ncbi.nlm.nih.gov/pubmed/19075648
   pubmed: 19075648
 diseases:

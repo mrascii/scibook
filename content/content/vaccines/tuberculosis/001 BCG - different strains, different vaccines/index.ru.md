@@ -5,7 +5,7 @@ article:
   type: article
   authors: Behr
   year: 2002
-  magazine: Lancet Infect Dis
+  journal: Lancet Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/11901655
   pubmed: 11901655
 ---

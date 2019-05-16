@@ -5,7 +5,7 @@ article:
   type: article
   authors: Faasse
   year: 2016
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/27707558
   pubmed: 27707558
 conditions:

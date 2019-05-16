@@ -5,7 +5,7 @@ article:
   type: article
   authors: Greer
   year: 1955
-  magazine: Med Times
+  journal: Med Times
   link: https://www.ncbi.nlm.nih.gov/pubmed/13279345
   pubmed: 13279345
 drugs:

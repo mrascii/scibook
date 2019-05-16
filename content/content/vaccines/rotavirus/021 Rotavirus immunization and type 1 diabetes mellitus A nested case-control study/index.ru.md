@@ -6,7 +6,7 @@ article:
   type: article
   authors: Chodick
   year: 2014
-  magazine: Pediatric Infectious Disease
+  journal: Pediatric Infectious Disease
   link: https://www.sciencedirect.com/science/article/pii/S2212832815000028
 diseases:
 - Диабет 1го типа

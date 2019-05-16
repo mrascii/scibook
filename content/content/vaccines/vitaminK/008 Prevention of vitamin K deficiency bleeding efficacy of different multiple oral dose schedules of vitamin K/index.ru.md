@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cornelissen
   year: 1997
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/9039517
   pubmed: 9039517
 ---

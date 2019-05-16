@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sasaki
   year: 1996
-  magazine: Biologicals
+  journal: Biologicals
   link: https://www.ncbi.nlm.nih.gov/pubmed/9088554
   pubmed: 9088554
 drugs:

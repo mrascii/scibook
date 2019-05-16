@@ -5,7 +5,7 @@ article:
   type: article
   authors: Chen
   year: 2016
-  magazine: J Viral Hepat
+  journal: J Viral Hepat
   link: https://www.ncbi.nlm.nih.gov/pubmed/27386835
   pubmed: 27386835
 countries:

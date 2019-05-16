@@ -6,7 +6,7 @@ article:
   type: article
   authors: Moan
   year: 2009
-  magazine: Dermatoendocrinol
+  journal: Dermatoendocrinol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092571
   pubmed: PMC3092571
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hayes
   year: 1967
-  magazine: Clin Exp Immunol
+  journal: Clin Exp Immunol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1578808/
   pubmed: PMC1578808
 ---

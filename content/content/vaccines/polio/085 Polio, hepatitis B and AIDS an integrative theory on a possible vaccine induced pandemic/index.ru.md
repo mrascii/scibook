@@ -5,7 +5,7 @@ article:
   type: article
   authors: Horowitz
   year: 2001
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/11388787/
   pubmed: 11388787
 diseases:

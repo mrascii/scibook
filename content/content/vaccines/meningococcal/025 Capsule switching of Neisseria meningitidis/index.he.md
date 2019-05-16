@@ -5,7 +5,7 @@ article:
   type: article
   authors: Swartley
   year: 1997
-  magazine: Proc Natl Acad Sci U S A
+  journal: Proc Natl Acad Sci U S A
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC19312/
   pubmed: PMC19312
 conditions:

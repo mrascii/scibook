@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dockrell
   year: 2017
-  magazine: Front Immunol
+  journal: Front Immunol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5601272/
   pubmed: PMC5601272
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Walker
   year: 1987
-  magazine: Am J Public Health
+  journal: Am J Public Health
   link: http://www.ncbi.nlm.nih.gov/pubmed/3496805
   pubmed: 3496805
 diseases:

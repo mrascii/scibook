@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rashid
   year: 2012
-  magazine: BMC Med
+  journal: BMC Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3568012/
   pubmed: PMC3568012
 conditions:

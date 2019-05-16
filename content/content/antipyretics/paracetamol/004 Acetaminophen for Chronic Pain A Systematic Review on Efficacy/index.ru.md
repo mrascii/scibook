@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ennis
   year: 2016
-  magazine: Basic Clin Pharmacol Toxicol
+  journal: Basic Clin Pharmacol Toxicol
   link: https://www.ncbi.nlm.nih.gov/pubmed/26572078
   pubmed: 26572078
 ---

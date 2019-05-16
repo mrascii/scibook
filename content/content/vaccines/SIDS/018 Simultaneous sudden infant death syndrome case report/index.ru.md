@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cevik
   year: 2010
-  magazine: Hong Kong J Emerg Me
+  journal: Hong Kong J Emerg Me
   link: http://journals.sagepub.com/doi/abs/10.1177/102490791001700319
   pubmed: 10.1177/102490791001700319
 diseases:

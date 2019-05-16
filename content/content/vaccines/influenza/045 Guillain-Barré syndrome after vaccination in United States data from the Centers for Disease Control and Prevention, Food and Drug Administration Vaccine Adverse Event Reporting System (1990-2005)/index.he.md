@@ -5,7 +5,7 @@ article:
   type: article
   authors: Souayah
   year: 2009
-  magazine: J Clin Neuromuscul Dis
+  journal: J Clin Neuromuscul Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/19730016
   pubmed: 19730016
 humans:

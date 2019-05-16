@@ -5,7 +5,7 @@ article:
   type: article
   authors: Burrell
   year: 2010
-  magazine: BMC Pediatr
+  journal: BMC Pediatr
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2939626/
   pubmed: PMC2939626
 drugs:

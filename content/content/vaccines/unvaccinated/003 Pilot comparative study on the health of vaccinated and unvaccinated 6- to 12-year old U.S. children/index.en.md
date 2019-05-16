@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mawson
   year: 2017
-  magazine: JTS
+  journal: JTS
   link: http://www.oatext.com/Pilot-comparative-study-on-the-health-of-vaccinated-and-unvaccinated-6-to-12-year-old-US-children.php
 conditions:
 - Unvaccinated

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lee
   year: 2012
-  magazine: J Inorg Biochem
+  journal: J Inorg Biochem
   link: https://www.ncbi.nlm.nih.gov/pubmed/23078778
   pubmed: 23078778
 ---

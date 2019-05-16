@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ammayappan
   year: 2016
-  magazine: Mol Ther Oncolytics
+  journal: Mol Ther Oncolytics
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4980112
   pubmed: PMC4980112
 diseases:

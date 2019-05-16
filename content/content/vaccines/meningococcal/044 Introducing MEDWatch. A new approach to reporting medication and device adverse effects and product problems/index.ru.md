@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kessler
   year: 1993
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/8492403
   pubmed: 8492403
 countries:

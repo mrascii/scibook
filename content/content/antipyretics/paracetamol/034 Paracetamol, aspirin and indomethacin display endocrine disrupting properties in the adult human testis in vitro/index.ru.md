@@ -6,7 +6,7 @@ article:
   type: article
   authors: Albert
   year: 2013
-  magazine: Hum Reprod
+  journal: Hum Reprod
   link: https://www.ncbi.nlm.nih.gov/pubmed/23670170
   pubmed: 23670170
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Starko
   year: 2009
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/19788357
   pubmed: 19788357
 ---

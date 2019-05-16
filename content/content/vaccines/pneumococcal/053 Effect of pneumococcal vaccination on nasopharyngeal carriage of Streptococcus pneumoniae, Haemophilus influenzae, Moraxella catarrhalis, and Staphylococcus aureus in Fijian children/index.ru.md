@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dunne
   year: 2012
-  magazine: J Clin Microbiol
+  journal: J Clin Microbiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3295152/
   pubmed: PMC3295152
 countries:

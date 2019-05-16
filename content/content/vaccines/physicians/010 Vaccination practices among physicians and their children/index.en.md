@@ -5,7 +5,7 @@ article:
   type: article
   authors: Martin
   year: 2012
-  magazine: OJPed.
+  journal: OJPed.
   link: https://www.scirp.org/journal/PaperInformation.aspx?PaperID=22932
 conditions:
 - Physicians

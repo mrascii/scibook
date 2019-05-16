@@ -5,7 +5,7 @@ article:
   type: article
   authors: Решетняк
   year: 2017
-  magazine: Российский журнал боли
+  journal: Российский журнал боли
   link: https://elibrary.ru/item.asp?id=29160149
 ---
 

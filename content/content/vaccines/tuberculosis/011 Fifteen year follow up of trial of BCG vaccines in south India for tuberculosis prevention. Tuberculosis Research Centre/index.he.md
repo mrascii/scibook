@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 1999
-  magazine: Indian J Med Res
+  journal: Indian J Med Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/10573656
   pubmed: 10573656
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mercer
   year: 2012
-  magazine: J Perinat Neonatal Nurs
+  journal: J Perinat Neonatal Nurs
   link: https://www.ncbi.nlm.nih.gov/pubmed/22843002
   pubmed: 22843002
 ---

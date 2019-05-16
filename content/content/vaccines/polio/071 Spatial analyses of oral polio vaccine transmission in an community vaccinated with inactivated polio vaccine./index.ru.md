@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jarvis
   year: 2018
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6206123/
   pubmed: PMC6206123
 countries:

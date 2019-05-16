@@ -5,7 +5,7 @@ article:
   type: article
   authors: Glass
   year: 1996
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/8752284
   pubmed: 8752284
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Verver
   year: 2005
-  magazine: Am J Respir Crit Care Med
+  journal: Am J Respir Crit Care Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/15831840
   pubmed: 15831840
 ---

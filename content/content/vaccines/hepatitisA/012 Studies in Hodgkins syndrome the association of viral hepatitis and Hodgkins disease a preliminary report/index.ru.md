@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hoster
   year: 1949
-  magazine: Cancer Res
+  journal: Cancer Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/18134519
   pubmed: 18134519
 ---

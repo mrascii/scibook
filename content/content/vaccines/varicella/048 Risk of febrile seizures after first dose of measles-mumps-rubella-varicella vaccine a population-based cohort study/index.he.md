@@ -5,7 +5,7 @@ article:
   type: article
   authors: MacDonald
   year: 2014
-  magazine: CMAJ
+  journal: CMAJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4119141/
   pubmed: PMC4119141
 diseases:

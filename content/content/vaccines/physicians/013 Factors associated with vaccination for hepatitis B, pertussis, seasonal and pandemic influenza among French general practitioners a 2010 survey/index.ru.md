@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pulcini
   year: 2013
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/23806242
   pubmed: 23806242
 conditions:

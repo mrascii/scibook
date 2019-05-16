@@ -5,7 +5,7 @@ article:
   type: article
   authors: Doshi
   year: 2013
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/346/bmj.f3037
   pubmed: 23682040
 ---

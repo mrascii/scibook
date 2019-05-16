@@ -5,7 +5,7 @@ article:
   type: article
   authors: Daily
   year: 2015
-  magazine: Pain Med
+  journal: Pain Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/26177393
   pubmed: 26177393
 ---

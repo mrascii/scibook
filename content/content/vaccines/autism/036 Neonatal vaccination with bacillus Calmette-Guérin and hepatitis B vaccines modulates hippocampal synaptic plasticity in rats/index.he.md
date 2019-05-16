@@ -5,7 +5,7 @@ article:
   type: article
   authors: Li
   year: 2015
-  magazine: J Neuroimmunol
+  journal: J Neuroimmunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/26531688
   pubmed: 26531688
 drugs:

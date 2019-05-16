@@ -5,7 +5,7 @@ article:
   type: article
   authors: Machado
   year: 2015
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pubmed/25828856
   pubmed: 25828856
 ---

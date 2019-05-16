@@ -5,7 +5,7 @@ article:
   type: article
   authors: O’Connor
   year: 2014
-  magazine: Dev Psychopathol
+  journal: Dev Psychopathol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771474/
   pubmed: PMC5771474
 ---

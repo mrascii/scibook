@@ -5,7 +5,7 @@ article:
   type: article
   authors: Buckley
   year: 1994
-  magazine: Leukemia
+  journal: Leukemia
   link: https://www.ncbi.nlm.nih.gov/pubmed/8182942
   pubmed: 8182942
 drugs:

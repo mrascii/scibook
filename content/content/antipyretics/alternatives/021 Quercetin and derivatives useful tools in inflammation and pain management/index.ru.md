@@ -5,7 +5,7 @@ article:
   type: article
   authors: Carullo
   year: 2017
-  magazine: Future Med Chem
+  journal: Future Med Chem
   link: https://www.ncbi.nlm.nih.gov/pubmed/27995808
   pubmed: 27995808
 ---

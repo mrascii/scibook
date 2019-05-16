@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bally
   year: 2017
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pubmed/28487435
   pubmed: 28487435
 ---

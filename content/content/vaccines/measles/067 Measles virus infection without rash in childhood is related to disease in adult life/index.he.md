@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rønne T.
   year: 1985
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/2856946
   pubmed: 2856946
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pearce
   year: 2008
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/336/7647/754
   pubmed: 18309964
 drugs:

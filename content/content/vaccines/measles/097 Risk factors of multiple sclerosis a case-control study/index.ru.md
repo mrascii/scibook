@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zorzon
   year: 2003
-  magazine: Neurol Sci
+  journal: Neurol Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/14658040
   pubmed: 14658040
 diseases:

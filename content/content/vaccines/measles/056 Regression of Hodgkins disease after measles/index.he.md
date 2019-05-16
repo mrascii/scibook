@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tagi
   year: 1981
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/6112483
   pubmed: 6112483
 diseases:

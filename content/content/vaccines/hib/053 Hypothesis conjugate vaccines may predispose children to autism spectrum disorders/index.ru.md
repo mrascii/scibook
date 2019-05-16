@@ -6,7 +6,7 @@ article:
   type: article
   authors: Richmand
   year: 2011
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/21993250
   pubmed: 21993250
 diseases:

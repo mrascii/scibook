@@ -6,7 +6,7 @@ article:
   type: article
   authors: Murtagh
   year: 1980
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1626920/
   pubmed: PMC1626920
 countries:

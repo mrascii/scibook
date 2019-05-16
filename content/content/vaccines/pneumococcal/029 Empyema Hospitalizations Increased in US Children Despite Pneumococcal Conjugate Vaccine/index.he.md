@@ -5,7 +5,7 @@ article:
   type: article
   authors: Li
   year: 2010
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/19948570
   pubmed: 19948570
 diseases:

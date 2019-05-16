@@ -6,7 +6,7 @@ article:
   type: article
   authors: Brisson
   year: 2002
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/12057605
   pubmed: 12057605
 diseases:

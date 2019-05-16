@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fawzi
   year: 1993
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/8426449
   pubmed: 8426449
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kreijtz
   year: 2009
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/19538996
   pubmed: 19538996
 ---

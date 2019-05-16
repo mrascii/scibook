@@ -6,7 +6,7 @@ article:
   type: article
   authors: Larson
   year: 2005
-  magazine: Hepatology
+  journal: Hepatology
   link: https://www.ncbi.nlm.nih.gov/pubmed/16317692
   pubmed: 16317692
 ---

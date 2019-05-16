@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wei
   year: 2012
-  magazine: Biochim Biophys Acta
+  journal: Biochim Biophys Acta
   link: https://www.ncbi.nlm.nih.gov/pubmed/22326556
   pubmed: 22326556
 drugs:

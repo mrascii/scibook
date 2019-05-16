@@ -5,7 +5,7 @@ article:
   type: article
   authors: Khaw
   year: 2014
-  magazine: Am J Clin Nutr
+  journal: Am J Clin Nutr
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4196486/
   pubmed: PMC4196486
 drugs:

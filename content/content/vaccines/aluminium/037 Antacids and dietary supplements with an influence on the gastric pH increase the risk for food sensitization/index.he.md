@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pali-Schöll
   year: 2010
-  magazine: Clin Exp Allergy
+  journal: Clin Exp Allergy
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999750
   pubmed: PMC2999750
 drugs:

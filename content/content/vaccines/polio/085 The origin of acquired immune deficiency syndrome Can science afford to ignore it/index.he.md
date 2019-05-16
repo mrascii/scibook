@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cribb
   year: 2001
-  magazine: Philos Trans R Soc Lond B Biol Sci
+  journal: Philos Trans R Soc Lond B Biol Sci
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1088489
   pubmed: PMC1088489
 diseases:

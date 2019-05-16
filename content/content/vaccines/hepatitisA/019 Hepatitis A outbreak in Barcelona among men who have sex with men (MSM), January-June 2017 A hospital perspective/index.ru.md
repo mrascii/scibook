@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rodríguez-Tajes
   year: 2017
-  magazine: Liver Int
+  journal: Liver Int
   link: https://www.ncbi.nlm.nih.gov/pubmed/28980376
   pubmed: 28980376
 conditions:

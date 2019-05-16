@@ -5,7 +5,7 @@ article:
   type: article
   authors: van Steensel-Moll
   year: 1986
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/3463201
   pubmed: 3463201
 diseases:

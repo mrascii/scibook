@@ -6,7 +6,7 @@ article:
   type: article
   authors: Smith
   year: 1972
-  magazine: Pediatrics
+  journal: Pediatrics
   link: http://pediatrics.aappublications.org/content/50/5/723
   pubmed: 4538894
 countries:

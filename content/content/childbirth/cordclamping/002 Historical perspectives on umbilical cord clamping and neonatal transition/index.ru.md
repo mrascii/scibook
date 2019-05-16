@@ -6,7 +6,7 @@ article:
   type: article
   authors: Downey
   year: 2012
-  magazine: J R Soc Med
+  journal: J R Soc Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3423128
   pubmed: PMC3423128
 ---

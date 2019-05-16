@@ -5,7 +5,7 @@ article:
   type: article
   authors: Arrieta
   year: 1991
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/1625097
   pubmed: 1625097
 drugs:

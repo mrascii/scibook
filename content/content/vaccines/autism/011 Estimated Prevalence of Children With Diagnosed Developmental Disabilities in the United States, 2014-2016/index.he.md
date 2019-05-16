@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zablotsky
   year: 2017
-  magazine: NCHS Data Brief
+  journal: NCHS Data Brief
   link: https://www.ncbi.nlm.nih.gov/pubmed/29235982
 ---
 

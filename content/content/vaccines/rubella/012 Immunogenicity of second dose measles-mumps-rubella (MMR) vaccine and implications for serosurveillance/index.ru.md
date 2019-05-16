@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pebody
   year: 2002
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/11803074
   pubmed: 11803074
 countries:

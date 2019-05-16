@@ -5,7 +5,7 @@ article:
   type: article
   authors: Abel
   year: 1991
-  magazine: J Cancer Res Clin Oncol
+  journal: J Cancer Res Clin Oncol
   link: https://www.ncbi.nlm.nih.gov/pubmed/2066354
   pubmed: 2066354
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kilgore
   year: 1995
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/7563485
   pubmed: 7563485
 countries:

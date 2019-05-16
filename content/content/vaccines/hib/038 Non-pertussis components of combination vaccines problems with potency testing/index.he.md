@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sesardic
   year: 1999
-  magazine: Biologicals
+  journal: Biologicals
   link: https://www.ncbi.nlm.nih.gov/pubmed/10600209
   pubmed: 10600209
 drugs:

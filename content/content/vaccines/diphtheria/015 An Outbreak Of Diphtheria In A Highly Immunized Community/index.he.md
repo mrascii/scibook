@@ -6,7 +6,7 @@ article:
   type: article
   authors: Fanning
   year: 1947
-  magazine: BMJ
+  journal: BMJ
   link: https://www.jstor.org/stable/20369096
 countries:
 - בריטניה

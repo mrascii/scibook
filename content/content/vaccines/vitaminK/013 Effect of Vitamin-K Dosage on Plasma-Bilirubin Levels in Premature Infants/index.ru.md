@@ -6,7 +6,7 @@ article:
   type: article
   authors: Bound
   year: 1956
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/13320856
   pubmed: 13320856
 ---

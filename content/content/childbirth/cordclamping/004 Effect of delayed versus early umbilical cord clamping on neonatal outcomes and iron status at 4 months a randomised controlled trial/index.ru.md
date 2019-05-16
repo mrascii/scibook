@@ -5,7 +5,7 @@ article:
   type: article
   authors: Andersson
   year: 2011
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217058
   pubmed: PMC3217058
 diseases:

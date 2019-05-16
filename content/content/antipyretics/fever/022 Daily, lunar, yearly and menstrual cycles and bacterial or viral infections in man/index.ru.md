@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hejl
   year: 1977
-  magazine: J Interdispl Cycl Res
+  journal: J Interdispl Cycl Res
   link: https://www.tandfonline.com/doi/abs/10.1080/09291017709359576
   pubmed: 10.1080/09291017709359576
 ---

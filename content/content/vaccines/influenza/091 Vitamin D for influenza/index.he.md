@@ -5,7 +5,7 @@ article:
   type: article
   authors: Schwalfenberg
   year: 2015
-  magazine: Can Fam Physician
+  journal: Can Fam Physician
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4463890
   pubmed: PMC4463890
 drugs:

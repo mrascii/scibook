@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wiznitzer
   year: 2017
-  magazine: Neurology
+  journal: Neurology
   link: https://www.ncbi.nlm.nih.gov/pubmed/28615427
   pubmed: 28615427
 diseases:

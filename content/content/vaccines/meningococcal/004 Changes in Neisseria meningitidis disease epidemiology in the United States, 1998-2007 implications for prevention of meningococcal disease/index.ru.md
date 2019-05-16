@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cohn
   year: 2010
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/20001736
   pubmed: 20001736
 countries:

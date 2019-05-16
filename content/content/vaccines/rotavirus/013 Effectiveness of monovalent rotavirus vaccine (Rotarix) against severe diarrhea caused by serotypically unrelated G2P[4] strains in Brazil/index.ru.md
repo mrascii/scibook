@@ -5,7 +5,7 @@ article:
   type: article
   authors: Correia
   year: 2010
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/20047501
   pubmed: 20047501
 conditions:

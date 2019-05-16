@@ -6,7 +6,7 @@ article:
   type: article
   authors: Deisher
   year: 2014
-  magazine: J. Public Health Epidemiol
+  journal: J. Public Health Epidemiol
   link: https://academicjournals.org/journal/JPHE/article-abstract/C98151247042
 ---
 

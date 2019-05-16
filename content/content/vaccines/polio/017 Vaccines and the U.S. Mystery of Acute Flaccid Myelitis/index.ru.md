@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cunningham
   year: 2015
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/350/bmj.h308/rr
   pubmed: 10.1136/bmj.h308
 diseases:

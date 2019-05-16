@@ -5,7 +5,7 @@ article:
   type: article
   authors: Munyer
   year: 1975
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/1151122
   pubmed: 1151122
 drugs:

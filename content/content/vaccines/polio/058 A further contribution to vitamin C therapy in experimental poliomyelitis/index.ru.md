@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jungeblut
   year: 1939
-  magazine: J Exp Med
+  journal: J Exp Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2133810/
   pubmed: PMC2133810
 drugs:

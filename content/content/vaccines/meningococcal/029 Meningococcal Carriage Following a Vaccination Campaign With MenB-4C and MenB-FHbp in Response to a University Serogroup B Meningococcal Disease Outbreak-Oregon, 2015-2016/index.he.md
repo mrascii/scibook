@@ -5,7 +5,7 @@ article:
   type: article
   authors: McNamara
   year: 2017
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/28968661
   pubmed: 28968661
 countries:

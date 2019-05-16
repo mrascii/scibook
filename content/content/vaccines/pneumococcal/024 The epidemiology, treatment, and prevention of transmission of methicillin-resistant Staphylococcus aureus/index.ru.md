@@ -5,7 +5,7 @@ article:
   type: article
   authors: Calfee
   year: 2011
-  magazine: J Infus Nurs
+  journal: J Infus Nurs
   link: https://www.ncbi.nlm.nih.gov/pubmed/22101629
   pubmed: 22101629
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mikaeloff
   year: 2009
-  magazine: Neurology
+  journal: Neurology
   link: http://www.neurology.org/content/72/10/873
   pubmed: 18843097
 ---

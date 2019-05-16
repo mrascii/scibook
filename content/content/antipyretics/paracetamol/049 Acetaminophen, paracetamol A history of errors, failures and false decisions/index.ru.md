@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brune
   year: 2015
-  magazine: Eur J Pain
+  journal: Eur J Pain
   link: https://www.ncbi.nlm.nih.gov/pubmed/25429980
   pubmed: 25429980
 ---

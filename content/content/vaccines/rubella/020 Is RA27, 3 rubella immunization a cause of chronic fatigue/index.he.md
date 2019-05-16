@@ -5,7 +5,7 @@ article:
   type: article
   authors: Allen
   year: 1988
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/3211019
   pubmed: 211019
 diseases:

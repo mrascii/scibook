@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hooker
   year: 2014
-  magazine: Biomed Res Int
+  journal: Biomed Res Int
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065774/
   pubmed: PMC4065774
 diseases:

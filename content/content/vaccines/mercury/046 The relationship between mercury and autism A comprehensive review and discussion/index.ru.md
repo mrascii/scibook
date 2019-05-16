@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kern
   year: 2016
-  magazine: J Trace Elem Med Biol
+  journal: J Trace Elem Med Biol
   link: https://www.ncbi.nlm.nih.gov/pubmed/27473827
   pubmed: 27473827
 diseases:

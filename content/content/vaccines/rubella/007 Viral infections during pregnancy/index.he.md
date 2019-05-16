@@ -5,7 +5,7 @@ article:
   type: article
   authors: Silasi
   year: 2015
-  magazine: Am J Reprod Immunol
+  journal: Am J Reprod Immunol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4610031
   pubmed: PMC4610031
 ---

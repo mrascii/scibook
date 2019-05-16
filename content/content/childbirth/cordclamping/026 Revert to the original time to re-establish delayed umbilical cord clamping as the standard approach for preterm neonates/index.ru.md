@@ -5,7 +5,7 @@ article:
   type: article
   authors: McAdams
   year: 2018
-  magazine: Matern Health Neonatol Perinatol
+  journal: Matern Health Neonatol Perinatol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030773
   pubmed: PMC6030773
 ---

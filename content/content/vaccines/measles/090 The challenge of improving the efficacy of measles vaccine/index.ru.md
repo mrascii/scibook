@@ -5,7 +5,7 @@ article:
   type: article
   authors: Garly
   year: 2003
-  magazine: Acta Trop
+  journal: Acta Trop
   link: https://www.ncbi.nlm.nih.gov/pubmed/12505179
   pubmed: 12505179
 ---

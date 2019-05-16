@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sasco
   year: 1985
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/4061437
   pubmed: 4061437
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Maridor
   year: 2017
-  magazine: J Health Commun
+  journal: J Health Commun
   link: https://www.ncbi.nlm.nih.gov/pubmed/28375808
   pubmed: 28375808
 conditions:

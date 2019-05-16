@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hamrick
   year: 2016
-  magazine: Hosp Pediatr
+  journal: Hosp Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/26711469
   pubmed: 26711469
 countries:

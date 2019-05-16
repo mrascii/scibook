@@ -5,7 +5,7 @@ article:
   type: article
   authors: Inbar
   year: 2017
-  magazine: Immunol Res
+  journal: Immunol Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/27421722
   pubmed: 27421722
 ---

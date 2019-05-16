@@ -6,7 +6,7 @@ article:
   type: article
   authors: Karali
   year: 2011
-  magazine: J Investig Allergol Clin Immunol
+  journal: J Investig Allergol Clin Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/21905502
   pubmed: 21905502
 diseases:

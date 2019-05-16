@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sen
   year: 2001
-  magazine: Acta Paediatr
+  journal: Acta Paediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/11529542
   pubmed: 11529542
 ---

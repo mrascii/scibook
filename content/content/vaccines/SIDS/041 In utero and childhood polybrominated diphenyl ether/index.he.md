@@ -5,7 +5,7 @@ article:
   type: article
   authors: Eskenazi
   year: 2013
-  magazine: Environ Health Perspect
+  journal: Environ Health Perspect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3569691/
   pubmed: PMC3569691
 ---

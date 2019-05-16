@@ -5,7 +5,7 @@ article:
   type: article
   authors: Matturri
   year: 2014
-  magazine: Curr Med Chem
+  journal: Curr Med Chem
   link: https://www.ncbi.nlm.nih.gov/pubmed/24083600
   pubmed: 24083600
 diseases:

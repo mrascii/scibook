@@ -5,7 +5,7 @@ article:
   type: article
   authors: Morton
   year: 1941
-  magazine: Can Med Assoc J
+  journal: Can Med Assoc J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1826600
   pubmed: PMC1826600
 countries:

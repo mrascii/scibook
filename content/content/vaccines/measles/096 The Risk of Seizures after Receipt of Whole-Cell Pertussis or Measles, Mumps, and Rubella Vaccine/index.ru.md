@@ -5,7 +5,7 @@ article:
   type: article
   authors: Barlow
   year: 2001
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: http://www.nejm.org/doi/full/10.1056/NEJMoa003077#t=article
 drugs:
 - Вакцина MMR

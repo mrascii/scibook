@@ -5,7 +5,7 @@ article:
   type: article
   authors: Chen
   year: 2017
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/28329351
   pubmed: 28329351
 conditions:

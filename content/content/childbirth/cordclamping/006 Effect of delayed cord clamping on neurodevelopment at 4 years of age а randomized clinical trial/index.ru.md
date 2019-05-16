@@ -5,7 +5,7 @@ article:
   type: article
   authors: Andersson
   year: 2015
-  magazine: JAMA Pediatr
+  journal: JAMA Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/26010418
 countries:
 - Швеция

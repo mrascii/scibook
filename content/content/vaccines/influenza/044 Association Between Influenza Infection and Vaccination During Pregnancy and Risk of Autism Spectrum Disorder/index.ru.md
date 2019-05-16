@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zerbo
   year: 2017
-  magazine: JAMA Pediatr
+  journal: JAMA Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/27893896
   pubmed: 27893896
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nakhai-Pour
   year: 2011
-  magazine: CMAJ
+  journal: CMAJ
   link: https://www.ncbi.nlm.nih.gov/pubmed/21896698
   pubmed: 21896698
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Greer
   year: 2001
-  magazine: Adv Exp Med Biol
+  journal: Adv Exp Med Biol
   link: https://www.ncbi.nlm.nih.gov/pubmed/11787707
   pubmed: 11787707
 conditions:

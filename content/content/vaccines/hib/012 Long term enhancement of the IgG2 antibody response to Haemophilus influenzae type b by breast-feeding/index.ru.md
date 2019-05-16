@@ -5,7 +5,7 @@ article:
   type: article
   authors: Silfverdal
   year: 2002
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/12352801/
   pubmed: 12352801
 conditions:

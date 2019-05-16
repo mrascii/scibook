@@ -5,7 +5,7 @@ article:
   type: article
   authors: Imdad
   year: 2017
-  magazine: Cochrane Database Syst Rev.
+  journal: Cochrane Database Syst Rev.
   link: https://www.ncbi.nlm.nih.gov/pubmed/21154399
   pubmed: 21154399
 drugs:

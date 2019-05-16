@@ -5,7 +5,7 @@ article:
   type: article
   authors: Holloway
   year: 2014
-  magazine: J Biosoc Sci
+  journal: J Biosoc Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/24103436
   pubmed: 24103436
 ---

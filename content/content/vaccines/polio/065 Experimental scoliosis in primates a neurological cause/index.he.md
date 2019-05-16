@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pincott
   year: 1982
-  magazine: J Bone Joint Surg Br
+  journal: J Bone Joint Surg Br
   link: https://www.ncbi.nlm.nih.gov/pubmed/6284765
   pubmed: 6284765
 ---

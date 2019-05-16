@@ -5,7 +5,7 @@ article:
   type: article
   authors: Malik
   year: 2017
-  magazine: J Antimicrob Chemother
+  journal: J Antimicrob Chemother
   link: https://www.ncbi.nlm.nih.gov/pubmed/29149266
   pubmed: 29149266
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Maenthaisong
   year: 2007
-  magazine: Burns
+  journal: Burns
   link: https://www.ncbi.nlm.nih.gov/pubmed/17499928
   pubmed: 17499928
 ---

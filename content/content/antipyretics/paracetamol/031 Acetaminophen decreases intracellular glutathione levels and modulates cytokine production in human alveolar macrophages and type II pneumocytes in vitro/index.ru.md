@@ -6,7 +6,7 @@ article:
   type: article
   authors: Dimova
   year: 2005
-  magazine: Int J Biochem Cell Biol
+  journal: Int J Biochem Cell Biol
   link: https://www.ncbi.nlm.nih.gov/pubmed/15878691
   pubmed: 15878691
 ---

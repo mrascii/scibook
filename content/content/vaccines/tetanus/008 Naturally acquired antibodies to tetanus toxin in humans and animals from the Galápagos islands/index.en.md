@@ -5,7 +5,7 @@ article:
   type: article
   authors: Veronesi
   year: 1983
-  magazine: J Infect Dis.
+  journal: J Infect Dis.
   link: https://www.ncbi.nlm.nih.gov/pubmed/6827147
   pubmed: 6827147
 conditions:

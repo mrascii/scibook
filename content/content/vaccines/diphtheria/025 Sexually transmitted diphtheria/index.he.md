@@ -5,7 +5,7 @@ article:
   type: article
   authors: Berger
   year: 2013
-  magazine: Sex Transm Infect
+  journal: Sex Transm Infect
   link: https://www.ncbi.nlm.nih.gov/pubmed/22628666
   pubmed: 22628666
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nakayama
   year: 2014
-  magazine: Sci Rep
+  journal: Sci Rep
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982165/
   pubmed: PMC3982165
 drugs:

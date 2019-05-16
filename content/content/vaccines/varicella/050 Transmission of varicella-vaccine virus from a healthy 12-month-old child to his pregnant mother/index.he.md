@@ -5,7 +5,7 @@ article:
   type: article
   authors: Salzman
   year: 1997
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/9255208
   pubmed: 9255208
 conditions:

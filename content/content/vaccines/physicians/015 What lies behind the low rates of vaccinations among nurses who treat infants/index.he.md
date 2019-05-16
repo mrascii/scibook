@@ -5,7 +5,7 @@ article:
   type: article
   authors: Baron-Epel
   year: 2012
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/22446637
   pubmed: 22446637
 conditions:

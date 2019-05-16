@@ -5,7 +5,7 @@ article:
   type: article
   authors: Guerra
   year: 2009
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/19117896
   pubmed: 19117896
 ---

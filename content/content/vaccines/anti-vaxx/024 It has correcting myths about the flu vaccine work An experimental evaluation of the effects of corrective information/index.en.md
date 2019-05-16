@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nyhan
   year: 2015
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/
   pubmed: 25499651
 conditions:

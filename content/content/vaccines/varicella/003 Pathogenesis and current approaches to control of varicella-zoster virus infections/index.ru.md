@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gershon
   year: 2013
-  magazine: Clin Microbiol Rev
+  journal: Clin Microbiol Rev
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811230/
   pubmed: PMC3811230
 ---

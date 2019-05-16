@@ -5,7 +5,7 @@ article:
   type: article
   authors: Klingele
   year: 2000
-  magazine: J Med Virol
+  journal: J Med Virol
   link: https://www.ncbi.nlm.nih.gov/pubmed/10935994
   pubmed: 10935994
 ---

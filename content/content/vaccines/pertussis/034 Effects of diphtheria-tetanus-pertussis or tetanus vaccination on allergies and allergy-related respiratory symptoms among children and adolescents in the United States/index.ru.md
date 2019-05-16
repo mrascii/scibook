@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hurwitz
   year: 2000
-  magazine: J Manipulative Physiol Ther
+  journal: J Manipulative Physiol Ther
   link: https://www.ncbi.nlm.nih.gov/pubmed/10714532/
   pubmed: 10714532
 diseases:

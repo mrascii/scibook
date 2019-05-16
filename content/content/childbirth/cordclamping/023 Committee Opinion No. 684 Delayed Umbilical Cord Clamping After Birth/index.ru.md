@@ -5,7 +5,7 @@ article:
   type: article
   authors: Committee on Obstetric Practice
   year: 2017
-  magazine: Obstet Gynecol
+  journal: Obstet Gynecol
   link: https://www.ncbi.nlm.nih.gov/pubmed/28002310
   pubmed: 28002310
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kelly
   year: 2014
-  magazine: Euro Surveill
+  journal: Euro Surveill
   link: https://www.ncbi.nlm.nih.gov/pubmed/25345520
   pubmed: 25345520
 diseases:

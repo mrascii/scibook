@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cowling
   year: 2012
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3404712/
   pubmed: PMC3404712
 ---

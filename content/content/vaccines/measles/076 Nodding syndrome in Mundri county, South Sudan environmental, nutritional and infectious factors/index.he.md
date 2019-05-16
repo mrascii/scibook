@@ -5,7 +5,7 @@ article:
   type: article
   authors: Spencer
   year: 2013
-  magazine: Afr Health Sci
+  journal: Afr Health Sci
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824482
   pubmed: PMC3824482
 countries:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Doran
   year: 1989
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/2656959
   pubmed: 2656959
 drugs:

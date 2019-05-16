@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ariad
   year: 2009
-  magazine: Isr Med Assoc J
+  journal: Isr Med Assoc J
   link: https://www.ncbi.nlm.nih.gov/pubmed/19891230
   pubmed: 19891230
 diseases:

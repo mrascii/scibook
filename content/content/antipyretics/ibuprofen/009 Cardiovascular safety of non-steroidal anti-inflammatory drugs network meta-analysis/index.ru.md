@@ -5,7 +5,7 @@ article:
   type: article
   authors: Trelle
   year: 2011
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pubmed/21224324
   pubmed: 21224324
 ---

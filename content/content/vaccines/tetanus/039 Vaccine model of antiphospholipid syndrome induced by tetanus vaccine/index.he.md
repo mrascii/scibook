@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dimitrijevic
   year: 2012
-  magazine: Lupus
+  journal: Lupus
   link: https://www.ncbi.nlm.nih.gov/pubmed/22235053
   pubmed: 22235053
 conditions:

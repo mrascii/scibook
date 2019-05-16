@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lakhan
   year: 2016
-  magazine: Pain Res Treat
+  journal: Pain Res Treat
   link: https://www.ncbi.nlm.nih.gov/pubmed/28070420
 ---
 

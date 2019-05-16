@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cacopardo
   year: 2009
-  magazine: Dig Liver Dis
+  journal: Dig Liver Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/18182335
   pubmed: 18182335
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Black
   year: 2004
-  magazine: Am J Perinatol
+  journal: Am J Perinatol
   link: https://www.ncbi.nlm.nih.gov/pubmed/15311370
   pubmed: 15311370
 ---

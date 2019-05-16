@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brown
   year: 1960
-  magazine: JAMA
+  journal: JAMA
   link: https://jamanetwork.com/journals/jama/article-abstract/327642
   pubmed: 13804929
 countries:

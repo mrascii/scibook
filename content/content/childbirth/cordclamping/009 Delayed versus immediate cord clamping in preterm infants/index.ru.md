@@ -6,7 +6,7 @@ article:
   type: article
   authors: Tarnow-Mordi
   year: 2017
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/29081267
   pubmed: 29081267
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wessman
   year: 1999
-  magazine: Dev Biol Stand
+  journal: Dev Biol Stand
   link: https://www.ncbi.nlm.nih.gov/pubmed/10404869
   pubmed: 10404869
 drugs:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Roth
   year: 2006
-  magazine: Expert Rev Vaccines
+  journal: Expert Rev Vaccines
   link: https://www.ncbi.nlm.nih.gov/pubmed/16608427/
   pubmed: 16608427
 conditions:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Klein
   year: 2010
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/20587679
   pubmed: 20587679
 diseases:

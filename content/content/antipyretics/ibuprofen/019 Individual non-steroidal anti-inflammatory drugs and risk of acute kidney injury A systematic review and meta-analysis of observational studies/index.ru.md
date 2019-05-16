@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ungprasert
   year: 2015
-  magazine: Eur J Intern Med
+  journal: Eur J Intern Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/25862494
   pubmed: 25862494
 ---

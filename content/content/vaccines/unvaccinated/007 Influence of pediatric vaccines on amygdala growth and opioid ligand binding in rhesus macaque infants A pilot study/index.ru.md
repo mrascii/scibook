@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hewitson
   year: 2010
-  magazine: Acta Neurobiol Exp Wars
+  journal: Acta Neurobiol Exp Wars
   link: https://www.ncbi.nlm.nih.gov/pubmed/20628439
   pubmed: 20628439
 conditions:

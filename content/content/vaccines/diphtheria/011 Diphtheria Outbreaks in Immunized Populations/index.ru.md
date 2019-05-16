@@ -5,7 +5,7 @@ article:
   type: article
   authors: Karzon
   year: 1988
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: http://www.nejm.org/doi/full/10.1056/NEJM198801073180108
   pubmed: 10.1056/NEJM198801073180108
 ---

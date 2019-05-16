@@ -5,7 +5,7 @@ article:
   type: article
   authors: Adams
   year: 2007
-  magazine: J Toxicol Environ Health A
+  journal: J Toxicol Environ Health A
   link: https://www.ncbi.nlm.nih.gov/pubmed/17497416
   pubmed: 17497416
 diseases:

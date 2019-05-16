@@ -5,7 +5,7 @@ article:
   type: article
   authors: Earn
   year: 2014
-  magazine: Proc Biol Sci
+  journal: Proc Biol Sci
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3906934
   pubmed: PMC3906934
 ---

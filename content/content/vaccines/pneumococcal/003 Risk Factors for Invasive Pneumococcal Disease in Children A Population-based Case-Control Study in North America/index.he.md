@@ -6,7 +6,7 @@ article:
   type: article
   authors: Levine
   year: 1999
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/10049984
   pubmed: 10049984
 conditions:

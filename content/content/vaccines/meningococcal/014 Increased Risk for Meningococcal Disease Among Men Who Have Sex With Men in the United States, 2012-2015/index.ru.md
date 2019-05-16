@@ -5,7 +5,7 @@ article:
   type: article
   authors: Folaranmi
   year: 2017
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737672/
   pubmed: PMC5737672
 conditions:

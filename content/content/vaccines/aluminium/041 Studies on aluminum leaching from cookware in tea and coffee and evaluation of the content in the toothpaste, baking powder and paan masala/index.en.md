@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rajwanshi
   year: 1997
-  magazine: Sci Total Environ
+  journal: Sci Total Environ
   link: https://www.ncbi.nlm.nih.gov/pubmed/9092078
   pubmed: 9092078
 drugs:

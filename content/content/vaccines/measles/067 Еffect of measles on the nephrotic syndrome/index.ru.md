@@ -5,7 +5,7 @@ article:
   type: article
   authors: Blumberg
   year: 1947
-  magazine: Am J Dis Child
+  journal: Am J Dis Child
   link: http://jamanetwork.com/journals/jamapediatrics/article-abstract/1180367
   pubmed: 1180367
 diseases:

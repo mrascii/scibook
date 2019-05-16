@@ -5,7 +5,7 @@ article:
   type: article
   authors: Patel
   year: 2008
-  magazine: Infect Control Hosp Epidemiol
+  journal: Infect Control Hosp Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/18999945
   pubmed: 18999945
 diseases:

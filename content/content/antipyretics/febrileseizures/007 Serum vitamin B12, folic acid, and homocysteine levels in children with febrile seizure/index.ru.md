@@ -5,7 +5,7 @@ article:
   type: article
   authors: Özkale
   year: 2015
-  magazine: Turk J Pediatr
+  journal: Turk J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/8645953
   pubmed: 8645953
 diseases:

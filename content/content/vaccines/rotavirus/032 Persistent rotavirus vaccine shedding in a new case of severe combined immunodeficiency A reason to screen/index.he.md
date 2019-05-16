@@ -5,7 +5,7 @@ article:
   type: article
   authors: Uygungil
   year: 2010
-  magazine: J Allergy Clin Immunol
+  journal: J Allergy Clin Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/20109754
   pubmed: 20109754
 ---

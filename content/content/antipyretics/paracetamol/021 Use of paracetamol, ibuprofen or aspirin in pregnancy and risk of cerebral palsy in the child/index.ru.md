@@ -5,7 +5,7 @@ article:
   type: article
   authors: Petersen
   year: 2018
-  magazine: Int J Epidemiol
+  journal: Int J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/29149272
   pubmed: 29149272
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Burbacher
   year: 2005
-  magazine: Environ Health Perspect
+  journal: Environ Health Perspect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1280342/
   pubmed: PMC1280342
 ---

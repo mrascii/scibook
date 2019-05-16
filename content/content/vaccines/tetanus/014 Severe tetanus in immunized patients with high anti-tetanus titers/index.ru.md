@@ -6,7 +6,7 @@ article:
   type: article
   authors: Crone
   year: 1992
-  magazine: Neurology
+  journal: Neurology
   link: https://www.ncbi.nlm.nih.gov/pubmed/1565228
   pubmed: 1565228
 ---

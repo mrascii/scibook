@@ -5,7 +5,7 @@ article:
   type: article
   authors: Newhouse
   year: 1977
-  magazine: Br J Prev Soc Med
+  journal: Br J Prev Soc Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC479015
   pubmed: PMC479015
 diseases:

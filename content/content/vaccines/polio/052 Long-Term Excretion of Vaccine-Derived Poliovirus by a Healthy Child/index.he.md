@@ -5,7 +5,7 @@ article:
   type: article
   authors: Martín
   year: 2004
-  magazine: J Virol
+  journal: J Virol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC533926/
   pubmed: PMC533926
 conditions:

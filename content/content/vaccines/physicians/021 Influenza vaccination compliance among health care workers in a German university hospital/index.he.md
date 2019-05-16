@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wicker
   year: 2009
-  magazine: Infection
+  journal: Infection
   link: https://www.ncbi.nlm.nih.gov/pubmed/19139807
   pubmed: 19139807
 conditions:

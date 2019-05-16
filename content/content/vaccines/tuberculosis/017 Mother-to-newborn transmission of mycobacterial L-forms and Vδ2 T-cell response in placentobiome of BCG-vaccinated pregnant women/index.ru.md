@@ -6,7 +6,7 @@ article:
   type: article
   authors: Dimova
   year: 2017
-  magazine: Sci Rep
+  journal: Sci Rep
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5727158/
   pubmed: PMC5727158
 countries:

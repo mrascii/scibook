@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wilson
   year: 2011
-  magazine: PLoS One
+  journal: PLoS One
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3236196/
   pubmed: PMC3236196
 ---

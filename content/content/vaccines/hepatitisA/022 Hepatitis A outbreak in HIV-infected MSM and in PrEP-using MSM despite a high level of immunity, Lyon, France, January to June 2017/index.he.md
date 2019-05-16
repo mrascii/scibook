@@ -5,7 +5,7 @@ article:
   type: article
   authors: Charre
   year: 2017
-  magazine: Euro Surveill
+  journal: Euro Surveill
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5725789/
   pubmed: PMC5725789
 conditions:

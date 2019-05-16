@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kiraly
   year: 2016
-  magazine: Allergy.
+  journal: Allergy.
   link: https://www.ncbi.nlm.nih.gov/pubmed/26707796
   pubmed: 26707796
 drugs:

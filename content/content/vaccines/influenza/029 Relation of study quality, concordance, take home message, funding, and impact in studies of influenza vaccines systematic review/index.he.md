@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jefferson
   year: 2009
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2643439
   pubmed: PMC2643439
 ---

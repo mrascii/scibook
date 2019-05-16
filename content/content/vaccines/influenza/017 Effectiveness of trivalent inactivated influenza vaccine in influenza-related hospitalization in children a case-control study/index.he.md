@@ -6,7 +6,7 @@ article:
   type: article
   authors: Joshi
   year: 2012
-  magazine: Allergy Asthma Proc
+  journal: Allergy Asthma Proc
   link: https://www.ncbi.nlm.nih.gov/pubmed/22525386
   pubmed: 22525386
 diseases:

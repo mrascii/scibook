@@ -6,7 +6,7 @@ article:
   type: article
   authors: McNeil
   year: 2018
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/30221595
   pubmed: 30221595
 ---

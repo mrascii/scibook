@@ -5,7 +5,7 @@ article:
   type: article
   authors: Levy
   year: 2006
-  magazine: J Perinat Med
+  journal: J Perinat Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/16856818
   pubmed: 16856818
 ---

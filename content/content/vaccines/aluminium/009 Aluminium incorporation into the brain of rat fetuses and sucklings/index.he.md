@@ -5,7 +5,7 @@ article:
   type: article
   authors: Yumoto
   year: 2001
-  magazine: Brain Res Bull
+  journal: Brain Res Bull
   link: https://www.ncbi.nlm.nih.gov/pubmed/11470320
   pubmed: 11470320
 conditions:

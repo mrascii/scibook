@@ -5,7 +5,7 @@ article:
   type: article
   authors: Garza-Villarreal
   year: 2017
-  magazine: Pain Physician
+  journal: Pain Physician
   link: https://www.ncbi.nlm.nih.gov/pubmed/29149141
   pubmed: 29149141
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vilchèze
   year: 2013
-  magazine: Nat Commun
+  journal: Nat Commun
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3698613/
   pubmed: PMC3698613
 drugs:

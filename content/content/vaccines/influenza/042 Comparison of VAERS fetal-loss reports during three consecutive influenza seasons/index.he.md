@@ -5,7 +5,7 @@ article:
   type: article
   authors: Goldman
   year: 2013
-  magazine: Hum Exp Toxicol
+  journal: Hum Exp Toxicol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3888271
   pubmed: PMC3888271
 humans:

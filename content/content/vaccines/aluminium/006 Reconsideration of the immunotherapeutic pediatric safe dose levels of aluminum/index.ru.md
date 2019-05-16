@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lyons-Weiler
   year: 2018
-  magazine: J Trace Elem Med Biol
+  journal: J Trace Elem Med Biol
   link: https://www.sciencedirect.com/science/article/pii/S0946672X17300950
   pubmed: 10.1016/j.jtemb.2018.02.025
 ---

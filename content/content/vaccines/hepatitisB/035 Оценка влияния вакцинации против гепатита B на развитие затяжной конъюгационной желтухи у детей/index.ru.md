@@ -5,7 +5,7 @@ article:
   type: article
   authors: Шахова
   year: 2009
-  magazine: Педиатрическая фармакология
+  journal: Педиатрическая фармакология
   link: https://cyberleninka.ru/article/n/otsenka-vliyaniya-vaktsinatsii-protiv-gepatita-v-na-razvitie-zatyazhnoy-konyugatsionnoy-zheltuhi-u-detey
 countries:
 - Россия

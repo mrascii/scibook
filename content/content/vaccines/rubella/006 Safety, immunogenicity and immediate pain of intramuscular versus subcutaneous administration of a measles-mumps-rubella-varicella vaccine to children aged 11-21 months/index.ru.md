@@ -5,7 +5,7 @@ article:
   type: article
   authors: Knuf
   year: 2010
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/20148263
   pubmed: 20148263
 ---

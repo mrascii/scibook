@@ -5,7 +5,7 @@ article:
   type: PMC4163965
   authors: McNicol
   year: 2016
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4163965
   pubmed: PMC4163965
 ---

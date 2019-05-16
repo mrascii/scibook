@@ -6,7 +6,7 @@ article:
   type: article
   authors: Mohamed
   year: 2015
-  magazine: Behav Neurol
+  journal: Behav Neurol
   link: https://www.ncbi.nlm.nih.gov/pubmed/26508811
   pubmed: 26508811
 ---

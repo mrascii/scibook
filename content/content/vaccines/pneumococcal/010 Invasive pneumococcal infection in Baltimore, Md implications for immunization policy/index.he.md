@@ -5,7 +5,7 @@ article:
   type: article
   authors: Harrison
   year: 2000
-  magazine: Arch Intern Med
+  journal: Arch Intern Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/10632309
   pubmed: 10632309
 countries:

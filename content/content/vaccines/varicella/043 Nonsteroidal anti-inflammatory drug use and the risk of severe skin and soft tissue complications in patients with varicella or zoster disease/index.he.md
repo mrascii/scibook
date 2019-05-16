@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mikaeloff
   year: 2008
-  magazine: Br J Clin Pharmacol
+  journal: Br J Clin Pharmacol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2291221/
   pubmed: PMC2291221
 drugs:

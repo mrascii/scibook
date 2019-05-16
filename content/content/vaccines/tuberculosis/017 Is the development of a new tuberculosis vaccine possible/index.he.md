@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kaufmann
   year: 2000
-  magazine: Nat Med
+  journal: Nat Med
   link: https://www.nature.com/articles/nm0900_955
   pubmed: 10973302
 ---

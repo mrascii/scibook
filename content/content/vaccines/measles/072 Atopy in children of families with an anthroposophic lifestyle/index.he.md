@@ -5,7 +5,7 @@ article:
   type: article
   authors: Alm
   year: 1999
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/10232315
   pubmed: 10232315
 diseases:

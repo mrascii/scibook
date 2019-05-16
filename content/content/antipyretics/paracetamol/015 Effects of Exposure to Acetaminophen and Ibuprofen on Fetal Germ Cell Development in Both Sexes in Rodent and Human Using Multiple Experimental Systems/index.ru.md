@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hurtado-Gonzalez
   year: 2018
-  magazine: Environ Health Perspect
+  journal: Environ Health Perspect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6071829
   pubmed: PMC6071829
 ---

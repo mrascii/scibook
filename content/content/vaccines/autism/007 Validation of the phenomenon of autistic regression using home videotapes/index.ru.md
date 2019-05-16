@@ -5,7 +5,7 @@ article:
   type: article
   authors: Werner
   year: 2005
-  magazine: Arch Gen Psychiatry
+  journal: Arch Gen Psychiatry
   link: https://www.ncbi.nlm.nih.gov/pubmed/16061766
   pubmed: 16061766
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sørup
   year: 2016
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5142423
   pubmed: PMC5142423
 countries:

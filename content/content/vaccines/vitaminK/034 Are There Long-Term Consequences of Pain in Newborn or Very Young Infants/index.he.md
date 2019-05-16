@@ -5,7 +5,7 @@ article:
   type: article
   authors: Page
   year: 2004
-  magazine: J Perinat Educ
+  journal: J Perinat Educ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595204
   pubmed: PMC1595204
 countries:

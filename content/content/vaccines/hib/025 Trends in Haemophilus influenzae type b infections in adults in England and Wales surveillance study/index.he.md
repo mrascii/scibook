@@ -5,7 +5,7 @@ article:
   type: article
   authors: McVernon
   year: 2004
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC517642/
   pubmed: PMC517642
 conditions:

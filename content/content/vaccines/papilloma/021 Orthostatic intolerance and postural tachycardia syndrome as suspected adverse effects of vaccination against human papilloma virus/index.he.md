@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brinth
   year: 2015
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/25882168
   pubmed: 25882168
 diseases:

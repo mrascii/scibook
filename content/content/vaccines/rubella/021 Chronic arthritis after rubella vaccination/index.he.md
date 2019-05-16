@@ -5,7 +5,7 @@ article:
   type: article
   authors: Howson
   year: 1992
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/1520764
   pubmed: 1520764
 diseases:

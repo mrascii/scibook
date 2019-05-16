@@ -6,7 +6,7 @@ article:
   type: article
   authors: Kaplan
   year: 1988
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/3404601
   pubmed: 3404601
 countries:

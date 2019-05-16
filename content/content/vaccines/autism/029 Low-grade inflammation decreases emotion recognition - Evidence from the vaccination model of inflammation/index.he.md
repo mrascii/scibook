@@ -5,7 +5,7 @@ article:
   type: article
   authors: Balter
   year: 2018
-  magazine: Brain Behav Immun
+  journal: Brain Behav Immun
   link: https://www.ncbi.nlm.nih.gov/pubmed/29742460
   pubmed: 29742460
 drugs:

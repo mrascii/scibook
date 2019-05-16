@@ -5,7 +5,7 @@ article:
   type: article
   authors: Luisto
   year: 1993
-  magazine: Dev Med Child Neurol
+  journal: Dev Med Child Neurol
   link: https://www.ncbi.nlm.nih.gov/pubmed/8335151
   pubmed: 8335151
 diseases:

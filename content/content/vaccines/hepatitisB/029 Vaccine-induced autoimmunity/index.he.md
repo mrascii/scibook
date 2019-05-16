@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cohen
   year: 1996
-  magazine: J Autoimmun
+  journal: J Autoimmun
   link: https://www.ncbi.nlm.nih.gov/pubmed/9115571
   pubmed: 9115571
 ---

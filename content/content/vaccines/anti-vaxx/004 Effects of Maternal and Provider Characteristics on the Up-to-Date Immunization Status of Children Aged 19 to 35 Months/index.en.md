@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kim
   year: 2007
-  magazine: Am J Public Health
+  journal: Am J Public Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781415/
   pubmed: PMC1781415
 conditions:

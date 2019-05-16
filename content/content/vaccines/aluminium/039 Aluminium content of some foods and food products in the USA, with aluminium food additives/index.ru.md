@@ -5,7 +5,7 @@ article:
   type: article
   authors: Saiyed
   year: 2005
-  magazine: Food Addit Contam
+  journal: Food Addit Contam
   link: https://www.ncbi.nlm.nih.gov/pubmed/16019791
   pubmed: 16019791
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Martín
   year: 2000
-  magazine: Virology
+  journal: Virology
   link: https://www.ncbi.nlm.nih.gov/pubmed/11112479
   pubmed: 11112479
 conditions:

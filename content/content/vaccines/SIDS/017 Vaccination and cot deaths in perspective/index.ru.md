@@ -5,7 +5,7 @@ article:
   type: article
   authors: Roberts
   year: 1987
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1779219/
   pubmed: PMC1779219
 diseases:

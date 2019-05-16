@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lucero
   year: 2009
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/19483514
   pubmed: 19483514
 countries:

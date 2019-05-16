@@ -5,7 +5,7 @@ article:
   type: article
   authors: Michaiel
   year: 2012
-  magazine: Harefuah
+  journal: Harefuah
   link: https://www.ncbi.nlm.nih.gov/pubmed/23330257
   pubmed: 23330257
 ---

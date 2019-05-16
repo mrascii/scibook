@@ -5,7 +5,7 @@ article:
   type: article
   authors: Marshal
   year: 2015
-  magazine: Pediatrics
+  journal: Pediatrics
   link: http://pediatrics.aappublications.org/content/136/2/e323.long#T5
 ---
 

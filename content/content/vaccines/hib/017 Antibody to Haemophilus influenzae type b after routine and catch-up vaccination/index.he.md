@@ -5,7 +5,7 @@ article:
   type: article
   authors: Trotter
   year: 2003
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/12737867
   pubmed: 12737867
 countries:

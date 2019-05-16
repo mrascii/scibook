@@ -5,7 +5,7 @@ article:
   type: article
   authors: Leung
   year: 2017
-  magazine: Expert Rev Vaccines
+  journal: Expert Rev Vaccines
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544348/
   pubmed: PMC5544348
 ---

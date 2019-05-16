@@ -5,7 +5,7 @@ article:
   type: article
   authors: Giesecke
   year: 1997
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/9078207
   pubmed: 9078207
 countries:

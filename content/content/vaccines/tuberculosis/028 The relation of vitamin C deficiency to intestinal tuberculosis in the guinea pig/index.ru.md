@@ -6,7 +6,7 @@ article:
   type: article
   authors: McConkey
   year: 1933
-  magazine: J Exp Med
+  journal: J Exp Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2132312/
   pubmed: PMC2132312
 drugs:

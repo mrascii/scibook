@@ -5,7 +5,7 @@ article:
   type: article
   authors: Barclay
   year: 1987
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1245303
   pubmed: PMC124530
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Coleman
   year: 1926
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.jstor.org/stable/30083279
 conditions:
 - Natural immunity

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nuorti
   year: 2000
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/10706897/
   pubmed: 10706897
 conditions:

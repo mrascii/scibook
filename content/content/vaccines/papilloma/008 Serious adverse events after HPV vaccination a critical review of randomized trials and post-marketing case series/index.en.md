@@ -5,7 +5,7 @@ article:
   type: article
   authors: Clin Rheumatol
   year: 2017
-  magazine: An Pediatr (Barc)
+  journal: An Pediatr (Barc)
   link: https://www.ncbi.nlm.nih.gov/pubmed/28730271
   pubmed: 28730271
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kassim
   year: 2017
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/28648544
   pubmed: 28648544
 diseases:

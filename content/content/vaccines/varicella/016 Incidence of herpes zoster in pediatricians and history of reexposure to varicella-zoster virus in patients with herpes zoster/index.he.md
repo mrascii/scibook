@@ -5,7 +5,7 @@ article:
   type: article
   authors: Terada
   year: 1995
-  magazine: Kansenshogaku Zasshi
+  journal: Kansenshogaku Zasshi
   link: https://www.ncbi.nlm.nih.gov/pubmed/7594784
   pubmed: 7594784
 diseases:

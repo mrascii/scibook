@@ -5,7 +5,7 @@ article:
   type: article
   authors: Schmitt
   year: 1991
-  magazine: Clin Pediatr (Phila)
+  journal: Clin Pediatr (Phila)
   link: https://www.ncbi.nlm.nih.gov/pubmed/2029825
   pubmed: 2029825
 ---

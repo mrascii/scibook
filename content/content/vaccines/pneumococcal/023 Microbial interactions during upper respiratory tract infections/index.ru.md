@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pettigrew
   year: 2008
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2609881/
   pubmed: PMC2609881
 diseases:

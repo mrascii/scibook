@@ -6,7 +6,7 @@ article:
   type: article
   authors: Crocetti
   year: 2001
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/11389237
   pubmed: 11389237
 ---

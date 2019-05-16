@@ -5,7 +5,7 @@ article:
   type: article
   authors: Huang
   year: 2005
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/16140686
   pubmed: 16140686
 conditions:

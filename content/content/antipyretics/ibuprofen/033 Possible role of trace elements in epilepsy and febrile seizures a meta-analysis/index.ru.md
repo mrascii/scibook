@@ -5,7 +5,7 @@ article:
   type: article
   authors: Saghazadeh
   year: 2015
-  magazine: Nutr Rev
+  journal: Nutr Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/26433016
   pubmed: 26433016
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Street
   year: 1990
-  magazine: Infect Control Hosp Epidemiol
+  journal: Infect Control Hosp Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/2146315
   pubmed: 2146315
 ---

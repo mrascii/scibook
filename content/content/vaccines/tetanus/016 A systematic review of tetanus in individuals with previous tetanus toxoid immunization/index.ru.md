@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hopkins
   year: 2014
-  magazine: Canada Communicable Disease Report CCDR
+  journal: Canada Communicable Disease Report CCDR
   link: https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2014-40/ccdr-volume-40-17-october-16-2014/ccdr-volume-40-17-october-16-2014-1.html
 ---
 

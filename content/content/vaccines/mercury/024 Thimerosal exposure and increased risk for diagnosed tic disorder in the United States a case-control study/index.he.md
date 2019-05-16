@@ -6,7 +6,7 @@ article:
   type: article
   authors: Geier
   year: 2015
-  magazine: Interdiscip Toxicol
+  journal: Interdiscip Toxicol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4961900
   pubmed: PMC4961900
 diseases:

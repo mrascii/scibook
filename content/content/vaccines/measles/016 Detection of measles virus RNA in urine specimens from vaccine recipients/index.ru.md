@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rota
   year: 1995
-  magazine: J Clin Microbiol
+  journal: J Clin Microbiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC228449/
   pubmed: PMC228449
 ---

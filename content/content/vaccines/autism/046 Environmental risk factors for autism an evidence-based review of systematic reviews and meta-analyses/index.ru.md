@@ -6,7 +6,7 @@ article:
   type: article
   authors: Modabbernia
   year: 2017
-  magazine: Mol Autism
+  journal: Mol Autism
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5356236
   pubmed: PMC5356236
 ---

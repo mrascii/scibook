@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ahlgren
   year: 2009
-  magazine: Eur J Epidemiol
+  journal: Eur J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/19633994
   pubmed: 19633994
 diseases:

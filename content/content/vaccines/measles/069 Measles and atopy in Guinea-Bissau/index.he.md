@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shaheen
   year: 1996
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/8667923
   pubmed: 8667923
 diseases:

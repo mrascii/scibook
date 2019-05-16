@@ -5,7 +5,7 @@ article:
   type: article
   authors: Srugo
   year: 2000
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://wwwnc.cdc.gov/eid/article/6/5/00-0512_article
   pubmed: 10998384
 countries:

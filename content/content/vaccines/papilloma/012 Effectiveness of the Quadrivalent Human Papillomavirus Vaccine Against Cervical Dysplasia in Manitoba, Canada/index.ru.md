@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mahmud
   year: 2014
-  magazine: J Clin Oncol
+  journal: J Clin Oncol
   link: https://www.ncbi.nlm.nih.gov/pubmed/24395857
   pubmed: 24395857
 ---

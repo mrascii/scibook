@@ -5,7 +5,7 @@ article:
   type: article
   authors: Chung
   year: 2017
-  magazine: Maternal Child Health J
+  journal: Maternal Child Health J
   link: https://www.ncbi.nlm.nih.gov/pubmed/28755045
   pubmed: 28755045
 conditions:

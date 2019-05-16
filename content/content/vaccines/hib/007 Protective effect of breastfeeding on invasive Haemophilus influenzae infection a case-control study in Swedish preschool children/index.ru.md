@@ -5,7 +5,7 @@ article:
   type: article
   authors: Silfverdal
   year: 1997
-  magazine: Int J Epidemiol
+  journal: Int J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/9169183
   pubmed: 9169183
 conditions:

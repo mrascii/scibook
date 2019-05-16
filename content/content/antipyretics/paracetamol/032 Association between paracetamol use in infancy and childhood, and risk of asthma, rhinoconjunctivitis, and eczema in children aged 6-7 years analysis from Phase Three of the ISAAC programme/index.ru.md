@@ -5,7 +5,7 @@ article:
   type: article
   authors: Beasley
   year: 2008
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/18805332
   pubmed: 18805332
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Schlehofer
   year: 1999
-  magazine: Int J Cancer
+  journal: Int J Cancer
   link: https://www.ncbi.nlm.nih.gov/pubmed/10389745
   pubmed: 10389745
 diseases:

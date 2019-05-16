@@ -5,7 +5,7 @@ article:
   type: article
   authors: Curran
   year: 2007
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/18055656
   pubmed: 18055656
 ---

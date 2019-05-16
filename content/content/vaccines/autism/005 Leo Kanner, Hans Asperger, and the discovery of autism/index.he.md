@@ -5,7 +5,7 @@ article:
   type: article
   authors: Baron-Cohen
   year: 2015
-  magazine: Lancet
+  journal: Lancet
   link: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00337-2
   pubmed: 10.1016/S0140-6736(15)00337-2
 ---

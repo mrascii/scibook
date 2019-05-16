@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gairdner
   year: 1978
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1544932
   pubmed: PMC1544932
 diseases:

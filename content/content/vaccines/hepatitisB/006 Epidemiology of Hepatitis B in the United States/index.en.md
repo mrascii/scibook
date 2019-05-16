@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ray Kim
   year: 2009
-  magazine: Hepatology
+  journal: Hepatology
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3290915/
   pubmed: PMC3290915
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Poland
   year: 1994
-  magazine: Arch Intern Med
+  journal: Arch Intern Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/8053748
   pubmed: 8053748
 ---

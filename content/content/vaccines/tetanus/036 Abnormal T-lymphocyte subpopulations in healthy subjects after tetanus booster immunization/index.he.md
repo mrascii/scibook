@@ -5,7 +5,7 @@ article:
   type: article
   authors: Eibl
   year: 1984
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/6228737
   pubmed: 6228737
 ---

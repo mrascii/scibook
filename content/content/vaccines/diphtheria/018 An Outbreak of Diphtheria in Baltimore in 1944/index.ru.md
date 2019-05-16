@@ -5,7 +5,7 @@ article:
   type: article
   authors: Eller
   year: 1945
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://academic.oup.com/aje/article-abstract/42/2/179/136808/AN-OUTBREAK-OF-DIPHTHERIA-IN-BALTIMORE-IN-19441
 countries:
 - США

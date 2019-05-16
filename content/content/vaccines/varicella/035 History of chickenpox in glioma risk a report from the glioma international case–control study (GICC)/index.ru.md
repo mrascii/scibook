@@ -5,7 +5,7 @@ article:
   type: article
   authors: Amirian
   year: 2016
-  magazine: Cancer Med
+  journal: Cancer Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4924393/
   pubmed: PMC4924393
 diseases:

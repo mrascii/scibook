@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zafrir
   year: 2012
-  magazine: Lupus
+  journal: Lupus
   link: https://www.ncbi.nlm.nih.gov/pubmed/22235045
   pubmed: 22235045
 ---

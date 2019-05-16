@@ -5,7 +5,7 @@ article:
   type: article
   authors: Venkatraman
   year: 2015
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/25665960
   pubmed: 25665960
 conditions:

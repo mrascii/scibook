@@ -5,7 +5,7 @@ article:
   type: article
   authors: Meszaros
   year: 1996
-  magazine: J Clin Epidemiol
+  journal: J Clin Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/8656233
   pubmed: 8656233
 conditions:

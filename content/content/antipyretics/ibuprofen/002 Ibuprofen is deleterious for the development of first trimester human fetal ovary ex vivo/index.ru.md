@@ -6,7 +6,7 @@ article:
   type: article
   authors: Leverrier-Penna
   year: 2018
-  magazine: Hum Reprod
+  journal: Hum Reprod
   link: https://www.ncbi.nlm.nih.gov/pubmed/29408962
   pubmed: 29408962
 ---

@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 1980
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/281/6250/1231
   pubmed: 10.1136/bmj.281.6250.1231
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vilchèze
   year: 2018
-  magazine: Antimicrob Agents Chemother
+  journal: Antimicrob Agents Chemother
   link: https://www.ncbi.nlm.nih.gov/pubmed/29298757
   pubmed: 29298757
 drugs:

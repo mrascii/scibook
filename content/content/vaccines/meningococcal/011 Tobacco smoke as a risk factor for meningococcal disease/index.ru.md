@@ -6,7 +6,7 @@ article:
   type: article
   authors: Fischer
   year: 1997
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/9380476
   pubmed: 9380476
 conditions:

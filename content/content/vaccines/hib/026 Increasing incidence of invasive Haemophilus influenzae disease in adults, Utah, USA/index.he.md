@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rubach
   year: 2011
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322072
   pubmed: PMC3322072
 conditions:

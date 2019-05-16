@@ -5,7 +5,7 @@ article:
   type: article
   authors: Furton
   year: 1999
-  magazine: Ethics Medics
+  journal: Ethics Medics
   link: https://www.ncbi.nlm.nih.gov/pubmed/11657845/
   pubmed: 11657845
 drugs:

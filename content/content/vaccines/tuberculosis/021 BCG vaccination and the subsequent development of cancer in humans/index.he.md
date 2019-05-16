@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kendrick
   year: 1981
-  magazine: J Natl Cancer Inst
+  journal: J Natl Cancer Inst
   link: https://www.ncbi.nlm.nih.gov/pubmed/7009946
   pubmed: 7009946
 diseases:

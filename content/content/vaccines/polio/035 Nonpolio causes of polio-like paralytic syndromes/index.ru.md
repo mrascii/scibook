@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gear
   year: 1984
-  magazine: Rev Infect Dis
+  journal: Rev Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/6740077
   pubmed: 6740077
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cochrane
   year: 1965
-  magazine: Can Med Assoc J
+  journal: Can Med Assoc J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1928976
   pubmed: PMC1928976
 ---

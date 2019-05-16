@@ -5,7 +5,7 @@ article:
   type: article
   authors: Clifford
   year: 2010
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/20085834
   pubmed: 20085834
 diseases:

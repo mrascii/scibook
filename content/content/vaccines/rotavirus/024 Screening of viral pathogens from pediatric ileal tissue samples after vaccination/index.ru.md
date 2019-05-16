@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hewitson
   year: 2014
-  magazine: Adv Virol
+  journal: Adv Virol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3980782/
   pubmed: PMC3980782
 ---

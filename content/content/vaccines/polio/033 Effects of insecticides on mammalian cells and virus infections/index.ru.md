@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gabliks
   year: 1969
-  magazine: Ann N Y Acad Sci
+  journal: Ann N Y Acad Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/4308530
   pubmed: 4308530
 conditions:

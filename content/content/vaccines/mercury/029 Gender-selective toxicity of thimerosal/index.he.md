@@ -5,7 +5,7 @@ article:
   type: article
   authors: Branch
   year: 2009
-  magazine: Exp Toxicol Pathol
+  journal: Exp Toxicol Pathol
   link: https://www.ncbi.nlm.nih.gov/pubmed/18771903
   pubmed: 18771903
 ---

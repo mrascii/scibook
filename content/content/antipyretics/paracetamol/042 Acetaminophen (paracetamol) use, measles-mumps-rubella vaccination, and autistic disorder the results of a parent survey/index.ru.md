@@ -5,7 +5,7 @@ article:
   type: article
   authors: Schultz
   year: 2008
-  magazine: Autism
+  journal: Autism
   link: https://www.ncbi.nlm.nih.gov/pubmed/18445737
   pubmed: 18445737
 ---

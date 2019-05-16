@@ -6,7 +6,7 @@ article:
   type: article
   authors: Eberhardt
   year: 2017
-  magazine: Cold Spring Harb Perspect Biol
+  journal: Cold Spring Harb Perspect Biol
   link: http://www.ncbi.nlm.nih.gov/pubmed/28289058
   pubmed: 28289058
 conditions:

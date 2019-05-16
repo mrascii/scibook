@@ -5,7 +5,7 @@ article:
   type: article
   authors: Paffenbarger
   year: 1977
-  magazine: J Natl Cancer Inst
+  journal: J Natl Cancer Inst
   link: https://www.ncbi.nlm.nih.gov/pubmed/857036
   pubmed: 857036
 ---

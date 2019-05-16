@@ -6,7 +6,7 @@ article:
   type: article
   authors: Kanner
   year: 1943
-  magazine: Nervous Child
+  journal: Nervous Child
   link: http://psycnet.apa.org/record/1943-03624-001
 ---
 

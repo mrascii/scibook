@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nemezio
   year: 2017
-  magazine: Int J Clin Pediatr Dent
+  journal: Int J Clin Pediatr Dent
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5661046
   pubmed: PMC5661046
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tenbroeck
   year: 1922
-  magazine: J Exp Med
+  journal: J Exp Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2128328
   pubmed: PMC2128328
 conditions:

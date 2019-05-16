@@ -5,7 +5,7 @@ article:
   type: article
   authors: La Rosa
   year: 2016
-  magazine: Hum Vaccin Immunother
+  journal: Hum Vaccin Immunother
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5027721
   pubmed: PMC5027721
 ---

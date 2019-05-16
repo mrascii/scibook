@@ -5,7 +5,7 @@ article:
   type: article
   authors: Metlay
   year: 2010
-  magazine: Arch Intern Med
+  journal: Arch Intern Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2946166/
   pubmed: PMC2946166
 conditions:

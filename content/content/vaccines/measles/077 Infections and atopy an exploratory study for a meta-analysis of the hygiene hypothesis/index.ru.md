@@ -5,7 +5,7 @@ article:
   type: article
   authors: Randi
   year: 2004
-  magazine: Rev Epidemiol Sante Publique
+  journal: Rev Epidemiol Sante Publique
   link: https://www.ncbi.nlm.nih.gov/pubmed/15741918
   pubmed: 15741918
 diseases:

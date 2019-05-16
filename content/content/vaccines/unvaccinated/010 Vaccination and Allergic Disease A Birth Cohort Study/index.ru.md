@@ -5,7 +5,7 @@ article:
   type: article
   authors: McKeever
   year: 2004
-  magazine: Am J Public Health
+  journal: Am J Public Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448377/
   pubmed: PMC1448377
 conditions:

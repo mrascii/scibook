@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sangalli
   year: 1996
-  magazine: Eur J Epidemiol
+  journal: Eur J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/8905318
   pubmed: 8905318
 conditions:

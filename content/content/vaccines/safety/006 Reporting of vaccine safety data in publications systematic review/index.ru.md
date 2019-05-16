@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bonhoeffer
   year: 2005
-  magazine: Pharmacoepidemiol Drug Saf
+  journal: Pharmacoepidemiol Drug Saf
   link: https://www.ncbi.nlm.nih.gov/pubmed/15386705
   pubmed: 15386705
 ---

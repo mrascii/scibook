@@ -5,7 +5,7 @@ article:
   type: article
   authors: Anis
   year: 2012
-  magazine: Epidemiol Infect
+  journal: Epidemiol Infect
   link: https://www.ncbi.nlm.nih.gov/pubmed/21554780
   pubmed: 21554780
 countries:

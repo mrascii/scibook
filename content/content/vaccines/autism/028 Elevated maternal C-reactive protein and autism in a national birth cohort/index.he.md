@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brown
   year: 2014
-  magazine: Mol Psychiatry
+  journal: Mol Psychiatry
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3633612
   pubmed: PMC3633612
 ---

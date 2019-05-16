@@ -5,7 +5,7 @@ article:
   type: article
   authors: Leyer
   year: 2009
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/19651563
   pubmed: 19651563
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mischkowski
   year: 2016
-  magazine: Soc Cogn Affect Neurosci
+  journal: Soc Cogn Affect Neurosci
   link: https://www.ncbi.nlm.nih.gov/pubmed/27217114
   pubmed: 27217114
 ---

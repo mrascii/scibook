@@ -5,7 +5,7 @@ article:
   type: article
   authors: Aquino
   year: 2014
-  magazine: MMWR Morb Mortal Wkly Rep
+  journal: MMWR Morb Mortal Wkly Rep
   link: https://www.ncbi.nlm.nih.gov/pubmed/25340911
   pubmed: 25340911
 ---

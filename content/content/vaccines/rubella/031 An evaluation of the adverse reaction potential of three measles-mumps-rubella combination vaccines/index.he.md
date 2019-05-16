@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dos Santos
   year: 2002
-  magazine: Rev Panam Salud Publica
+  journal: Rev Panam Salud Publica
   link: https://www.ncbi.nlm.nih.gov/pubmed/12431355
   pubmed: 12431355
 diseases:

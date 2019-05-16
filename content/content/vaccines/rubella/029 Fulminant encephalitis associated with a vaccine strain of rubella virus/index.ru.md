@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gualberto
   year: 2013
-  magazine: J Clin Virol
+  journal: J Clin Virol
   link: https://www.ncbi.nlm.nih.gov/pubmed/24216323/
   pubmed: 24216323
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cook
   year: 2001
-  magazine: Br J Anaesth
+  journal: Br J Anaesth
   link:  https://academic.oup.com/bja/article/87/3/477/333174/Tetanus-a-review-of-the-literature
   pubmed: 11517134
 ---

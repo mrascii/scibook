@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wiertsema
   year: 2011
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/21621576
   pubmed: 21621576
 diseases:

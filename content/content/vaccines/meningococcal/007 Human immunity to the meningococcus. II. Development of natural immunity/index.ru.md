@@ -5,7 +5,7 @@ article:
   type: article
   authors: Goldschneider
   year: 1969
-  magazine: J Exp Med
+  journal: J Exp Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2138665/
   pubmed: PMC2138665
 conditions:

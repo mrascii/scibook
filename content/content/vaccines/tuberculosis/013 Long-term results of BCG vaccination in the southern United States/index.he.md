@@ -5,7 +5,7 @@ article:
   type: article
   authors: Comstock
   year: 1966
-  magazine: Am Rev Respir Dis
+  journal: Am Rev Respir Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/5908081
   pubmed: 5908081
 countries:

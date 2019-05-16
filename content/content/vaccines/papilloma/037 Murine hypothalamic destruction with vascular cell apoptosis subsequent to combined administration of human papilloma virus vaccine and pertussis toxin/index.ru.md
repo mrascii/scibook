@@ -5,7 +5,7 @@ article:
   type: article
   authors: Aratani
   year: 2016
-  magazine: Sci Rep
+  journal: Sci Rep
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5105142/
   pubmed: PMC5105142
 ---

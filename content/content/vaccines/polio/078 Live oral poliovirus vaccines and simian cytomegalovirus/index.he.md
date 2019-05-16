@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sierra-Honigmann
   year: 2002
-  magazine: Biologicals
+  journal: Biologicals
   link: https://www.ncbi.nlm.nih.gov/pubmed/12217341
   pubmed: 12217341
 ---

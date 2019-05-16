@@ -5,7 +5,7 @@ article:
   type: article
   authors: Molyneaux
   year: 1995
-  magazine: J Med Microbiol
+  journal: J Med Microbiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/7473672
   pubmed: 7473672
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rahme
   year: 2008
-  magazine: Am J Gastroenterol
+  journal: Am J Gastroenterol
   link: https://www.ncbi.nlm.nih.gov/pubmed/18371130
   pubmed: 18371130
 ---

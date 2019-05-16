@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sigal
   year: 1937
-  magazine: J Pharmacol Exp Ther
+  journal: J Pharmacol Exp Ther
   link: http://www.mv.helsinki.fi/home/hemila/concepts/Sigal_1937_p1_8.pdf
 drugs:
 - Витамин C

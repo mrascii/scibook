@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tsolia
   year: 1990
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/2153790
   pubmed: 2153790
 countries:

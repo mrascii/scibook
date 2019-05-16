@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2013
-  magazine: Transl Neurodegener
+  journal: Transl Neurodegener
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3878266
   pubmed: PMC3878266
 diseases:

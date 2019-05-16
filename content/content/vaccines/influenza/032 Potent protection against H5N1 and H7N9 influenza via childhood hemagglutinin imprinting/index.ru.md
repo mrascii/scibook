@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gostic
   year: 2016
-  magazine: Science
+  journal: Science
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134739/
   pubmed: PMC5134739
 ---

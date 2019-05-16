@@ -5,7 +5,7 @@ article:
   type: article
   authors: Alqareer
   year: 2006
-  magazine: J Dent
+  journal: J Dent
   link: https://www.ncbi.nlm.nih.gov/pubmed/16530911
   pubmed: 16530911
 ---

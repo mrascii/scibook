@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ernst
   year: 2018
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/30202914
   pubmed: 30202914
 ---

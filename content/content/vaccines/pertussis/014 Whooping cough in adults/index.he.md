@@ -5,7 +5,7 @@ article:
   type: article
   authors: Trollfors
   year: 1981
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1506984
   pubmed: PMC1506984
 countries:

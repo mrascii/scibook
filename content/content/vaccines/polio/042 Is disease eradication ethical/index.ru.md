@@ -5,7 +5,7 @@ article:
   type: article
   authors: Caplan
   year: 2009
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/19582890
   pubmed: 19582890
 ---

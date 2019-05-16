@@ -6,7 +6,7 @@ article:
   type: article
   authors: Strebel
   year: 1995
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/7830731
   pubmed: 7830731
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Flasche
   year: 2011
-  magazine: PLoS Med
+  journal: PLoS Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071372/
   pubmed: PMC3071372
 conditions:

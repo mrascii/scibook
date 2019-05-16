@@ -6,7 +6,7 @@ article:
   type: article
   authors: Biskind
   year: 1949
-  magazine: Am J Dig Dis
+  journal: Am J Dig Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/18113629
   pubmed: 18113629
 conditions:

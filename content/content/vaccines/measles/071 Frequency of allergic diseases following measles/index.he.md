@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kucukosmanoglu
   year: 2006
-  magazine: Allergol Immunopathol (Madr)
+  journal: Allergol Immunopathol (Madr)
   link: https://www.ncbi.nlm.nih.gov/pubmed/16854347
   pubmed: 16854347
 diseases:

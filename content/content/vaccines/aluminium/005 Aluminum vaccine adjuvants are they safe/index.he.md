@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tomljenovic
   year: 2011
-  magazine: Curr Med Chem
+  journal: Curr Med Chem
   link: https://www.ncbi.nlm.nih.gov/pubmed/21568886
   pubmed: 21568886
 drugs:

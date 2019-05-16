@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bull
   year: 1982
-  magazine: CA Cancer J Clin
+  journal: CA Cancer J Clin
   link: https://www.ncbi.nlm.nih.gov/pubmed/6800590
   pubmed: 6800590
 ---

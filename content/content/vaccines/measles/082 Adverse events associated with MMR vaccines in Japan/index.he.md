@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kimura
   year: 1996
-  magazine: Acta Paediatr Jpn
+  journal: Acta Paediatr Jpn
   link: https://www.ncbi.nlm.nih.gov/pubmed/8741307
   pubmed: 8741307
 drugs:

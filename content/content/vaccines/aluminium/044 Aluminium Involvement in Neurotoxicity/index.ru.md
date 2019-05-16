@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fulgenzi
   year: 2014
-  magazine: Biomed Res Int
+  journal: Biomed Res Int
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4160616/
   pubmed: PMC4160616
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Doshi
   year: 2013
-  magazine: JAMA Intern Med
+  journal: JAMA Intern Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/23553143
   pubmed: 23553143
 ---

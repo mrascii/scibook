@@ -6,7 +6,7 @@ article:
   type: article
   authors: Koskiniemi
   year: 1997
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/9243237
   pubmed: 9243237
 drugs:

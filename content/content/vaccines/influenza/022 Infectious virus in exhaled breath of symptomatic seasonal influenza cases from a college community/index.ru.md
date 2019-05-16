@@ -5,7 +5,7 @@ article:
   type: article
   authors: Yan
   year: 2018
-  magazine: Proc Natl Acad Sci U S A
+  journal: Proc Natl Acad Sci U S A
   link: https://www.ncbi.nlm.nih.gov/pubmed/
   pubmed: 29348203
 ---

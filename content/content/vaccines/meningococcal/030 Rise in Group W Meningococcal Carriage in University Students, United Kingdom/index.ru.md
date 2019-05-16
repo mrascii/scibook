@@ -5,7 +5,7 @@ article:
   type: article
   authors: Oldfield
   year: 2017
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443439/
   pubmed: PMC5443439
 countries:

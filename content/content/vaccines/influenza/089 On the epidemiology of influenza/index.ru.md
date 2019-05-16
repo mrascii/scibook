@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cannell
   year: 2008
-  magazine: Virol J
+  journal: Virol J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2279112/
   pubmed: PMC2279112
 drugs:

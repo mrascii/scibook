@@ -6,7 +6,7 @@ article:
   type: article
   authors: Doshi
   year: 2005
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/331/7529/1412
 ---
 

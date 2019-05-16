@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kondo
   year: 1993
-  magazine: Clin Exp Allergy
+  journal: Clin Exp Allergy
   link: https://www.ncbi.nlm.nih.gov/pubmed/8439821
   pubmed: 8439821
 diseases:

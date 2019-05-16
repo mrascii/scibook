@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sturge
   year: 1879
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2240477
   pubmed: PMC2240477
 ---

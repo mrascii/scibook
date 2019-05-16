@@ -5,7 +5,7 @@ article:
   type: article
   authors: Abramson
   year: 2012
-  magazine: Int J Family Med
+  journal: Int J Family Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3502850/
   pubmed: PMC3502850
 ---

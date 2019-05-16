@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hemilä
   year: 2011
-  magazine: Open Respir Med J
+  journal: Open Respir Med J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136969/
   pubmed: PMC3136969
 drugs:

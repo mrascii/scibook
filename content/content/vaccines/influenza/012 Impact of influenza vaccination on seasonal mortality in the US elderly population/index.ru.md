@@ -5,7 +5,7 @@ article:
   type: article
   authors: Simonsen
   year: 2005
-  magazine: Arch Intern Med
+  journal: Arch Intern Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/15710788
   pubmed: 15710788
 ---

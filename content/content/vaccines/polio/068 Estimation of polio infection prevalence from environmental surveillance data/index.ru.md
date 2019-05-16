@@ -5,7 +5,7 @@ article:
   type: article
   authors: Berchenko
   year: 2017
-  magazine: Sci Transl Med
+  journal: Sci Transl Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/28356510/
   pubmed: 28356510
 countries:

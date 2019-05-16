@@ -5,7 +5,7 @@ article:
   type: article
   authors: Moon
   year: 2010
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/20442687
   pubmed: 20442687
 ---

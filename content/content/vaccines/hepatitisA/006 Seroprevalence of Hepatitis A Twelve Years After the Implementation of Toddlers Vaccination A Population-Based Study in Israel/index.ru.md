@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bassal
   year: 2017
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/28498301
   pubmed: 28498301
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2015
-  magazine: Clin Rheumatol
+  journal: Clin Rheumatol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4475239/
   pubmed: PMC4475239
 diseases:

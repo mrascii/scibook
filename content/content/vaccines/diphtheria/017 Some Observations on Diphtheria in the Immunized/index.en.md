@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gibbard
   year: 1945
-  magazine: Can J Public Health
+  journal: Can J Public Health
   link: https://www.jstor.org/stable/41978872?seq=1
 countries:
 - Canada

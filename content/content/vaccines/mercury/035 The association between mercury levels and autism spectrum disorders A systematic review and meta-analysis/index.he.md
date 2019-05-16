@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jafari
   year: 2017
-  magazine: J Trace Elem Med Biol
+  journal: J Trace Elem Med Biol
   link: https://www.ncbi.nlm.nih.gov/pubmed/28965590
   pubmed: 28965590
 diseases:

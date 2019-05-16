@@ -5,7 +5,7 @@ article:
   type: article
   authors: Goldman
   year: 1998
-  magazine: Clin Ther
+  journal: Clin Ther
   link: https://www.ncbi.nlm.nih.gov/pubmed/9915089
   pubmed: 9915089
 countries:

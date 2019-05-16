@@ -5,7 +5,7 @@ article:
   type: article
   authors: Li
   year: 2015
-  magazine: PLoS One
+  journal: PLoS One
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4353712
   pubmed: PMC4353712
 ---

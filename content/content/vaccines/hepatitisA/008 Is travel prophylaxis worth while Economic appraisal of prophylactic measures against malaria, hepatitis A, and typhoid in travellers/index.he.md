@@ -5,7 +5,7 @@ article:
   type: article
   authors: Behrens
   year: 1994
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2541147/
   pubmed: PMC2541147
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Biesbroek
   year: 2014
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3901477/
   pubmed: PMC3901477
 diseases:

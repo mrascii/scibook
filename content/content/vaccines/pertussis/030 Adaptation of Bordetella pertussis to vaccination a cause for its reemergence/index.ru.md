@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mooi
   year: 2001
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631860/
   pubmed: PMC2631860
 countries:

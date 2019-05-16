@@ -5,7 +5,7 @@ article:
   type: article
   authors: Borella
   year: 2014
-  magazine: Ann N Y Acad Sci
+  journal: Ann N Y Acad Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/24593793
   pubmed: 24593793
 drugs:

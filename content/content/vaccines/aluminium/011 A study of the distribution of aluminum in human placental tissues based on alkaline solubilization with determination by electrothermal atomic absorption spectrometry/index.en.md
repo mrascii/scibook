@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kruger
   year: 2010
-  magazine: Metallomics
+  journal: Metallomics
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3315392
   pubmed: PMC3315392
 conditions:

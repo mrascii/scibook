@@ -5,7 +5,7 @@ article:
   type: article
   authors: Donahue
   year: 2017
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/28917295
   pubmed: 28917295
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: LaRussa
   year: 2000
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/11099082
   pubmed: 11099082
 diseases:

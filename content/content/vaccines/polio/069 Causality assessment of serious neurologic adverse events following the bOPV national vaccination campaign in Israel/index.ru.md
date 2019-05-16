@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tasher
   year: 2016
-  magazine: Isr Med Assoc J
+  journal: Isr Med Assoc J
   link: https://www.ncbi.nlm.nih.gov/pubmed/28471617
   pubmed: 28471617
 diseases:

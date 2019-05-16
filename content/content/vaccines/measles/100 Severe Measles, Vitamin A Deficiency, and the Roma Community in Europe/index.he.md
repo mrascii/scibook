@@ -5,7 +5,7 @@ article:
   type: article
   authors: Melenotte
   year: 2012
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437709/
   pubmed: PMC3437709
 drugs:

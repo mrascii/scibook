@@ -5,7 +5,7 @@ article:
   type: article
   authors: Velázquez
   year: 1996
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/8793926
   pubmed: 8793926
 conditions:

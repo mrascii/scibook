@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nataf
   year: 2006
-  magazine: Toxicol Appl Pharmacol
+  journal: Toxicol Appl Pharmacol
   link: https://www.ncbi.nlm.nih.gov/pubmed/16782144
   pubmed: 16782144
 ---

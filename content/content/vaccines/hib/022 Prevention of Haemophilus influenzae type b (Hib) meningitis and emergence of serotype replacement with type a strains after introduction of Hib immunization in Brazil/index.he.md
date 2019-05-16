@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ribeiro
   year: 2003
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/12508153
   pubmed: 12508153
 conditions:

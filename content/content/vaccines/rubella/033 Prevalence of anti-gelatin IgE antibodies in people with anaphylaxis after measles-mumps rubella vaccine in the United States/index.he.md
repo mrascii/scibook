@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pool
   year: 2002
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/12456938
   pubmed: 12456938
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Oh
   year: 2014
-  magazine: Clin Vaccine Immunol
+  journal: Clin Vaccine Immunol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4018876/
   pubmed: PMC4018876
 countries:

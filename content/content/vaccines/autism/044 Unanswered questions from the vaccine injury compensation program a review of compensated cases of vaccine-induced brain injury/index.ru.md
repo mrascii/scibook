@@ -5,7 +5,7 @@ article:
   type: article
   authors: Holland
   year: 2011
-  magazine: Pace Envtl. L. Rev
+  journal: Pace Envtl. L. Rev
   link: https://digitalcommons.pace.edu/pelr/vol28/iss2/6
 countries:
 - США

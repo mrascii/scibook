@@ -6,7 +6,7 @@ article:
   type: article
   authors: Bart
   year: 2014
-  magazine: mBio
+  journal: mBio
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3994516/
   pubmed: PMC2815961
 ---

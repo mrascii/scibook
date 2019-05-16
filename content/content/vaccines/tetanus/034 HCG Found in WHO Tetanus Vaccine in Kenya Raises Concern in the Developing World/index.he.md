@@ -5,7 +5,7 @@ article:
   type: article
   authors: Oller
   year: 2017
-  magazine: OAlib
+  journal: OAlib
   link: http://www.oalib.com/paper/pdf/5290033
 drugs:
 - Human Chorionic Gonadotropin

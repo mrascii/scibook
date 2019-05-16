@@ -5,7 +5,7 @@ article:
   type: article
   authors: Carr
   year: 2017
-  magazine: J Transl Med
+  journal: J Transl Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391567
   pubmed: PMC5391567
 ---

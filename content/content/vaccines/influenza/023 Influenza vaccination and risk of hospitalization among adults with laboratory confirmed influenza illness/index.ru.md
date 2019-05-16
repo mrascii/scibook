@@ -5,7 +5,7 @@ article:
   type: article
   authors: McLean
   year: 2014
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/24291201
   pubmed: 24291201
 ---

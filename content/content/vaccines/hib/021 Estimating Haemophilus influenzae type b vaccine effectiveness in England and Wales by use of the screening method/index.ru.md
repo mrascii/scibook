@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ramsay
   year: 2003
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/12898433
   pubmed: 12898433
 countries:

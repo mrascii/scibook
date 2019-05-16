@@ -5,7 +5,7 @@ article:
   type: article
   authors: Blanuša
   year: 2012
-  magazine: J Biomed Biotechnol
+  journal: J Biomed Biotechnol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3412121/
   pubmed: PMC3412121
 ---

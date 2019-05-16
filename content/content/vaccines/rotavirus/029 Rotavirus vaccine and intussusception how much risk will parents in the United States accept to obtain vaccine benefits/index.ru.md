@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sansom
   year: 2001
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/11724726
   pubmed: 11724726
 diseases:

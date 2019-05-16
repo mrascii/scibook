@@ -6,7 +6,7 @@ article:
   type: article
   authors: Altunaiji
   year: 2007
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0012763/
   pubmed: 17636756
 drugs:

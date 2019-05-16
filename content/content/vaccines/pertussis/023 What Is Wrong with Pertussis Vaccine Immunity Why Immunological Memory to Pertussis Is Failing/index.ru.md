@@ -5,7 +5,7 @@ article:
   type: article
   authors: Diavatopoulos
   year: 2017
-  magazine: Cold Spring Harb Perspect Biol.
+  journal: Cold Spring Harb Perspect Biol.
   link: https://www.ncbi.nlm.nih.gov/pubmed/28289059
   pubmed: 28289059
 ---

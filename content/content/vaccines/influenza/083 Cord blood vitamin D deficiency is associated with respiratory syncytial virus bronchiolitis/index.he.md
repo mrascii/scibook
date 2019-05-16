@@ -5,7 +5,7 @@ article:
   type: article
   authors: Belderbos
   year: 2011
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/21555499
   pubmed: 21555499
 drugs:

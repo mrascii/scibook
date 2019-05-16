@@ -5,7 +5,7 @@ article:
   type: article
   authors: Klenner
   year: 1949
-  magazine: South Med Surg
+  journal: South Med Surg
   link: https://www.ncbi.nlm.nih.gov/pubmed/18147027
   pubmed: 18147027
 drugs:

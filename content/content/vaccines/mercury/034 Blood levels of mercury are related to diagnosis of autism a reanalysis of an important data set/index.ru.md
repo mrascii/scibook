@@ -5,7 +5,7 @@ article:
   type: article
   authors: Desoto
   year: 2007
-  magazine: J Child Neurol
+  journal: J Child Neurol
   link: https://www.ncbi.nlm.nih.gov/pubmed/18006963
   pubmed: 18006963
 diseases:

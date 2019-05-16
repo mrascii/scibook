@@ -5,7 +5,7 @@ article:
   type: article
   authors: Verduin
   year: 2002
-  magazine: Clin Microbiol Rev
+  journal: Clin Microbiol Rev
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC118065/
   pubmed: PMC118065
 diseases:

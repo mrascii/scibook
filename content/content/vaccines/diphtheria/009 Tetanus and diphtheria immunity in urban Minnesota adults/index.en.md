@@ -5,7 +5,7 @@ article:
   type: article
   authors: Crossley
   year: 1979
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/490826
   pubmed: 490826
 countries:

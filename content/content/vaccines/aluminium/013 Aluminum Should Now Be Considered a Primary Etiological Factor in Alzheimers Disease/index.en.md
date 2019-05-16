@@ -5,7 +5,7 @@ article:
   type: article
   authors: Exley
   year: 2017
-  magazine: JAD reports
+  journal: JAD reports
   link: http://content.iospress.com/articles/journal-of-alzheimers-disease-reports/adr170010
   pubmed: 10.3233/ADR-170010
 diseases:

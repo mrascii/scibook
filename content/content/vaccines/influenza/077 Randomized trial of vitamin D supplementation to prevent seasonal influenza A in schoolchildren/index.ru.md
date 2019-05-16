@@ -5,7 +5,7 @@ article:
   type: article
   authors: Urashima
   year: 2010
-  magazine: Am J Clin Nutr
+  journal: Am J Clin Nutr
   link: https://www.ncbi.nlm.nih.gov/pubmed/20219962
   pubmed: 20219962
 drugs:

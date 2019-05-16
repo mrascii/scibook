@@ -6,7 +6,7 @@ article:
   type: article
   authors: Mercer
   year: 2006
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/16585320
   pubmed: 16585320
 conditions:

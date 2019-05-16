@@ -5,7 +5,7 @@ article:
   type: article
   authors: Greisman
   year: 2002
-  magazine: Curr Opin Infect Dis
+  journal: Curr Opin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/12015457
   pubmed: 12015457
 ---

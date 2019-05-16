@@ -6,7 +6,7 @@ article:
   type: article
   authors: Attygalle
   year: 2002
-  magazine: Anaesthesia
+  journal: Anaesthesia
   link: https://www.ncbi.nlm.nih.gov/pubmed/12133096
   pubmed: 12133096
 drugs:

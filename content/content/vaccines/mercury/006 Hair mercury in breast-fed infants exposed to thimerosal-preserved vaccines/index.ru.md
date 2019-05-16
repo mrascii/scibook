@@ -5,7 +5,7 @@ article:
   type: article
   authors: Marques
   year: 2007
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/17237965
   pubmed: 17237965
 ---

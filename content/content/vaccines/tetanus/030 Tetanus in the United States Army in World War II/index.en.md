@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 1947
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: http://www.nejm.org/doi/full/10.1056/NEJM194709112371108
 ---
 

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Takala
   year: 1995
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/7869556
   pubmed: 7869556
 conditions:

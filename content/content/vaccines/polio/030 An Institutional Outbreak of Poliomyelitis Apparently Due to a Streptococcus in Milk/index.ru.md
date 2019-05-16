@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rosenow
   year: 1932
-  magazine: J. Infect. Dis
+  journal: J. Infect. Dis
   link: http://www.jstor.org/stable/30083744
 countries:
 - США

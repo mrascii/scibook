@@ -5,7 +5,7 @@ article:
   type: article
   authors: Slattery
   year: 1994
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2539847
   pubmed: PMC2539847
 ---

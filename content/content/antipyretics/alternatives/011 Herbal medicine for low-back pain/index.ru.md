@@ -5,7 +5,7 @@ article:
   type: article
   authors: Oltean
   year: 2014
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/25536022
   pubmed: 25536022
 ---

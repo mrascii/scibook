@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ben Maamar
   year: 2017
-  magazine: Sci Rep
+  journal: Sci Rep
   link: https://www.ncbi.nlm.nih.gov/pubmed/28281692
   pubmed: 28281692
 ---

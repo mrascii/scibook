@@ -5,7 +5,7 @@ article:
   type: article
   authors: McDonald
   year: 2013
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/23843134
   pubmed: 23843134
 ---

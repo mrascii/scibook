@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   authors: Huiming
   year: 2005
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/16235283
   pubmed: 16235283
 drugs:

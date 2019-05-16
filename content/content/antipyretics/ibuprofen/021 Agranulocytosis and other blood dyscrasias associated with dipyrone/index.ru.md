@@ -6,7 +6,7 @@ article:
   type: article
   authors: Hedenmalm
   year: 2002
-  magazine: Eur J Clin Pharmacol
+  journal: Eur J Clin Pharmacol
   link: https://www.ncbi.nlm.nih.gov/pubmed/12136373
   pubmed: 12136373
 ---

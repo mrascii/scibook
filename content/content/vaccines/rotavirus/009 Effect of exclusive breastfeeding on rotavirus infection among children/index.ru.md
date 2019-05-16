@@ -5,7 +5,7 @@ article:
   type: article
   authors: Krawczyk
   year: 2016
-  magazine: Indian J Pediatr
+  journal: Indian J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/26307755
   pubmed: 26307755
 conditions:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kölmel
   year: 1999
-  magazine: Melanoma Res
+  journal: Melanoma Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/10596918
   pubmed: 10596918
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lawn
   year: 2011
-  magazine: Lancet
+  journal: Lancet
   link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)62173-3/abstract
   pubmed: 10.1016/S0140-6736(10)62173-3
 ---

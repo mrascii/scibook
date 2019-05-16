@@ -5,7 +5,7 @@ article:
   type: article
   authors: Smarr
   year: 2016
-  magazine: Hum Reprod
+  journal: Hum Reprod
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991660
   pubmed: PMC4991660
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fried
   year: 2013
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: http://www.nejm.org/doi/full/10.1056/NEJMc1310369
   pubmed: 10.1056/NEJMc1310369
 diseases:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Olczak
   year: 2010
-  magazine: Folia Neuropathol
+  journal: Folia Neuropathol
   link: https://www.ncbi.nlm.nih.gov/pubmed/21225508
   pubmed: 21225508
 ---

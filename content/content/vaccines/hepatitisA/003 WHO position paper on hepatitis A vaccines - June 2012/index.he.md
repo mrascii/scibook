@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 2012
-  magazine: Wkly Epidemiol Rec
+  journal: Wkly Epidemiol Rec
   link: https://www.ncbi.nlm.nih.gov/pubmed/22905367
   pubmed: 22905367
 ---

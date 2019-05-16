@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jefferson
   year: 2004
-  magazine: Lancet Infect Dis
+  journal: Lancet Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/14871632
   pubmed: 14871632
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sabin
   year: 1947
-  magazine: JAMA
+  journal: JAMA
   link: https://jamanetwork.com/journals/jama/article-abstract/294489
   pubmed: 20242791
 ---

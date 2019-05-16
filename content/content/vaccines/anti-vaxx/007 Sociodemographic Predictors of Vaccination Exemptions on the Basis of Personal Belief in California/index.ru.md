@@ -5,7 +5,7 @@ article:
   type: article
   authors: Yang
   year: 2016
-  magazine: Am J Public Health
+  journal: Am J Public Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/26562114
   pubmed: 26562114
 conditions:

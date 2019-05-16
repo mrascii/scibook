@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wyatt
   year: 1996
-  magazine: Trop Doct
+  journal: Trop Doct
   link: https://www.ncbi.nlm.nih.gov/pubmed/8937237
   pubmed: 8937237
 diseases:

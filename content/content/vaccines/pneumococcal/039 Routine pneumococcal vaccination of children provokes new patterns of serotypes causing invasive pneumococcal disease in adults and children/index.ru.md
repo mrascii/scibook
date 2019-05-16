@@ -5,7 +5,7 @@ article:
   type: article
   authors: Norton
   year: 2013
-  magazine: Am J Med Sci
+  journal: Am J Med Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/22814362
   pubmed: 22814362
 countries:

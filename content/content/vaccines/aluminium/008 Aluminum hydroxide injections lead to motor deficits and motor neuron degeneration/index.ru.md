@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shaw
   year: 2009
-  magazine: J Inorg Biochem
+  journal: J Inorg Biochem
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819810/
   pubmed: PMC2819810
 drugs:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Dixon
   year: 1984
-  magazine: J Hyg (Lond)
+  journal: J Hyg (Lond)
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2129462
   pubmed: PMC2129462
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Aaby
   year: 2018
-  magazine: Front Public Health
+  journal: Front Public Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5868131/
   pubmed: PMC5868131
 countries:

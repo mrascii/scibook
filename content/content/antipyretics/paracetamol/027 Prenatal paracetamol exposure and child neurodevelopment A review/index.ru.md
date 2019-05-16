@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bauer
   year: 2018
-  magazine: Horm Behav
+  journal: Horm Behav
   link: https://www.ncbi.nlm.nih.gov/pubmed/29341895
   pubmed: 29341895
 ---

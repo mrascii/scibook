@@ -5,7 +5,7 @@ article:
   type: article
   authors: Silverberg
   year: 2010
-  magazine: J Allergy Clin Immunol
+  journal: J Allergy Clin Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/20624648
   pubmed: 20624648
 diseases:

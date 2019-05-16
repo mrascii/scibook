@@ -5,7 +5,7 @@ article:
   type: article
   authors: Roy
   year: 2017
-  magazine: J Clin Microbiol
+  journal: J Clin Microbiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/27852670
   pubmed: 27852670
 ---

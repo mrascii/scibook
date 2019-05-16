@@ -6,7 +6,7 @@ article:
   type: article
   authors: Obaro
   year: 1996
-  magazine: Lancet
+  journal: Lancet
   link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)65585-7/
   pubmed: 8684225
 conditions:

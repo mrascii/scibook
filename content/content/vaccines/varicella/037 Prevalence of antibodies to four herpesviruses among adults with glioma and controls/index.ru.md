@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wrensch
   year: 2001
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/11447050
   pubmed: 11447050
 diseases:

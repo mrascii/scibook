@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pletsityĭ
   year: 1975
-  magazine: Biull Eksp Biol Med
+  journal: Biull Eksp Biol Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/1111639/
   pubmed: 1111639
 S_Ps:

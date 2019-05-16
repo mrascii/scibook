@@ -5,7 +5,7 @@ article:
   type: article
   authors: González-Bosquet
   year: 2008
-  magazine: Gynecol Oncol
+  journal: Gynecol Oncol
   link: https://www.ncbi.nlm.nih.gov/pubmed/18684497
   pubmed: 18684497
 countries:

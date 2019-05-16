@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bolisetty
   year: 1998
-  magazine: Acta Paediatr
+  journal: Acta Paediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/9764891
   pubmed: 9764891
 conditions:

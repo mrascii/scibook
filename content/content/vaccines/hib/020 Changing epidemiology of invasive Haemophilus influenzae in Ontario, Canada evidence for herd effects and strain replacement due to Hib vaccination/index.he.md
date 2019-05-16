@@ -5,7 +5,7 @@ article:
   type: article
   authors: Adam
   year: 2010
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/20398617
   pubmed: 20398617
 conditions:

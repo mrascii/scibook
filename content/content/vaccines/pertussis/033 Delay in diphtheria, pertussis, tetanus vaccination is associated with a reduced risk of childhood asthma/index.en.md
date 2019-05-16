@@ -6,7 +6,7 @@ article:
   type: article
   authors: McDonald
   year: 2008
-  magazine: J Allergy Clin Immunol
+  journal: J Allergy Clin Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/18207561
   pubmed: 18207561
 diseases:

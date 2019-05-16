@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cohen
   year: 2018
-  magazine: EBioMedicine
+  journal: EBioMedicine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835573
   pubmed: PMC5835573
 ---

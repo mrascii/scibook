@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brandts
   year: 1997
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/9291905
   pubmed: 9291905
 diseases:

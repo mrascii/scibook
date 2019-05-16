@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rosen
   year: 2014
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/24585562
   pubmed: 24585562
 countries:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Flarend
   year: 1997
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/9302736
   pubmed: 9302736
 drugs:

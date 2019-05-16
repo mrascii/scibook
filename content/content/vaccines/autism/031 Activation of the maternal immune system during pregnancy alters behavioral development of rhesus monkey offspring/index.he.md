@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bauman
   year: 2014
-  magazine: Biol Psychiatry
+  journal: Biol Psychiatry
   link: https://www.ncbi.nlm.nih.gov/pubmed/24011823
   pubmed: 24011823
 ---

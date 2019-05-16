@@ -5,7 +5,7 @@ article:
   type: article
   authors: Eke-Okoro
   year: 2018
-  magazine: J Clin Pharm Ther
+  journal: J Clin Pharm Ther
   link: https://www.ncbi.nlm.nih.gov/pubmed/29722036
   pubmed: 29722036
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Okuno
   year: 1978
-  magazine: Biken J
+  journal: Biken J
   link: https://www.ncbi.nlm.nih.gov/pubmed/749908
   pubmed: 749908
 diseases:

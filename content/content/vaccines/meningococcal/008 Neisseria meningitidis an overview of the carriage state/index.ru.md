@@ -5,7 +5,7 @@ article:
   type: article
   authors: Yazdankhah
   year: 2004
-  magazine: J Med Microbiol
+  journal: J Med Microbiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/15314188
   pubmed: 15314188
 ---

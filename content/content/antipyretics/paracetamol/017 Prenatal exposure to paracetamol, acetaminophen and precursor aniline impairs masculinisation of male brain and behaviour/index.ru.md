@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hay-Schmidt
   year: 2017
-  magazine: Reproduction
+  journal: Reproduction
   link: https://www.ncbi.nlm.nih.gov/pubmed/28559473
   pubmed: 28559473
 ---

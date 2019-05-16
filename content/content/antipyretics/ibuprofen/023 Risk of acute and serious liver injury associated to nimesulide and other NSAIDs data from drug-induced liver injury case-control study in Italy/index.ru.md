@@ -6,7 +6,7 @@ article:
   type: article
   authors: Donati
   year: 2016
-  magazine: Br J Clin Pharmacol
+  journal: Br J Clin Pharmacol
   link: https://www.ncbi.nlm.nih.gov/pubmed/26991794
   pubmed: 26991794
 ---

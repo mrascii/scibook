@@ -5,7 +5,7 @@ article:
   type: article
   authors: Аксенова
   year: 1997
-  magazine: Российский медицинский журнал
+  journal: Российский медицинский журнал
   link: http://1796web.com/vaccines/malady/bcg_axenova.htm
 countries:
 - רוסיה

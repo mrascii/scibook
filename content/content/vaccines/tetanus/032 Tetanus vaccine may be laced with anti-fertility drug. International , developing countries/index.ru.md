@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 1995
-  magazine: Vaccine Wkly
+  journal: Vaccine Wkly
   link: https://www.ncbi.nlm.nih.gov/pubmed/12346214
   pubmed: 12346214
 drugs:

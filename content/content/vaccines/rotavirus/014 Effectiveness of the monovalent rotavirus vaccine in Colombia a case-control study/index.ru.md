@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cotes-Cantillo
   year: 2014
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/24699470
   pubmed: 24699470
 countries:

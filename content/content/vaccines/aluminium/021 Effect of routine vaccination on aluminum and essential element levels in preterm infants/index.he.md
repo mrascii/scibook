@@ -5,7 +5,7 @@ article:
   type: article
   authors: Masson
   year: 2017
-  magazine: J Inorg Biochem
+  journal: J Inorg Biochem
   link: https://www.ncbi.nlm.nih.gov/pubmed/29307441
   pubmed: 29307441
 drugs:

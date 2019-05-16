@@ -5,7 +5,7 @@ article:
   type: article
   authors: Uchiyama
   year: 2014
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/25131733/
   pubmed: 25131733
 ---

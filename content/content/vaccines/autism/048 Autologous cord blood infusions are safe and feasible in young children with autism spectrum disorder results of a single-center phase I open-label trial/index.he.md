@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dawson)
   year: 2017
-  magazine: Stem Cells Transl Med
+  journal: Stem Cells Transl Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5442708
   pubmed: PMC5442708
 ---

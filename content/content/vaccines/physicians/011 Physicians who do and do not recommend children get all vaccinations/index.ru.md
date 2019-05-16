@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gust
   year: 2008
-  magazine: J Health Commun
+  journal: J Health Commun
   link: https://www.ncbi.nlm.nih.gov/pubmed/18726813
   pubmed: 18726813
 conditions:

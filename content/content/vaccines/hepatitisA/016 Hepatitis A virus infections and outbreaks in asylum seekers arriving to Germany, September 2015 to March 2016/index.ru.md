@@ -6,7 +6,7 @@ article:
   type: article
   authors: Michaelis
   year: 2017
-  magazine: Emerg Microbes Infect
+  journal: Emerg Microbes Infect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5457677/
   pubmed: PMC5457677
 countries:

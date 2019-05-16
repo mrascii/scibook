@@ -5,7 +5,7 @@ article:
   type: article
   authors: Baron
   year: 2005
-  magazine: Gut
+  journal: Gut
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1774426/
   pubmed: PMC1774426
 diseases:

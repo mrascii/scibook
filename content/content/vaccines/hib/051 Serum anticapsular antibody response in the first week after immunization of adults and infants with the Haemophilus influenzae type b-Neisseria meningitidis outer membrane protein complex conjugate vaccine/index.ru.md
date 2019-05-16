@@ -5,7 +5,7 @@ article:
   type: article
   authors: Daum
   year: 1991
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/1955715
   pubmed: 1955715
 ---

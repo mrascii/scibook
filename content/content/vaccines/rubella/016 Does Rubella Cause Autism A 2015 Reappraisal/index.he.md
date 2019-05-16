@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hutton
   year: 2016
-  magazine: Front Hum Neurosci
+  journal: Front Hum Neurosci
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734211
   pubmed: PMC4734211
 ---

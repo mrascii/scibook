@@ -5,7 +5,7 @@ article:
   type: article
   authors: Magos
   year: 1985
-  magazine: Arch Toxicol
+  journal: Arch Toxicol
   link: https://www.ncbi.nlm.nih.gov/pubmed/4091651
   pubmed: 4091651
 ---

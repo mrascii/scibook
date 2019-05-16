@@ -5,7 +5,7 @@ article:
   type: article
   authors: Muñoz-Almagro
   year: 2008
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/18171247
   pubmed: 18171247
 diseases:

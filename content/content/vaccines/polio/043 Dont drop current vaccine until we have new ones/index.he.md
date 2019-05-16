@@ -5,7 +5,7 @@ article:
   type: article
   authors: Agol
   year: 2005
-  magazine: Nature
+  journal: Nature
   link: https://www.ncbi.nlm.nih.gov/pubmed/15959489
   pubmed: 15959489
 ---

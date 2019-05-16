@@ -5,7 +5,7 @@ header: 'A bit of history'
 article:
   type: article
   year: 1967
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/2/5555/779
   pubmed: 10.1136/bmj.2.5555.779
 ---

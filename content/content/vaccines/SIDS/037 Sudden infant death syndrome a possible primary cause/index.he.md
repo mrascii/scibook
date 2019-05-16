@@ -6,7 +6,7 @@ article:
   type: article
   authors: Richardson
   year: 1994
-  magazine: J Forensic Sci Soc
+  journal: J Forensic Sci Soc
   link: https://www.ncbi.nlm.nih.gov/pubmed/7523575
   pubmed: 7523575
 ---

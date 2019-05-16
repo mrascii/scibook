@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 1961
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1954078/
   pubmed: PMC1954078
 ---

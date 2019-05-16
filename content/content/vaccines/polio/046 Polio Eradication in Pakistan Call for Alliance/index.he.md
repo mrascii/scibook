@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mahmood
   year: 2017
-  magazine: Ochsner J
+  journal: Ochsner J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5349627
   pubmed: PMC5349627
 countries:

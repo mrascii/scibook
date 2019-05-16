@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hardy
   year: 1996
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/8656909
   pubmed: 8656909
 countries:

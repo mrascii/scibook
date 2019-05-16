@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gallagher
   year: 2010
-  magazine: J Toxicol Environ Health A
+  journal: J Toxicol Environ Health A
   link: https://www.ncbi.nlm.nih.gov/pubmed/21058170
   pubmed: 21058170
 diseases:

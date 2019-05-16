@@ -5,7 +5,7 @@ article:
   type: article
   authors: Berger
   year: 1978
-  magazine: JAMA
+  journal: JAMA
   link: http://jamanetwork.com/journals/jama/article-abstract/360968
   pubmed: 671711
 conditions:

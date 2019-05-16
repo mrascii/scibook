@@ -5,7 +5,7 @@ article:
   type: article
   authors: Orct
   year: 2006
-  magazine: J Appl Toxicol
+  journal: J Appl Toxicol
   link: https://www.ncbi.nlm.nih.gov/pubmed/17080402
   pubmed: 17080402
 ---

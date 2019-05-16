@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kawahara
   year: 2011
-  magazine: Int J Alzheimers Dis
+  journal: Int J Alzheimers Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056430/
   pubmed: PMC3056430
 diseases:

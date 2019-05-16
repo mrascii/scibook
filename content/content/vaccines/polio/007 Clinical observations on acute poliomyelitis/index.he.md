@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mulder
   year: 1995
-  magazine: Ann N Y Acad Sci
+  journal: Ann N Y Acad Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/7611616
   pubmed: 7611616
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Puliyel
   year: 2018
-  magazine: Indian J Pediatr
+  journal: Indian J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/29318526
   pubmed: 29318526
 ---

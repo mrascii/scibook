@@ -5,7 +5,7 @@ article:
   type: article
   authors: Goin-Kochel
   year: 2015
-  magazine: J Autism Dev Disord
+  journal: J Autism Dev Disord
   link: https://www.ncbi.nlm.nih.gov/pubmed/25398603
   pubmed: 25398603
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pesonen
   year: 2007
-  magazine: Atherosclerosis
+  journal: Atherosclerosis
   link: https://www.ncbi.nlm.nih.gov/pubmed/16780845
   pubmed: 16780845
 diseases:

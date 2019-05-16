@@ -5,7 +5,7 @@ article:
   type: article
   authors: Veenhoven
   year: 2003
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/12842372
   pubmed: 12842372
 diseases:

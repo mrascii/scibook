@@ -6,7 +6,7 @@ article:
   type: article
   authors: Viberg
   year: 2014
-  magazine: Toxicol Sci
+  journal: Toxicol Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/24361869
   pubmed: 24361869
 ---

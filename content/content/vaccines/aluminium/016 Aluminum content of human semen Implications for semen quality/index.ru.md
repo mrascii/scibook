@@ -5,7 +5,7 @@ article:
   type: article
   authors: Klein
   year: 2014
-  magazine: Reproductive Toxicology
+  journal: Reproductive Toxicology
   link: http://www.sciencedirect.com/science/article/pii/S0890623814002548
   pubmed: 25461904
 drugs:

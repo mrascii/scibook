@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rakhmanova
   year: 1996
-  magazine: Scand J Infect Dis
+  journal: Scand J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/9122631
   pubmed: 9122631
 countries:

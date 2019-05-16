@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wu
   year: 2013
-  magazine: Hepatology
+  journal: Hepatology
   link: https://www.ncbi.nlm.nih.gov/pubmed/22858989
   pubmed: 22858989
 ---

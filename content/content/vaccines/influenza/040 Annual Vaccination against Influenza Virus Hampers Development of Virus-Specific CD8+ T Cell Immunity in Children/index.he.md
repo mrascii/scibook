@@ -6,7 +6,7 @@ article:
   type: article
   authors: Bodewes
   year: 2011
-  magazine: J Virol
+  journal: J Virol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3209321
   pubmed: PMC3209321
 ---

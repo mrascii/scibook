@@ -5,7 +5,7 @@ article:
   type: article
   authors: Istre
   year: 1985
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/3871478
   pubmed: 3871478
 conditions:

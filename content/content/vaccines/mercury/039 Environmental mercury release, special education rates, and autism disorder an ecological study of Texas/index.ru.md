@@ -5,7 +5,7 @@ article:
   type: article
   authors: Palmer
   year: 2006
-  magazine: Health Place
+  journal: Health Place
   link: https://www.ncbi.nlm.nih.gov/pubmed/16338635
   pubmed: 16338635
 diseases:

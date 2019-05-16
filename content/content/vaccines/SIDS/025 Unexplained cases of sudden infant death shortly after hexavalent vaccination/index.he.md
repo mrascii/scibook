@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zinka
   year: 2006
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/15908063
   pubmed: 15908063
 diseases:

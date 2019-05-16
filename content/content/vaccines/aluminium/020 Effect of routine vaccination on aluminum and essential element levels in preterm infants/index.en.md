@@ -5,7 +5,7 @@ article:
   type: article
   authors: Movsas
   year: 2013
-  magazine: JAMA Pediatr
+  journal: JAMA Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/23856981
   pubmed: 23856981
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Klein
   year: 2012
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: http://www.nejm.org/doi/full/10.1056/NEJMoa1200850
   pubmed: 10.1056/NEJMoa1200850
 countries:

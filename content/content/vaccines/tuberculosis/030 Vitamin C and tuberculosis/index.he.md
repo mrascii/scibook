@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 1936
-  magazine: JAMA
+  journal: JAMA
   link: https://jamanetwork.com/journals/jama/article-abstract/273062
   pubmed: 10.1001/jama.1936.02770410047014
 drugs:

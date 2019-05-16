@@ -5,7 +5,7 @@ article:
   type: article
   authors: Agmon-Levin
   year: 2014
-  magazine: Immunol Res
+  journal: Immunol Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/25427994
   pubmed: 25427994
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Chiu
   year: 2016
-  magazine: Pain Physician
+  journal: Pain Physician
   link: https://www.ncbi.nlm.nih.gov/pubmed/26752497
   pubmed: 26752497
 ---

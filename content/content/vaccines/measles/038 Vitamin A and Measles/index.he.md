@@ -5,7 +5,7 @@ article:
   type: article
   authors: West
   year: 2000
-  magazine: Nutr Rev
+  journal: Nutr Rev
   link: http://onlinelibrary.wiley.com/doi/10.1111/j.1753-4887.2000.tb07803.x/full
 drugs:
 - ויטמין A

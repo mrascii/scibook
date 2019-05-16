@@ -6,7 +6,7 @@ article:
   type: article
   authors: Baer
   year: 1995
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/7898220
   pubmed: 7898220
 diseases:

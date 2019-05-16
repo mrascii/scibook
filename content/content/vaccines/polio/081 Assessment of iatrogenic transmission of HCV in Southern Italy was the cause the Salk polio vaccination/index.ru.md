@@ -5,7 +5,7 @@ article:
   type: article
   authors: Montella
   year: 2003
-  magazine: J Med Virol
+  journal: J Med Virol
   link: https://www.ncbi.nlm.nih.gov/pubmed/12629643/
   pubmed: 12629643
 countries:

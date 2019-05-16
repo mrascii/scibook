@@ -5,7 +5,7 @@ article:
   type: article
   authors: Laaksi
   year: 2007
-  magazine: Am J Clin Nutr
+  journal: Am J Clin Nutr
   link: https://www.ncbi.nlm.nih.gov/pubmed/17823437
   pubmed: 17823437
 drugs:

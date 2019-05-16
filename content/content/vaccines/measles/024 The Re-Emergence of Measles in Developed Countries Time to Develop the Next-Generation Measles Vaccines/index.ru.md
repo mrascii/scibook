@@ -5,7 +5,7 @@ article:
   type: article
   authors: Poland
   year: 2012
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3905323/
   pubmed: PMC3905323
 ---

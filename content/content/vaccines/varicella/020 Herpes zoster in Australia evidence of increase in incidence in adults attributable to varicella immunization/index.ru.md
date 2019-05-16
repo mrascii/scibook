@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jardine
   year: 2011
-  magazine: Epidemiol Infect
+  journal: Epidemiol Infect
   link: https://www.ncbi.nlm.nih.gov/pubmed/20727248
   pubmed: 20727248
 diseases:

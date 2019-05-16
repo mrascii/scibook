@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pasquinucci
   year: 1971
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/4099624
   pubmed: 4099624
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gorton
   year: 1999
-  magazine: J Manipulative Physiol Ther
+  journal: J Manipulative Physiol Ther
   link: https://www.ncbi.nlm.nih.gov/pubmed/10543583
   pubmed: 10543583
 drugs:

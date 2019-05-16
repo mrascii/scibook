@@ -5,7 +5,7 @@ article:
   type: article
   authors: Goldman
   year: 2013
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3759842/
   pubmed: PMC3759842
 diseases:

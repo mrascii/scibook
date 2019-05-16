@@ -5,7 +5,7 @@ article:
   type: article
   authors: Law
   year: 2006
-  magazine: J Clin Microbiol
+  journal: J Clin Microbiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1594649/
   pubmed: PMC1594649
 conditions:

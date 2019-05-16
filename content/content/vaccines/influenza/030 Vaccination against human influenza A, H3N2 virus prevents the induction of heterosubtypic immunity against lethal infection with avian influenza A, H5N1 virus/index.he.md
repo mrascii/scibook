@@ -6,7 +6,7 @@ article:
   type: article
   authors: Bodewes
   year: 2009
-  magazine: PLoS One
+  journal: PLoS One
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2678248
   pubmed: PMC2678248
 ---

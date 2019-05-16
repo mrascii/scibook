@@ -5,7 +5,7 @@ article:
   type: article
   authors: Glaser
   year: 2005
-  magazine: Int J Cancer
+  journal: Int J Cancer
   link: https://www.ncbi.nlm.nih.gov/pubmed/15700307
   pubmed: 15700307
 diseases:

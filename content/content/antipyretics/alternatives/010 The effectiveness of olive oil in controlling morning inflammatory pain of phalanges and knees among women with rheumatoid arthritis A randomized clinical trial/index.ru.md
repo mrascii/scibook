@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hekmatpou
   year: 2018
-  magazine: Rehabil Nurs
+  journal: Rehabil Nurs
   link: https://www.ncbi.nlm.nih.gov/pubmed/30192341
   pubmed: 30192341
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Poling
   year: 2006
-  magazine: J Child Neurol
+  journal: J Child Neurol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2536523
 ---
 

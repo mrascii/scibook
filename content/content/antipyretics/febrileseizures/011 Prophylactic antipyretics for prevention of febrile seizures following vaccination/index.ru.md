@@ -5,7 +5,7 @@ article:
   type: article
   authors: Monfries
   year: 2017
-  magazine: Can Fam Physician
+  journal: Can Fam Physician
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395384
   pubmed: PMC5395384
 diseases:

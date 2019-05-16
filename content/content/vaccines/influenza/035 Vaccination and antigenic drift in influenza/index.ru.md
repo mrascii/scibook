@@ -5,7 +5,7 @@ article:
   type: article
   authors: Boni
   year: 2008
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2603026/
   pubmed: PMC2603026
 ---

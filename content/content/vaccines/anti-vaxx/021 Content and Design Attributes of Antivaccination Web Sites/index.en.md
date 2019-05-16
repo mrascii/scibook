@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wolfe
   year: 2002
-  magazine: JAMA
+  journal: JAMA
   link: http://jamanetwork.com/journals/jama/fullarticle/195044
   pubmed: 12076221
 conditions:

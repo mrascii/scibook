@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sheth
   year: 2018
-  magazine: J Inorg Biochem
+  journal: J Inorg Biochem
   link: https://www.ncbi.nlm.nih.gov/pubmed/29221615
   pubmed: 29221615
 ---

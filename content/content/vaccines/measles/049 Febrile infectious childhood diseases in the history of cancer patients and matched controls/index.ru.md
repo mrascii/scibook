@@ -5,7 +5,7 @@ article:
   type: article
   authors: Albonico
   year: 1998
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/9824838
   pubmed: 9824838
 diseases:

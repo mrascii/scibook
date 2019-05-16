@@ -5,7 +5,7 @@ article:
   type: article
   authors: Becker
   year: 2012
-  magazine: Int J Cancer
+  journal: Int J Cancer
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3406230
   pubmed: PMC3406230
 ---

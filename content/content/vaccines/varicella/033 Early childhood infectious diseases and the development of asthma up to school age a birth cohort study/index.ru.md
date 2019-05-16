@@ -5,7 +5,7 @@ article:
   type: article
   authors: Illi
   year: 2001
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC26566/
   pubmed: PMC26566
 diseases:

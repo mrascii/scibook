@@ -5,7 +5,7 @@ article:
   type: article
   authors: Andersson
   year: 2018
-  magazine: Indian J Med Ethics
+  journal: Indian J Med Ethics
   link: http://ijme.in/articles/increased-incidence-of-cervical-cancer-in-sweden-possible-link-with-hpv-vaccination/
 countries:
 - Швеция

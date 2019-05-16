@@ -5,7 +5,7 @@ article:
   type: article
   authors: Plotkin
   year: 1965
-  magazine: Am J Dis Child
+  journal: Am J Dis Child
   link: https://www.ncbi.nlm.nih.gov/pubmed/5834207
   pubmed: 5834207
 ---

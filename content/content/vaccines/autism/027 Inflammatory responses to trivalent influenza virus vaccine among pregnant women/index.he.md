@@ -6,7 +6,7 @@ article:
   type: article
   authors: Christian
   year: 2011
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204610
   pubmed: PMC3204610
 ---

@@ -6,7 +6,7 @@ article:
   type: article
   authors: van Meer
   year: 1992
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/1584107
   pubmed: 1584107
 conditions:

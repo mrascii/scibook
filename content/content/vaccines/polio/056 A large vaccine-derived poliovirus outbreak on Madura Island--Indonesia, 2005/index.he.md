@@ -5,7 +5,7 @@ article:
   type: article
   authors: Estívariz
   year: 2008
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/18199031
   pubmed: 18199031
 conditions:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tsang
   year: 2007
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/17516405
   pubmed: 17516405
 countries:

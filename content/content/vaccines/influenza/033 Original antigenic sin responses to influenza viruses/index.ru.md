@@ -6,7 +6,7 @@ article:
   type: article
   authors: Kim
   year: 2009
-  magazine: J Immunol
+  journal: J Immunol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4460008/
   pubmed: PMC4460008
 ---

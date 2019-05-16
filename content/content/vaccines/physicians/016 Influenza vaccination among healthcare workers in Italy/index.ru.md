@@ -5,7 +5,7 @@ article:
   type: article
   authors: Alicino
   year: 2014
-  magazine: Hum Vaccin Immunother
+  journal: Hum Vaccin Immunother
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4514208/
   pubmed: PMC4514208
 conditions:

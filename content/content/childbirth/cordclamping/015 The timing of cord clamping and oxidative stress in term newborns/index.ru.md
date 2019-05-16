@@ -5,7 +5,7 @@ article:
   type: article
   authors: Díaz-Castro
   year: 2014
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/25022744
   pubmed: 25022744
 ---

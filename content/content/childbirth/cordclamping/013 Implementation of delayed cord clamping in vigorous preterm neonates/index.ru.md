@@ -6,7 +6,7 @@ article:
   type: article
   authors: Aliyev
   year: 2018
-  magazine: J Obstet Gynecol Neonatal Nurs
+  journal: J Obstet Gynecol Neonatal Nurs
   link: https://www.ncbi.nlm.nih.gov/pubmed/30292775
   pubmed: 30292775
 ---

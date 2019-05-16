@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gilbert
   year: 2016
-  magazine: Br J Gen Pract
+  journal: Br J Gen Pract
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4871288/
   pubmed: PMC4871288
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shibli
   year: 2017
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/28043737
   pubmed: 28043737
 countries:

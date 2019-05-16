@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tully
   year: 2006
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1382533/
   pubmed: PMC1382533
 countries:

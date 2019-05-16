@@ -5,7 +5,7 @@ article:
   type: article
   authors: Edlich
   year: 2009
-  magazine: J Environ Pathol Toxicol Oncol
+  journal: J Environ Pathol Toxicol Oncol
   link: https://www.ncbi.nlm.nih.gov/pubmed/20102323
   pubmed: 20102323
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Graf
   year: 2018
-  magazine: J Comp Pathol
+  journal: J Comp Pathol
   link: https://www.ncbi.nlm.nih.gov/pubmed/30213367
   pubmed: 30213367
 ---

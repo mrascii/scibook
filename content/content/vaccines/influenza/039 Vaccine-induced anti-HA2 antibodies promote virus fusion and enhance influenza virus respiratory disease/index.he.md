@@ -5,7 +5,7 @@ article:
   type: article
   authors: Khurana
   year: 2013
-  magazine: Sci Transl Med
+  journal: Sci Transl Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/23986398
   pubmed: 23986398
 ---

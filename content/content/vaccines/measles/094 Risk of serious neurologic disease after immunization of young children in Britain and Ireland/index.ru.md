@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ward
   year: 2007
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/17671057
   pubmed: 17671057
 drugs:

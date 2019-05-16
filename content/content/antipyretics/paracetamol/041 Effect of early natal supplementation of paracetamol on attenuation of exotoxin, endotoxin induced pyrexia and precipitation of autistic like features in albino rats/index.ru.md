@@ -6,7 +6,7 @@ article:
   type: article
   authors: Saeedan
   year: 2018
-  magazine: Inflammopharmacology
+  journal: Inflammopharmacology
   link: https://www.ncbi.nlm.nih.gov/pubmed/29327281
   pubmed: 29327281
 ---

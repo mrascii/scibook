@@ -5,7 +5,7 @@ article:
   type: article
   authors: Laurente
   year: 2007
-  magazine: Ann Fac Med Lima
+  journal: Ann Fac Med Lima
   link: https://www.researchgate.net/publication/228483317
 diseases:
 - Аутизм

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dean
   year: 2016
-  magazine: Sci Rep
+  journal: Sci Rep
   link: https://www.ncbi.nlm.nih.gov/pubmed/26813099
   pubmed: 26813099
 ---

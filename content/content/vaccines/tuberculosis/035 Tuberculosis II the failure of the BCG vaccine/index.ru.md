@@ -5,7 +5,7 @@ article:
   type: article
   authors: Maes
   year: 1999
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/10499822/
   pubmed: 10499822
 ---

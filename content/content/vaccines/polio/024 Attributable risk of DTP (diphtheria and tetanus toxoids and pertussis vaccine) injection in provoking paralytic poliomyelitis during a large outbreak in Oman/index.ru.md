@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sutter
   year: 1992
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/1538150
   pubmed: 1538150
 drugs:

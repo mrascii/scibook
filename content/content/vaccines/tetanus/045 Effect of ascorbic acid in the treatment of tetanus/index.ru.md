@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jahan
   year: 1984
-  magazine: Bangladesh Med Res Counc Bull
+  journal: Bangladesh Med Res Counc Bull
   link: https://www.ncbi.nlm.nih.gov/pubmed/6466264
   pubmed: 6466264
 drugs:

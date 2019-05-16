@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brandileone
   year: 2016
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/27692770
 diseases:
 - Гемофильная инфекция/бактерия

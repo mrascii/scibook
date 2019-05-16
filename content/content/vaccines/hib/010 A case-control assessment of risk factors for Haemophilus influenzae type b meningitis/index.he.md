@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sherry
   year: 1993
-  magazine: Eur J Pub Health
+  journal: Eur J Pub Health
   link: https://academic.oup.com/eurpub/article-abstract/3/4/290/425168
 conditions:
 - הנקה

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Parodi
   year: 2013
-  magazine: Int J Cancer
+  journal: Int J Cancer
   link: https://www.ncbi.nlm.nih.gov/pubmed/23575988
   pubmed: 23575988
 diseases:

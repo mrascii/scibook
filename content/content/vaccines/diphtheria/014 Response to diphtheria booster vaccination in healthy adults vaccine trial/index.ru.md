@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vellinga
   year: 2000
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27267/
   pubmed: 2860299
 countries:

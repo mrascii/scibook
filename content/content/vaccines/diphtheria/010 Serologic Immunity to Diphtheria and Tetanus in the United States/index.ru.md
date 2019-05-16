@@ -5,7 +5,7 @@ article:
   type: article
   authors: McQuillan
   year: 2002
-  magazine: Ann Intern Med
+  journal: Ann Intern Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/11992301
   pubmed: 11992301
 countries:

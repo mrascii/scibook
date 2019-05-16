@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lin
   year: 2015
-  magazine: Lancet Oncol
+  journal: Lancet Oncol
   link: https://www.ncbi.nlm.nih.gov/pubmed/26321214
   pubmed: 26321214
 diseases:

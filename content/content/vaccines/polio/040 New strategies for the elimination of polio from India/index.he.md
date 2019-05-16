@@ -5,7 +5,7 @@ article:
   type: article
   authors: Grassly
   year: 2006
-  magazine: Science
+  journal: Science
   link: https://www.ncbi.nlm.nih.gov/pubmed/17110580
   pubmed: 17110580
 countries:

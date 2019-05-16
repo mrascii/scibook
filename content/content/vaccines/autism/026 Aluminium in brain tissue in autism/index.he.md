@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mold
   year: 2018
-  magazine: J Trace Elem Med Biol
+  journal: J Trace Elem Med Biol
   link: https://www.ncbi.nlm.nih.gov/pubmed/29413113
   pubmed: 29413113
 ---

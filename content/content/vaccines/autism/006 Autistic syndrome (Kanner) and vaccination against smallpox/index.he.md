@@ -6,7 +6,7 @@ article:
   type: article
   authors: Eggers
   year: 1976
-  magazine: Klin Padiatr
+  journal: Klin Padiatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/944354
   pubmed: 944354
 ---

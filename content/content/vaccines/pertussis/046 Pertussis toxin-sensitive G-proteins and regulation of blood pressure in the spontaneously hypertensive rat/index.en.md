@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kost
   year: 1999
-  magazine: Clin Exp Pharmacol Physiol
+  journal: Clin Exp Pharmacol Physiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/10386237
   pubmed: 10386237
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Polglase
   year: 2018
-  magazine: Arch Dis Child Fetal Neonatal Ed
+  journal: Arch Dis Child Fetal Neonatal Ed
   link: https://www.ncbi.nlm.nih.gov/pubmed/29191812
   pubmed: 29191812
 ---

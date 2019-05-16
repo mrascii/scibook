@@ -5,7 +5,7 @@ article:
   type: article
   authors: Davies
   year: 2002
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1751143/
   pubmed: PMC1751143
 conditions:

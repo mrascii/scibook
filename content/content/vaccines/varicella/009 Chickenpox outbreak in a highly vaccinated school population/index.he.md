@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tugwell
   year: 2004
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/14993534
   pubmed: 14993534
 countries:

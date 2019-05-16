@@ -5,7 +5,7 @@ article:
   type: article
   authors: Silverberg
   year: 2012
-  magazine: Pediatr Allergy Immunol
+  journal: Pediatr Allergy Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/22017482
   pubmed: 22017482
 diseases:

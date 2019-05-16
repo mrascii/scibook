@@ -5,7 +5,7 @@ article:
   type: article
   authors: Liew
   year: 2014
-  magazine: JAMA Pediatr
+  journal: JAMA Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/24566677
   pubmed: 24566677
 ---

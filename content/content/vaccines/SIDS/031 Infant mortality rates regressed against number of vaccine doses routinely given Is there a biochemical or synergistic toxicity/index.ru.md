@@ -6,7 +6,7 @@ article:
   type: article
   authors: Miller
   year: 2011
-  magazine: Hum Exp Toxicol
+  journal: Hum Exp Toxicol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3170075/
   pubmed: PMC3170075
 diseases:

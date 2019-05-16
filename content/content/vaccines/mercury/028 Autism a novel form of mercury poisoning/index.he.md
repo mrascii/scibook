@@ -6,7 +6,7 @@ article:
   type: article
   authors: Bernard
   year: 2001
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/11339848
   pubmed: 11339848
 ---

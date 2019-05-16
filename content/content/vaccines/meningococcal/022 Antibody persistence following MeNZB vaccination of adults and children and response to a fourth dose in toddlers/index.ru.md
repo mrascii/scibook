@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jackson
   year: 2011
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pubmed/21596727
   pubmed: 21596727
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Missig
   year: 2018
-  magazine: Neuropsychopharmacology
+  journal: Neuropsychopharmacology
   link: https://www.ncbi.nlm.nih.gov/pubmed/28984294
   pubmed: 28984294
 ---

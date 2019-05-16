@@ -6,7 +6,7 @@ article:
   type: article
   authors: Tolosa
   year: 2010
-  magazine: J Cell Mol Med
+  journal: J Cell Mol Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3823451
   pubmed: PMC3823451
 ---

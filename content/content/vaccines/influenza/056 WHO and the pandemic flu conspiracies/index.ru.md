@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cohen
   year: 2010
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/340/bmj.c2912
 humans:
 - ВОЗ: Всемирная Организация Здравоохранения

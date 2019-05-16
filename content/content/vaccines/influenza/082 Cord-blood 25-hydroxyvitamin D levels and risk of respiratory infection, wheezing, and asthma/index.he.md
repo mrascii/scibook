@@ -5,7 +5,7 @@ article:
   type: article
   authors: Camargo
   year: 2011
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/21187313
   pubmed: 21187313
 drugs:

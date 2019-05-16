@@ -5,7 +5,7 @@ article:
   type: article
   authors: Aaby
   year: 2007
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/17092614
   pubmed: 17092614
 conditions:

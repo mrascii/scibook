@@ -6,7 +6,7 @@ article:
   type: article
   authors: Kristensen
   year: 2018
-  magazine: Proc Natl Acad Sci U S A
+  journal: Proc Natl Acad Sci U S A
   link: https://www.ncbi.nlm.nih.gov/pubmed/29311296
   pubmed: 29311296
 ---

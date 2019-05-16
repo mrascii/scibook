@@ -6,7 +6,7 @@ article:
   type: article
   authors: Ellison
   year: 1932
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2521770/
   pubmed: PMC2521770
 drugs:

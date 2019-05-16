@@ -5,7 +5,7 @@ article:
   type: article
   authors: Glanz
   year: 2013
-  magazine: JAMA Pediatr
+  journal: JAMA Pediatr
   link: http://jamanetwork.com/journals/jamapediatrics/fullarticle/1558057
   pubmed: 23338829
 conditions:

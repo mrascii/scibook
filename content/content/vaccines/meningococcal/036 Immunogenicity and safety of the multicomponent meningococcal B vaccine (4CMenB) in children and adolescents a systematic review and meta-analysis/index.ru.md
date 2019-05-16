@@ -5,7 +5,7 @@ article:
   type: article
   authors: Flacco
   year: 2018
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/29371070
   pubmed: 29371070
 ---

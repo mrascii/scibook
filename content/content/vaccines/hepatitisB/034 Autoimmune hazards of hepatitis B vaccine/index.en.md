@@ -5,7 +5,7 @@ article:
   type: article
   authors: Girard
   year: 2005
-  magazine: Autoimmun Rev
+  journal: Autoimmun Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/15722255
   pubmed: 15722255
 ---

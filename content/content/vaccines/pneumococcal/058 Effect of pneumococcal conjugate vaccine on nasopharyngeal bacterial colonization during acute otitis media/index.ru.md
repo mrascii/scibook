@@ -5,7 +5,7 @@ article:
   type: article
   authors: Revai
   year: 2006
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/16651345
   pubmed: 16651345
 diseases:

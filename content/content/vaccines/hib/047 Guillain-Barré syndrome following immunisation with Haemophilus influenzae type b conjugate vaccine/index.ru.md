@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gervaix
   year: 1993
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/8354324
   pubmed: 8354324
 diseases:

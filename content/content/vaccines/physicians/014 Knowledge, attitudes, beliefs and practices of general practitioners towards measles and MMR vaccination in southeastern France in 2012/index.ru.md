@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pulcini
   year: 2014
-  magazine: Clin Microbiol Infect
+  journal: Clin Microbiol Infect
   link: https://www.ncbi.nlm.nih.gov/pubmed/23517454
   pubmed: 23517454
 conditions:

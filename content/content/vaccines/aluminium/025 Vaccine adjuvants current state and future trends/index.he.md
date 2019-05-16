@@ -5,7 +5,7 @@ article:
   type: article
   authors: Petrovsky
   year: 2004
-  magazine: Immunol Cell Biol
+  journal: Immunol Cell Biol
   link: https://www.ncbi.nlm.nih.gov/pubmed/15479434
   pubmed: 15479434
 drugs:

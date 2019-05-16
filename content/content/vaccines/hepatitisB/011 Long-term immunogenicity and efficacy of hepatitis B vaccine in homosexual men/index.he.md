@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hadler
   year: 1986
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/2941687
   pubmed: 2941687
 ---

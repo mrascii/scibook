@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wringe
   year: 2008
-  magazine: PLoS ONE
+  journal: PLoS ONE
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2570794
   pubmed: PMC2570794
 conditions:

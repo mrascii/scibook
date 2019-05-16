@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   authors: Hall
   year: 1993
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1679437/
   pubmed: PMC1679437
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kocabaş
   year: 2006
-  magazine: Turk J Pediatr
+  journal: Turk J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/17172060
   pubmed: 17172060
 diseases:

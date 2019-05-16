@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sugimura
   year: 1994
-  magazine: Acta Paediatr Jpn
+  journal: Acta Paediatr Jpn
   link: https://www.ncbi.nlm.nih.gov/pubmed/7941999
   pubmed: 7941999
 ---

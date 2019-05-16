@@ -5,7 +5,7 @@ article:
   type: article
   authors: Karatekin
   year: 2009
-  magazine: Eur J Clin Nutr
+  journal: Eur J Clin Nutr
   link: https://www.ncbi.nlm.nih.gov/pubmed/18030309
   pubmed: 18030309
 drugs:

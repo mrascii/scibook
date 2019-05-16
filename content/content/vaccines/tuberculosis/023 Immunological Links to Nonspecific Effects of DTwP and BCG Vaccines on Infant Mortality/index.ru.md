@@ -5,7 +5,7 @@ article:
   type: article
   authors: Claesson
   year: 2011
-  magazine: J Trop Med
+  journal: J Trop Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134263/
   pubmed: PMC3134263
 conditions:

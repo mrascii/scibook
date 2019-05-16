@@ -5,7 +5,7 @@ article:
   type: article
   authors: Morley
   year: 1983
-  magazine: Rev Infect Dis
+  journal: Rev Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/6878999
   pubmed: 6878999
 drugs:

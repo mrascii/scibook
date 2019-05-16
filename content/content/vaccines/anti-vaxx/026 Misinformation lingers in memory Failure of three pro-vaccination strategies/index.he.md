@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pluviano
   year: 2017
-  magazine: PLoS One
+  journal: PLoS One
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5547702
   pubmed: PMC5547702
 conditions:

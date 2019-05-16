@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zhou
   year: 2016
-  magazine: J Virol
+  journal: J Virol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021423/
   pubmed: 27440882
 ---

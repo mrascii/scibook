@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zaman
   year: 2017
-  magazine: PLoS Med
+  journal: PLoS Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395158
   pubmed: PMC5395158
 countries:

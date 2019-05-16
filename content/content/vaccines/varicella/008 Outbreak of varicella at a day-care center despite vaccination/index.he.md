@@ -5,7 +5,7 @@ article:
   type: article
   authors: Galil
   year: 2002
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/12477940
   pubmed: 12477940
 countries:

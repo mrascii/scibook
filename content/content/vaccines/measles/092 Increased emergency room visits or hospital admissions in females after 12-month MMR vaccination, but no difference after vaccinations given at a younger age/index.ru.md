@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wilson
   year: 2014
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/24440113
   pubmed: 24440113
 drugs:

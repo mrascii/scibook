@@ -5,7 +5,7 @@ article:
   type: article
   authors: Colafrancesco
   year: 2015
-  magazine: Am J Reprod Immunol
+  journal: Am J Reprod Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/23902317
   pubmed: 23902317
 conditions:

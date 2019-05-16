@@ -5,7 +5,7 @@ article:
   type: article
   authors: Stratton
   year: 1994
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/8182813/
   pubmed: 8182813
 diseases:

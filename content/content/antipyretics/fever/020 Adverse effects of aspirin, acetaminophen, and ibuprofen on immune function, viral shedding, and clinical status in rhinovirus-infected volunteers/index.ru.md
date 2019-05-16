@@ -5,7 +5,7 @@ article:
   type: article
   authors: Graham
   year: 1990
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/2172402
   pubmed: 2172402
 ---

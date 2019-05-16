@@ -6,7 +6,7 @@ article:
   type: article
   authors: Krause
   year: 2000
-  magazine: Nature Medicine
+  journal: Nature Medicine
   link: https://www.nature.com/articles/nm0400_451
   pubmed: 10742154
 ---

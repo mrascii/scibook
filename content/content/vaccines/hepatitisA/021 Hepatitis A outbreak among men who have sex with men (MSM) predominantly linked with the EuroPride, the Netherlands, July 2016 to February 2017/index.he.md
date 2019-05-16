@@ -5,7 +5,7 @@ article:
   type: article
   authors: Freidl
   year: 2017
-  magazine: Euro Surveill
+  journal: Euro Surveill
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5356436
   pubmed: PMC5356436
 conditions:

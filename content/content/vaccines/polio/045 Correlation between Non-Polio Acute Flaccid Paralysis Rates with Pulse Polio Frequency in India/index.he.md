@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dhiman
   year: 2018
-  magazine: Int J Environ Res Public Health
+  journal: Int J Environ Res Public Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/30111741
   pubmed: 30111741
 countries:

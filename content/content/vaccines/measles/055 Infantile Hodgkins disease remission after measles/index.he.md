@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mota
   year: 1973
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1589969/
   pubmed: PMC1589969
 diseases:

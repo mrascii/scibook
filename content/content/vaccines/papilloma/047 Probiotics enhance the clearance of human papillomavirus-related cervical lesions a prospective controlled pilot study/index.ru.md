@@ -5,7 +5,7 @@ article:
   type: article
   authors: Verhoeven
   year: 2013
-  magazine: Eur J Cancer Prev
+  journal: Eur J Cancer Prev
   link: https://www.ncbi.nlm.nih.gov/pubmed/22706167
   pubmed: 22706167
 drugs:

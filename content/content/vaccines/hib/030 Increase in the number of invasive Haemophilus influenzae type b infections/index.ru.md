@@ -5,7 +5,7 @@ article:
   type: article
   authors: Spanjaard
   year: 2005
-  magazine: Ned Tijdschr Geneeskd
+  journal: Ned Tijdschr Geneeskd
   link: https://www.ncbi.nlm.nih.gov/pubmed/16375019
   pubmed: 16375019
 conditions:

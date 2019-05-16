@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rahmathullah
   year: 1990
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/2205798
   pubmed: 2205798
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Young
   year: 2011
-  magazine: Med J Aust
+  journal: Med J Aust
   link: https://www.ncbi.nlm.nih.gov/pubmed/22004396
   pubmed: 22004396
 ---

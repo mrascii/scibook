@@ -6,7 +6,7 @@ article:
   type: article
   authors: Herzog
   year: 1993
-  magazine: Clin Pediatr (Phila)
+  journal: Clin Pediatr (Phila)
   link: https://www.ncbi.nlm.nih.gov/pubmed/8453829
   pubmed: 8453829
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Arendrup
   year: 2018
-  magazine: Endocr Connect
+  journal: Endocr Connect
   link: https://www.ncbi.nlm.nih.gov/pubmed/29305399
   pubmed: 29305399
 ---

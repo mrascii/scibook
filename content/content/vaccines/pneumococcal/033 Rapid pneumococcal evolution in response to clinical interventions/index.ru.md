@@ -6,7 +6,7 @@ article:
   type: article
   authors: Croucher
   year: 2011
-  magazine: Science
+  journal: Science
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3648787/
   pubmed: PMC3648787
 conditions:

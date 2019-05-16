@@ -5,7 +5,7 @@ article:
   type: article
   authors: Harling
   year: 2005
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/15950329
   pubmed: 15950329
 drugs:

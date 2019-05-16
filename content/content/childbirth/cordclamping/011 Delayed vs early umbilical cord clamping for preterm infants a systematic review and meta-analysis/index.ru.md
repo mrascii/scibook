@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fogarty
   year: 2018
-  magazine: Am J Obstet Gynecol
+  journal: Am J Obstet Gynecol
   link: https://www.ncbi.nlm.nih.gov/pubmed/29097178
   pubmed: 29097178
 ---

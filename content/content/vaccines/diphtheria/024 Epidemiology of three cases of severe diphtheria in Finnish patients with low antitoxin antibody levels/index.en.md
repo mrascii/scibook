@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lumio
   year: 2001
-  magazine: Eur J Clin Microbiol Infect Dis
+  journal: Eur J Clin Microbiol Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/11757971
   pubmed: 11757971
 countries:

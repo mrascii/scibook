@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mari
   year: 2004
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/15488663
   pubmed: 15488663
 conditions:

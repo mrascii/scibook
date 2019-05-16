@@ -5,7 +5,7 @@ article:
   type: article
   authors: Banatvala
   year: 2004
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/15064032
   pubmed: 15064032
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: DeLong
   year: 2018
-  magazine: J Toxicol Environ Health A
+  journal: J Toxicol Environ Health A
   link: https://www.ncbi.nlm.nih.gov/pubmed/29889622
   pubmed: 29889622
 ---

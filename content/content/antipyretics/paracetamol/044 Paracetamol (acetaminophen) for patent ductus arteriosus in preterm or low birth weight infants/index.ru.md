@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ohlsson
   year: 2018
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/29624206
   pubmed: 29624206
 ---

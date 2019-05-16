@@ -6,7 +6,7 @@ article:
   type: article
   authors: Heinz-Erian
   year: 1985
-  magazine: Padiatr Padol
+  journal: Padiatr Padol
   link: https://www.ncbi.nlm.nih.gov/pubmed/3975061
   pubmed: 3975061
 drugs:

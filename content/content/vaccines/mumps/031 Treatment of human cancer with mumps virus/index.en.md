@@ -5,7 +5,7 @@ article:
   type: article
   authors: Asada
   year: 1974
-  magazine: Cancer
+  journal: Cancer
   link: https://www.ncbi.nlm.nih.gov/pubmed/4611607
   pubmed: 4611607
 diseases:

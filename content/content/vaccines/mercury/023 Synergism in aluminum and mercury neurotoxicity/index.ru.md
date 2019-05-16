@@ -6,7 +6,7 @@ article:
   type: article
   authors: Alexandrov
   year: 2018
-  magazine: Integr Food Nutr Metab
+  journal: Integr Food Nutr Metab
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6013271
   pubmed: PMC6013271
 ---

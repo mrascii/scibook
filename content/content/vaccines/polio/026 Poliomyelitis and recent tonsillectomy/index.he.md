@@ -5,7 +5,7 @@ article:
   type: article
   authors: Anderson
   year: 1945
-  magazine: J. Pediatr
+  journal: J. Pediatr
   link: http://www.jpeds.com/article/S0022-3476(45)80208-1/abstract
 conditions:
 - כריתת שקדים

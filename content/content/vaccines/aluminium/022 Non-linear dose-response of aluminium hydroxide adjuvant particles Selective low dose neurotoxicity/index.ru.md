@@ -5,7 +5,7 @@ article:
   type: article
   authors: Crépeaux
   year: 2017
-  magazine: Toxicology
+  journal: Toxicology
   link: https://www.ncbi.nlm.nih.gov/pubmed/27908630
   pubmed: 27908630
 drugs:

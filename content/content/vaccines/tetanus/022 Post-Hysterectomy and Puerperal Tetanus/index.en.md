@@ -6,7 +6,7 @@ article:
   type: article
   authors: Pulvertaft
   year: 1937
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2088278/
   pubmed: PMC2088278
 ---

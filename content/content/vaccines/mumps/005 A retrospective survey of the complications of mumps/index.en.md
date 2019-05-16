@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 1974
-  magazine: J R Coll Gen Pract
+  journal: J R Coll Gen Pract
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2157395/
   pubmed: PMC2157395
 diseases:

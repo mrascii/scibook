@@ -5,7 +5,7 @@ article:
   type: article
   authors: Christenson
   year: 1986
-  magazine: Scand J Infect Dis
+  journal: Scand J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/3738433
   pubmed: 3738433
 countries:

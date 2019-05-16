@@ -5,7 +5,7 @@ article:
   type: article
   authors: Charan
   year: 2012
-  magazine: J Pharmacol Pharmacother
+  journal: J Pharmacol Pharmacother
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543548/
   pubmed: PMC3543548
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gilliland
   year: 2013
-  magazine: Biologicals
+  journal: Biologicals
   link: https://www.ncbi.nlm.nih.gov/pubmed/23089079/
   pubmed: 23089079
 drugs:

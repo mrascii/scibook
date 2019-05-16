@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sun
   year: 2012
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/22357833
   pubmed: 22357833
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Boulianne
   year: 2001
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://journals.lww.com/pidj/Fulltext/2001/11000/Most_ten_year_old_children_with_negative_or.17.aspx
   pubmed: 11734718
 countries:

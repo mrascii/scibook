@@ -6,7 +6,7 @@ article:
   type: article
   authors: Qi
   year: 2011
-  magazine: Expert Rev Respir Med
+  journal: Expert Rev Respir Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241931
   pubmed: PMC3241931
 diseases:

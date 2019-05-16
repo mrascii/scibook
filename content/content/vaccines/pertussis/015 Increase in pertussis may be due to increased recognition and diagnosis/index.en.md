@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jenkinson
   year: 2012
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/345/bmj.e5463
   pubmed: 22915721
 countries:

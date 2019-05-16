@@ -5,7 +5,7 @@ article:
   type: article
   authors: Parker
   year: 2017
-  magazine: J Int Med Res
+  journal: J Int Med Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/28415925
   pubmed: 28415925
 ---

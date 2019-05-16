@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cherry
   year: 2004
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://academic.oup.com/cid/article/39/11/1715/467830
   pubmed: 15578376
 countries:

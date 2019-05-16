@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zygiert
   year: 1971
-  magazine: Lancet
+  journal: Lancet
   link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(71)91186-X/abstract
 diseases:
 - לימפומת הודג'קין

@@ -5,7 +5,7 @@ article:
   type: article
   authors: de Wit
   year: 2018
-  magazine: J Allergy Clin Immunol
+  journal: J Allergy Clin Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/29339261
   pubmed: 29339261
 ---

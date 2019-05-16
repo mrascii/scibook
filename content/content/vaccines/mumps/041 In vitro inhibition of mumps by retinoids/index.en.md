@@ -6,7 +6,7 @@ article:
   type: article
   authors: Soye
   year: 2013
-  magazine: Virol J
+  journal: Virol J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3829803/
   pubmed: PMC3829803
 drugs:

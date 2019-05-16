@@ -5,7 +5,7 @@ article:
   type: article
   authors: Blanchard
   year: 2011
-  magazine: Rev Environ Health
+  journal: Rev Environ Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/21905454
   pubmed: 21905454
 diseases:

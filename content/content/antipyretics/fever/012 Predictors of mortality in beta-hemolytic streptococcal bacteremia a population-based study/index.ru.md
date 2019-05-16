@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rantala
   year: 2009
-  magazine: J Infect
+  journal: J Infect
   link: https://www.ncbi.nlm.nih.gov/pubmed/19261333
   pubmed: 19261333
 ---

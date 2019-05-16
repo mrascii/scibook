@@ -5,7 +5,7 @@ article:
   type: article
   authors: Smetana
   year: 2018
-  magazine: Hum Vaccin Immunother
+  journal: Hum Vaccin Immunother
   link: https://www.ncbi.nlm.nih.gov/pubmed/29206078
   pubmed: 29206078
 countries:

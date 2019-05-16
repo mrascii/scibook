@@ -5,7 +5,7 @@ article:
   type: article
   authors: McBride
   year: 2011
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/22065272
   pubmed: 22065272
 ---

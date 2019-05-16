@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mark
   year: 1989
-  magazine: Eur J Clin Microbiol Infect Dis
+  journal: Eur J Clin Microbiol Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/2496989
   pubmed: 2496989
 countries:

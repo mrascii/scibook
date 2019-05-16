@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gabutti
   year: 2002
-  magazine: Epidemiol Infect
+  journal: Epidemiol Infect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2869916
   pubmed: PMC2869916
 countries:

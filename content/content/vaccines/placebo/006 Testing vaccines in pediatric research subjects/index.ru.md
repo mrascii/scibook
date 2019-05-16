@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jacobson
   year: 2009
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831649/
   pubmed: PMC2831649
 drugs:

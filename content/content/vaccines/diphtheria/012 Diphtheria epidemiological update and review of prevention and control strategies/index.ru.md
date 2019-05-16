@@ -5,7 +5,7 @@ article:
   type: article
   authors: Prospero
   year: 1997
-  magazine: Eur J Epidemiol
+  journal: Eur J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/9258564
   pubmed: 9258564
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gould
   year: 2009
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/19593254
   pubmed: 19593254
 countries:

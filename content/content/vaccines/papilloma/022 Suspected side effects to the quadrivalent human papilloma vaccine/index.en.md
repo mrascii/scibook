@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brinth
   year: 2015
-  magazine: Dan Med J
+  journal: Dan Med J
   link: https://www.ncbi.nlm.nih.gov/pubmed/25872549
   pubmed: 25872549
 ---

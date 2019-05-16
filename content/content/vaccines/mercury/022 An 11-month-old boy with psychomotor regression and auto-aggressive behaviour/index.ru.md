@@ -5,7 +5,7 @@ article:
   type: article
   authors: Chrysochoou
   year: 2003
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/12751003
 diseases:
 - Акродиния

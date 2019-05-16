@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bertolini
   year: 2006
-  magazine: CNS Drug Rev
+  journal: CNS Drug Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/17227290
   pubmed: 17227290
 ---

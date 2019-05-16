@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tomljenovic
   year: 2016
-  magazine: Isr Med Assoc J
+  journal: Isr Med Assoc J
   link: https://www.ncbi.nlm.nih.gov/pubmed/28471623
   pubmed: 28471623
 diseases:

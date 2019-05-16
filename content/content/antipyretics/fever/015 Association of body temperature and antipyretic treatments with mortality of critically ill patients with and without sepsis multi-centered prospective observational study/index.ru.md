@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lee
   year: 2012
-  magazine: Crit Care
+  journal: Crit Care
   link: https://www.ncbi.nlm.nih.gov/pubmed/22373120
   pubmed: 22373120
 ---

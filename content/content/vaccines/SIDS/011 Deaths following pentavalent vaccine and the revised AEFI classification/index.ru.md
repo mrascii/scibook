@@ -5,7 +5,7 @@ article:
   type: article
   authors: Puliyel
   year: 2017
-  magazine: Indian J Med Ethics
+  journal: Indian J Med Ethics
   link: https://www.ncbi.nlm.nih.gov/pubmed/28803220
   pubmed: 28803220
 countries:

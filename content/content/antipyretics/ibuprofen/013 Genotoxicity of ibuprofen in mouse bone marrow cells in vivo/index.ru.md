@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tripathi
   year: 2012
-  magazine: Drug Chem Toxicol
+  journal: Drug Chem Toxicol
   link: https://www.ncbi.nlm.nih.gov/pubmed/22283434
   pubmed: 22283434
 ---

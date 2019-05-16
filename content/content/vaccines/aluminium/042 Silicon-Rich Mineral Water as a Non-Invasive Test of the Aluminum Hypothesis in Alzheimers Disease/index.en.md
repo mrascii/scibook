@@ -5,7 +5,7 @@ article:
   type: article
   authors: Davenward
   year: 2013
-  magazine: J Alzheimers Dis
+  journal: J Alzheimers Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/22976072
   pubmed: 22976072
 drugs:

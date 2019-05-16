@@ -5,7 +5,7 @@ article:
   type: article
   authors: Arnold
   year: 1993
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/8356972
   pubmed: 8356972
 conditions:

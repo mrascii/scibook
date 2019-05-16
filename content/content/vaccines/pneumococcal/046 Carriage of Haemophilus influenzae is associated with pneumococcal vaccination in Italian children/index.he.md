@@ -5,7 +5,7 @@ article:
   type: article
   authors: Camilli
   year: 2015
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/26190092
   pubmed: 26190092
 diseases:

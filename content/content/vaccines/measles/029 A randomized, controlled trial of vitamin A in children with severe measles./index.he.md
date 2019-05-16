@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   authors: Hussey
   year: 1990
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: http://www.nejm.org/doi/full/10.1056/NEJM199007193230304
 drugs:
 - ויטמין A

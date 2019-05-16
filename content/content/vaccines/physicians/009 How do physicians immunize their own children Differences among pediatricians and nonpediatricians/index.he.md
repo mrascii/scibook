@@ -5,7 +5,7 @@ article:
   type: article
   authors: Posfay-Barbe
   year: 2005
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/16263976
   pubmed: 16263976
 conditions:

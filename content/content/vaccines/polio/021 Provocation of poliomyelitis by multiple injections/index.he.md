@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wyatt
   year: 1985
-  magazine: Trans R Soc Trop Med Hyg
+  journal: Trans R Soc Trop Med Hyg
   link: https://www.ncbi.nlm.nih.gov/pubmed/4035736
   pubmed: 4035736
 diseases:

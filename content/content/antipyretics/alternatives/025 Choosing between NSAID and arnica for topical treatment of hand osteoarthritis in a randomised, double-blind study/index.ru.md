@@ -5,7 +5,7 @@ article:
   type: article
   authors: Widrig
   year: 2007
-  magazine: Rheumatol Int
+  journal: Rheumatol Int
   link: https://www.ncbi.nlm.nih.gov/pubmed/17318618
   pubmed: 17318618
 ---

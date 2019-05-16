@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vennemann
   year: 2007
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/17400342
   pubmed: 17400342
 ---

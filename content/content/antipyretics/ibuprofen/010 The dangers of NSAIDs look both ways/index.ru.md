@@ -5,7 +5,7 @@ article:
   type: article
   authors: Davis
   year: 2016
-  magazine: Br J Gen Pract
+  journal: Br J Gen Pract
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809680
   pubmed: PMC4809680
 ---

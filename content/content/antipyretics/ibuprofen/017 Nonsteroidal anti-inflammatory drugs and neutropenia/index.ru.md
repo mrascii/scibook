@@ -5,7 +5,7 @@ article:
   type: article
   authors: Strom
   year: 1993
-  magazine: Arch Intern Med
+  journal: Arch Intern Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/8379803
   pubmed: 8379803
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Morfopoulou
   year: 2017
-  magazine: Acta Neuropathol
+  journal: Acta Neuropathol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5209397/
   pubmed: PMC5209397
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bauer
   year: 1926
-  magazine: JSTOR
+  journal: JSTOR
   link: https://www.jstor.org/stable/30083249
 conditions:
 - חסינות טבעית

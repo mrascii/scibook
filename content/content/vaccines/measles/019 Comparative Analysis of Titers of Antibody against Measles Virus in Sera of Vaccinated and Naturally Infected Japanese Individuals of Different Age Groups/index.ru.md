@@ -5,7 +5,7 @@ article:
   type: article
   authors: Itoh
   year: 2002
-  magazine: J Clin Microbiol
+  journal: J Clin Microbiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC130661/
   pubmed: PMC130661
 ---

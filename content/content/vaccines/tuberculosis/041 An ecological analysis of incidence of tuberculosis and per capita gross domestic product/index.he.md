@@ -5,7 +5,7 @@ article:
   type: article
   authors: Janssens
   year: 2008
-  magazine: Eur Respir J
+  journal: Eur Respir J
   link: http://erj.ersjournals.com/content/32/5/1415
   pubmed: 18978146
 ---

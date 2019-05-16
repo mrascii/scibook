@@ -5,7 +5,7 @@ article:
   type: article
   authors: Baylis
   year: 2003
-  magazine: Biologicals
+  journal: Biologicals
   link: https://www.ncbi.nlm.nih.gov/pubmed/12623061/
   pubmed: 12623061
 ---

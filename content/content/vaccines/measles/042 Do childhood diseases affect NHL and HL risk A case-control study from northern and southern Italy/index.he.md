@@ -6,7 +6,7 @@ article:
   type: article
   authors: Montella
   year: 2006
-  magazine: Leuk Res
+  journal: Leuk Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/16406019
   pubmed: 16406019
 diseases:

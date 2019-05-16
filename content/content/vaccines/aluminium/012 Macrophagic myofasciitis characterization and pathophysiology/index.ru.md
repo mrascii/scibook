@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gherardi
   year: 2012
-  magazine: Lupus
+  journal: Lupus
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3623725/
   pubmed: PMC3623725
 diseases:

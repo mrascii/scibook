@@ -6,7 +6,7 @@ article:
   type: article
   authors: Greer
   year: 1998
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1717721
   pubmed: PMC1717721
 ---

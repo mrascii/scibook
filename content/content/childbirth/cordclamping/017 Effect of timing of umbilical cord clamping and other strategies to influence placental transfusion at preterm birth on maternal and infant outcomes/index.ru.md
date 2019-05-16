@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rabe
   year: 2012
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/22895933
   pubmed: 22895933
 ---

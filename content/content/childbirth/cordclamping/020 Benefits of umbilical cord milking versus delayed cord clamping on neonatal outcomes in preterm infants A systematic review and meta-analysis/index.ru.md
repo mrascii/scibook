@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nagano
   year: 2018
-  magazine: PLoS One
+  journal: PLoS One
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6116944
   pubmed: PMC6116944
 ---

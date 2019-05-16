@@ -6,7 +6,7 @@ article:
   type: article
   authors: Rennels
   year: 2000
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/10819337
   pubmed: 10819337
 drugs:

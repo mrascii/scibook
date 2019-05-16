@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gok Metin
   year: 2017
-  magazine: J Nurs Scholarsh
+  journal: J Nurs Scholarsh
   link: https://www.ncbi.nlm.nih.gov/pubmed/28605119
   pubmed: 28605119
 ---

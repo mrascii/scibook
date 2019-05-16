@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tan
   year: 2002
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/12093940
   pubmed: 12093940
 countries:

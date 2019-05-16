@@ -5,7 +5,7 @@ article:
   type: article
   authors: Huang
   year: 2017
-  magazine: Pharmacoepidemiol Drug Saf
+  journal: Pharmacoepidemiol Drug Saf
   link: https://www.ncbi.nlm.nih.gov/pubmed/27891698
   pubmed: 27891698
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bassioni
   year: 2012
-  magazine: Int J Electrochem Sci
+  journal: Int J Electrochem Sci
   link: http://www.electrochemsci.org/papers/vol7/7054498.pdf
 drugs:
 - Aluminum

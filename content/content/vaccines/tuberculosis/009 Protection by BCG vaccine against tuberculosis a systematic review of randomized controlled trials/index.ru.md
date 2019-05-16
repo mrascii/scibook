@@ -6,7 +6,7 @@ article:
   type: article
   authors: Mangtani
   year: 2014
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/24336911
   pubmed: 24336911
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hilgard
   year: 1977
-  magazine: Br J Cancer
+  journal: Br J Cancer
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2025535/
   pubmed: PMC2025535
 diseases:

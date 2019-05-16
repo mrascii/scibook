@@ -5,7 +5,7 @@ article:
   type: article
   authors: Moulton
   year: 2005
-  magazine: Trop Med Int Health
+  journal: Trop Med Int Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/16185228
   pubmed: 16185228
 conditions:

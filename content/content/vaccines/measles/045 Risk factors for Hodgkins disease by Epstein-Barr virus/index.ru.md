@@ -5,7 +5,7 @@ article:
   type: article
   authors: Alexander
   year: 2000
-  magazine: Br J Cancer
+  journal: Br J Cancer
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2374437
   pubmed: PMC2374437
 diseases:

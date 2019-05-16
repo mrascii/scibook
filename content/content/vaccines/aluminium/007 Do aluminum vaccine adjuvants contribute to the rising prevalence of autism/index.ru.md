@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tomljenovic
   year: 2011
-  magazine: J Inorg Biochem
+  journal: J Inorg Biochem
   link: https://www.ncbi.nlm.nih.gov/pubmed/22099159
   pubmed: 22099159
 diseases:

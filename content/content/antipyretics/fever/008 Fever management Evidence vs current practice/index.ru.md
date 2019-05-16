@@ -5,7 +5,7 @@ article:
   type: article
   authors: El-Radhi
   year: 2012
-  magazine: World J Clin Pediatr
+  journal: World J Clin Pediatr
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4145646
   pubmed: PMC4145646
 ---

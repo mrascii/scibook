@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nevison
   year: 2017
-  magazine: J Autism Dev Disord
+  journal: J Autism Dev Disord
   link: https://www.ncbi.nlm.nih.gov/pubmed/28589495
   pubmed: 28589495
 ---

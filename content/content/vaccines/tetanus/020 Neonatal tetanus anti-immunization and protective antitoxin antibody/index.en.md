@@ -5,7 +5,7 @@ article:
   type: article
   authors: de Moraes-Pinto
   year: 1995
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/7706800
   pubmed: 7706800
 diseases:

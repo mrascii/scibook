@@ -5,7 +5,7 @@ article:
   type: article
   authors: Classen
   year: 2008
-  magazine: Open Pediatr Med J
+  journal: Open Pediatr Med J
   link: https://benthamopen.com/contents/pdf/TOPEDJ/TOPEDJ-2-1.pdf
 diseases:
 - Диабет 1го типа

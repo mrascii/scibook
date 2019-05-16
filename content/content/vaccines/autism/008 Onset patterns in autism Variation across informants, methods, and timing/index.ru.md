@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ozonoff
   year: 2018
-  magazine: Autism Res
+  journal: Autism Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/29524310
   pubmed: 29524310
 ---

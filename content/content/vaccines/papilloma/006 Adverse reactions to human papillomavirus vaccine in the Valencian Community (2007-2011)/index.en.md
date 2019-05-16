@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rodríguez-Galán
   year: 2014
-  magazine: An Pediatr (Barc)
+  journal: An Pediatr (Barc)
   link: https://www.ncbi.nlm.nih.gov/pubmed/24582127
   pubmed: 24582127
 ---

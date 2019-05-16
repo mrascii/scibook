@@ -5,7 +5,7 @@ article:
   type: 20725075
   authors: Lee
   year: 2010
-  magazine: Clin Pharmacol Ther
+  journal: Clin Pharmacol Ther
   link: https://www.ncbi.nlm.nih.gov/pubmed/
   pubmed: 20725075
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bogdanos
   year: 2005
-  magazine: Clin Dev Immunol
+  journal: Clin Dev Immunol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2275415
   pubmed: PMC2275415
 ---

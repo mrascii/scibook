@@ -6,7 +6,7 @@ article:
   type: article
   authors: Hirschmann
   year: 1994
-  magazine: Arch Intern Med
+  journal: Arch Intern Med
   link: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/618469
   pubmed: 8117169
 ---

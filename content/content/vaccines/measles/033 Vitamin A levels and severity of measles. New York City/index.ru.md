@@ -5,7 +5,7 @@ article:
   type: article
   authors: Frieden
   year: 1992
-  magazine: Am J Dis Child
+  journal: Am J Dis Child
   link: https://www.ncbi.nlm.nih.gov/pubmed/1285727
   pubmed: 1285727
 drugs:

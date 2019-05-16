@@ -5,7 +5,7 @@ article:
   type: article
   authors: McVernon
   year: 2003
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/12737866
   pubmed: 12737866
 drugs:

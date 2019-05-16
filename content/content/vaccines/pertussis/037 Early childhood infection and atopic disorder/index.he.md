@@ -5,7 +5,7 @@ article:
   type: article
   authors: Farooqi
   year: 1998
-  magazine: Thorax
+  journal: Thorax
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1745117/
   pubmed: PMC1745117
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cohen
   year: 2018
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/360/bmj.j5845
   pubmed: 10.1136/bmj.j5845
 countries:

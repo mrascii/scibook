@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gromeier
   year: 1988
-  magazine: J Virol
+  journal: J Virol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC110068/
   pubmed: PMC110068
 diseases:

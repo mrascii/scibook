@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fox
   year: 2016
-  magazine: PLoS Pathog
+  journal: PLoS Pathog
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4721647/
   pubmed: PMC4721647
 countries:

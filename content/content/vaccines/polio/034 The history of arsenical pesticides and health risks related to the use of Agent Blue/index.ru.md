@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bencko
   year: 2017
-  magazine: Ann Agric Environ Med
+  journal: Ann Agric Environ Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/28664715
 conditions:
 - Инсектициды

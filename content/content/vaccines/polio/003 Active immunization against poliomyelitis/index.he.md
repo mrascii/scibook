@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brodie
   year: 1936
-  magazine: Am. J. Public Health
+  journal: Am. J. Public Health
   link: http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.26.2.119
   pubmed: 18014364
 countries:

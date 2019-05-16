@@ -5,7 +5,7 @@ article:
   type: article
   authors: Glenny
   year: 1926
-  magazine: J Pathol
+  journal: J Pathol
   link: http://onlinelibrary.wiley.com/doi/10.1002/path.1700290106/abstract
   pubmed: 10.1002/path.1700290106
 drugs:

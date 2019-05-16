@@ -5,7 +5,7 @@ article:
   type: article
   authors: Proveaux
   year: 2016
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/27595450
   pubmed: 27595450
 ---

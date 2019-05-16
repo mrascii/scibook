@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bucardo
   year: 2012
-  magazine: Infect Genet Evol
+  journal: Infect Genet Evol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372771/
   pubmed: PMC3372771
 conditions:

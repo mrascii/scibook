@@ -5,7 +5,7 @@ article:
   type: article
   authors: Haverkos
   year: 2000
-  magazine: Biomed Pharmacother
+  journal: Biomed Pharmacother
   link: https://www.ncbi.nlm.nih.gov/pubmed/10721464
   pubmed: 10721464
 ---

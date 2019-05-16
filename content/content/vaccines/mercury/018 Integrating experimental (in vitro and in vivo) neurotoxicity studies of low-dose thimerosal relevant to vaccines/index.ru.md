@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dórea
   year: 2011
-  magazine: Neurochem Res
+  journal: Neurochem Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/21350943
   pubmed: 21350943
 ---

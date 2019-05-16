@@ -5,7 +5,7 @@ article:
   type: article
   authors: Deisher
   year: 2015
-  magazine: Issues Law Med
+  journal: Issues Law Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/26103708
   pubmed: 26103708
 ---

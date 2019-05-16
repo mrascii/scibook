@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bertilone
   year: 2014
-  magazine: Commun Dis Intell Q Rep
+  journal: Commun Dis Intell Q Rep
   link: https://www.ncbi.nlm.nih.gov/pubmed/25391405/
   pubmed: 25391405
 countries:

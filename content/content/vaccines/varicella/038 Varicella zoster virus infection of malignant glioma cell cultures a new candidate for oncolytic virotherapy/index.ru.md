@@ -5,7 +5,7 @@ article:
   type: article
   authors: Leske
   year: 2012
-  magazine: Anticancer Res
+  journal: Anticancer Res
   link: http://ar.iiarjournals.org/content/32/4/1137.long
   pubmed: 22493342
 diseases:

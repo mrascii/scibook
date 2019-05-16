@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rebordosa
   year: 2010
-  magazine: J Matern Fetal Neonatal Med
+  journal: J Matern Fetal Neonatal Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/19929241
   pubmed: 19929241
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: McNinch
   year: 1985
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1777471/
   pubmed: PMC1777471
 ---

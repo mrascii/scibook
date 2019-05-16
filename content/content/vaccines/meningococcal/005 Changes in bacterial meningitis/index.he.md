@@ -5,7 +5,7 @@ article:
   type: article
   authors: Carter
   year: 1990
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1792153/
   pubmed: PMC1792153
 countries:

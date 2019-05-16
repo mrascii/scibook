@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kuhnert
   year: 2011
-  magazine: Stat Med
+  journal: Stat Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/21337361
   pubmed: 21337361
 diseases:

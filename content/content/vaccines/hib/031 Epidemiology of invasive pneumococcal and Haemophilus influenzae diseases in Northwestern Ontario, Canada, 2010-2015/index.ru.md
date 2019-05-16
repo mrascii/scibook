@@ -5,7 +5,7 @@ article:
   type: article
   authors: Eton
   year: 2017
-  magazine: Int J Infect Dis
+  journal: Int J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/28951105
   pubmed: 28951105
 conditions:

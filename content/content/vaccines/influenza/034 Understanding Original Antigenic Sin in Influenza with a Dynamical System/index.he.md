@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pan
   year: 2011
-  magazine: PLoS One
+  journal: PLoS One
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163660
   pubmed: PMC3163660
 ---

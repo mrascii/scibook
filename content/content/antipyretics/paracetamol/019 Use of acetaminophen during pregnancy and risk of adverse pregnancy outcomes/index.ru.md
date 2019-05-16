@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rebordosa
   year: 2009
-  magazine: Int J Epidemiol
+  journal: Int J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/19332503
   pubmed: 19332503
 ---

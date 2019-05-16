@@ -5,7 +5,7 @@ article:
   type: article
   authors: Oikawa
   year: 2014
-  magazine: J Infect Chemother
+  journal: J Infect Chemother
   link: https://www.ncbi.nlm.nih.gov/pubmed/24582389
   pubmed: 24582389
 conditions:

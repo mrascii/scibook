@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sakon
   year: 2017
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/28733861
   pubmed: 28733861
 conditions:

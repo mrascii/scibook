@@ -5,7 +5,7 @@ article:
   type: article
   authors: Burnet
   year: 1968
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/4175162
   pubmed: 4175162
 ---

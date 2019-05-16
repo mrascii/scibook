@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wolfe
   year: 1999
-  magazine: N Engl J Med
+  journal: N Engl J Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/10369853
   pubmed: 10369853
 ---

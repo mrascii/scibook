@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kamer
   year: 2004
-  magazine: Soc Psychiatry Psychiatr Epidemiol
+  journal: Soc Psychiatry Psychiatr Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/15052396
   pubmed: 15052396
 countries:

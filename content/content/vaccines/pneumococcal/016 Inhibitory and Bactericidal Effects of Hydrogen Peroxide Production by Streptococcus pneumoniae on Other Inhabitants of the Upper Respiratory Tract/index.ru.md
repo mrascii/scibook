@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pericone
   year: 2000
-  magazine: Infect Immun
+  journal: Infect Immun
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC101678/
   pubmed: PMC101678
 diseases:

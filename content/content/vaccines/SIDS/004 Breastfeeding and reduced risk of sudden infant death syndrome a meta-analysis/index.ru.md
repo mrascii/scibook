@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hauck
   year: 2011
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/21669892
   pubmed: 21669892
 conditions:

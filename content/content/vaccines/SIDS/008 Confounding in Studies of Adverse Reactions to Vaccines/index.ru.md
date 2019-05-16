@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fine
   year: 1992
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/1415136
   pubmed: 1415136
 ---

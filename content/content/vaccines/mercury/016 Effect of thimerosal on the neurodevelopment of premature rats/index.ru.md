@@ -5,7 +5,7 @@ article:
   type: article
   authors: Chen
   year: 2013
-  magazine: World J Pediatr
+  journal: World J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/24235069
   pubmed: 24235069
 ---

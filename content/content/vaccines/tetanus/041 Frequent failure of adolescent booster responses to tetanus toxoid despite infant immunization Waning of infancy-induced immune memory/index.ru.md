@@ -5,7 +5,7 @@ article:
   type: article
   authors: Posfay-Barbe
   year: 2010
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/20447475
   pubmed: 20447475
 countries:

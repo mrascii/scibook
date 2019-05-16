@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vargas
   year: 2005
-  magazine: Ann Neurol
+  journal: Ann Neurol
   link: https://www.ncbi.nlm.nih.gov/pubmed/15546155
   pubmed: 15546155
 ---

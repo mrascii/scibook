@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fisher
   year: 1999
-  magazine: Epidemiology
+  journal: Epidemiology
   link: https://www.ncbi.nlm.nih.gov/pubmed/10230847
   pubmed: 10230847
 ---

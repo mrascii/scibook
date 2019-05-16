@@ -5,7 +5,7 @@ article:
   type: article
   authors: Duszczyk-Budhathoki
   year: 2012
-  magazine: Neurochem Res
+  journal: Neurochem Res
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3264864/
   pubmed: PMC3264864
 ---

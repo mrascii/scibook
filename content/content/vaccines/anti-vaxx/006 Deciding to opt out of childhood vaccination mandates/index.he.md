@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gullion
   year: 2008
-  magazine: Public Health Nurs
+  journal: Public Health Nurs
   link: https://www.ncbi.nlm.nih.gov/pubmed/18816357
   pubmed: 18816357
 conditions:

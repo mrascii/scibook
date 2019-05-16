@@ -5,7 +5,7 @@ article:
   type: article
   authors: Styrt
   year: 1994
-  magazine: Am J Emerg Med
+  journal: Am J Emerg Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/8179746
   pubmed: 8179746
 ---

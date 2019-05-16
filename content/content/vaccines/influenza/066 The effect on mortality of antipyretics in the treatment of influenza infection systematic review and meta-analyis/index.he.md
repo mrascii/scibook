@@ -5,7 +5,7 @@ article:
   type: article
   authors: Eyers
   year: 2010
-  magazine: J R Soc Med
+  journal: J R Soc Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951171
   pubmed: PMC2951171
 drugs:

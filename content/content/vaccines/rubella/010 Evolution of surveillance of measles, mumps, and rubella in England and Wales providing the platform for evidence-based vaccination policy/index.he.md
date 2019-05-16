@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vyse
   year: 2002
-  magazine: Epidemiol Rev
+  journal: Epidemiol Rev
   link: https://academic.oup.com/epirev/article/24/2/125/534958/Evolution-of-Surveillance-of-Measles-Mumps-and
   pubmed: 12762088
 countries:

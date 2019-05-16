@@ -5,7 +5,7 @@ article:
   type: article
   authors: Poland
   year: 1997
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/9087472
   pubmed: 9087472
 ---

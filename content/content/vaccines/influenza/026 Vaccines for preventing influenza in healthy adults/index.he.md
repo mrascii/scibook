@@ -5,7 +5,7 @@ article:
   type: article
   authors: Demicheli
   year: 2014
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/24623315
   pubmed: 24623315
 ---

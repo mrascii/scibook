@@ -5,7 +5,7 @@ article:
   type: article
   authors: Thomas
   year: 2016
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/27251461
   pubmed: 27251461
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kong
   year: 2016
-  magazine: Sci Rep
+  journal: Sci Rep
   link: https://www.ncbi.nlm.nih.gov/pubmed/27125299
   pubmed: 27125299
 ---

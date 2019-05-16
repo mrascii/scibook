@@ -6,7 +6,7 @@ article:
   type: article
   authors: Toraño Peraza
   year: 2004
-  magazine: Mem Inst Oswaldo Cruz
+  journal: Mem Inst Oswaldo Cruz
   link: https://www.ncbi.nlm.nih.gov/pubmed/15654422
   pubmed: 15654422
 conditions:

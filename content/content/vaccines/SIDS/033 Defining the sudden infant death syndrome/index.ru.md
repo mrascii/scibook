@@ -5,7 +5,7 @@ article:
   type: article
   authors: Willinger
   year: 1991
-  magazine: Pediatr Pathol
+  journal: Pediatr Pathol
   link: https://www.ncbi.nlm.nih.gov/pubmed/1745639
   pubmed: 1745639
 diseases:

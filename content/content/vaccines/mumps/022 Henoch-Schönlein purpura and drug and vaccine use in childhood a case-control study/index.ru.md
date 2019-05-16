@@ -5,7 +5,7 @@ article:
   type: article
   authors: Da Dalt
   year: 2016
-  magazine: Ital J Pediatr
+  journal: Ital J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4912703/
   pubmed: PMC4912703
 drugs:

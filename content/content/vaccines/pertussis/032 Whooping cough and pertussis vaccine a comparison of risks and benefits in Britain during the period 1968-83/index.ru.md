@@ -5,7 +5,7 @@ article:
   type: article
   authors: Stewart
   year: 1985
-  magazine: Dev Biol Stand
+  journal: Dev Biol Stand
   link: https://www.ncbi.nlm.nih.gov/pubmed/3835080
   pubmed: 3835080
 ---

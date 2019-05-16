@@ -6,7 +6,7 @@ article:
   type: article
   authors: Stratton
   year: 1994
-  magazine: JAMA
+  journal: JAMA
   link: http://jamanetwork.com/journals/jama/article-abstract/373073
   pubmed: 8182813
 diseases:

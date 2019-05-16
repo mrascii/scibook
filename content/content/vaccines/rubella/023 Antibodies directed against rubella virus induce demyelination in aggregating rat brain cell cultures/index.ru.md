@@ -5,7 +5,7 @@ article:
   type: article
   authors: Besson Duvanel
   year: 2001
-  magazine: J Neurosci Res
+  journal: J Neurosci Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/11536329
   pubmed: 11536329
 conditions:

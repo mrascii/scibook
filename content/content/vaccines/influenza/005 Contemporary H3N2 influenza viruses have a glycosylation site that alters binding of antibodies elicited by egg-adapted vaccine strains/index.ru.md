@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zost
   year: 2017
-  magazine: Proc Natl Acad Sci
+  journal: Proc Natl Acad Sci
   link: http://www.pnas.org/content/early/2017/10/31/1712377114
   pubmed: 29109276
 diseases:

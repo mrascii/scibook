@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lippi
   year: 2011
-  magazine: Blood Transfus
+  journal: Blood Transfus
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3021393
   pubmed: PMC3021393
 ---

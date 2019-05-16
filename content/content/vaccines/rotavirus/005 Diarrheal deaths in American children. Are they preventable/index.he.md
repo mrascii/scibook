@@ -6,7 +6,7 @@ article:
   type: article
   authors: Ho
   year: 1988
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/3184416
   pubmed: 3184416
 countries:

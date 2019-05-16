@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shandley
   year: 2011
-  magazine: J Toxicol Environ Health A
+  journal: J Toxicol Environ Health A
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3173747
   pubmed: PMC3173747
 diseases:

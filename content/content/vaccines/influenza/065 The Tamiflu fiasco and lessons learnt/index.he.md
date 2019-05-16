@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gupta
   year: 2015
-  magazine: Indian J Pharmacol
+  journal: Indian J Pharmacol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4375804
   pubmed: PMC4375804
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mandy
   year: 2016
-  magazine: J Perinatol
+  journal: J Perinatol
   link: https://www.nature.com/articles/jp2015148
   pubmed: 10.1038/jp.2015.148
 ---

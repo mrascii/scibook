@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nelson
   year: 2018
-  magazine: Lancet Infect Dis
+  journal: Lancet Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/29303741
   pubmed: 29303741
 countries:

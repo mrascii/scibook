@@ -5,7 +5,7 @@ article:
   type: article
   authors: Esteghamati
   year: 2011
-  magazine: Arch Iran Med
+  journal: Arch Iran Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/21361714
   pubmed: 21361714
 diseases:

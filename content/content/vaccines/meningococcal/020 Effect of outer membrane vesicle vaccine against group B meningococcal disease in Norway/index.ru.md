@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bjune
   year: 1991
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/1682541
   pubmed: 1682541
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bergeisen
   year: 1986
-  magazine: Arch Neurol
+  journal: Arch Neurol
   link: https://www.ncbi.nlm.nih.gov/pubmed/3947264
   pubmed: 3947264
 conditions:

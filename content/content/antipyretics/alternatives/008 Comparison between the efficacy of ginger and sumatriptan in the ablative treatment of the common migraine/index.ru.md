@@ -5,7 +5,7 @@ article:
   type: article
   authors: Maghbooli
   year: 2014
-  magazine: Phytother Res
+  journal: Phytother Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/23657930
   pubmed: 23657930
 ---

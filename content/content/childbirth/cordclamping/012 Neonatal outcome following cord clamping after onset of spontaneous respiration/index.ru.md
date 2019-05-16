@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ersda
   year: 2014
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/25022738
   pubmed: 25022738
 countries:

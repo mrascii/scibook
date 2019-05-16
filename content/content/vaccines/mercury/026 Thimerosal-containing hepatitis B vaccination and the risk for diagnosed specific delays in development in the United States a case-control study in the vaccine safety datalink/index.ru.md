@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2014
-  magazine: N Am J Med Sci
+  journal: N Am J Med Sci
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4215490/
   pubmed: PMC4215490
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Neel
   year: 1964
-  magazine: Am J Hum Genet
+  journal: Am J Hum Genet
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1932461/
   pubmed: PMC1932461
 countries:

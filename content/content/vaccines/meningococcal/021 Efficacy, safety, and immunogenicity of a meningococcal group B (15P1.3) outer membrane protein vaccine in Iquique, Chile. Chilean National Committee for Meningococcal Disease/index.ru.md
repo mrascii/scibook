@@ -5,7 +5,7 @@ article:
   type: article
   authors: Boslego
   year: 1995
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/7483804
   pubmed: 7483804
 countries:

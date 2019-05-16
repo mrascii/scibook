@@ -5,7 +5,7 @@ article:
   type: article
   authors: Costakos
   year: 2003
-  magazine: Am J Perinatol
+  journal: Am J Perinatol
   link: https://www.ncbi.nlm.nih.gov/pubmed/14703597
   pubmed: 14703597
 countries:

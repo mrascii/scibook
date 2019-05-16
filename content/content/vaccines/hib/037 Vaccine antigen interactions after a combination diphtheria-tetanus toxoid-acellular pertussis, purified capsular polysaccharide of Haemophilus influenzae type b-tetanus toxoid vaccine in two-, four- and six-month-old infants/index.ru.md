@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pichichero
   year: 1997
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/9306481
   pubmed: 9306481
 drugs:

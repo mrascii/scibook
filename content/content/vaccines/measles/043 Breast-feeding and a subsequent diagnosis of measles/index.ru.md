@@ -5,7 +5,7 @@ article:
   type: article
   authors: Silfverdal
   year: 2009
-  magazine: Acta Paediatr
+  journal: Acta Paediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/19133867
   pubmed: 19133867
 conditions:

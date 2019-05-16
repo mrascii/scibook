@@ -5,7 +5,7 @@ article:
   type: article
   authors: Miric
   year: 2013
-  magazine: Int J Tuberc Lung Dis
+  journal: Int J Tuberc Lung Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/24125457
   pubmed: 24125457
 drugs:

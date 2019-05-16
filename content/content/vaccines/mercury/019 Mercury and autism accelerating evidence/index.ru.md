@@ -5,7 +5,7 @@ article:
   type: article
   authors: Mutter
   year: 2005
-  magazine: Neuro Endocrinol Lett
+  journal: Neuro Endocrinol Lett
   link: https://www.ncbi.nlm.nih.gov/pubmed/16264412
   pubmed: 16264412
 ---

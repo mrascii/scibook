@@ -5,7 +5,7 @@ article:
   type: article
   authors: D'Errico
   year: 2008
-  magazine: Forensic Sci Int
+  journal: Forensic Sci Int
   link: http://www.ncbi.nlm.nih.gov/pubmed/18538957
   pubmed: 18538957
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sandler
   year: 1941
-  magazine: Am J Pathol
+  journal: Am J Pathol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1965163
   pubmed: PMC1965163
 diseases:

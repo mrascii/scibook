@@ -5,7 +5,7 @@ article:
   type: article
   authors: Silfverdal
   year: 2003
-  magazine: Lancet
+  journal: Lancet
   link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2803%2913986-4
   pubmed: 12892974
 conditions:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tomljenovic
   year: 2012
-  magazine: Pharma Reg Affairs
+  journal: Pharma Reg Affairs
   link: http://rescuepost.com/files/ltshaw-death-after-quadrivalent-hpv-vaccination-pharma-reg-affairs-2012.pdf
 ---
 

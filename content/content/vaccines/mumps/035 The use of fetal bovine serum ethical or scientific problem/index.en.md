@@ -6,7 +6,7 @@ article:
   type: article
   authors: Jochems
   year: 2002
-  magazine: Altern Lab Anim
+  journal: Altern Lab Anim
   link: https://www.ncbi.nlm.nih.gov/pubmed/11971757
   pubmed: 11971757
 drugs:

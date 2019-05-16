@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shi
   year: 2011
-  magazine: Virus Genes
+  journal: Virus Genes
   link: https://www.ncbi.nlm.nih.gov/pubmed/21701857
   pubmed: 21701857
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Losonsky
   year: 1982
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/7077089
   pubmed: 7077089
 conditions:

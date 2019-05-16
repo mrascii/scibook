@@ -5,7 +5,7 @@ article:
   type: article
   authors: Smith
   year: 2004
-  magazine: Pediatrics
+  journal: Pediatrics
   link: http://pediatrics.aappublications.org/content/114/1/187
 conditions:
 - אנטי חיסון

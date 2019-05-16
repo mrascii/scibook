@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dworkin
   year: 2007
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/17304452
   pubmed: 17304452
 conditions:

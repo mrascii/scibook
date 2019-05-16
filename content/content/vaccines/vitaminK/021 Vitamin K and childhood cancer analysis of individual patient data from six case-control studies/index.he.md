@@ -5,7 +5,7 @@ article:
   type: article
   authors: Roman
   year: 2002
-  magazine: Br J Cancer
+  journal: Br J Cancer
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746550
   pubmed: PMC2746550
 diseases:

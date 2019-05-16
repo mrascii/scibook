@@ -5,7 +5,7 @@ article:
   type: article
   authors: Galil
   year: 2002
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/12089668
   pubmed: 12089668
 ---

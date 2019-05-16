@@ -6,7 +6,7 @@ article:
   type: article
   authors: Soares-Weiser
   year: 2012
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/23152260
   pubmed: 23152260
 ---

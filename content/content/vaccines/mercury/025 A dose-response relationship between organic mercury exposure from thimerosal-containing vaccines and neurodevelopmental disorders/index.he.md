@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2014
-  magazine: Int J Environ Res Public Health
+  journal: Int J Environ Res Public Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4199012
   pubmed: PMC4199012
 diseases:

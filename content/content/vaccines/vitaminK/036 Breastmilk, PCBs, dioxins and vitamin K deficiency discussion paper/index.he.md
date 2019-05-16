@@ -5,7 +5,7 @@ article:
   type: article
   authors: Koppe
   year: 1989
-  magazine: J R Soc Med
+  journal: J R Soc Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1292208/
   pubmed: PMC1292208
 countries:

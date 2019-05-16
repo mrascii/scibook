@@ -5,7 +5,7 @@ article:
   type: article
   authors: Steffen
   year: 2010
-  magazine: J Travel Med
+  journal: J Travel Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/20849428
   pubmed: 20849428
 ---

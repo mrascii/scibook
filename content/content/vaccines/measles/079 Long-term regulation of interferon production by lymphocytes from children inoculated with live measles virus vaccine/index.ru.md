@@ -6,7 +6,7 @@ article:
   type: article
   authors: Nakayama
   year: 1988
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/3143767
   pubmed: 3143767
 ---

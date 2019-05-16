@@ -6,7 +6,7 @@ article:
   type: article
   authors: Warfel
   year: 2014
-  magazine: PNAS
+  journal: PNAS
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3896208/
   pubmed: PMC3896208
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Backes
   year: 2014
-  magazine: Obstet Gynecol
+  journal: Obstet Gynecol
   link: https://www.ncbi.nlm.nih.gov/pubmed/24901269
   pubmed: 24901269
 ---

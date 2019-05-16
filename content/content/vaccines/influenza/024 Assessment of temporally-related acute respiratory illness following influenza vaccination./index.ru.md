@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rikin
   year: 2018
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/29525279
   pubmed: 29525279
 conditions:

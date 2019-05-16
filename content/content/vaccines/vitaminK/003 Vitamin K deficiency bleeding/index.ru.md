@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shearer
   year: 2009
-  magazine: Blood Rev
+  journal: Blood Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/18804903
   pubmed: 18804903
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Rosenthal
   year: 1995
-  magazine: Am J Public Health
+  journal: Am J Public Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1615747/
   pubmed: PMC1615747
 conditions:

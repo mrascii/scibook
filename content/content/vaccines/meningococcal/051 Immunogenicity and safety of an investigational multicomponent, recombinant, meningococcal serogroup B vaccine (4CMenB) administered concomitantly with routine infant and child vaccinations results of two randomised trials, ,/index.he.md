@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   type: article
   year: 2013
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/23324563
   pubmed: 23324563
 ---

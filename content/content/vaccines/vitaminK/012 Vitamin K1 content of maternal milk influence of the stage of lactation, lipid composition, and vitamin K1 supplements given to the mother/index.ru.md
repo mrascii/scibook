@@ -5,7 +5,7 @@ article:
   type: article
   authors: von Kries
   year: 1987
-  magazine: Pediatr Res
+  journal: Pediatr Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/3684378
   pubmed: 3684378
 conditions:

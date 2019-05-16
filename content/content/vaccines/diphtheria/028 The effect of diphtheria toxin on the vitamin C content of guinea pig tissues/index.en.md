@@ -6,7 +6,7 @@ article:
   type: article
   authors: Lyman
   year: 1936
-  magazine: J. Pharm. Exp. Ther
+  journal: J. Pharm. Exp. Ther
   link: http://jpet.aspetjournals.org/content/56/2/209
 drugs:
 - Vitamin C

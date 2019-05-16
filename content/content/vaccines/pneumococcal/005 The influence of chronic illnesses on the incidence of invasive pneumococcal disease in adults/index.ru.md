@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kyaw
   year: 2005
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/15995950/
   pubmed: 15995950
 diseases:

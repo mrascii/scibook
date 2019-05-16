@@ -6,7 +6,7 @@ article:
   type: article
   authors: Nkowane
   year: 1987
-  magazine: Am J Public Health
+  journal: Am J Public Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1646939
   pubmed: PMC1646939
 ---

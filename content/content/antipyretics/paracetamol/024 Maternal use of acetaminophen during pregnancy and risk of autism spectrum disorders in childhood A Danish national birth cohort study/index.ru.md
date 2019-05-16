@@ -5,7 +5,7 @@ article:
   type: article
   authors: Liew
   year: 2016
-  magazine: Autism Res
+  journal: Autism Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/26688372
   pubmed: 26688372
 ---

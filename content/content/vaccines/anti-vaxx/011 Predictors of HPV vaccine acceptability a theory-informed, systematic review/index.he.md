@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brewer
   year: 2007
-  magazine: Prev Med.
+  journal: Prev Med.
   link: https://www.ncbi.nlm.nih.gov/pubmed/17628649
   pubmed: 17628649
 drugs:

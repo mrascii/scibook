@@ -5,7 +5,7 @@ article:
   type: article
   authors: Fanoy
   year: 2011
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/21983359
   pubmed: 21983359
 ---

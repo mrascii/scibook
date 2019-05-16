@@ -4,7 +4,7 @@ analyst: amantonio
 article:
   authors: Song
   year: 2018
-  magazine: Pediatr Dermatol
+  journal: Pediatr Dermatol
   link: https://www.ncbi.nlm.nih.gov/pubmed/29405375
   pubmed: 29405375
 countries:

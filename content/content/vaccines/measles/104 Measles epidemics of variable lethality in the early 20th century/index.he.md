@@ -5,7 +5,7 @@ article:
   type: article
   authors: Shanks
   year: 2014
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/24284015
   pubmed: 24284015
 ---

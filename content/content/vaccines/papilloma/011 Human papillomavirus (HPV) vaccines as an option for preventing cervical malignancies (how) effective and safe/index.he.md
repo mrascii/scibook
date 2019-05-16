@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tomljenovic
   year: 2013
-  magazine: Curr Pharm Des
+  journal: Curr Pharm Des
   link: https://www.ncbi.nlm.nih.gov/pubmed/23016780
   pubmed: 23016780
 ---

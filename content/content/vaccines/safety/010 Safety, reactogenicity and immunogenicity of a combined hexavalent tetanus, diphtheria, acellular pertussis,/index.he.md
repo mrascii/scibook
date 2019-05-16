@@ -5,7 +5,7 @@ article:
   type: article
   authors: Zepp
   year: 2004
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/15149781
   pubmed: 15149781
 ---

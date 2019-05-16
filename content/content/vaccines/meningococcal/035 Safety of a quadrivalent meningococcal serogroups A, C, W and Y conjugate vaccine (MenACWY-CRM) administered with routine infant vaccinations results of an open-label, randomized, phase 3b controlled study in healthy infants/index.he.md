@@ -5,7 +5,7 @@ article:
   type: article
   authors: Abdelnour
   year: 2014
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/24397906
   pubmed: 24397906
 ---

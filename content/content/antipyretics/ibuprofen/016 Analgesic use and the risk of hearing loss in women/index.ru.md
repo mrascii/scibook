@@ -5,7 +5,7 @@ article:
   type: article
   authors: Curhan
   year: 2012
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/22933387
   pubmed: 22933387
 ---

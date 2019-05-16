@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kiviranta
   year: 1995
-  magazine: Acta Paediatr
+  journal: Acta Paediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/8645953
   pubmed: 8645953
 diseases:

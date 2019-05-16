@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sullivan
   year: 2011
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/21357332
   pubmed: 21357332
 ---

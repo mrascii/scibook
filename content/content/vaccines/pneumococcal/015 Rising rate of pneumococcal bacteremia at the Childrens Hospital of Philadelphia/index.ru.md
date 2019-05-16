@@ -5,7 +5,7 @@ article:
   type: article
   authors: Foster
   year: 1994
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: http://journals.lww.com/pidj/Citation/1994/12000/Rising_Rate_of_Pneumococcal_Bacteremia_At_the.13.aspx
 diseases:
 - Гемофильная инфекция/бактерия

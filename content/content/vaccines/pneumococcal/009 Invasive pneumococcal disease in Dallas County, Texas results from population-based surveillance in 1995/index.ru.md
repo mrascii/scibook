@@ -5,7 +5,7 @@ article:
   type: article
   authors: Pastor
   year: 1998
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/9524828
   pubmed: 9524828
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Esmail
   year: 2014
-  magazine: Philos Trans R Soc Lond B Biol Sci
+  journal: Philos Trans R Soc Lond B Biol Sci
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024230/
   pubmed: PMC4024230
 ---

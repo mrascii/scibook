@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jungeblut
   year: 1937
-  magazine: J Immunol
+  journal: J Immunol
   link: http://www.jimmunol.org/content/33/3/203
 drugs:
 - ויטמין C

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Widdowson
   year: 2007
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/17403839
   pubmed: 17403839
 countries:

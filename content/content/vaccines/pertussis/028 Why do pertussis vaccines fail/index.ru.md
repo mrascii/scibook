@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cherry
   year: 2012
-  magazine: Pediatrics
+  journal: Pediatrics
   link: http://pediatrics.aappublications.org/content/129/5/968
   pubmed: 22529282
 ---

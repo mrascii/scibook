@@ -5,7 +5,7 @@ article:
   type: article
   authors: Trogstad
   year: 2017
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/28302408/
   pubmed: 28302408
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Holmes
   year: 2003
-  magazine: Int J Toxicol
+  journal: Int J Toxicol
   link: https://www.ncbi.nlm.nih.gov/pubmed/12933322
   pubmed: 12933322
 diseases:

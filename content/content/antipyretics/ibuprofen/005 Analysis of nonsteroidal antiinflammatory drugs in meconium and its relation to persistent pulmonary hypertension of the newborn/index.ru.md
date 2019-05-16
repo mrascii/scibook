@@ -5,7 +5,7 @@ article:
   type: article
   authors: Alano
   year: 2001
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/11230592
   pubmed: 11230592
 ---

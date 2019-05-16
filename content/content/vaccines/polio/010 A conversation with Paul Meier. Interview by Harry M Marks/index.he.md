@@ -5,7 +5,7 @@ article:
   type: article
   authors: Meier
   year: 2004
-  magazine: Clin Trials
+  journal: Clin Trials
   link: https://www.ncbi.nlm.nih.gov/pubmed/16281468
   pubmed: 16281468
 countries:

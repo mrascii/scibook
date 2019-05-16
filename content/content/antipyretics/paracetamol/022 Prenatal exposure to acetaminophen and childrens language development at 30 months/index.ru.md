@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bornehag
   year: 2018
-  magazine: Eur Psychiatry
+  journal: Eur Psychiatry
   link: https://www.ncbi.nlm.nih.gov/pubmed/29331486
   pubmed: 29331486
 ---

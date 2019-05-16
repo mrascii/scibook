@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bruce
   year: 2013
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3713835/
   pubmed: PMC3713835
 conditions:

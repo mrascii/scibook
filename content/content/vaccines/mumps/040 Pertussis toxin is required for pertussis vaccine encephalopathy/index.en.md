@@ -5,7 +5,7 @@ article:
   type: article
   authors: Steinman
   year: 1985
-  magazine: Proc Natl Acad Sci U S A
+  journal: Proc Natl Acad Sci U S A
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC391511/
   pubmed: PMC391511
 ---

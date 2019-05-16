@@ -5,7 +5,7 @@ article:
   type: article
   authors: Delong
   year: 2011
-  magazine: J Toxicol Environ Health A
+  journal: J Toxicol Environ Health A
   link: https://www.ncbi.nlm.nih.gov/pubmed/21623535
   pubmed: 21623535
 ---

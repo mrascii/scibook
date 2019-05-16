@@ -5,7 +5,7 @@ article:
   type: article
   authors: White
   year: 1997
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/9142794
   pubmed: 9142794
 drugs:

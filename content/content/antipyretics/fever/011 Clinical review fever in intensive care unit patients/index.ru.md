@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ryan
   year: 2003
-  magazine: Crit Care
+  journal: Crit Care
   link: https://www.ncbi.nlm.nih.gov/pubmed/12793871
   pubmed: 12793871
 ---

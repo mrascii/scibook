@@ -5,7 +5,7 @@ article:
   type: article
   authors: Passmore
   year: 1998
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2665454/
   pubmed: PMC2665454
 diseases:

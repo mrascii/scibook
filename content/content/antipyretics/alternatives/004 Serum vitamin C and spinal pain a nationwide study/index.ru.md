@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dionne
   year: 2016
-  magazine: Pain
+  journal: Pain
   link: https://www.ncbi.nlm.nih.gov/pubmed/27434504
   pubmed: 27434504
 ---

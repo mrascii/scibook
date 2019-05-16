@@ -5,7 +5,7 @@ article:
   type: article
   authors: Morris
   year: 2017
-  magazine: Metab Brain Dis
+  journal: Metab Brain Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5596046
   pubmed: PMC5596046
 ---

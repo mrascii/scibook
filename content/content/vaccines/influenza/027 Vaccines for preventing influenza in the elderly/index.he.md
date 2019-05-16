@@ -5,7 +5,7 @@ article:
   type: article
   authors: Jefferson
   year: 2010
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/20166072
   pubmed: 20166072
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Singleton
   year: 2007
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/17456820
   pubmed: 17456820
 diseases:

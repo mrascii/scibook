@@ -5,7 +5,7 @@ article:
   type: article
   authors: Scobey
   year: 1952
-  magazine: Arch Pediatr
+  journal: Arch Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/14924801
   pubmed: 14924801
 drugs:

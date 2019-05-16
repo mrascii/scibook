@@ -6,7 +6,7 @@ article:
   type: article
   authors: Membo
   year: 2016
-  magazine: Pan Afr Med J
+  journal: Pan Afr Med J
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5012780
   pubmed: PMC5012780
 conditions:

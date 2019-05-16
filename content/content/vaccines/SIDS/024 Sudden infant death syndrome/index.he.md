@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ottaviani
   year: 2006
-  magazine: Virchows Arch
+  journal: Virchows Arch
   link: https://www.ncbi.nlm.nih.gov/pubmed/16231176
   pubmed: 16231176
 drugs:

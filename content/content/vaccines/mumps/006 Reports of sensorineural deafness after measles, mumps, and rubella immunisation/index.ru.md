@@ -5,7 +5,7 @@ article:
   type: article
   authors: Stewart
   year: 1993
-  magazine: Arch Dis Child
+  journal: Arch Dis Child
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1029435
   pubmed: PMC1029435
 diseases:

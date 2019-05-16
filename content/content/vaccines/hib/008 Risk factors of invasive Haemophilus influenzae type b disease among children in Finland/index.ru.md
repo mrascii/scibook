@@ -5,7 +5,7 @@ article:
   type: article
   authors: Takala
   year: 1989
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/2809900
   pubmed: 2809900
 conditions:

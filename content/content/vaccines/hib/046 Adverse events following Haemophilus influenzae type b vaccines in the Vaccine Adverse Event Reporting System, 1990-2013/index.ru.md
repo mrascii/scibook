@@ -5,7 +5,7 @@ article:
   type: article
   authors: Moro
   year: 2015
-  magazine: J Pediatr
+  journal: J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/25598306/
   pubmed: 25598306s
 humans:

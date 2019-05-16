@@ -6,7 +6,7 @@ article:
   type: article
   authors: Golding
   year: 1992
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1883000/
   pubmed: PMC1883000
 diseases:

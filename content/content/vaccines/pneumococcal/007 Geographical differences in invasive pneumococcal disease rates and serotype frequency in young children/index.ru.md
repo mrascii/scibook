@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hausdorff
   year: 2011
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/11289365
   pubmed: 11289365
 countries:

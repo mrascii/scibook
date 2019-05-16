@@ -5,7 +5,7 @@ article:
   type: article
   authors: McGirr
   year: 2015
-  magazine: Pediatrics
+  journal: Pediatrics
   link: http://pediatrics.aappublications.org/content/135/2/331
   pubmed: 25560446
 ---

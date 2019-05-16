@@ -6,7 +6,7 @@ article:
   type: article
   authors: Balci
   year: 2007
-  magazine: J Forensic Leg Med
+  journal: J Forensic Leg Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/17654772
   pubmed: 17654772
 diseases:

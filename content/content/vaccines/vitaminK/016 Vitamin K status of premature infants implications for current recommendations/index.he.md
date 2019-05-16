@@ -6,7 +6,7 @@ article:
   type: article
   authors: Kumar
   year: 2001
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/11694690
   pubmed: 11694690
 ---

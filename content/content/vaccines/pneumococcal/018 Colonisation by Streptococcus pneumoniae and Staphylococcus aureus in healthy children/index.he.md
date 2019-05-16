@@ -6,7 +6,7 @@ article:
   type: article
   authors: Bogaert
   year: 2004
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/15183627
   pubmed: 15183627
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Menczer
   year: 1979
-  magazine: Cancer
+  journal: Cancer
   link: https://www.ncbi.nlm.nih.gov/pubmed/445337
   pubmed: 445337
 diseases:

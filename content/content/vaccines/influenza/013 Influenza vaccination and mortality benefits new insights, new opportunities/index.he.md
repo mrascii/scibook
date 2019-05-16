@@ -5,7 +5,7 @@ article:
   type: article
   authors: Simonsen
   year: 2009
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/19840664
 ---
 

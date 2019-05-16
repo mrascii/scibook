@@ -5,7 +5,7 @@ article:
   type: article
   authors: Harasawa
   year: 1994
-  magazine: J Clin Microbiol
+  journal: J Clin Microbiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC264050
   pubmed: PMC264050
 drugs:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Masarwa
   year: 2018
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/29688261
   pubmed: 29688261
 ---

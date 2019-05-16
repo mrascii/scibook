@@ -5,7 +5,7 @@ article:
   type: article
   authors: Demicheli
   year: 2012
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/22336803/
   pubmed: 22336803
 ---

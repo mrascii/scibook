@@ -5,7 +5,7 @@ article:
   type: article
   authors: Thomas
   year: 2002
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/12241874
   pubmed: 12241874
 diseases:

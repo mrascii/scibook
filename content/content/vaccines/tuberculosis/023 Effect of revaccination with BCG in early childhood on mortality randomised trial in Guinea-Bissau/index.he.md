@@ -5,7 +5,7 @@ article:
   type: article
   authors: Roth
   year: 2010
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pubmed/16608427/
   pubmed: 16608427
 conditions:

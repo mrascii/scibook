@@ -5,7 +5,7 @@ article:
   type: article
   authors: Seale
   year: 2010
-  magazine: Occup Med Lond
+  journal: Occup Med Lond
   link: https://www.ncbi.nlm.nih.gov/pubmed/20418403
   pubmed: 20418403
 conditions:

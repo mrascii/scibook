@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kjærgaard
   year: 2016
-  magazine: Pediatr Res
+  journal: Pediatr Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/27429204
   pubmed: 27429204
 conditions:

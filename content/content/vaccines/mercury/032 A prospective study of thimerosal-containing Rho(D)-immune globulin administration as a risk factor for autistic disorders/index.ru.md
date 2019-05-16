@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2007
-  magazine: J Matern Fetal Neonatal Med
+  journal: J Matern Fetal Neonatal Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/17674242
   pubmed: 17674242
 diseases:

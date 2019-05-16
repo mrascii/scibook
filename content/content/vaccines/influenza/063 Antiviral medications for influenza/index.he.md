@@ -5,7 +5,7 @@ article:
   type: article
   authors: Korownyk
   year: 2015
-  magazine: Can Fam Physician
+  journal: Can Fam Physician
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4396761
   pubmed: PMC4396761
 drugs:

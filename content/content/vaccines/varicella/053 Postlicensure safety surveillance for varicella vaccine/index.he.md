@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wise
   year: 2000
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/10979114
   pubmed: 10979114
 humans:

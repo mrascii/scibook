@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kagina
   year: 2010
-  magazine: Am J Respir Crit Care Med
+  journal: Am J Respir Crit Care Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2970848/
   pubmed: PMC2970848
 ---

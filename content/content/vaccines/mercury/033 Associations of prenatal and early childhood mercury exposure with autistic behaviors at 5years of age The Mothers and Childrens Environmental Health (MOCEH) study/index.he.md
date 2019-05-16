@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ryu
   year: 2017
-  magazine: Sci Total Environ
+  journal: Sci Total Environ
   link: https://www.ncbi.nlm.nih.gov/pubmed/28667852
 diseases:
 - אוטיזם

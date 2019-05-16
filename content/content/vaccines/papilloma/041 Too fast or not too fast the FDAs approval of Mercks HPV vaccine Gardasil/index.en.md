@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tomljenovic
   year: 2012
-  magazine: J Law Med Ethics
+  journal: J Law Med Ethics
   link: https://www.ncbi.nlm.nih.gov/pubmed/23061593
   pubmed: 23061593
 ---

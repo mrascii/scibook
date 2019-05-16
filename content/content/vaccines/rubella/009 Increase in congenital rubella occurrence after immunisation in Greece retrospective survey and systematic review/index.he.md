@@ -5,7 +5,7 @@ article:
   type: article
   authors: Panagiotopoulos
   year: 1999
-  magazine: BMJ
+  journal: BMJ
   link: http://www.bmj.com/content/319/7223/1462
   pubmed: 7223
 countries:

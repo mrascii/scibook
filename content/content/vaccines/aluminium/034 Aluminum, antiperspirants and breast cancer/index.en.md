@@ -5,7 +5,7 @@ article:
   type: article
   authors: Darbre
   year: 2005
-  magazine: J Inorg Biochem
+  journal: J Inorg Biochem
   link: https://www.ncbi.nlm.nih.gov/pubmed/16045991
   pubmed: 16045991
 diseases:

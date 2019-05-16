@@ -5,7 +5,7 @@ article:
   type: article
   authors: McCloskey
   year: 1950
-  magazine: Lancet
+  journal: Lancet
   link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(50)90549-6/abstract
   pubmed: 10578117
 diseases:

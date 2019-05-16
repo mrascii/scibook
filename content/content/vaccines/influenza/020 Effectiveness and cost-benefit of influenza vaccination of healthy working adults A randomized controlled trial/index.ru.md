@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bridges
   year: 2000
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/11015795
   pubmed: 11015795
 ---

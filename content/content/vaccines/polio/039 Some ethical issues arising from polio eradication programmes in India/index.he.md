@@ -5,7 +5,7 @@ article:
   type: article
   authors: Paul
   year: 2005
-  magazine: Bioethics
+  journal: Bioethics
   link: https://www.ncbi.nlm.nih.gov/pubmed/16222855
   pubmed: 16222855
 countries:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cherry
   year: 1988
-  magazine: Pediatrics
+  journal: Pediatrics
   link: http://pediatrics.aappublications.org/content/81/6/933
 countries:
 - Япония

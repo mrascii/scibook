@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hamza
   year: 2012
-  magazine: Apoptosis
+  journal: Apoptosis
   link: https://www.ncbi.nlm.nih.gov/pubmed/22249285
   pubmed: 22249285
 ---

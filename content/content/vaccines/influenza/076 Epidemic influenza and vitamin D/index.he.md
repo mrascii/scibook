@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cannell
   year: 2006
-  magazine: Epidemiol Infect
+  journal: Epidemiol Infect
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870528
   pubmed: PMC2870528
 drugs:

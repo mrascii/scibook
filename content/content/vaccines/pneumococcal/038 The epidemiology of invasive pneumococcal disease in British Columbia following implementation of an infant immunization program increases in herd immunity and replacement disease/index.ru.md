@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sahni
   year: 2012
-  magazine: Can J Public Health
+  journal: Can J Public Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/22338325
   pubmed: 22338325
 conditions:

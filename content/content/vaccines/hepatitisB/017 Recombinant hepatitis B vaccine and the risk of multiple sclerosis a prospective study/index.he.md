@@ -6,7 +6,7 @@ article:
   type: article
   authors: Hernán
   year: 2004
-  magazine: Neurology
+  journal: Neurology
   link: https://www.ncbi.nlm.nih.gov/pubmed/15365133
   pubmed: 15365133
 ---

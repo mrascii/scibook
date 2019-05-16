@@ -535,7 +535,7 @@ def parseChapter(ch, lang, siteContentDir):
         type = pt.get('info_type')       # article/cdc/mass media/VAERS
         year = pt.get('info_date')       # 2005
         authors = pt.get('info_authors')
-        magazine = pt.get('info_place')
+        journal = pt.get('info_place')
         link = pt.get('link')            # url to pubmed
         pubmedId = pt.get('infoID')
 
@@ -555,7 +555,7 @@ def parseChapter(ch, lang, siteContentDir):
         if header:
             txt += f"header: '{html.unescape(header)}'\n"
 
-        if type or authors or year or magazine or link or pubmedId:
+        if type or authors or year or journal or link or pubmedId:
             txt += "article:\n"
             if type:
                 txt += f"  type: {type}\n"
@@ -563,8 +563,8 @@ def parseChapter(ch, lang, siteContentDir):
                 txt += f"  authors: {html.unescape(authors)}\n"
             if year:
                 txt += f"  year: {year}\n"
-            if magazine:
-                txt += f"  magazine: {html.unescape(magazine)}\n"
+            if journal:
+                txt += f"  journal: {html.unescape(journal)}\n"
             if link:
                 txt += f"  link: {link}\n"
             if pubmedId:

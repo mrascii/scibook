@@ -5,7 +5,7 @@ article:
   type: article
   authors: Cegielski
   year: 2012
-  magazine: Am J Epidemiol
+  journal: Am J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5788452/
   pubmed: PMC5788452
 conditions:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bluming
   year: 1971
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/4103972
   pubmed: 4103972
 diseases:

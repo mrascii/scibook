@@ -5,7 +5,7 @@ article:
   type: article
   authors: Vignal
   year: 2016
-  magazine: Morphologie
+  journal: Morphologie
   link: https://www.ncbi.nlm.nih.gov/pubmed/26970682
   pubmed: 26970682
 drugs:

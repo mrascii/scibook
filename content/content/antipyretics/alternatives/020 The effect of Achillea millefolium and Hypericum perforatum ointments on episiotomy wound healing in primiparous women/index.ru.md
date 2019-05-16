@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hajhashemi
   year: 2018
-  magazine: J Matern Fetal Neonatal Med
+  journal: J Matern Fetal Neonatal Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/28027682
   pubmed: 28027682
 ---

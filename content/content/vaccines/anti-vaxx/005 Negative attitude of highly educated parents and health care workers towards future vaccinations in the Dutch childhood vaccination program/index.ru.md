@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hak
   year: 2005
-  magazine: Vaccine
+  journal: Vaccine
   link: http://www.ncbi.nlm.nih.gov/pubmed/15837208
   pubmed: 15837208
 conditions:

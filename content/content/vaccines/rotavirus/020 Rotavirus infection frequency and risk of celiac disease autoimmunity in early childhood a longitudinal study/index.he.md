@@ -6,7 +6,7 @@ article:
   type: article
   authors: Stene
   year: 2006
-  magazine: Am J Gastroenterol
+  journal: Am J Gastroenterol
   link: https://www.ncbi.nlm.nih.gov/pubmed/17032199
   pubmed: 17032199
 diseases:

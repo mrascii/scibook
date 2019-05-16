@@ -5,7 +5,7 @@ article:
   type: article
   authors: Ceriani
   year: 2016
-  magazine: Arch Argent Pediatr
+  journal: Arch Argent Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/27869402
   pubmed: 27869402
 ---

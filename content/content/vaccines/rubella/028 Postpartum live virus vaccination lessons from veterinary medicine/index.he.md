@@ -5,7 +5,7 @@ article:
   type: article
   authors: Yazbak
   year: 2002
-  magazine: Med Hypotheses
+  journal: Med Hypotheses
   link: https://www.ncbi.nlm.nih.gov/pubmed/12208153
   pubmed: 12208153
 conditions:

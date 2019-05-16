@@ -5,7 +5,7 @@ article:
   type: article
   authors: Koskiniemi
   year: 1989
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/3701511
   pubmed: 2563011
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wu
   year: 2013
-  magazine: PLoS One
+  journal: PLoS One
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3813742/
   pubmed: PMC3813742
 diseases:

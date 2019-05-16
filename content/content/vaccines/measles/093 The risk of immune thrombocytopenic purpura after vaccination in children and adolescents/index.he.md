@@ -5,7 +5,7 @@ article:
   type: article
   authors: O'Leary
   year: 2012
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/22232308
   pubmed: 22232308
 drugs:

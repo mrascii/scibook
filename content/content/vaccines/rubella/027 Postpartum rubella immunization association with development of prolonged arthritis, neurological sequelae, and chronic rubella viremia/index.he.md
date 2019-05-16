@@ -5,7 +5,7 @@ article:
   type: article
   authors: Tingle
   year: 1985
-  magazine: J Infect Dis
+  journal: J Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/4031558
   pubmed: 4031558
 diseases:

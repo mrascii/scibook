@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2018
-  magazine: Int J Hyg Environ Health
+  journal: Int J Hyg Environ Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/29573974
   pubmed: 29573974
 diseases:

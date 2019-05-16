@@ -5,7 +5,7 @@ article:
   type: article
   authors: Austin
   year: 2010
-  magazine: J Toxicol Environ Health A
+  journal: J Toxicol Environ Health A
   link: https://www.ncbi.nlm.nih.gov/pubmed/20391108
   pubmed: 20391108
 drugs:

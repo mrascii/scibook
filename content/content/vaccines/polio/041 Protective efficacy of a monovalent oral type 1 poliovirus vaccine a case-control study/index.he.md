@@ -5,7 +5,7 @@ article:
   type: article
   authors: Grassly
   year: 2007
-  magazine: Lancet
+  journal: Lancet
   link: https://www.ncbi.nlm.nih.gov/pubmed/17448821
   pubmed: 17448821
 countries:

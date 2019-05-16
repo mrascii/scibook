@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gallagher
   year: 2008
-  magazine: Toxicol Environ Chem
+  journal: Toxicol Environ Chem
   link: http://www.tandfonline.com/doi/abs/10.1080/02772240701806501
   pubmed: 10.1080/02772240701806501
 conditions:

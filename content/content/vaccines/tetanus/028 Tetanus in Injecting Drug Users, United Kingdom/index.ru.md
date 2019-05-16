@@ -5,7 +5,7 @@ article:
   type: article
   authors: Hahné
   year: 2006
-  magazine: Emerg Infect Dis
+  journal: Emerg Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294684/
   pubmed: PMC3294684
 conditions:

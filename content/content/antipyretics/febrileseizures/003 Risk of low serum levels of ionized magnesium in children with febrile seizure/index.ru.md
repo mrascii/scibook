@@ -5,7 +5,7 @@ article:
   type: article
   authors: Baek
   year: 2018
-  magazine: BMC Pediatr
+  journal: BMC Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/30193581
   pubmed: 30193581
 diseases:

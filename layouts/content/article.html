@@ -1,11 +1,9 @@
-{{ if .Params.title }}{{ with .Params }}
+{{ if .Params.title }}
 <h6>
-  <a class="font-weight-bolder" href="{{ .article.link }}" target="_blank">{{ .title }}</a>
+  <a class="font-weight-bolder" href="{{ .Params.article.link }}" target="_blank">{{ .Title }}</a>
   <span class="font-italic">
-    {{- with .article.year }}{{ . }}{{ end -}}
-    {{- if .article.author }}{{ if .article.year }}, {{ end }}{{ .article.author }}{{ end -}}
-    {{- if .article.magazine }}{{ if or .article.year .article.author }}, {{ end }} {{ .article.magazine }}{{ end -}}
+    {{- partial "get/year-authors-journal" . -}}
   </span>
 </h6>
-{{ end }}{{ end }}
+{{ end }}
 {{ .Content }}

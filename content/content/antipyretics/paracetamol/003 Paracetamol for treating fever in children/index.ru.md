@@ -6,7 +6,7 @@ article:
   type: article
   authors: Meremikwu
   year: 2002
-  magazine: Cochrane Database Syst Rev
+  journal: Cochrane Database Syst Rev
   link: https://www.ncbi.nlm.nih.gov/pubmed/12076499
   pubmed: 12076499
 ---

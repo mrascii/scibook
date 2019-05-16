@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lee
   year: 2014
-  magazine: J Pediatric Infect Dis Soc
+  journal: J Pediatric Infect Dis Soc
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3933044/
   pubmed: PMC3933044
 drugs:

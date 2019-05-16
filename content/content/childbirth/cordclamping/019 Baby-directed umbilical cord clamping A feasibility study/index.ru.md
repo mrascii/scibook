@@ -5,7 +5,7 @@ article:
   type: article
   authors: Blank
   year: 2018
-  magazine: Resuscitation
+  journal: Resuscitation
   link: https://www.ncbi.nlm.nih.gov/pubmed/30036590
   pubmed: 30036590
 ---

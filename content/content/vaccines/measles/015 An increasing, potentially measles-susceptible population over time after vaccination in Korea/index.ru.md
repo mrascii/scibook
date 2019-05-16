@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kang
   year: 2017
-  magazine: Vaccine
+  journal: Vaccine
   link: https://www.ncbi.nlm.nih.gov/pubmed/28669617
   pubmed: 28669617
 ---

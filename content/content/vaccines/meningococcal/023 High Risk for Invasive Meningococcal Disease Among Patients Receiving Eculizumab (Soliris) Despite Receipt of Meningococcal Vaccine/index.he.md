@@ -5,7 +5,7 @@ article:
   type: article
   authors: McNamara
   year: 2017
-  magazine: Am J Transplant
+  journal: Am J Transplant
   link: https://www.ncbi.nlm.nih.gov/pubmed/28846836
   pubmed: 28846836
 countries:

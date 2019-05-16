@@ -5,7 +5,7 @@ article:
   type: article
   authors: Urwin
   year: 1996
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/8783712
   pubmed: 8783712
 conditions:

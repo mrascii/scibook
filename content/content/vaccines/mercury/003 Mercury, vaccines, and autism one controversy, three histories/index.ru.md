@@ -5,7 +5,7 @@ article:
   type: article
   authors: Baker
   year: 2008
-  magazine: Am J Public Health
+  journal: Am J Public Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2376879/
   pubmed: PMC2376879
 ---

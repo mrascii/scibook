@@ -6,7 +6,7 @@ article:
   type: article
   authors: Bitnun
   year: 1999
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/10589903/
   pubmed: 10589903
 drugs:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: von Kries
   year: 2005
-  magazine: Eur J Pediatr
+  journal: Eur J Pediatr
   link: https://www.ncbi.nlm.nih.gov/pubmed/15602672
   pubmed: 15602672
 diseases:

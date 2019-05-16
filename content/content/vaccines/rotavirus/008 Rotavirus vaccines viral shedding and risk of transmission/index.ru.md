@@ -5,7 +5,7 @@ article:
   type: article
   authors: Anderson
   year: 2008
-  magazine: Lancet Infect Dis
+  journal: Lancet Infect Dis
   link: http://www.ncbi.nlm.nih.gov/pubmed/18922486
   pubmed: 18922486
 conditions:

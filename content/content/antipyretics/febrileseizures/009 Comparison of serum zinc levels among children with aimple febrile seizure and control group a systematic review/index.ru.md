@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nasehi
   year: 2015
-  magazine: Iran J Child Neurol
+  journal: Iran J Child Neurol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4357343
   pubmed: PMC4357343
 diseases:

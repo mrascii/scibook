@@ -5,7 +5,7 @@ article:
   type: article
   authors: Smith
   year: 1998
-  magazine: Epidemiol Infect
+  journal: Epidemiol Infect
   link: https://www.ncbi.nlm.nih.gov/pubmed/7735348
   pubmed: 7735348
 countries:

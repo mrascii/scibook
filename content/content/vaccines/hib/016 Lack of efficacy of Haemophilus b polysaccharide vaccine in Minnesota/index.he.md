@@ -6,7 +6,7 @@ article:
   type: article
   authors: Osterholm
   year: 1988
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/3261350
   pubmed: 3261350
 countries:

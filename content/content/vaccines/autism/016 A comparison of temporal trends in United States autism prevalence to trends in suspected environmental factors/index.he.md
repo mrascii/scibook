@@ -5,7 +5,7 @@ article:
   type: article
   authors: Nevison
   year: 2014
-  magazine: Environ Health
+  journal: Environ Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4177682
   pubmed: PMC4177682
 ---

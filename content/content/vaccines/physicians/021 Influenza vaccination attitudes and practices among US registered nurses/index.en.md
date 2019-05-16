@@ -5,7 +5,7 @@ article:
   type: article
   authors: Clark
   year: 2009
-  magazine: Am J Infect Control
+  journal: Am J Infect Control
   link: https://www.ncbi.nlm.nih.gov/pubmed/19556035
   pubmed: 19556035
 conditions:

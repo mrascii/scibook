@@ -6,7 +6,7 @@ article:
   type: article
   authors: Classen
   year: 2002
-  magazine: Autoimmunity
+  journal: Autoimmunity
   link: https://www.ncbi.nlm.nih.gov/pubmed/12482192
   pubmed: 12482192
 diseases:

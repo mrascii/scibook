@@ -5,7 +5,7 @@ article:
   type: article
   authors: Buckley
   year: 2008
-  magazine: Clin Exp Allergy
+  journal: Clin Exp Allergy
   link: https://www.ncbi.nlm.nih.gov/pubmed/11696045
   pubmed: 11696045
 diseases:

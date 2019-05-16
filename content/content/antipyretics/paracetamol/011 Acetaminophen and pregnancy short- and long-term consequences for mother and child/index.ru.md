@@ -5,7 +5,7 @@ article:
   type: article
   authors: Thiele
   year: 2013
-  magazine: J Reprod Immunol
+  journal: J Reprod Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/23432879
   pubmed: 23432879
 ---

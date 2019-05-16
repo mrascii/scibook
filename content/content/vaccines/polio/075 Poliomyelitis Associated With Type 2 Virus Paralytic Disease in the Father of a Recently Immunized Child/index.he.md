@@ -5,7 +5,7 @@ article:
   type: article
   authors: Swanson
   year: 1967
-  magazine: JAMA
+  journal: JAMA
   link: http://jamanetwork.com/journals/jama/article-abstract/335320
   pubmed: 10.1001/jama.1967.03130100069023
 conditions:

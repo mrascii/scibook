@@ -5,7 +5,7 @@ article:
   type: article
   authors: Brown
   year: 2014
-  magazine: Cancer
+  journal: Cancer
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4205207
   pubmed: PMC4205207
 diseases:

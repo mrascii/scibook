@@ -5,7 +5,7 @@ article:
   type: article
   authors: Dodwell
   year: 2010
-  magazine: Calcif Tissue Int
+  journal: Calcif Tissue Int
   link: https://www.ncbi.nlm.nih.gov/pubmed/20552333
   pubmed: 20552333
 ---

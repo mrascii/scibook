@@ -5,7 +5,7 @@ article:
   type: article
   authors: Olarte
   year: 2017
-  magazine: J Clin Microbiol
+  journal: J Clin Microbiol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5328440/
   pubmed: PMC5328440
 conditions:

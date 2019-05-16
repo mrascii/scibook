@@ -6,7 +6,7 @@ article:
   type: article
   authors: Vázquez
   year: 2004
-  magazine: JAMA
+  journal: JAMA
   link: https://www.ncbi.nlm.nih.gov/pubmed/14970064
   pubmed: 14970064
 ---

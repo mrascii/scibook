@@ -6,7 +6,7 @@ article:
   type: article
   authors: Rondy
   year: 2017
-  magazine: Euro Surveill
+  journal: Euro Surveill
   link: http://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.41.17-00645
   pubmed: 29043961
 diseases:

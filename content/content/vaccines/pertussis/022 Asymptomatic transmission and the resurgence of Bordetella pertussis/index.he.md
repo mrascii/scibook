@@ -5,7 +5,7 @@ article:
   type: article
   authors: Althouse
   year: 2015
-  magazine: BMC Med
+  journal: BMC Med
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4482312/
   pubmed: PMC4482312
 ---

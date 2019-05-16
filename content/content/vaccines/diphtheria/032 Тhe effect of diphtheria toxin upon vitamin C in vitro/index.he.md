@@ -5,7 +5,7 @@ article:
   type: article
   authors: Torrance
   year: 1937
-  magazine: J Biol Chem
+  journal: J Biol Chem
   link: http://www.jbc.org/content/121/1/31.full.pdf
 drugs:
 - ויטמין C

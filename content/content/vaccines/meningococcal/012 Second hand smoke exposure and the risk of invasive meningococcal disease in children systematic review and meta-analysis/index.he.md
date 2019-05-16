@@ -5,7 +5,7 @@ article:
   type: article
   authors: Murray
   year: 2012
-  magazine: BMC Public Health
+  journal: BMC Public Health
   link: https://www.ncbi.nlm.nih.gov/pubmed/23228219
   pubmed: 23228219
 conditions:

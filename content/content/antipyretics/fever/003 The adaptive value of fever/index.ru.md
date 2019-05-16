@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kluger
   year: 1996
-  magazine: Infect Dis Clin North Am
+  journal: Infect Dis Clin North Am
   link: https://www.ncbi.nlm.nih.gov/pubmed/8698984
   pubmed: 8698984
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Guillot
   year: 2014
-  magazine: Expert Rev Clin Immunol
+  journal: Expert Rev Clin Immunol
   link: https://www.ncbi.nlm.nih.gov/pubmed/24345205
   pubmed: 24345205
 ---

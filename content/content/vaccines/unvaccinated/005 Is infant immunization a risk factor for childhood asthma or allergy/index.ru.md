@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kemp
   year: 1997
-  magazine: Epidemiology
+  journal: Epidemiology
   link: https://www.ncbi.nlm.nih.gov/pubmed/9345669
   pubmed: 9345669
 conditions:

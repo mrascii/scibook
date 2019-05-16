@@ -5,7 +5,7 @@ article:
   type: article
   authors: Classen
   year: 1999
-  magazine: BMJ
+  journal: BMJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1116914/
   pubmed: PMC1116914
 diseases:

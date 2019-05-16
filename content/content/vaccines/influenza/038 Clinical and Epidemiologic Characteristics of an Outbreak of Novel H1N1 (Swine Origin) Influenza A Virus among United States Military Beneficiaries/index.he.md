@@ -5,7 +5,7 @@ article:
   type: article
   authors: Crum-Cianflone
   year: 2009
-  magazine: Clin Infect Dis
+  journal: Clin Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2878199
   pubmed: PMC2878199
 ---

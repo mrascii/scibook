@@ -5,7 +5,7 @@ article:
   type: article
   authors: Kuehl
   year: 2010
-  magazine: J Int Soc Sports Nutr
+  journal: J Int Soc Sports Nutr
   link: https://www.ncbi.nlm.nih.gov/pubmed/20459662
   pubmed: 20459662
 ---

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Leung
   year: 2018
-  magazine: Drugs Context
+  journal: Drugs Context
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6052913
   pubmed: PMC6052913
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Yih
   year: 2005
-  magazine: BMC Public Health
+  journal: BMC Public Health
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1177968/
   pubmed: PMC1177968
 diseases:

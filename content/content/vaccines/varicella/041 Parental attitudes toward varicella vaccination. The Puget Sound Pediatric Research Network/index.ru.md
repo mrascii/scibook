@@ -5,7 +5,7 @@ article:
   type: article
   authors: Taylor
   year: 2000
-  magazine: Arch Pediatr Adolesc Med
+  journal: Arch Pediatr Adolesc Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/10710032
   pubmed: 10710032
 ---

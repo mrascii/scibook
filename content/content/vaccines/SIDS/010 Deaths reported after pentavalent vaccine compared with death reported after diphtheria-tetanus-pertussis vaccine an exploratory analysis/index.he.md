@@ -5,7 +5,7 @@ article:
   type: article
   authors: Puliyel
   year: 2018
-  magazine: Med J DY Patil Vidyapeeth
+  journal: Med J DY Patil Vidyapeeth
   link: http://jacob.puliyel.com/download.php?id=419
 countries:
 - הודו

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Le Houézec
   year: 2014
-  magazine: Immunol Res
+  journal: Immunol Res
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4266455
   pubmed: PMC4266455
 ---

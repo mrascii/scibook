@@ -6,7 +6,7 @@ article:
   type: article
   authors: Sankar
   year: 2016
-  magazine: J Perinatol
+  journal: J Perinatol
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4862383
   pubmed: PMC4862383
 ---

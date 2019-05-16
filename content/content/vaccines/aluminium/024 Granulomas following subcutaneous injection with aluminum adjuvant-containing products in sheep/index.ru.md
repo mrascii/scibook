@@ -5,7 +5,7 @@ article:
   type: article
   authors: Asín
   year: 2018
-  magazine: Vet Pathol
+  journal: Vet Pathol
   link: https://www.ncbi.nlm.nih.gov/pubmed/30381018
   pubmed: 30381018
 ---

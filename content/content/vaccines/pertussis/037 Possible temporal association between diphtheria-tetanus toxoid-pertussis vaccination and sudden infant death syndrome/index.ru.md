@@ -5,7 +5,7 @@ article:
   type: article
   authors: Baraff
   year: 1983
-  magazine: Pediatr Infect Dis
+  journal: Pediatr Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pubmed/6835859
   pubmed: 6835859
 diseases:

@@ -5,7 +5,7 @@ article:
   type: article
   authors: Alade
   year: 1986
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/3960626
   pubmed: 3960626
 ---

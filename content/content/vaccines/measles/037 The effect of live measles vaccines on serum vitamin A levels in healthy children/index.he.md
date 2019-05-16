@@ -5,7 +5,7 @@ article:
   type: article
   authors: Yalçin
   year: 1998
-  magazine: Acta Paediatr Jpn
+  journal: Acta Paediatr Jpn
   link: https://www.ncbi.nlm.nih.gov/pubmed/9745778
   pubmed: 9745778
 drugs:

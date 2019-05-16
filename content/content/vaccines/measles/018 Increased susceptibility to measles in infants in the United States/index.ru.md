@@ -5,7 +5,7 @@ article:
   type: article
   authors: Papania
   year: 1999
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/10545585
   pubmed: 10545585
 ---

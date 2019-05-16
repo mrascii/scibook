@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lusi
   year: 2014
-  magazine: JRSM Open
+  journal: JRSM Open
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4012681/
   pubmed: PMC4012681
 countries:

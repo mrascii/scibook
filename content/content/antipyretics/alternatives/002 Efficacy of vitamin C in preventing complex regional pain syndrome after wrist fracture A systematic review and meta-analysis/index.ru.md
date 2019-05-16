@@ -5,7 +5,7 @@ article:
   type: article
   authors: Aïm
   year: 2017
-  magazine: Orthop Traumatol Surg Res
+  journal: Orthop Traumatol Surg Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/28274883
   pubmed: 28274883
 ---

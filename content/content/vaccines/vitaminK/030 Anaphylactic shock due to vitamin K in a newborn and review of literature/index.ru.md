@@ -6,7 +6,7 @@ article:
   type: article
   authors: Koklu
   year: 2014
-  magazine: J Matern Fetal Neonatal Med
+  journal: J Matern Fetal Neonatal Med
   link: https://www.ncbi.nlm.nih.gov/pubmed/24059412
   pubmed: 24059412
 diseases:

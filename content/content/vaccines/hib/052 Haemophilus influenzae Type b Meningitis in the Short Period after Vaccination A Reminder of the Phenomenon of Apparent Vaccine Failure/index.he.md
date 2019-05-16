@@ -5,7 +5,7 @@ article:
   type: article
   authors: Greenberg-Kushnir
   year: 2012
-  magazine: Case Rep Infect Dis
+  journal: Case Rep Infect Dis
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3431063
   pubmed: PMC3431063
 ---

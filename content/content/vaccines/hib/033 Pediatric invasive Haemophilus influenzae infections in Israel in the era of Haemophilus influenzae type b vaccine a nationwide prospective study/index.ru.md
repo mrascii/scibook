@@ -5,7 +5,7 @@ article:
   type: article
   authors: Bamberger
   year: 2014
-  magazine: Pediatr Infect Dis J
+  journal: Pediatr Infect Dis J
   link: https://www.ncbi.nlm.nih.gov/pubmed/24445822
   pubmed: 24445822
 countries:

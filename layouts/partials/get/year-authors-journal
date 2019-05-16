@@ -1,0 +1,7 @@
+{{ $values := slice }}
+{{ with .Params.article }}
+{{- with .year }}{{ $values = $values | append . }}{{ end -}}
+{{- with .authors }}{{ $values = $values | append . }}{{ end -}}
+{{- with .journal }}{{ $values = $values | append . }}{{ end -}}
+{{ end }}
+{{ return delimit $values ", " }}

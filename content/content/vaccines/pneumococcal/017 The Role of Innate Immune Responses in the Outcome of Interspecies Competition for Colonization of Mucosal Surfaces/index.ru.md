@@ -5,7 +5,7 @@ article:
   type: article
   authors: Lysenko
   year: 2005
-  magazine: PLoS Pathog
+  journal: PLoS Pathog
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1238736/
   pubmed: PMC1238736
 ---

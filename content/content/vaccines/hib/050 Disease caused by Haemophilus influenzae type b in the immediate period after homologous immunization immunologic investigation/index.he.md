@@ -5,7 +5,7 @@ article:
   type: article
   authors: Sood
   year: 1990
-  magazine: Pediatrics
+  journal: Pediatrics
   link: https://www.ncbi.nlm.nih.gov/pubmed/2107522
   pubmed: 2107522
 ---

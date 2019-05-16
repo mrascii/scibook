@@ -5,7 +5,7 @@ article:
   type: article
   authors: Yoneyama
   year: 2000
-  magazine: Arerugi
+  journal: Arerugi
   link: https://www.ncbi.nlm.nih.gov/pubmed/10944825
   pubmed: 10944825
 drugs:

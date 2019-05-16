@@ -5,7 +5,7 @@ article:
   type: article
   authors: Wayse
   year: 2004
-  magazine: Eur J Clin Nutr
+  journal: Eur J Clin Nutr
   link: https://www.ncbi.nlm.nih.gov/pubmed/15042122
   pubmed: 15042122
 drugs:

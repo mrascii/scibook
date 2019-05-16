@@ -6,7 +6,7 @@ article:
   type: article
   authors: Talwar
   year: 1994
-  magazine: PNAS
+  journal: PNAS
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC44640/
   pubmed: PMC44640
 drugs:

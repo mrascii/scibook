@@ -5,7 +5,7 @@ article:
   type: article
   authors: Modrof
   year: 2017
-  magazine: J. Infect. Dis. ahead of print
+  journal: J. Infect. Dis. ahead of print
   link: https://doi.org/10.1093/infdis/jix428
 drugs:
 - Вакцина MMR

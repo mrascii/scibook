@@ -5,7 +5,7 @@ article:
   type: article
   authors: Geier
   year: 2002
-  magazine: Clin Exp Rheumatol
+  journal: Clin Exp Rheumatol
   link: http://www.ncbi.nlm.nih.gov/pubmed/12508767/ 
   pubmed: 12508767
 humans:

@@ -6,7 +6,7 @@ article:
   type: article
   authors: Geier
   year: 2010
-  magazine: Indian J Med Res
+  journal: Indian J Med Res
   link: https://www.ncbi.nlm.nih.gov/pubmed/20424300
   pubmed: 20424300
 ---

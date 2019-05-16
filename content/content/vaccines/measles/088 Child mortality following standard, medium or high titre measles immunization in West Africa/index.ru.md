@@ -5,7 +5,7 @@ article:
   type: article
   authors: Knudsen
   year: 1996
-  magazine: Int J Epidemiol
+  journal: Int J Epidemiol
   link: https://www.ncbi.nlm.nih.gov/pubmed/8671571
   pubmed: 8671571
 countries:

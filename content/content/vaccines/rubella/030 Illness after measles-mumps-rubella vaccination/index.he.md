@@ -5,7 +5,7 @@ article:
   type: article
   authors: Freeman
   year: 1993
-  magazine: CMAJ
+  journal: CMAJ
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1485961
   pubmed: PMC1485961
 diseases:

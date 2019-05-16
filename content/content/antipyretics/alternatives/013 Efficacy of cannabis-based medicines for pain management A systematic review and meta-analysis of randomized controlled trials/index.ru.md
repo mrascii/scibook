@@ -5,7 +5,7 @@ article:
   type: article
   authors: Aviram
   year: 2017
-  magazine: Pain Physician
+  journal: Pain Physician
   link: https://www.ncbi.nlm.nih.gov/pubmed/28934780
   pubmed: 28934780
 ---

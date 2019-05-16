@@ -5,7 +5,7 @@ article:
   type: article
   authors: Gesser-Edelsburg
   year: 2017
-  magazine: Am J Infect Control
+  journal: Am J Infect Control
   link: https://www.ncbi.nlm.nih.gov/labs/articles/28063725/
   pubmed: 28063725
 conditions:

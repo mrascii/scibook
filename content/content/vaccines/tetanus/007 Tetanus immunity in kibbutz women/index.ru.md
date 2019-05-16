@@ -5,7 +5,7 @@ article:
   type: article
   authors: Leshem
   year: 1989
-  magazine: Isr J Med Sci
+  journal: Isr J Med Sci
   link: https://www.ncbi.nlm.nih.gov/pubmed/2651348
   pubmed: 2651348
 conditions:
