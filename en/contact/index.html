@@ -15,7 +15,7 @@
 <link rel="shortcut icon" href="/scibook/favicon.ico?md5=6afde1224a36b2273363ce378e5ba22a">
 <link rel="icon" type="image/x-icon" href="/scibook/favicon.ico?md5=6afde1224a36b2273363ce378e5ba22a">
 <link rel="icon" type="image/gif" href="/scibook/img/favicon.gif?md5=17ae5d6ab89f764caeccd29b9573d27b">
-<link rel="canonical" href="https://mrascii.github.io/scibook/en/content/vaccines/intro/">
+<link rel="canonical" href="https://mrascii.github.io/scibook/en/content/vaccines/">
 
   <title> &ndash; SciBook: analysis of published information about vaccinations and infections</title>
 
@@ -177,7 +177,7 @@
       return;
     }
     form.classList.add('was-validated');
-    var url = '';
+    var url = 'https:\/\/uje07m6w3b.execute-api.eu-west-1.amazonaws.com\/dev\/send?source=scibook';
     var toast = document.getElementById('contactFormResponse');
     var submit = document.getElementById('contactFormSubmit');
 
@@ -195,33 +195,34 @@
       req.send(JSON.stringify(body));
     }
     function success() {
-      toast.innerHTML = "<!-- TODO: Get page code using template here -->";
-      submit.disabled = false
-      submit.blur()
-      form.name.focus()
-      form.name.value = ''
-      form.email.value = ''
-      form.content.value = ''
+      toast.innerHTML = 'Thank you for reaching us! We will contact you soon.';
+      submit.disabled = false;
+      submit.blur();
+      form.classList.remove('was-validated');
+      form.reset();
+      console.log('Message was sent successfully');
     }
     function error(err) {
-      toast.innerHTML = 'There was an error with sending your message, hold up until I fix it. Thanks for waiting.'
-      submit.disabled = false
-      console.log(err)
+      toast.innerHTML = 'Error while sending the message. Please contact us by email or try again later.';
+      submit.disabled = false;
+      console.log(err);
     }
 
     form.addEventListener('submit', function (e) {
-      e.preventDefault()
-      toast.innerHTML = 'Sending'
-      submit.disabled = true
+      e.preventDefault();
+      toast.innerHTML = 'Sending…';
+      submit.disabled = true;
 
       var payload = {
         name: form.name.value,
         email: form.email.value,
-        content: form.content.value
+        company: form.company.value,
+        jobtitle: form.jobtitle.value,
+        message: form.message.value,
       }
       post(url, payload, function (err, res) {
-        if (err) { return error(err) }
-        success()
+        if (err) { return error(err); }
+        success();
       })
     })
   }

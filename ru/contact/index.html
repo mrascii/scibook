@@ -233,7 +233,7 @@
       return;
     }
     form.classList.add('was-validated');
-    var url = '';
+    var url = 'https:\/\/uje07m6w3b.execute-api.eu-west-1.amazonaws.com\/dev\/send?source=scibook';
     var toast = document.getElementById('contactFormResponse');
     var submit = document.getElementById('contactFormSubmit');
 
@@ -251,33 +251,34 @@
       req.send(JSON.stringify(body));
     }
     function success() {
-      toast.innerHTML = "<!-- TODO: Get page code using template here -->";
-      submit.disabled = false
-      submit.blur()
-      form.name.focus()
-      form.name.value = ''
-      form.email.value = ''
-      form.content.value = ''
+      toast.innerHTML = 'Большое спасибо за ваше сообщение, мы скоро свяжемся с вами.';
+      submit.disabled = false;
+      submit.blur();
+      form.classList.remove('was-validated');
+      form.reset();
+      console.log('Message was sent successfully');
     }
     function error(err) {
-      toast.innerHTML = 'There was an error with sending your message, hold up until I fix it. Thanks for waiting.'
-      submit.disabled = false
-      console.log(err)
+      toast.innerHTML = 'Произошла ошибка при отправке сообщения. Пожалуйста, попробуйте связаться с нами по электронной почте.';
+      submit.disabled = false;
+      console.log(err);
     }
 
     form.addEventListener('submit', function (e) {
-      e.preventDefault()
-      toast.innerHTML = 'Sending'
-      submit.disabled = true
+      e.preventDefault();
+      toast.innerHTML = 'Сообщение отправляется…';
+      submit.disabled = true;
 
       var payload = {
         name: form.name.value,
         email: form.email.value,
-        content: form.content.value
+        company: form.company.value,
+        jobtitle: form.jobtitle.value,
+        message: form.message.value,
       }
       post(url, payload, function (err, res) {
-        if (err) { return error(err) }
-        success()
+        if (err) { return error(err); }
+        success();
       })
     })
   }

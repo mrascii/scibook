@@ -15,7 +15,7 @@
 <link rel="shortcut icon" href="/scibook/favicon.ico?md5=6afde1224a36b2273363ce378e5ba22a">
 <link rel="icon" type="image/x-icon" href="/scibook/favicon.ico?md5=6afde1224a36b2273363ce378e5ba22a">
 <link rel="icon" type="image/gif" href="/scibook/img/favicon.gif?md5=17ae5d6ab89f764caeccd29b9573d27b">
-<link rel="canonical" href="https://mrascii.github.io/scibook/he/content/vaccines/">
+<link rel="canonical" href="https://mrascii.github.io/scibook/he/content/vaccines/intro/">
 
   <title> &ndash; SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
 
@@ -207,7 +207,7 @@
       return;
     }
     form.classList.add('was-validated');
-    var url = '';
+    var url = 'https:\/\/uje07m6w3b.execute-api.eu-west-1.amazonaws.com\/dev\/send?source=scibook';
     var toast = document.getElementById('contactFormResponse');
     var submit = document.getElementById('contactFormSubmit');
 
@@ -225,33 +225,34 @@
       req.send(JSON.stringify(body));
     }
     function success() {
-      toast.innerHTML = "<!-- TODO: Get page code using template here -->";
-      submit.disabled = false
-      submit.blur()
-      form.name.focus()
-      form.name.value = ''
-      form.email.value = ''
-      form.content.value = ''
+      toast.innerHTML = 'תודה שהגענו אלינו! אנו ניצור איתך קשר בקרוב.';
+      submit.disabled = false;
+      submit.blur();
+      form.classList.remove('was-validated');
+      form.reset();
+      console.log('Message was sent successfully');
     }
     function error(err) {
-      toast.innerHTML = 'There was an error with sending your message, hold up until I fix it. Thanks for waiting.'
-      submit.disabled = false
-      console.log(err)
+      toast.innerHTML = 'אירעה שגיאה בעת שליחת ההודעה. צור איתנו קשר בדוא\x22ל או נסה שוב מאוחר יותר.';
+      submit.disabled = false;
+      console.log(err);
     }
 
     form.addEventListener('submit', function (e) {
-      e.preventDefault()
-      toast.innerHTML = 'Sending'
-      submit.disabled = true
+      e.preventDefault();
+      toast.innerHTML = 'משתלשל…';
+      submit.disabled = true;
 
       var payload = {
         name: form.name.value,
         email: form.email.value,
-        content: form.content.value
+        company: form.company.value,
+        jobtitle: form.jobtitle.value,
+        message: form.message.value,
       }
       post(url, payload, function (err, res) {
-        if (err) { return error(err) }
-        success()
+        if (err) { return error(err); }
+        success();
       })
     })
   }
