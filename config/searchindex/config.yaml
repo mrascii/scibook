@@ -3,9 +3,6 @@
 #publishDir: search-index
 disableAliases: true
 disableKinds:
-  - section
-  - taxonomy
-  - taxonomyTerm
   - sitemap
   - RSS
   - robotsTXT

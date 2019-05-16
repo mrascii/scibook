@@ -3,7 +3,8 @@
   {{- if $i }},{{ end }}
     { "id": {{ $i | jsonify }},
       "uri": {{ .RelPermalink | jsonify}},
-      "section": {{ .Parent.Title | jsonify }},
+      "section": {{ .CurrentSection.Title | jsonify }},
+      "journal": {{ partial "get/year-authors-journal" . | jsonify }},
       "title": {{ .Title | jsonify }},
       "content": {{ replace .Plain "\n" " " | strings.TrimSuffix " " | jsonify }},
       "tags": {{ $tags := partial "get/tags" . }}{{ if $tags }}{{ delimit $tags ", " | jsonify }}{{ else }}""{{ end }}

@@ -64,8 +64,9 @@
             regexes.forEach(re => str = str.replace(re, '<strong>$1</strong>'));
             return str;
           }
-          return '<li><h6>{1}</h6><p>{2} <a href="{0}">#</a></p></li>'
-            .format(doc.uri, hl(doc.title, regexes), hl(doc.content, regexes));
+          var sectionUri = doc.uri.substring(0, doc.uri.lastIndexOf('/', doc.uri.length - 2));
+          return '<li><h6>{1}</h6><p>{2} <a href="{0}">#</a> <a href="{3}">{4}</a></p></li>'
+            .format(doc.uri, hl(doc.title, regexes), hl(doc.content, regexes), sectionUri, doc.section);
         }
 
         var html = '<p>{{ i18n "SearchFoundXResults" }}</p><ol>'.format(r.results.length);
