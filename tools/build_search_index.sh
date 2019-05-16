@@ -20,14 +20,14 @@ md5_of_file () {
 # Generate json with site data which is needed to build a search index.
 # Note: `search-index` directory is used for output instead of `public`
 pushd "$SCRIPT_DIR/.."
-hugo --environment searchindex -d "$SEARCH_INDEX_ROOT"
+  hugo --environment searchindex -d "$SEARCH_INDEX_ROOT"
 popd
 
 # TODO: Add hash to file names
 for lang in "${LANGUAGES[@]}"
 do
   input="$SCRIPT_DIR/../$SEARCH_INDEX_ROOT/$lang/search.json"
-  output="$SCRIPT_DIR/../$SEARCH_INDEX_ROOT/$lang/search.json.js"
+  output="${input}.js"
   node "$SCRIPT_DIR/build_search_index.js" $lang "$input" "$output"
   MD5_SUM=`md5_of_file "$output"`
   hashed_output="$SCRIPT_DIR/../static/$lang/search-$MD5_SUM.json.js"
