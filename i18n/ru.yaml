@@ -34,6 +34,12 @@
   translation: Пожалуйста, введите текст вашего сообщения
 - id: ContactSend
   translation: Отправить
+- id: contactMessageSending
+  translation: Сообщение отправляется…
+- id: contactMessageSentSuccessfully
+  translation: "Большое спасибо за ваше сообщение, мы скоро свяжемся с вами."
+- id: contactMessageError
+  translation: "Произошла ошибка при отправке сообщения. Пожалуйста, попробуйте связаться с нами по электронной почте."
 - id: SearchPlaceholder
   translation: Поиск…
 - id: SearchQueryNotFound

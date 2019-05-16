@@ -34,6 +34,12 @@
   translation: נא להזין את ההודעה
 - id: ContactSend
   translation: לשלוח
+- id: contactMessageSending
+  translation: משתלשל…
+- id: contactMessageSentSuccessfully
+  translation: "תודה שהגענו אלינו! אנו ניצור איתך קשר בקרוב."
+- id: contactMessageError
+  translation: 'אירעה שגיאה בעת שליחת ההודעה. צור איתנו קשר בדוא"ל או נסה שוב מאוחר יותר.'
 - id: SearchPlaceholder
   translation: חיפוש…
 - id: SearchQueryNotFound

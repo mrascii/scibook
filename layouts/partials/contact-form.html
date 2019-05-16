@@ -54,7 +54,7 @@
       return;
     }
     form.classList.add('was-validated');
-    var url = '{{ $.Site.Params.AmazonSES }}';
+    var url = '{{ site.Params.amazonSES }}';
     var toast = document.getElementById('contactFormResponse');
     var submit = document.getElementById('contactFormSubmit');
 
@@ -72,33 +72,34 @@
       req.send(JSON.stringify(body));
     }
     function success() {
-      toast.innerHTML = "<!-- TODO: Get page code using template here -->";
-      submit.disabled = false
-      submit.blur()
-      form.name.focus()
-      form.name.value = ''
-      form.email.value = ''
-      form.content.value = ''
+      toast.innerHTML = '{{ i18n "contactMessageSentSuccessfully" }}';
+      submit.disabled = false;
+      submit.blur();
+      form.classList.remove('was-validated');
+      form.reset();
+      console.log('Message was sent successfully');
     }
     function error(err) {
-      toast.innerHTML = 'There was an error with sending your message, hold up until I fix it. Thanks for waiting.'
-      submit.disabled = false
-      console.log(err)
+      toast.innerHTML = '{{ i18n "contactMessageError" }}';
+      submit.disabled = false;
+      console.log(err);
     }
 
     form.addEventListener('submit', function (e) {
-      e.preventDefault()
-      toast.innerHTML = 'Sending'
-      submit.disabled = true
+      e.preventDefault();
+      toast.innerHTML = '{{ i18n "contactMessageSending" }}';
+      submit.disabled = true;
 
       var payload = {
         name: form.name.value,
         email: form.email.value,
-        content: form.content.value
+        company: form.company.value,
+        jobtitle: form.jobtitle.value,
+        message: form.message.value,
       }
       post(url, payload, function (err, res) {
-        if (err) { return error(err) }
-        success()
+        if (err) { return error(err); }
+        success();
       })
     })
   }

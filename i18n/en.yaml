@@ -34,6 +34,12 @@
   translation: Please enter your message
 - id: ContactSend
   translation: Send
+- id: contactMessageSending
+  translation: Sending…
+- id: contactMessageSentSuccessfully
+  translation: "Thank you for reaching us! We will contact you soon."
+- id: contactMessageError
+  translation: "Error while sending the message. Please contact us by email or try again later."
 - id: SearchPlaceholder
   translation: Search…
 - id: SearchQueryNotFound
