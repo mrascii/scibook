@@ -8,8 +8,8 @@
 {{ if eq $prev $current }}
 {{ $isLastSubSection = false }}
 <div class="prevnext">
-  <a href="{{ $prevPrev.Permalink }}">
-    << {{ $prevPrev.Title }}</a>      <a href="{{ .Permalink }}">{{ .Title }} >>
+  <a href="{{ $prevPrev.RelPermalink }}">
+    << {{ $prevPrev.Title }}</a>      <a href="{{ .RelPermalink }}">{{ .Title }} >>
   </a>
 </div>
 {{ end }}
@@ -21,8 +21,8 @@
 {{ range .Parent.Parent.Sections.Reverse }}
 {{ if eq $current.Parent . }}
 <div class="prevnext">
-  <a href="{{ $prevPrev.Permalink }}">
-    << {{ $prevPrev.Title }}</a>      <a href="{{ $last.Permalink }}">{{ $last.Title }} >>
+  <a href="{{ $prevPrev.RelPermalink }}">
+    << {{ $prevPrev.Title }}</a>      <a href="{{ $last.RelPermalink }}">{{ $last.Title }} >>
   </a>
 </div>
 {{ end }}

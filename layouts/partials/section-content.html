@@ -2,11 +2,11 @@
 <ol class="article-previews">
   {{ range .Sections }}
   <li>
-    <a class="font-weight-bolder" href="{{ .Permalink }}">{{ .Title }}</a>
+    <a class="font-weight-bolder" href="{{ .RelPermalink }}">{{ .Title }}</a>
     {{- range (first 1 .Pages) -}}
     {{ .Content }}
     {{- end -}}
-    <a class="d-block text-right" href="{{ .Permalink }}">{{ i18n "ReadMore" }}</a>
+    <a class="d-block text-right" href="{{ .RelPermalink }}">{{ i18n "ReadMore" }}</a>
   </li>
   {{ end }}
 </ol>

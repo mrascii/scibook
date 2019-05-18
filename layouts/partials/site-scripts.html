@@ -2,7 +2,7 @@
 {{ $outfile := .outfile }}
 {{ if ne hugo.Environment "production" }}
 {{ range $src := .js }}
-<script src="{{ (resources.Get $src | resources.ExecuteAsTemplate $src $context).Permalink }}"></script>
+<script src="{{ (resources.Get $src | resources.ExecuteAsTemplate $src $context).RelPermalink }}"></script>
 {{ end }}
 {{ else }}
 {{ $allScripts := slice }}
@@ -12,5 +12,5 @@
 {{ end }}
 {{ $js := $allScripts | resources.Concat $outfile }}
 {{ $js = $js | minify | fingerprint }}
-<script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{ end }}

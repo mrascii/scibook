@@ -1,9 +1,9 @@
 {{ range partial "get/root-sections" . }}
 <ul class="list-unstyled toc small">
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   <ol class="toc">
     {{ range .Sections }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ol>
 </ul>

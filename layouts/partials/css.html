@@ -8,9 +8,9 @@
 {{- end -}}
 {{- if eq hugo.Environment "production" -}}
 {{- $css = $css | postCSS (dict "config" "config/postcss.config" "use" "autoprefixer") | minify | fingerprint -}}
-<link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{- else }}
-<link rel="stylesheet" href="{{ $css.Permalink }}">
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{- end -}}
 
 {{- end -}}

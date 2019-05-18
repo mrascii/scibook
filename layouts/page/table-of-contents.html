@@ -2,10 +2,10 @@
 {{ with .Content }}<section>{{ . }}</section>{{ end }}
 {{ range partial "get/root-sections" . }}
 <section>
-  <h6><a href="{{ .Permalink }}">{{ .Title }}</a></h6>
+  <h6><a href="{{ .RelPermalink }}">{{ .Title }}</a></h6>
   <ol class="toc">
     {{ range .Sections }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ol>
 </section>

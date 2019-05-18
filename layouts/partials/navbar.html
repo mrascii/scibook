@@ -9,7 +9,7 @@
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       {{ range .Translations }}
       <li class="nav-item">
-        <a class="nav-link" href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a>
+        <a class="nav-link" href="{{ .RelPermalink }}">{{ .Site.Language.LanguageName }}</a>
       </li>
       {{ end }}
       <li class="nav-item">
