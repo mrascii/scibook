@@ -32,7 +32,7 @@ params:
   translationLanguages:
     en: English
     ru: Русский
-    he: ייִדיש
+    he: עִבְרִית
     de: Deutsch
     fr: Français
     es: Español
@@ -75,7 +75,7 @@ languages:
     staticDir2: static/en
   he:
     weight: 3
-    languageName: ייִדיש
+    languageName: עִבְרִית
     languageCode: he
     title: "SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות"
     description: "סקירה של מאות מאמרים מדעיים על נושאים חשובים: חיסונים, חום, אנטיפרטיטים, ויטמינים, לידה. אנחנו עבור גישה מודעת: אמון אף אחד, ללמוד את המידע ולקחת אחריות מלאה על הבריאות של עצמך ואת הילדים שלך."
