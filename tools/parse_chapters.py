@@ -350,6 +350,9 @@ def markdownify(digest, lang):
         toReplace[' - '] = ' — '
     for old in toReplace:
         digest = digest.replace(old, toReplace[old])
+    # Convert numeric lists with 1), 2) to 1. 2.
+    digest = markdownify.olnumOneRegex.sub(r'\1\n\n1. ', digest)
+    digest = markdownify.olnumRegex.sub(r'\1. ', digest)
     return digest
 
 
@@ -359,6 +362,8 @@ markdownify.boldRegex = re.compile(r'<b>( *)(.*?)( *)</b>')
 markdownify.italicRegex = re.compile(r'<i>( *)(.*?)( *)</i>')
 markdownify.ulRegex = re.compile(r'<ul>(.*?)</ul>')
 markdownify.olRegex = re.compile(r'<ol>(.*?)</ol>')
+markdownify.olnumOneRegex = re.compile(r'([^\n])\n1\) ')
+markdownify.olnumRegex = re.compile(r'^([0-9]+)\) ', re.MULTILINE)
 
 markdownUrlRegex = re.compile(r'\[.*?\]\(([^ ]*)\)')
 
