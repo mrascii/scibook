@@ -345,7 +345,7 @@ def markdownify(digest, lang):
     # For lists, insert additional \n only for the first li element
     # digest = digest.replace('<br>- ', '\n\n- ', 1)
     toReplace = {'\r\n': '\n', '<br>': '\n',
-                 '...': '…', '  ': ' ', ' \n': '\n'}
+                 '...': '…', '  ': ' ', ' \n': '\n', '\t': ' '}
     if lang == 'ru':
         toReplace[' - '] = ' — '
     for old in toReplace:

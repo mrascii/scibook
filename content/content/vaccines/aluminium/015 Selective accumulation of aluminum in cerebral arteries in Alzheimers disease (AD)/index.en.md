@@ -14,5 +14,5 @@ drugs:
 - Aluminum
 ---
 
-15.	The closer the arteries are to the brain, the higher is the concentration of aluminum in patients with Alzheimer’s disease.
+15. The closer the arteries are to the brain, the higher is the concentration of aluminum in patients with Alzheimer’s disease.
 Patients with familial form of Alzheimer’s [have been found](https://www.ncbi.nlm.nih.gov/pubmed/2815921) to have incredibly high levels of aluminum in their brains.
