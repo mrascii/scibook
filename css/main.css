@@ -93,16 +93,20 @@ ol.toc {
 .underline {
   text-decoration: underline; }
 
+.article-ol-section .article p:nth-last-child(2) {
+  display: inline; }
+
 .editLink {
-  color: lightgray; }
+  color: lightgray;
+  float: right; }
 
 .article {
   margin-bottom: 0.5rem; }
   .article h6 {
     font-weight: normal;
     margin-bottom: 0.1rem; }
-  .article > p {
-    display: inline; }
+  .article p {
+    margin-bottom: 0.5rem; }
 
 .search-page-form {
   margin-top: 1rem;
