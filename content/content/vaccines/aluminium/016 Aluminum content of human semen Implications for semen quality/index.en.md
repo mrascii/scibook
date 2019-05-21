@@ -13,4 +13,4 @@ drugs:
 ---
 
 Aluminum is accumulated in semen, and the more there is, the worse is the quality of sperm. [[1]](https://www.ncbi.nlm.nih.gov/pubmed/21647756), [[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3493836/), [[3]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371634/).
-Aluminum also disrupts the ovarian function in rats. [[1]](https://www.ncbi.nlm.nih.gov/pubmed/21932046), [[2]==https://www. ncbi.nlm.nih.gov/pubmed/24530740].
+Aluminum also disrupts the ovarian function in rats. [[1]](https://www.ncbi.nlm.nih.gov/pubmed/21932046), [[2]](https://www. ncbi.nlm.nih.gov/pubmed/24530740).
