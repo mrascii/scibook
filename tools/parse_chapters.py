@@ -303,6 +303,12 @@ def markdownify(digest, lang):
     # Remove accidental spaces before ']' and '==' in urls
     digest = digest.replace(' ==', '==')
     digest = digest.replace(' ]', ']')
+    # Fix some missing closing bracers in original links
+    toReplace = {'/wiki/Гирсутизм': '/wiki/Гирсутизм]',
+        '/wiki/Аланинаминотрансфераза': '/wiki/Аланинаминотрансфераза]'}
+    for old in toReplace:
+        digest = digest.replace(old, toReplace[old])
+
     # Convert urls to Markdown and remove percent encoding for urls
     digest = markdownify.urlRegex.sub(
         lambda m: f'[{m.group(1)}]({urllib.parse.unquote(m.group(2))})', digest)
@@ -344,8 +350,10 @@ def markdownify(digest, lang):
         lambda m: ul(m.group(1)), digest)
     # For lists, insert additional \n only for the first li element
     # digest = digest.replace('<br>- ', '\n\n- ', 1)
-    toReplace = {'\r\n': '\n', '<br>': '\n',
-                 '...': '…', '  ': ' ', ' \n': '\n', '\t': ' '}
+    toReplace = {'\r\n': '\n', '<br>': '\n', '...': '…', '  ': ' ', ' \n': '\n', '\t': ' ',
+      'http: ': 'http:', ' .com/': '.com/', 'nordic. cochrane.org': 'nordic.cochrane.org',
+      'nlm. nih.gov':'nlm.nih.gov', 'ncbi .nlm': 'ncbi.nlm', 'push -its-': 'push-its-',
+      'fr- j_appl': 'fr-j_appl', '-that -all-':'-that-all-'}
     if lang == 'ru':
         toReplace[' - '] = ' — '
     for old in toReplace:
@@ -357,7 +365,7 @@ def markdownify(digest, lang):
 
 
 # Cache regex expressions for markdownify function above
-markdownify.urlRegex = re.compile(r'\[(.*?)==([^ ]*)\]')
+markdownify.urlRegex = re.compile(r'\[(.*?)==(.*?[^\[])\]')
 markdownify.boldRegex = re.compile(r'<b>( *)(.*?)( *)</b>')
 markdownify.italicRegex = re.compile(r'<i>( *)(.*?)( *)</i>')
 markdownify.ulRegex = re.compile(r'<ul>(.*?)</ul>')
