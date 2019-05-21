@@ -144,17 +144,23 @@ ol.toc {
   text-decoration: underline;
 }
 
+///////////////////////////////
+// Styling # link in the article's list
+.article-ol-section .article {
+  p:nth-last-child(2) {
+    display: inline;
+  }
+}
 .editLink {
   color: lightgray;
+  float: right;
 }
+///////////////////////////////
 
 .article {
   h6 {
     font-weight: normal;
     margin-bottom: 0.1rem;
-  }
-  & > p {
-    display: inline;
   }
   margin-bottom: $margin-between-articles;
 }
