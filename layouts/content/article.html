@@ -1,6 +1,6 @@
 {{ if .Params.title }}
 <h6>
-  <a class="font-weight-bolder" href="{{ .Params.article.link }}" target="_blank">{{ .Title }}</a>
+  <a class="font-weight-bolder" href="{{ .Params.article.link }}" target="_blank" rel="nofollow">{{ .Title }}</a>
   <span class="font-italic">
     {{- partial "get/year-authors-journal" . -}}
   </span>
