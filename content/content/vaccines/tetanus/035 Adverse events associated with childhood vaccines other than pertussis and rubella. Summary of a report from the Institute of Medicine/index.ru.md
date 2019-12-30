@@ -7,7 +7,7 @@ article:
   authors: Stratton
   year: 1994
   journal: JAMA
-  link: http://jamanetwork.com/journals/jama/article-abstract/373073
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8182813
   pubmed: 8182813
 diseases:
 - Синдром Гийена-Барре

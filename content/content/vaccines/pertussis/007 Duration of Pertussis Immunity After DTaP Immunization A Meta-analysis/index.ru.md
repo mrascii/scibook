@@ -6,7 +6,7 @@ article:
   authors: McGirr
   year: 2015
   journal: Pediatrics
-  link: http://pediatrics.aappublications.org/content/135/2/331
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25560446
   pubmed: 25560446
 ---
 

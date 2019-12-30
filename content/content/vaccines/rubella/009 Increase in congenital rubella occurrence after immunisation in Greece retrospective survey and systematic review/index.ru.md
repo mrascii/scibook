@@ -6,8 +6,8 @@ article:
   authors: Panagiotopoulos
   year: 1999
   journal: BMJ
-  link: http://www.bmj.com/content/319/7223/1462
-  pubmed: 7223
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10582926
+  pubmed: 10582926
 countries:
 - Греция
 ---

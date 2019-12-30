@@ -7,7 +7,7 @@ article:
   authors: Rondy
   year: 2017
   journal: Euro Surveill
-  link: http://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.41.17-00645
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29043961
   pubmed: 29043961
 diseases:
 - Вирус гриппа штамм A (H3N2)

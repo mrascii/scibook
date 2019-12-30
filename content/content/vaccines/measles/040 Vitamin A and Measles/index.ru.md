@@ -6,7 +6,8 @@ article:
   authors: West
   year: 2000
   journal: Nutr Rev
-  link: http://onlinelibrary.wiley.com/doi/10.1111/j.1753-4887.2000.tb07803.x/full
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10748617
+  pubmed: 10748617
 drugs:
 - Витамин A
 - Рыбий жир

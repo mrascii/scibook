@@ -6,7 +6,7 @@ article:
   authors: Vyse
   year: 2002
   journal: Epidemiol Rev
-  link: https://academic.oup.com/epirev/article/24/2/125/534958/Evolution-of-Surveillance-of-Measles-Mumps-and
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12762088
   pubmed: 12762088
 countries:
 - Великобритания

@@ -6,11 +6,11 @@ article:
   authors: Berger
   year: 1978
   journal: JAMA
-  link: http://jamanetwork.com/journals/jama/article-abstract/360968
+  link: https://www.ncbi.nlm.nih.gov/pubmed/671711
   pubmed: 671711
 conditions:
 - Наркомания
 ---
 
-С 1955 года, 90% [заболевших](http://jamanetwork.com/journals/jamainternalmedicine/article-abstract/574158) столбняком в Нью Йорке — это героиновые наркоманы. В Чикаго [тоже](https://academic.oup.com/aje/article-abstract/88/2/215/169597/INVESTIGATIONS-IN-TETANUS-IN-NARCOTICS-ADDICTS-IN).
+С 1955 года, 90% [заболевших](https://www.ncbi.nlm.nih.gov/pubmed/5636058) столбняком в Нью Йорке — это героиновые наркоманы. В Чикаго [тоже](https://www.ncbi.nlm.nih.gov/pubmed/5673491).
 Здесь описывается случай брата и сестры, заболевших столбняком от героина. У брата была тяжелая форма столбняка, а у сестры легкая. Оба выздоровели — брат через 3 недели, а сестра через две недели. Поскольку сестре 15 лет назад сделали прививку, авторы заключили, что из-за этого она болела легкой формой. Они заключали также, что брат, скорее всего, привит не был, и поэтому болел тяжело, хотя уровень антител у них не проверяли, и был ли привит брат осталось неясным.

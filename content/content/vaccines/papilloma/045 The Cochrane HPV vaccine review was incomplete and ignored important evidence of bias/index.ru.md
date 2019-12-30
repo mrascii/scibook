@@ -6,7 +6,7 @@ article:
   authors: Jørgensen
   year: 2018
   journal: BMJ Evid Based Med
-  link: https://ebm.bmj.com/content/early/2018/07/27/bmjebm-2018-111012
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30054374
   pubmed: 30054374
 ---
 

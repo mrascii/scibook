@@ -6,7 +6,7 @@ article:
   authors: Lissman
   year: 2014
   journal: Cochrane Database Syst Rev
-  link: http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD006206.pub4/abstract
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25386977
   pubmed: 25386977
 drugs:
 - Чеснок

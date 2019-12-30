@@ -7,7 +7,7 @@ article:
   authors: Krause
   year: 2000
   journal: Nature Medicine
-  link: https://www.nature.com/articles/nm0400_451
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10742154
   pubmed: 10742154
 ---
 

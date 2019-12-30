@@ -6,8 +6,8 @@ article:
   type: article
   year: 1967
   journal: BMJ
-  link: http://www.bmj.com/content/2/5555/779
-  pubmed: 10.1136/bmj.2.5555.779
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1843080/
+  pubmed: PMC1843080
 ---
 
 Свинка это сравнительно мягкая болезнь у детей, однако она доставляет неудобства, поскольку дети должны пропускать школу. Серьёзные oсложнения от свинки случаются редко.

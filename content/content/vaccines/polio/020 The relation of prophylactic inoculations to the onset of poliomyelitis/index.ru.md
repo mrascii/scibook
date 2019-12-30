@@ -6,7 +6,7 @@ article:
   authors: McCloskey
   year: 1950
   journal: Lancet
-  link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(50)90549-6/abstract
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10578117
   pubmed: 10578117
 diseases:
 - Вакцин-ассоциированный паралитический полиомиелит

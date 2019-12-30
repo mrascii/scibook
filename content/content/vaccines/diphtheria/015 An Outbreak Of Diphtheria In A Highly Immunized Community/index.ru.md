@@ -7,7 +7,8 @@ article:
   authors: Fanning
   year: 1947
   journal: BMJ
-  link: https://www.jstor.org/stable/20369096
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20289622
+  pubmed: 20289622
 countries:
 - Великобритания
 ---

@@ -7,7 +7,7 @@ article:
   authors: Obaro
   year: 1996
   journal: Lancet
-  link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)65585-7/
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8684225
   pubmed: 8684225
 conditions:
 - Замена штаммов

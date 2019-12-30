@@ -6,7 +6,7 @@ article:
   authors: Smith
   year: 2004
   journal: Pediatrics
-  link: http://pediatrics.aappublications.org/content/114/1/187
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15231927
 conditions:
 - Антипрививочники
 countries:

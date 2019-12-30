@@ -6,7 +6,8 @@ article:
   authors: Zygiert
   year: 1971
   journal: Lancet
-  link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(71)91186-X/abstract
+  link: https://www.ncbi.nlm.nih.gov/pubmed/4100922
+  pubmed: 4100922
 diseases:
 - Лимфома Ходжкина
 countries:

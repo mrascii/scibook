@@ -6,7 +6,7 @@ article:
   authors: Cherry
   year: 2012
   journal: Pediatrics
-  link: http://pediatrics.aappublications.org/content/129/5/968
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22529282
   pubmed: 22529282
 ---
 

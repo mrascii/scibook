@@ -2,6 +2,7 @@
 title: "Herpes zoster at the vaccination site in immunized healthy children"
 analyst: amantonio
 article:
+  type: article
   authors: Song
   year: 2018
   journal: Pediatr Dermatol

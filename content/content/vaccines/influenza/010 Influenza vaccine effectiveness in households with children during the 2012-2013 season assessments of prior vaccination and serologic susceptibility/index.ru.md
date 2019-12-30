@@ -6,7 +6,7 @@ article:
   authors: Ohmit
   year: 2015
   journal: J Infect Dis
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25416812/
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462665/
   pubmed: 25416812
 ---
 

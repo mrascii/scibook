@@ -6,8 +6,8 @@ article:
   authors: Tan
   year: 2010
   journal: N Engl J Med
-  link: http://www.nejm.org/doi/full/10.1056/NEJMra0906357
-  pubmed: 10.1056/NEJMra0906357
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20410516
+  pubmed: 20410516
 ---
 
 Заболеваемость менингококковой инфекцией составляет 1 на 300,000 в США, и в среднем 1 на 100,000 в Европе.

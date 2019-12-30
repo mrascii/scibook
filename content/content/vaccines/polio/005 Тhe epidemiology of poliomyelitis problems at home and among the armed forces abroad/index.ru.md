@@ -6,7 +6,7 @@ article:
   authors: Sabin
   year: 1947
   journal: JAMA
-  link: https://jamanetwork.com/journals/jama/article-abstract/294489
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20242791
   pubmed: 20242791
 ---
 

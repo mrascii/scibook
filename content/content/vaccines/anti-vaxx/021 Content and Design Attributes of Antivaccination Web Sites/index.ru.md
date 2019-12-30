@@ -6,7 +6,7 @@ article:
   authors: Wolfe
   year: 2002
   journal: JAMA
-  link: http://jamanetwork.com/journals/jama/fullarticle/195044
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12076221
   pubmed: 12076221
 conditions:
 - Антипрививочники

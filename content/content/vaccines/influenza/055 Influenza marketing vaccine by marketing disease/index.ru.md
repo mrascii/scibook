@@ -6,7 +6,7 @@ article:
   authors: Doshi
   year: 2013
   journal: BMJ
-  link: http://www.bmj.com/content/346/bmj.f3037
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23682040
   pubmed: 23682040
 ---
 

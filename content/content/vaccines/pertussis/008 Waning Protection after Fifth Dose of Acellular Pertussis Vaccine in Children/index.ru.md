@@ -6,7 +6,7 @@ article:
   authors: Klein
   year: 2012
   journal: N Engl J Med
-  link: http://www.nejm.org/doi/full/10.1056/NEJMoa1200850
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22970945
   pubmed: 10.1056/NEJMoa1200850
 countries:
 - США

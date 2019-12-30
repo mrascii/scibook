@@ -6,7 +6,7 @@ article:
   authors: Glanz
   year: 2013
   journal: JAMA Pediatr
-  link: http://jamanetwork.com/journals/jamapediatrics/fullarticle/1558057
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23338829
   pubmed: 23338829
 conditions:
 - Непривитые

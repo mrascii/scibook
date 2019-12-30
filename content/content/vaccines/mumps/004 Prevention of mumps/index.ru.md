@@ -5,8 +5,8 @@ article:
   type: article
   year: 1980
   journal: BMJ
-  link: http://www.bmj.com/content/281/6250/1231
-  pubmed: 10.1136/bmj.281.6250.1231
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1714700/
+  pubmed: PMC1714700
 countries:
 - Великобритания
 ---

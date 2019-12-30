@@ -2,4 +2,4 @@
 analyst: amantonio
 ---
 
-[MMR-II](https://www.fda.gov/downloads/BiologicsBloodVaccines/UCM123789.pdf), вакцина от кори, свинки и краснухи (Merck). Контрольной группы не было. Впрочем, клинические исследования безопасности для этой вакцины вообще не проводились.
+[Recombivax](http://www.merck.com/product/usa/pi_circulars/r/recombivax_hb/recombivax_pi.pdf), вакцина от гепатита В (Merck). Контрольной группы не было.

@@ -6,7 +6,7 @@ article:
   authors: Srugo
   year: 2000
   journal: Emerg Infect Dis
-  link: https://wwwnc.cdc.gov/eid/article/6/5/00-0512_article
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10998384
   pubmed: 10998384
 countries:
 - Израиль

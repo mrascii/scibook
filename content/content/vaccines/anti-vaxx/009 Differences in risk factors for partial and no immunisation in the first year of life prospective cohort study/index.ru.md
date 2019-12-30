@@ -5,7 +5,7 @@ article:
   type: article
   authors: Samad
   year: 2006
-  link: http://www.bmj.com/content/332/7553/1312
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16740559
   pubmed: 16740559
 conditions:
 - Антипрививочники

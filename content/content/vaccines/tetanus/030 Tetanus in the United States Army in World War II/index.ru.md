@@ -5,7 +5,7 @@ article:
   type: article
   year: 1947
   journal: N Engl J Med
-  link: http://www.nejm.org/doi/full/10.1056/NEJM194709112371108
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20288504
 ---
 
 Рандомизированного контролируемого исследования эффективности вакцины от столбняка никто никогда не проводил. На каком основании тогда решили, что вакцина эффективна?

@@ -6,7 +6,7 @@ article:
   authors: Fried
   year: 2013
   journal: N Engl J Med
-  link: http://www.nejm.org/doi/full/10.1056/NEJMc1310369
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24171534
   pubmed: 10.1056/NEJMc1310369
 diseases:
 - Опоясывающий лишай

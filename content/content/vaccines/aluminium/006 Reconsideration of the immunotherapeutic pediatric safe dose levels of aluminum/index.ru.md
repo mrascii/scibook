@@ -6,8 +6,8 @@ article:
   authors: Lyons-Weiler
   year: 2018
   journal: J Trace Elem Med Biol
-  link: https://www.sciencedirect.com/science/article/pii/S0946672X17300950
-  pubmed: 10.1016/j.jtemb.2018.02.025
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29773196
+  pubmed: 29773196
 ---
 
 Уровень алюминия в вакцинах основан на эффективности, и игнорирует массу тела для установления безопасности.

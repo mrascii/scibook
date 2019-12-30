@@ -6,7 +6,7 @@ article:
   authors: Ratner
   year: 1960
   journal: Illinois Medical Journal
-  link: https://www.cabdirect.org/cabdirect/abstract/19612702427 
+  link: https://www.ncbi.nlm.nih.gov/pubmed/13857182
   pubmed: 13857182
 countries:
 - США

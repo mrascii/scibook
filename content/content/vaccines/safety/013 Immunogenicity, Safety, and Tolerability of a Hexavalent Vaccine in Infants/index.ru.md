@@ -6,7 +6,7 @@ article:
   authors: Marshal
   year: 2015
   journal: Pediatrics
-  link: http://pediatrics.aappublications.org/content/136/2/e323.long#T5
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26216331
 ---
 
 Клинические испытания шестивалентной вакцины. Безопасность проверялась в течение 6 месяцев.

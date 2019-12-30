@@ -6,7 +6,7 @@ article:
   authors: Geier
   year: 2002
   journal: J Hist Med Allied Sci
-  link: https://www.researchgate.net/publication/11177062_The_True_Story_of_Pertussis_Vaccination_A_Sordid_Legacy
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12211972
   pubmed: 12211972
 drugs:
 - Вакцина DTP

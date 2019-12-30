@@ -6,7 +6,7 @@ article:
   authors: Yan
   year: 2018
   journal: Proc Natl Acad Sci U S A
-  link: https://www.ncbi.nlm.nih.gov/pubmed/
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29348203
   pubmed: 29348203
 ---
 

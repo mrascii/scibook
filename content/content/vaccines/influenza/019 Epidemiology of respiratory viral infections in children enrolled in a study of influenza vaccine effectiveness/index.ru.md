@@ -6,7 +6,7 @@ article:
   authors: Dierig
   year: 2014
   journal: Influenza Other Respir Viruses
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24483149/
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4181477/
   pubmed: 24483149
 ---
 

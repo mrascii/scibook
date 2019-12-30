@@ -7,7 +7,7 @@ article:
   authors: Altunaiji
   year: 2007
   journal: Cochrane Database Syst Rev
-  link: https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0012763/
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17636756
   pubmed: 17636756
 drugs:
 - Антибиотики

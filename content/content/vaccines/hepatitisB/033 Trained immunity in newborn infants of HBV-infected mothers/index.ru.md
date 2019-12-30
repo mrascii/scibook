@@ -6,7 +6,7 @@ article:
   authors: Hong
   year: 2015
   journal: Nature Comm
-  link: https://www.nature.com/articles/ncomms7588
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25807344
   pubmed: 10.1038/ncomms7588
 ---
 

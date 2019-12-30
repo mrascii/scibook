@@ -6,8 +6,8 @@ article:
   authors: Karzon
   year: 1988
   journal: N Engl J Med
-  link: http://www.nejm.org/doi/full/10.1056/NEJM198801073180108
-  pubmed: 10.1056/NEJM198801073180108
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3336382
+  pubmed: 3336382
 ---
 
 Снижение количества случаев дифтерии в 1970-х произошло вопреки отсутствию иммунитета среди взрослых.

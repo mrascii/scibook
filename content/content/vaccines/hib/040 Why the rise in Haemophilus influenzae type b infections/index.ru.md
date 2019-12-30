@@ -6,7 +6,7 @@ article:
   authors: Silfverdal
   year: 2003
   journal: Lancet
-  link: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2803%2913986-4/
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12892974
   pubmed: 12892974
 conditions:
 - Грудное вскармливание

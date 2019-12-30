@@ -6,7 +6,8 @@ article:
   authors: Foster
   year: 1994
   journal: Pediatr Infect Dis J
-  link: http://journals.lww.com/pidj/Citation/1994/12000/Rising_Rate_of_Pneumococcal_Bacteremia_At_the.13.aspx
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7892085
+  pubmed: 7892085
 diseases:
 - Гемофильная инфекция/бактерия
 - Менингококк

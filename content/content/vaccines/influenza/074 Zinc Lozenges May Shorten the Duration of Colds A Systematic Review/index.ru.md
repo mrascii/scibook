@@ -13,4 +13,4 @@ drugs:
 ---
 
 Цинк, возможно, тоже лечит простудные заболевания, но только в достаточно больших дозах.
-Также противогриппозный эффект имеют [женьшень](http://www.mdpi.com/2072-6643/6/2/517/htm), [зеленый чай](https://www.ncbi.nlm.nih.gov/pubmed/21832025), [прополис](https://www.ncbi.nlm.nih.gov/pubmed/18610553) и [йод](www.thyroidscience.com/reviews/derry/Derry.flu.iodine.9.19.09.pdf) и [жимолость](https://www.ncbi.nlm.nih.gov/pubmed/25287280).
+Также противогриппозный эффект имеют [женьшень](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3942714/), [зеленый чай](https://www.ncbi.nlm.nih.gov/pubmed/21832025), [прополис](https://www.ncbi.nlm.nih.gov/pubmed/18610553) и [йод](www.thyroidscience.com/reviews/derry/Derry.flu.iodine.9.19.09.pdf) и [жимолость](https://www.ncbi.nlm.nih.gov/pubmed/25287280).

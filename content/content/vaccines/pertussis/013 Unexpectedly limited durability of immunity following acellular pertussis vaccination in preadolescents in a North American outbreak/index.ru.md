@@ -6,7 +6,7 @@ article:
   authors: Witt
   year: 2012
   journal: Clin Infect Dis
-  link: https://academic.oup.com/cid/article/54/12/1730/452864/Unexpectedly-Limited-Durability-of-Immunity
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22423127
   pubmed: 22423127
 countries:
 - США

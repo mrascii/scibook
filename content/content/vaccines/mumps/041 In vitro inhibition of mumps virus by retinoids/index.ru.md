@@ -12,4 +12,4 @@ drugs:
 - Витамин A
 ---
 
-Витамин А подавляет размножение вируса свинки in vitro. Klenner [использовал](https://www.seanet.com/~alexs/ascorbate/194x/klenner-fr-southern_med_surg-1949-v111-n7-p209.htm) витамин С для лечения свинки и ее осложнений.
+Витамин А подавляет размножение вируса свинки in vitro. Klenner [использовал](https://www.ncbi.nlm.nih.gov/pubmed/18147027) витамин С для лечения свинки и ее осложнений.

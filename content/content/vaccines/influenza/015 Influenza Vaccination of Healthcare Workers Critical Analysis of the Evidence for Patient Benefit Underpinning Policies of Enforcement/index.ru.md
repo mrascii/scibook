@@ -6,7 +6,7 @@ article:
   authors: De Serres
   year: 2017
   journal: PLoS One
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28129360/
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5271324/
   pubmed: 28129360
 ---
 

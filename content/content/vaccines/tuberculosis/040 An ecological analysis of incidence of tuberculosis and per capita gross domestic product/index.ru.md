@@ -6,7 +6,7 @@ article:
   authors: Janssens
   year: 2008
   journal: Eur Respir J
-  link: http://erj.ersjournals.com/content/32/5/1415
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18978146
   pubmed: 18978146
 ---
 

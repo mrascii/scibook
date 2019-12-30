@@ -6,8 +6,8 @@ article:
   authors: Wei
   year: 2016
   journal: Sci Rep
-  link: https://www.nature.com/articles/srep31175
-  pubmed: 10.1038/srep31175
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27503761
+  pubmed: 27503761
 drugs:
 - Вакцина MMR
 - Эмбриональная бычья сыворотка

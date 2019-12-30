@@ -15,4 +15,4 @@ diseases:
 
 Риск фебрильных судорог у младенцев до 12 месяцев, которые получили прививку DTP, был в 9.3 раза выше в день вакцинации, чем у непривитых недавно детей.
 Риск фебрильных судорог у тех, кто получили прививку MMR, был в 2.8 раз выше 8-14 дней после вакцинации.
-В другом [исследовании](https://www.ncbi.nlm.nih.gov/pubmed/17204517) риск фебрильных судорог после MMR был выше в 6 раз. Похожие исследования: [[1]](https://www.ncbi.nlm.nih.gov/pubmed/15265850), [[2]](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(95)90471-9/abstract), [[3]](https://www.ncbi.nlm.nih.gov/pubmed/1945626)
+В другом [исследовании](https://www.ncbi.nlm.nih.gov/pubmed/17204517) риск фебрильных судорог после MMR был выше в 6 раз. Похожие исследования: [[1]](https://www.ncbi.nlm.nih.gov/pubmed/15265850), [[2]](https://www.ncbi.nlm.nih.gov/pubmed/7619183), [[3]](https://www.ncbi.nlm.nih.gov/pubmed/1945626)

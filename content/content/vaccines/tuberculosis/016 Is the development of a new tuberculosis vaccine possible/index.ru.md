@@ -6,7 +6,7 @@ article:
   authors: Kaufmann
   year: 2000
   journal: Nat Med
-  link: https://www.nature.com/articles/nm0900_955
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10973302
   pubmed: 10973302
 ---
 

@@ -7,7 +7,7 @@ article:
   authors: Smith
   year: 1972
   journal: Pediatrics
-  link: http://pediatrics.aappublications.org/content/50/5/723
+  link: https://www.ncbi.nlm.nih.gov/pubmed/4538894
   pubmed: 4538894
 countries:
 - США

@@ -6,7 +6,7 @@ article:
   authors: Klein
   year: 2014
   journal: Reproductive Toxicology
-  link: http://www.sciencedirect.com/science/article/pii/S0890623814002548
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25461904
   pubmed: 25461904
 drugs:
 - Алюминий

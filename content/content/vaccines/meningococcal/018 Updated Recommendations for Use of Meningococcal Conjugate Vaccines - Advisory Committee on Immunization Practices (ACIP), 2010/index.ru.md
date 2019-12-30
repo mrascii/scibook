@@ -7,7 +7,8 @@ article:
   authors: CDC
   year: 2011
   journal: JAMA
-  link: https://jamanetwork.com/journals/jama/fullarticle/896276
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21270745
+  pubmed: 21270745
 countries:
 - США
 ---

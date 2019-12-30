@@ -6,7 +6,7 @@ article:
   authors: Leske
   year: 2012
   journal: Anticancer Res
-  link: http://ar.iiarjournals.org/content/32/4/1137.long
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22493342
   pubmed: 22493342
 diseases:
 - Онколитический вирус

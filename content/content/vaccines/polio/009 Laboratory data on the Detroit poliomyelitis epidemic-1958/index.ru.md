@@ -6,7 +6,7 @@ article:
   authors: Brown
   year: 1960
   journal: JAMA
-  link: https://jamanetwork.com/journals/jama/article-abstract/327642
+  link: https://www.ncbi.nlm.nih.gov/pubmed/13804929
   pubmed: 13804929
 countries:
 - США

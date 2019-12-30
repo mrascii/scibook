@@ -6,7 +6,7 @@ article:
   authors: Rosa
   year: 1988
   journal: N Engl J Med
-  link: http://www.nejm.org/doi/full/10.1056/NEJM198806023182216
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2835679
   pubmed: 2835679
 diseases:
 - Рак

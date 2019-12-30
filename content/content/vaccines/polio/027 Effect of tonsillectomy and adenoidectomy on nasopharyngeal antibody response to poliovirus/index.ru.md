@@ -6,7 +6,7 @@ article:
   authors: Ogra
   year: 1971
   journal: N Engl J Med
-  link: http://www.nejm.org/doi/full/10.1056/NEJM197101142840201
+  link: https://www.ncbi.nlm.nih.gov/pubmed/4321186
   pubmed: 4321186
 conditions:
 - Удаление гланд

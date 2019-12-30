@@ -7,7 +7,7 @@ article:
   authors: Hirschmann
   year: 1994
   journal: Arch Intern Med
-  link: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/618469
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8117169
   pubmed: 8117169
 ---
 

@@ -6,7 +6,7 @@ article:
   authors: Brodie
   year: 1936
   journal: Am. J. Public Health
-  link: http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.26.2.119
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1558931/
   pubmed: 18014364
 countries:
 - США

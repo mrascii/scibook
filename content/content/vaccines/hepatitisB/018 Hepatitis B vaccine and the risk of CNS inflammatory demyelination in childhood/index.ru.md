@@ -6,7 +6,7 @@ article:
   authors: Mikaeloff
   year: 2009
   journal: Neurology
-  link: http://www.neurology.org/content/72/10/873
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18843097
   pubmed: 18843097
 ---
 

@@ -2,10 +2,12 @@
 title: "A randomized, controlled trial of vitamin A in children with severe measles. "
 analyst: amantonio
 article:
+  type: article
   authors: Hussey
   year: 1990
   journal: N Engl J Med
-  link: http://www.nejm.org/doi/full/10.1056/NEJM199007193230304
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2194128
+  pubmed: 2194128
 drugs:
 - Витамин A
 countries:

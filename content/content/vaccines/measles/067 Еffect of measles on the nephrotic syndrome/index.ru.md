@@ -6,8 +6,8 @@ article:
   authors: Blumberg
   year: 1947
   journal: Am J Dis Child
-  link: http://jamanetwork.com/journals/jamapediatrics/article-abstract/1180367
-  pubmed: 1180367
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20288668
+  pubmed: 20288668
 diseases:
 - Нефротический синдром
 ---

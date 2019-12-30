@@ -6,7 +6,8 @@ article:
   authors: Nuttall
   year: 1977
   journal: Nature
-  link: https://www.nature.com/nature/journal/v266/n5605/abs/266835a0.html
+  link: https://www.ncbi.nlm.nih.gov/pubmed/194159
+  pubmed: 194159
 drugs:
 - Вакцина MMR
 - Эмбриональная бычья сыворотка

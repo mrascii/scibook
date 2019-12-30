@@ -6,7 +6,8 @@ article:
   authors: Offit
   year: 2003
   journal: Pediatrics
-  link: http://pediatrics.aappublications.org/content/112/6/1394
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14654615
+  pubmed: 14654615
 drugs:
 - Алюминий
 ---

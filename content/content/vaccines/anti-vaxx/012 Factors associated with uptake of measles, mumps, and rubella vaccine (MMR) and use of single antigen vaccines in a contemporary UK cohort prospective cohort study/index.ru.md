@@ -6,7 +6,7 @@ article:
   authors: Pearce
   year: 2008
   journal: BMJ
-  link: http://www.bmj.com/content/336/7647/754
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18309964
   pubmed: 18309964
 drugs:
 - Вакцина MMR

@@ -6,7 +6,7 @@ article:
   authors: King
   year: 1940
   journal: Am. J. Public Health
-  link: http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.30.9.1068
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18015299
   pubmed: 10.2105/AJPH.30.9.1068
 drugs:
 - Витамин C

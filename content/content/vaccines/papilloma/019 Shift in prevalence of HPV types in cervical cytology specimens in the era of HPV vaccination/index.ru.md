@@ -13,4 +13,4 @@ conditions:
 ---
 
 Онкогенные штаммы ВПЧ 16 и 18 заменились другими онкогенными штаммами 31, 51, 53, 56 и 66.
-Еще три исследования с теми же выводами в [Италии](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3599585/), [Нидерландах](https://academic.oup.com/aje/article/179/10/1236/2739107) и [США](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635939/).
+Еще три исследования с теми же выводами в [Италии](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3599585/), [Нидерландах](https://www.ncbi.nlm.nih.gov/pubmed/24714726) и [США](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635939/).

@@ -6,7 +6,7 @@ article:
   authors: Cherry
   year: 2004
   journal: Clin Infect Dis
-  link: https://academic.oup.com/cid/article/39/11/1715/467830
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15578376
   pubmed: 15578376
 countries:
 - США

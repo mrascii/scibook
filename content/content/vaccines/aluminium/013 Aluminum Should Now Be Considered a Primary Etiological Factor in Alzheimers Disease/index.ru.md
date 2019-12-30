@@ -6,8 +6,8 @@ article:
   authors: Exley
   year: 2017
   journal: JAD reports
-  link: http://content.iospress.com/articles/journal-of-alzheimers-disease-reports/adr170010
-  pubmed: 10.3233/ADR-170010
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30480226
+  pubmed: 30480226
 diseases:
 - Болезнь Альцгеймера
 drugs:
@@ -15,4 +15,4 @@ drugs:
 ---
 
 Точная причина болезни Альцгеймера еще неизвестна, но алюминий играет в ней главную роль.
-Еще один [мета-анализ](http://www.sciencedirect.com/science/article/pii/S0304394015302512) на эту тему.
+Еще один [мета-анализ](https://www.ncbi.nlm.nih.gov/pubmed/26592479) на эту тему.
