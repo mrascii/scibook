@@ -18,16 +18,16 @@ params:
   amazonSES: https://uje07m6w3b.execute-api.eu-west-1.amazonaws.com/dev/send?source=scibook
   shortTitle: SciBook
   css:
-  - css/main.scss
+    - css/main.scss
   cssltr:
-  - css/bootstrap.css
+    - css/bootstrap.css
   cssrtl:
-  - css/bootstrap-rtl.css
+    - css/bootstrap-rtl.css
   js:
-  - js/utils.js
-  - js/events.js
-  - js/vendor/jquery.js
-  - js/vendor/bootstrap.js
+    - js/utils.js
+    - js/events.js
+    - js/vendor/jquery.js
+    - js/vendor/bootstrap.js
   #- js/vendor/popper.js
   translationLanguages:
     en: English
@@ -39,7 +39,6 @@ params:
     pt: Português
     zh: 中文
     ja: 日本語
-
 
 taxonomies:
   country: countries
