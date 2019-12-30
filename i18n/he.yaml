@@ -47,6 +47,6 @@
 - id: SearchFoundXResults
   translation: "נמצאו {0} תוצאות:"
 - id: EditPage
-  translation: לערוך
+  translation: עריכה על GitHub
 - id: TranslateTo
   translation: לתרגם ל…

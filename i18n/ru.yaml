@@ -47,6 +47,6 @@
 - id: SearchFoundXResults
   translation: "Найдено {0} результатов:"
 - id: EditPage
-  translation: Редактировать
+  translation: Редактировать на GitHub
 - id: TranslateTo
   translation: Перевести на…
