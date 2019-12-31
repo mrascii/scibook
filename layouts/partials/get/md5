@@ -4,6 +4,6 @@ TODO: Support localized static files.
 -->
 {{- $uri := . -}}
 {{- if not (hasPrefix . "http") -}}
-{{- $uri = printf "%s?md5=%s" . (printf "static/common/%s" . | readFile | md5) | relURL -}}
+{{- $uri = printf "%s?md5=%s" . (printf "static/%s" . | readFile | md5) | relURL -}}
 {{- end -}}
 {{- return $uri -}}

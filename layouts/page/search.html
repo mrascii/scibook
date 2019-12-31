@@ -80,9 +80,9 @@
   }
 </script>
 <!-- TODO: Use more memory-efficient approach to unload unnecessary script from the memory -->
-{{ $files := readDir (printf "static/%s/" site.LanguageCode) }}
+{{ $files := readDir "static" }}
 {{ range $files }}
-{{ if and (hasPrefix .Name "search-") (eq ".js" (path.Ext .Name)) }}
+{{ if and (hasPrefix .Name (printf "search-%s-" site.LanguageCode)) (eq ".js" (path.Ext .Name)) }}
 <script src="{{ .Name | relURL }}"></script>
 {{ end }}
 {{ end }}
