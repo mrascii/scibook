@@ -52,10 +52,14 @@ outputFormats:
     baseName: search
     notAlternative: true
 
-blackfriday:
-  hrefTargetBlank: true
-  fractions: false
-  extensions: [hardLineBreak, strikethrough]
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+# blackfriday:
+#   hrefTargetBlank: true
+#   fractions: false
+#   extensions: [hardLineBreak, strikethrough]
 
 languages:
   ru:
