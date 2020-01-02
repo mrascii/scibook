@@ -13,7 +13,6 @@ install:
   - wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_extended_${HUGO_RELEASE}_Linux-64bit.deb
   - sudo dpkg -i hugo.deb
 script:
-  - hugo --environment searchindex
   - bash tools/build_search_index.sh
   - hugo
 deploy:
