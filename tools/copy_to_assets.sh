@@ -11,7 +11,6 @@ JS=(
   jquery/dist/jquery.js
   popper.js/dist/popper.js
   bootstrap/dist/js/bootstrap.js
-  lunr/lunr.js
   lunr-languages/lunr.stemmer.support.js
   lunr-languages/lunr.multi.js
   lunr-languages/lunr.ru.js
@@ -29,4 +28,4 @@ for css in "${CSS[@]}"; do
 done
 
 # Generate fresh rtl version for bootstrap
-node_modules/.bin/rtlcss assets/css/bootstrap.css assets/css/bootstrap-rtl.css
+"$IN_DIR/.bin/rtlcss" "$OUT_CSS/bootstrap.css" "$OUT_CSS/bootstrap-rtl.css"
