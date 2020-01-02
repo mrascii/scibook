@@ -54,6 +54,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      hardWraps: true
 # blackfriday:
 #   hrefTargetBlank: true
 #   fractions: false
