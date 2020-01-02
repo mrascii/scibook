@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>שחפת on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
@@ -28,7 +28,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/009/</guid>
       <description>כבר אביסינה הבחין בקשר שבין סוכרת לשחפת, והיום אנו מגלים אותו מחדש. חולי סוכרת חולים בשחפת פי 3 יותר מכלל האוכלוסיה, ואילו נשאי HIV – פי 20 יותר. גם תרופות מדכאי חיסון (כגון סטרואידים) מעלות את הסיכון לשחפת. הקשר בין תרופות לטיפול בבעיות ראומטולוגיות לבין שחפת מהווה כיום בעיה משמעותית במדינות מפותחות.
-ה- CDC מדווח כי גורמי סיכון נוספים למחלה הם אלכוהוליזם, שימוש בסמים, חוסר בית ושהיה בכלא. בשנת 2015, 470 אנשים מתו משחפת בארה&amp;rdquo;ב.</description>
+ה- CDC מדווח כי גורמי סיכון נוספים למחלה הם אלכוהוליזם, שימוש בסמים, חוסר בית ושהיה בכלא. בשנת 2015, 470 אנשים מתו משחפת בארה&amp;quot;ב.</description>
     </item>
     
     <item>
@@ -65,7 +65,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/042/</guid>
-      <description>תמותה משחפת באנגליה ירדה ב-90% עוד לפני הופעת האנטיביוטיקה. כך גם בארה&amp;rdquo;ב. לפני תחילת המחקר של חיסון נגד שחפת התמותה ירדה ב-98%.
+      <description>תמותה משחפת באנגליה ירדה ב-90% עוד לפני הופעת האנטיביוטיקה. כך גם בארה&amp;quot;ב. לפני תחילת המחקר של חיסון נגד שחפת התמותה ירדה ב-98%.
   </description>
     </item>
     
@@ -90,6 +90,17 @@
     </item>
     
     <item>
+      <title>Bacillus Calmette-Guérin vaccination and infant mortality</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/022-bacillus-calmette-gu%C3%A9rin-vaccination-and-infant-mortality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/022-bacillus-calmette-gu%C3%A9rin-vaccination-and-infant-mortality/</guid>
+      <description>כאשר ה-BCG הוצג בשנות העשרים של המאה הקודמת, נטען שבמקרים מסויימים יש לו השפעה מועילה לא ספציפית על התמותה. בהתחשב בכך שמאז הפך ה-BCG לחיסון הפופולרי ביותר בעולם, באופן מפתיע נערכו מעט מאוד מחקרים על ההשפעה שלו על תמותה ותחלואה.
+מחקרים שנעשו לאחרונה מראים כי במדינות בעלות הכנסה נמוכה, ל-BCG יש השפעות כלליות מועילות על תחלואה ותמותה כללית של תינוקות, במיוחד של הבנות.
+למעט חיסון טטנוס לנשים בהריון, אף חיסון בעולם לא הוכנס ללוח החיסונים על סמך ניסויים קליניים הבוחנים את השפעתו על התמותה הכללית ועל התחלואה.</description>
+    </item>
+    
+    <item>
       <title>BCG - different strains, different vaccines?</title>
       <link>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/002-bcg-different-strains-different-vaccines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,18 +117,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/021-bcg-vaccination-and-the-subsequent-development-of-cancer-in-humans/</guid>
       <description>אך אם מסתכלים על כל סוגי הסרטן, חיסון BCG כבר מקושר לעלייה של 13% בסיכון לחלות. עוד: [1] [2] [3]
-לאחר שבאי הדרומי של ניו זילנד הפסיקו לחסן ב-BCG, ואילו באי הצפוני המשיכו לחסן, שיעור התמותה מלימפומה שאינה הודג&amp;rsquo;קין גדל באי הצפוני וירד באי הדרומי, למרות שהנתונים היו זהים לפני כן. המחברים מסיקים כי ההצעות להשתמש ב-BCG נגד לוקמיה אינן נבונות.</description>
-    </item>
-    
-    <item>
-      <title>Bacillus Calmette-Guérin vaccination and infant mortality</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/022-bacillus-calmette-gu%C3%A9rin-vaccination-and-infant-mortality/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/022-bacillus-calmette-gu%C3%A9rin-vaccination-and-infant-mortality/</guid>
-      <description>כאשר ה-BCG הוצג בשנות העשרים של המאה הקודמת, נטען שבמקרים מסויימים יש לו השפעה מועילה לא ספציפית על התמותה. בהתחשב בכך שמאז הפך ה-BCG לחיסון הפופולרי ביותר בעולם, באופן מפתיע נערכו מעט מאוד מחקרים על ההשפעה שלו על תמותה ותחלואה.
-מחקרים שנעשו לאחרונה מראים כי במדינות בעלות הכנסה נמוכה, ל-BCG יש השפעות כלליות מועילות על תחלואה ותמותה כללית של תינוקות, במיוחד של הבנות.
-למעט חיסון טטנוס לנשים בהריון, אף חיסון בעולם לא הוכנס ללוח החיסונים על סמך ניסויים קליניים הבוחנים את השפעתו על התמותה הכללית ועל התחלואה.</description>
+לאחר שבאי הדרומי של ניו זילנד הפסיקו לחסן ב-BCG, ואילו באי הצפוני המשיכו לחסן, שיעור התמותה מלימפומה שאינה הודג&#39;קין גדל באי הצפוני וירד באי הדרומי, למרות שהנתונים היו זהים לפני כן. המחברים מסיקים כי ההצעות להשתמש ב-BCG נגד לוקמיה אינן נבונות.</description>
     </item>
     
     <item>
@@ -177,7 +177,7 @@
       <description>זהו מחקר על ההשפעות הלא ספציפיות של החיסון בדרום הודו (11,000 תינוקות).
 בין אלה שחוסנו באחד מחיסוני ה-DTP או BCG, התמותה הייתה נמוכה יותר ביחס למי שלא חוסנו בהם. עם זאת, בקרב אלה שחוסנו בשני החיסונים, התמותה הייתה זהה ביחס ללא מחוסנים.
 בקרב בנות שקיבלו את שני החיסונים, התמותה הייתה גבוהה פי 4.5 מאשר בקרב אלה שקיבלו חיסון אחד.
-המחברים לא הביאו בחשבון את התינוקות שמתו בשבוע הראשון לאחר החיסון, שכן שיעור התמותה הגבוה עלול היה לעמעם את המתאמים הרלוונטיים, ולדעתם הוא לא היה יכול להיגרם ע&amp;rdquo;י ההשפעות הלא ספציפיות של BCG.</description>
+המחברים לא הביאו בחשבון את התינוקות שמתו בשבוע הראשון לאחר החיסון, שכן שיעור התמותה הגבוה עלול היה לעמעם את המתאמים הרלוונטיים, ולדעתם הוא לא היה יכול להיגרם ע&amp;quot;י ההשפעות הלא ספציפיות של BCG.</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/024-immunological-links-to-nonspecific-effects-of-dtwp-and-bcg-vaccines-on-infant-mortality/</guid>
-      <description>על פי מחקרים תצפיתיים מאפריקה, הרבה בנות מתחת לגיל שנה נפטרות מתופעות הלא ספציפיות של חיסון DTP. מצד שני, ההשפעות הלא ספציפיות של BCG מצילות את חייהם של ילדים רבים. מבחינה אימונולוגית תופעה זו מתרחשת ככל הנראה בגלל הסטת התגובה החיסונית ל-DTP לכיוון Th2 הודות לאדג&amp;rsquo;ובנט האלומיניום, וכן בשל העובדה כי הזרקה תוך שרירית של החיסון יכולה לגרום לדלקת כרונית במקום הזריקה. בניגוד ל-DTP, ה-BCG מסיט את התגובה החיסונית כלפי Th1, מה שכנראה מתבטא בהשפעה חיובית.</description>
+      <description>על פי מחקרים תצפיתיים מאפריקה, הרבה בנות מתחת לגיל שנה נפטרות מתופעות הלא ספציפיות של חיסון DTP. מצד שני, ההשפעות הלא ספציפיות של BCG מצילות את חייהם של ילדים רבים. מבחינה אימונולוגית תופעה זו מתרחשת ככל הנראה בגלל הסטת התגובה החיסונית ל-DTP לכיוון Th2 הודות לאדג&#39;ובנט האלומיניום, וכן בשל העובדה כי הזרקה תוך שרירית של החיסון יכולה לגרום לדלקת כרונית במקום הזריקה. בניגוד ל-DTP, ה-BCG מסיט את התגובה החיסונית כלפי Th1, מה שכנראה מתבטא בהשפעה חיובית.</description>
     </item>
     
     <item>
@@ -207,7 +207,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/034-impact-of-vitamin-d-in-the-treatment-of-tuberculosis/</guid>
       <description>לפני תקופת האנטיביוטיקה שחפת טופלה במינונים גדולים של ויטמין D בצורת שמן דגים או שהיה בשמש. בשנת 1854, סטודנט לבוטניקה חולה שחפת נסע להימלאיה לצורך הלימודים והחלים משחפת. רמות נמוכות של ויטמין D קשורות לעלייה של פי חמישה בסיכון לשחפת. עוד: [1] [2] [3]
-כאן מדווח על ניסוי קליני של ההשפעות של שתי מנות של ויטמין D 600,000 יחב&amp;rdquo;ל), אשר הובילה לשיפור התסמינים.
+כאן מדווח על ניסוי קליני של ההשפעות של שתי מנות של ויטמין D 600,000 יחב&amp;quot;ל), אשר הובילה לשיפור התסמינים.
 כאן מדווח על ניסוי קליני של ויטמין D, אשר לא הביא לירידה בתמותה.</description>
     </item>
     
@@ -230,7 +230,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/005-lessons-from-history-of-socioeconomic-improvements-a-new-approach-to-treating-multi-drug-resistant-tuberculosis/</guid>
       <description>ארגון הבריאות העולמי מעריך כי שליש מאוכלוסיית העולם נגועה בחיידק שחפת, אך רק 10% מהם, אלה עם מערכת חיסונית מוחלשת, יפתחו שחפת.
-לפני הופעתה של אנטיביוטיקה, שחפת טופלה בבתי החלמה ע&amp;rdquo;י תזונה משופרת, היגיינה ומנוחה, מה שהוביל לירידה בתמותה כבר במאה ה-19.
+לפני הופעתה של אנטיביוטיקה, שחפת טופלה בבתי החלמה ע&amp;quot;י תזונה משופרת, היגיינה ומנוחה, מה שהוביל לירידה בתמותה כבר במאה ה-19.
 בשנות ה-40 חל שימוש נרחב באנטיביוטיקה, ואיתו הופיעו זנים עמידים של חיידקים. זנים מסוימים הם מאוד עמידים, ובמדינות מפותחות עלות הטיפול בהם מגיעה למיליון דולר לכל חולה. בפרו, שכיחות השחפת קטנה ב-3.</description>
     </item>
     
@@ -241,7 +241,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/013-long-term-results-of-bcg-vaccination-in-the-southern-united-states/</guid>
       <description>מחקר יעילות של BCG בארצות הברית, שנמשך 14 שנים. יעילות החיסונים עמדה על 14%, ואילו בקרב האפרו-אמריקאים היעילות היתה שלילית.
-בעקבות המחקר הזה הוחלט כי היעילות של BCG נמוכה מדי, קצרת טווח והנמוכה ביותר בקרב אלו עם הסיכון הגבוה ביותר לשחפת. ולכן ה-BCG מעולם לא הוכנס ללוח החיסונים בארה&amp;rdquo;ב.</description>
+בעקבות המחקר הזה הוחלט כי היעילות של BCG נמוכה מדי, קצרת טווח והנמוכה ביותר בקרב אלו עם הסיכון הגבוה ביותר לשחפת. ולכן ה-BCG מעולם לא הוכנס ללוח החיסונים בארה&amp;quot;ב.</description>
     </item>
     
     <item>
@@ -290,7 +290,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/035-oxford-tb-vaccine-study-calls-into-question-selective-use-of-animal-data/</guid>
       <description>MVA85A הוא חיסון שחפת חדש שנועד להגביר את היעילות של BCG. בשנת 2009, החל ניסוי קליני של החיסון הזה שבוצע בקרב 2,800 תינוקות בדרום אפריקה. התוצאות, שפורסמו בשנת 2013, הראו כי החיסון החדש אינו יעיל.
-לפני הניסויים הקליניים בתינוקות בוצעו ניסויים בעכברים, שרקנים, פרות וקופים. בבקשות למימון הניסוי שהוגשו ב-2009 טענו החוקרים שהחיסון נתגלה כיעיל ובטוח בבעלי חיים. אך דו&amp;rdquo;ח בלתי תלוי שפורסם ב-2015 שהקיף שמונה מחקרים שבוצעו ב-192 בעלי חיים מגלה כי החיסון לא היה יעיל גם בבעלי חיים.</description>
+לפני הניסויים הקליניים בתינוקות בוצעו ניסויים בעכברים, שרקנים, פרות וקופים. בבקשות למימון הניסוי שהוגשו ב-2009 טענו החוקרים שהחיסון נתגלה כיעיל ובטוח בבעלי חיים. אך דו&amp;quot;ח בלתי תלוי שפורסם ב-2015 שהקיף שמונה מחקרים שבוצעו ב-192 בעלי חיים מגלה כי החיסון לא היה יעיל גם בבעלי חיים.</description>
     </item>
     
     <item>
@@ -409,16 +409,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/037-unreliability-of-the-mantoux-test-using-1-tu-ppd-in-excluding-childhood-tuberculosis-in-papua-new-guinea/</guid>
-      <description>139 ילדים עם שחפת בפפואה-גינאה החדשה עברו בדיקת מנטו, ורק מחציתם הראו תוצאה חיובית (התקשות הגבוהה מ-5 מ&amp;rdquo;מ). בקרב ילדים מתחת לגיל שנתיים, רק ב-29% נתקבלה תגובה כלשהי. בארצות שאינן טרופיות בדיקת מנטו כביכול מציגה תוצאות מהימנות יותר.</description>
-    </item>
-    
-    <item>
-      <title>Vitamin C Potentiates the Killing of Mycobacterium tuberculosis by the First-Line Tuberculosis Drugs Isoniazid and Rifampin in Mice</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/033-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/033-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</guid>
-      <description>השילוב של ויטמין C עם תרופות נגד שחפת גורם להחלמה מהירה יותר של עכברים.</description>
+      <description>139 ילדים עם שחפת בפפואה-גינאה החדשה עברו בדיקת מנטו, ורק מחציתם הראו תוצאה חיובית (התקשות הגבוהה מ-5 מ&amp;quot;מ). בקרב ילדים מתחת לגיל שנתיים, רק ב-29% נתקבלה תגובה כלשהי. בארצות שאינן טרופיות בדיקת מנטו כביכול מציגה תוצאות מהימנות יותר.</description>
     </item>
     
     <item>
@@ -429,6 +420,15 @@
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/030-vitamin-c-and-tuberculosis/</guid>
       <description>ההשפעה המגנה של ויטמין C נגד שחפת בבעלי חיים דווחה פעמים רבות. בעלי חיים שתזונתם דלה בויטמין C רגישים יותר לזיהום חיידקי שחפת, ובעלי החיים שנדבקו מפתחים צפדינה בשכיחות רבה יותר.
 אנשים עם שחפת מפרישים פחות ויטמין C בשתן מאשר אנשים בריאים, וזה כנראה אומר כי הצורך של הגוף בויטמין עולה בזמן המחלה.</description>
+    </item>
+    
+    <item>
+      <title>Vitamin C Potentiates the Killing of Mycobacterium tuberculosis by the First-Line Tuberculosis Drugs Isoniazid and Rifampin in Mice</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/033-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/033-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</guid>
+      <description>השילוב של ויטמין C עם תרופות נגד שחפת גורם להחלמה מהירה יותר של עכברים.</description>
     </item>
     
     <item>

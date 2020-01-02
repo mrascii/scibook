@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whooping cough on SciBook: analysis of published information about vaccinations and infections</title>
@@ -155,7 +155,7 @@
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/047/</guid>
       <description>Films and Lectures:
-DPT Vaccine Roulette A 1982 film about the DTP vaccine was shown on NBC. The main point of this film was to explain that the US switched to the acellular vaccine, and that the legislation related to vaccination was completely changed. It&amp;rsquo;s impossible to imagine that this is shown on TV.
+DPT Vaccine Roulette A 1982 film about the DTP vaccine was shown on NBC. The main point of this film was to explain that the US switched to the acellular vaccine, and that the legislation related to vaccination was completely changed. It&#39;s impossible to imagine that this is shown on TV.
 Dr. Suzanne Humphries
 Dr. Sherri Tenpenny</description>
     </item>
@@ -288,7 +288,7 @@ Those who had measles and had not received the vaccine, had a 45% lower risk of 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/015-increase-in-pertussis-may-be-due-to-increased-recognition-and-diagnosis/</guid>
-      <description>An article by a British doctor states that, according to his long-term experience, whooping cough hasn&amp;rsquo;t disappeared. In fact, after vaccination was implemented, whooping cough only disappeared from official records because doctors stopped diagnosing it.
+      <description>An article by a British doctor states that, according to his long-term experience, whooping cough hasn&#39;t disappeared. In fact, after vaccination was implemented, whooping cough only disappeared from official records because doctors stopped diagnosing it.
 This article reports that even though vaccination coverage against pertussis in England fell from 78% to 49% between the 1960s and the 1970s, whooping cough-related mortality during this same period decreased 3-fold.</description>
     </item>
     
@@ -303,21 +303,21 @@ Also, according to data from the CDC, most patients with pertussis-induced whoop
     </item>
     
     <item>
-      <title>Pertussis Infection in Fully Vaccinated Children in Day Care Centers, Israel</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/017-pertussis-infection-in-fully-vaccinated-children-in-day-care-centers-israel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/017-pertussis-infection-in-fully-vaccinated-children-in-day-care-centers-israel/</guid>
-      <description>While there are hundreds of case reports for different vaccines, we have not yet cited any until now. This case occurred in the year 2000, when a whole-cell (i.e., more effective) vaccine was administered to a 2-month-old child in Israel. Despite the entire family (mother, aunt and three brothers - 2, 5 and 11 years old) being fully vaccinated, the child died of whooping cough at an age of 4 months.</description>
-    </item>
-    
-    <item>
       <title>Pertussis epidemic despite high levels of vaccination coverage with acellular pertussis vaccine</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/009-pertussis-epidemic-despite-high-levels-of-vaccination-coverage-with-acellular-pertussis-vaccine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/009-pertussis-epidemic-despite-high-levels-of-vaccination-coverage-with-acellular-pertussis-vaccine/</guid>
       <description>This is an epidemiological study in Spain analysing 421 cases of Pertussis, mostly in children under the age of one year. The vast majority of infected individuals (90%) had actually been fully vaccinated. The carriers were mostly fully vaccinated children aged 5-9 years. Only 8% of the 421 cases were hospitalized, and not one died. The authors conclude that despite a high level of vaccination in Spain, whooping cough is totally uncontrollable.</description>
+    </item>
+    
+    <item>
+      <title>Pertussis Infection in Fully Vaccinated Children in Day Care Centers, Israel</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/017-pertussis-infection-in-fully-vaccinated-children-in-day-care-centers-israel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/017-pertussis-infection-in-fully-vaccinated-children-in-day-care-centers-israel/</guid>
+      <description>While there are hundreds of case reports for different vaccines, we have not yet cited any until now. This case occurred in the year 2000, when a whole-cell (i.e., more effective) vaccine was administered to a 2-month-old child in Israel. Despite the entire family (mother, aunt and three brothers - 2, 5 and 11 years old) being fully vaccinated, the child died of whooping cough at an age of 4 months.</description>
     </item>
     
     <item>
@@ -378,7 +378,7 @@ Nicosia (1986). [3]. Proc Natl Acad Sci U S A</description>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/005-the-true-story-of-pertussis-vaccination-a-sordid-legacy/</guid>
       <description>A long but informative article on the history of the pertussis vaccine. If you still believe that the main goal of pharmaceutical companies is to create effective and safe drugs, this article might make you see things differently; we highly recommend reading it!
-- The pertussis toxin is added to the whole-cell vaccine. This toxin increases the permeability of the blood-brain barrier, rendering this barrier more penetrable to other toxins and viruses.</description>
+ The pertussis toxin is added to the whole-cell vaccine. This toxin increases the permeability of the blood-brain barrier, rendering this barrier more penetrable to other toxins and viruses.</description>
     </item>
     
     <item>
@@ -410,17 +410,6 @@ Here it is also reported that vaccinated mice developed lung pathologies.</descr
     </item>
     
     <item>
-      <title>What Is Wrong with Pertussis Vaccine Immunity? Why Immunological Memory to Pertussis Is Failing</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/023-what-is-wrong-with-pertussis-vaccine-immunity-why-immunological-memory-to-pertussis-is-failing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/023-what-is-wrong-with-pertussis-vaccine-immunity-why-immunological-memory-to-pertussis-is-failing/</guid>
-      <description>Let&amp;rsquo;s now return to whooping cough.
-- While the acellular pertussis vaccine shifts the immune response towards humoral immunity (Th2), the whole-cell vaccine is more associated with cellular immunity (Th1; the whole-cell vaccine also shifts the immune response towards Th2, but to a lesser extent).
-- Even though the acellular vaccine contains far fewer antigens than the whole-cell vaccine, it contributes to the production of a greater amount of antibodies.</description>
-    </item>
-    
-    <item>
       <title>What is Wrong with Pertussis Vaccine Immunity? Inducing and Recalling Vaccine-Specific Immunity</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/025-what-is-wrong-with-pertussis-vaccine-immunity-inducing-and-recalling-vaccine-specific-immunity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -428,6 +417,16 @@ Here it is also reported that vaccinated mice developed lung pathologies.</descr
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/025-what-is-wrong-with-pertussis-vaccine-immunity-inducing-and-recalling-vaccine-specific-immunity/</guid>
       <description>Determination of Serum Antibody to Bordetella pertussis Adenylate Cyclase Toxin in Vaccinated and Unvaccinated Children and in Children and Adults with Pertussis (Cherry, 2004, Clin Infect Dis.)
 When the immune system meets a pathogen for the first time, it elicits an immune response. The second time the same or a similar pathogen is encountered, the immune system uses the same immune response, even if another (new) response would have been more effective.</description>
+    </item>
+    
+    <item>
+      <title>What Is Wrong with Pertussis Vaccine Immunity? Why Immunological Memory to Pertussis Is Failing</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/023-what-is-wrong-with-pertussis-vaccine-immunity-why-immunological-memory-to-pertussis-is-failing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/023-what-is-wrong-with-pertussis-vaccine-immunity-why-immunological-memory-to-pertussis-is-failing/</guid>
+      <description>Let&#39;s now return to whooping cough.
+ While the acellular pertussis vaccine shifts the immune response towards humoral immunity (Th2), the whole-cell vaccine is more associated with cellular immunity (Th1; the whole-cell vaccine also shifts the immune response towards Th2, but to a lesser extent). Even though the acellular vaccine contains far fewer antigens than the whole-cell vaccine, it contributes to the production of a greater amount of antibodies. Thus, the greater the number of doses of the acellular vaccine, the shorter the immunity from these vaccinations lasts.</description>
     </item>
     
     <item>

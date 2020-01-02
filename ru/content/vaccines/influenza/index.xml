@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Грипп on SciBook: анализ публикуемой информации о прививках</title>
@@ -108,7 +108,7 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/093/</guid>
       <description>Из этих статай следует лишь, что существует корреляция между уровнем витамина D в плазме, и заболеваемостью. Из них никак не следует, что прием витамина D эффективен или безопасен. Из них лишь следует, что бывать на солнце полезно.
-- Под витамином D здесь имеется в виду D3. Подходите осторожно к выбору препарата, не все они они одинаково безопасны. А лучше всего вообще не использовать добавок, а просто больше бывать на солнце.</description>
+ Под витамином D здесь имеется в виду D3. Подходите осторожно к выбору препарата, не все они они одинаково безопасны. А лучше всего вообще не использовать добавок, а просто больше бывать на солнце. Лично я склоняюсь к тому, что профилактический прием витамина D — это, возможно, неплохая идея для взрослых и пожилых, но я пока не уверен, что это хорошая идея для детей, и тем более для младенцев.</description>
     </item>
     
     <item>
@@ -160,6 +160,16 @@
     </item>
     
     <item>
+      <title>An association of serum vitamin D concentrations &lt; 40 nmol/L with acute respiratory tract infection in young Finnish men</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/086-an-association-of-serum-vitamin-d-concentrations-40-nmol-l-with-acute-respiratory-tract-infection-in-young-finnish-men/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/086-an-association-of-serum-vitamin-d-concentrations-40-nmol-l-with-acute-respiratory-tract-infection-in-young-finnish-men/</guid>
+      <description>Солдаты с низким уровнем витамина D (ниже 40 nmol/L) болели респираторными заболеваниями на 63% чаще, чем солдаты с уровнем витамина выше 40 nmol/L.
+У курящих солдат уровень витамина D был ниже, чем у некурящих. У солдат занимающихся спортом более 5 часов в неделю, уровень витамина D был выше.</description>
+    </item>
+    
+    <item>
       <title>ANCA-associated vasculitis following influenza vaccination: causal association or mere coincidence?</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/049-anca-associated-vasculitis-following-influenza-vaccination-causal-association-or-mere-coincidence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -169,16 +179,6 @@
 Живая вакцина от гриппа значительно повышает колонизацию пневмококка и золотистого стафилококка в верхних дыхательных путей у мышей.
 Живая вакцина от гриппа также повышает колонизацию пневмококка в среднем ухе у мышей, что может повысить вероятность отита.
 Инактивированная назальная вакцина, которая использовалась в Швейцарии, повышала риск паралича лицевого нерва в 84 раза.</description>
-    </item>
-    
-    <item>
-      <title>An association of serum vitamin D concentrations &lt; 40 nmol/L with acute respiratory tract infection in young Finnish men</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/086-an-association-of-serum-vitamin-d-concentrations-40-nmol-l-with-acute-respiratory-tract-infection-in-young-finnish-men/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/086-an-association-of-serum-vitamin-d-concentrations-40-nmol-l-with-acute-respiratory-tract-infection-in-young-finnish-men/</guid>
-      <description>Солдаты с низким уровнем витамина D (ниже 40 nmol/L) болели респираторными заболеваниями на 63% чаще, чем солдаты с уровнем витамина выше 40 nmol/L.
-У курящих солдат уровень витамина D был ниже, чем у некурящих. У солдат занимающихся спортом более 5 часов в неделю, уровень витамина D был выше.</description>
     </item>
     
     <item>
@@ -212,14 +212,23 @@
     </item>
     
     <item>
+      <title>Are US flu death figures more PR than science?</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/056-are-us-flu-death-figures-more-pr-than-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/056-are-us-flu-death-figures-more-pr-than-science/</guid>
+      <description>В 1999 году, после вспышки птичьего гриппа в Гонконге, ВОЗ начала готовиться к пандемии. И вот, через 10 лет, 11 июня 2009 года, Маргарет Чан, генеральный директор ВОЗ, провозгласила, что пандемия наконец-то наступила. Правительства разных стран потратили миллиарды долларов на закупку запасов противовирусных препаратов — Тамифлю и Релензы. Год спустя эти запасы так и лежат нетронутыми, и государства разрывают контракты с производителями вакцин.
+Консультанты, которые составляли рекомендации для ВОЗ, работали одновременно на фармацевтические компании, и их конфликт интересов не разглашался.</description>
+    </item>
+    
+    <item>
       <title>Assessment of temporally-related acute respiratory illness following influenza vaccination. </title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/024-assessment-of-temporally-related-acute-respiratory-illness-following-influenza-vaccination./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/024-assessment-of-temporally-related-acute-respiratory-illness-following-influenza-vaccination./</guid>
       <description>Многие люди считают, что вакцинация от гриппа может вызвать грипп. Авторы провели данное исследование чтобы доказать, что это не так. Они обнаружили что:
-1) Заболеваемость гриппом среди привитых и непривитых не отличалась.
-2) Заболеваемость другими респираторными заболеваниями среди привитых детей была на 71% выше, чем у непривитых.</description>
+ Заболеваемость гриппом среди привитых и непривитых не отличалась. Заболеваемость другими респираторными заболеваниями среди привитых детей была на 71% выше, чем у непривитых.  </description>
     </item>
     
     <item>
@@ -499,15 +508,6 @@
     </item>
     
     <item>
-      <title>Influenza Vaccination of Healthcare Workers: Critical Analysis of the Evidence for Patient Benefit Underpinning Policies of Enforcement</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/015-influenza-vaccination-of-healthcare-workers-critical-analysis-of-the-evidence-for-patient-benefit-underpinning-policies-of-enforcement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/015-influenza-vaccination-of-healthcare-workers-critical-analysis-of-the-evidence-for-patient-benefit-underpinning-policies-of-enforcement/</guid>
-      <description>Здесь анализируются 4 рандомизированных исследования о влиянии вакцинации медицинского персонала на пациентов. Согласно этим исследованиям, вакцинация восьми медицинских работников спасает одного пациента от смерти. Из чего следует, что вакцинация медиков спасает 687 тысяч жизней в год в США, то есть больше людей, чем умерли во время эпидемии 1918 года. Объясняется, как именно авторы исследований играются со статистикой, чтобы получить эти совершенно безумные результаты, и заключают, что даже по самым оптимистическим оценкам, нужно вакцинировать 6,000-32,000 медиков для предотвращения одной смерти от гриппа.</description>
-    </item>
-    
-    <item>
       <title>Influenza outbreak in a vaccinated population--USS Ardent, February 2014</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/016-influenza-outbreak-in-a-vaccinated-population-uss-ardent-february-2014/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -553,6 +553,15 @@
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/028-influenza-vaccination-for-healthcare-workers-who-care-for-people-aged-60-or-older-living-in-long-term-care-institutions/</guid>
       <description>Систематический обзор Cochrane эффективности вакцинации против гриппа медицинского персонала, который работает с пожилыми.
 Нет никаких свидетельств того, что вакцинация медицинских работников снижает количество случаев гриппа, количество осложнений или смертность среди пожилых.</description>
+    </item>
+    
+    <item>
+      <title>Influenza Vaccination of Healthcare Workers: Critical Analysis of the Evidence for Patient Benefit Underpinning Policies of Enforcement</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/015-influenza-vaccination-of-healthcare-workers-critical-analysis-of-the-evidence-for-patient-benefit-underpinning-policies-of-enforcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/015-influenza-vaccination-of-healthcare-workers-critical-analysis-of-the-evidence-for-patient-benefit-underpinning-policies-of-enforcement/</guid>
+      <description>Здесь анализируются 4 рандомизированных исследования о влиянии вакцинации медицинского персонала на пациентов. Согласно этим исследованиям, вакцинация восьми медицинских работников спасает одного пациента от смерти. Из чего следует, что вакцинация медиков спасает 687 тысяч жизней в год в США, то есть больше людей, чем умерли во время эпидемии 1918 года. Объясняется, как именно авторы исследований играются со статистикой, чтобы получить эти совершенно безумные результаты, и заключают, что даже по самым оптимистическим оценкам, нужно вакцинировать 6,000-32,000 медиков для предотвращения одной смерти от гриппа.</description>
     </item>
     
     <item>
@@ -789,16 +798,6 @@
     </item>
     
     <item>
-      <title>Serum 25-hydroxyvitamin D, mortality, and incident cardiovascular disease, respiratory disease, cancers, and fractures: a 13-y prospective population study</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/085-serum-25-hydroxyvitamin-d-mortality-and-incident-cardiovascular-disease-respiratory-disease-cancers-and-fractures-a-13-y-prospective-population-study/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/085-serum-25-hydroxyvitamin-d-mortality-and-incident-cardiovascular-disease-respiratory-disease-cancers-and-fractures-a-13-y-prospective-population-study/</guid>
-      <description>Проспективное исследование 14 тысяч человек в Великобритании, за которыми наблюдали 13 лет.
-Чем выше был уровень витамина D, тем ниже была смертность. Среди тех, у кого уровень витамина D был выше 90 nmol/L, смертность была на 34% ниже, чем у людей с уровнем витамина 30 nmol/L и ниже. Риск смерти от сердечно-сосудистых заболеваний у них был на 38% ниже, от рака — на 15% ниже, от респираторных заболеваний — на 78% ниже.</description>
-    </item>
-    
-    <item>
       <title>Serum 25-hydroxyvitamin d and the incidence of acute viral respiratory tract infections in healthy adults</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/087-serum-25-hydroxyvitamin-d-and-the-incidence-of-acute-viral-respiratory-tract-infections-in-healthy-adults/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -808,13 +807,13 @@
     </item>
     
     <item>
-      <title>The Tamiflu fiasco and lessons learnt</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/065-the-tamiflu-fiasco-and-lessons-learnt/</link>
+      <title>Serum 25-hydroxyvitamin D, mortality, and incident cardiovascular disease, respiratory disease, cancers, and fractures: a 13-y prospective population study</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/085-serum-25-hydroxyvitamin-d-mortality-and-incident-cardiovascular-disease-respiratory-disease-cancers-and-fractures-a-13-y-prospective-population-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/065-the-tamiflu-fiasco-and-lessons-learnt/</guid>
-      <description>Еще одна интересная статья про Тамифлю. Как получилось, что несмотря на отсутствие научных доказательств эффективности и безопасности этого препрата, ВОЗ, FDA, CDC и EMA (европейский аналог FDA) не только рекомендовали его для лечения и профилактики гриппа, но также рекомендовали запасаться им в больших количествах. Еще: [1], [2].
-Здесь сообщается, что риск смерти в течение 12 часов после приема Тамифлю в 1.9 раз выше, чем после приема Релензы, а риск ухудшения в 5.</description>
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/085-serum-25-hydroxyvitamin-d-mortality-and-incident-cardiovascular-disease-respiratory-disease-cancers-and-fractures-a-13-y-prospective-population-study/</guid>
+      <description>Проспективное исследование 14 тысяч человек в Великобритании, за которыми наблюдали 13 лет.
+Чем выше был уровень витамина D, тем ниже была смертность. Среди тех, у кого уровень витамина D был выше 90 nmol/L, смертность была на 34% ниже, чем у людей с уровнем витамина 30 nmol/L и ниже. Риск смерти от сердечно-сосудистых заболеваний у них был на 38% ниже, от рака — на 15% ниже, от респираторных заболеваний — на 78% ниже.</description>
     </item>
     
     <item>
@@ -836,6 +835,16 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/073-the-effectiveness-of-vitamin-c-in-preventing-and-relieving-the-symptoms-of-virus-induced-respiratory-infections/</guid>
       <description>Мегадозы витамина C (1г каждый час на протяжении 6 часов, а затем 3 раза в день) снижают симптомы гриппа и простуды на 85%.</description>
+    </item>
+    
+    <item>
+      <title>The Tamiflu fiasco and lessons learnt</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/065-the-tamiflu-fiasco-and-lessons-learnt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/065-the-tamiflu-fiasco-and-lessons-learnt/</guid>
+      <description>Еще одна интересная статья про Тамифлю. Как получилось, что несмотря на отсутствие научных доказательств эффективности и безопасности этого препрата, ВОЗ, FDA, CDC и EMA (европейский аналог FDA) не только рекомендовали его для лечения и профилактики гриппа, но также рекомендовали запасаться им в больших количествах. Еще: [1], [2].
+Здесь сообщается, что риск смерти в течение 12 часов после приема Тамифлю в 1.9 раз выше, чем после приема Релензы, а риск ухудшения в 5.</description>
     </item>
     
     <item>
@@ -972,16 +981,6 @@ IOM рекомендует принимать 600 МЕ витамина D тем
     </item>
     
     <item>
-      <title>WHO and the pandemic flu &#34;conspiracies&#34;</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/056-who-and-the-pandemic-flu-conspiracies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/056-who-and-the-pandemic-flu-conspiracies/</guid>
-      <description>В 1999 году, после вспышки птичьего гриппа в Гонконге, ВОЗ начала готовиться к пандемии. И вот, через 10 лет, 11 июня 2009 года, Маргарет Чан, генеральный директор ВОЗ, провозгласила, что пандемия наконец-то наступила. Правительства разных стран потратили миллиарды долларов на закупку запасов противовирусных препаратов — Тамифлю и Релензы. Год спустя эти запасы так и лежат нетронутыми, и государства разрывают контракты с производителями вакцин.
-Консультанты, которые составляли рекомендации для ВОЗ, работали одновременно на фармацевтические компании, и их конфликт интересов не разглашался.</description>
-    </item>
-    
-    <item>
       <title>What, in Fact, Is the Evidence That Vaccinating Healthcare Workers against Seasonal Influenza Protects Their Patients? A Critical Review</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/014-what-in-fact-is-the-evidence-that-vaccinating-healthcare-workers-against-seasonal-influenza-protects-their-patients-a-critical-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -991,6 +990,16 @@ IOM рекомендует принимать 600 МЕ витамина D тем
 Исследования, доказывающие распространенное верование в то, что вакцинация персонала снижает заболеваемость и смертность пациентов — очень некачественные, а рекомендации необъективны.
 Нет никаких достоверных свидетельств, что вакцинация персонала приносит какую-либо пользу пациентам. Она не снижает заболеваемость, не снижает смертность и даже не повышает охват вакцинации среди пациентов.
 Автор заключает, что не следует заставлять медицинский персонал прививаться. Медикам стоит прочитать эту статью полностью, там немало интересного.</description>
+    </item>
+    
+    <item>
+      <title>WHO and the pandemic flu &#34;conspiracies&#34;</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/056-who-and-the-pandemic-flu-conspiracies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/056-who-and-the-pandemic-flu-conspiracies/</guid>
+      <description>В 1999 году, после вспышки птичьего гриппа в Гонконге, ВОЗ начала готовиться к пандемии. И вот, через 10 лет, 11 июня 2009 года, Маргарет Чан, генеральный директор ВОЗ, провозгласила, что пандемия наконец-то наступила. Правительства разных стран потратили миллиарды долларов на закупку запасов противовирусных препаратов — Тамифлю и Релензы. Год спустя эти запасы так и лежат нетронутыми, и государства разрывают контракты с производителями вакцин.
+Консультанты, которые составляли рекомендации для ВОЗ, работали одновременно на фармацевтические компании, и их конфликт интересов не разглашался.</description>
     </item>
     
     <item>

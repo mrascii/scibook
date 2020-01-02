@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ветрянка on SciBook: анализ публикуемой информации о прививках</title>
@@ -128,9 +128,7 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/025-chickenpox-chickenpox-vaccination-and-shingles/</guid>
       <description>Великобритания не вакцинирует от ветрянки по следующим причинам:
-1) Ветрянка более опасна во взрослом возрасте, чем в детстве. Летальность, а также риск пневмонии и энцефалита от ветрянки повышаются с возрастом.
-2) Вакцинация приведет к повышению заболеваемости неонатальной ветряной оспой и врожденной ветряной оспой (поскольку матери не переболели в детстве).
-3) Вакцинация может привести к повышению заболеваемости опоясывающим лишаем. Известно, что повышение заболеваемости ветрянкой среди детей до 5 лет, ассоциировано с понижением заболеваемости опоясывающим лишаем у 15-44 летних.</description>
+ Ветрянка более опасна во взрослом возрасте, чем в детстве. Летальность, а также риск пневмонии и энцефалита от ветрянки повышаются с возрастом. Вакцинация приведет к повышению заболеваемости неонатальной ветряной оспой и врожденной ветряной оспой (поскольку матери не переболели в детстве). Вакцинация может привести к повышению заболеваемости опоясывающим лишаем. Известно, что повышение заболеваемости ветрянкой среди детей до 5 лет, ассоциировано с понижением заболеваемости опоясывающим лишаем у 15-44 летних.</description>
     </item>
     
     <item>
@@ -318,6 +316,17 @@ MMRV повышает риск фебрильных судорог в 7.6 раз
     </item>
     
     <item>
+      <title>Nonsteroidal anti-inflammatory drug use and the risk of severe skin and soft tissue complications in patients with varicella or zoster disease</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</guid>
+      <description>Прием NSAIDs (нестероидные противовоспалительные препараты) в месяц предшествующий ветрянке ассоциирован с пятикратным риском осложнений. Парацетамол ассоциирован с повышением риска осложнений на 50%.
+В других исследованиях было установлено, что
+ ибупрофен в месяц предшествующий ветрянке ассоциирован с трехкратным риском кожных суперинфекций. ибупрофен ассоциирован с повышением риска некротического фасциита в 11.5 раз. ибупрофен ссоциирован с повышением риска инвазивной стрептококковой инфекции группы А в 3.9 раз. Еще: [1].  </description>
+    </item>
+    
+    <item>
       <title>NSAIDs and chickenpox</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/044-nsaids-and-chickenpox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -326,19 +335,6 @@ MMRV повышает риск фебрильных судорог в 7.6 раз
       <description>Недавно я закончил медицинский факультет, и за 6 лет обучения, несмотря на неоднократные встречи с ветрянкой, я ни разу не слышал, что противовоспалительные препараты осложняют течение ветрянки. Поэтому я не отнесся всерьез к статье в Daily Mail, предостерегающей от использования ибупрофена во время ветрянки.
 Однако я обнаружил, что министерство здравоохранения и прочие медицинские ассоциации действительно рекомендуют не использовать противовоспалительные во время ветрянки.
 Странно, что меня никто об этом не предупредил за всё время моего обучения.</description>
-    </item>
-    
-    <item>
-      <title>Nonsteroidal anti-inflammatory drug use and the risk of severe skin and soft tissue complications in patients with varicella or zoster disease</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</guid>
-      <description>Прием NSAIDs (нестероидные противовоспалительные препараты) в месяц предшествующий ветрянке ассоциирован с пятикратным риском осложнений. Парацетамол ассоциирован с повышением риска осложнений на 50%.
-В других исследованиях было установлено, что
-1) ибупрофен в месяц предшествующий ветрянке ассоциирован с трехкратным риском кожных суперинфекций.
-2) ибупрофен ассоциирован с повышением риска некротического фасциита в 11.5 раз.
-3) ибупрофен ссоциирован с повышением риска инвазивной стрептококковой инфекции группы А в 3.9 раз. Еще: [1].</description>
     </item>
     
     <item>
@@ -454,9 +450,7 @@ MMRV повышает риск фебрильных судорог в 7.6 раз
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/039-vaccination-to-prevent-varicella/</guid>
-      <description>Поскольку в подавляющем большинстве случаев, ветрянка в детстве — это очень легкое заболевание, вакцинировать от нее начали не для того, чтобы снизить незначительную летальность или количество госпитализаций, а больше для того, чтобы родители не пропускали работу в те дни, когда ребенок не посещает школу или детский сад из-за болезни.
- Экономическая целесообразность вакцинации была основана на следующих допущениях:
-1) Цена вакцины составляет $35, и ввести ее стоит еще $35.</description>
+      <description>Поскольку в подавляющем большинстве случаев, ветрянка в детстве — это очень легкое заболевание, вакцинировать от нее начали не для того, чтобы снизить незначительную летальность или количество госпитализаций, а больше для того, чтобы родители не пропускали работу в те дни, когда ребенок не посещает школу или детский сад из-за болезни. Экономическая целесообразность вакцинации была основана на следующих допущениях:   Цена вакцины составляет $35, и ввести ее стоит еще $35.</description>
     </item>
     
     <item>
@@ -491,6 +485,15 @@ MMRV повышает риск фебрильных судорог в 7.6 раз
     </item>
     
     <item>
+      <title>Varicella vaccination: a double-edged sword?</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/026-varicella-vaccination-a-double-edged-sword/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/026-varicella-vaccination-a-double-edged-sword/</guid>
+      <description>Опоясывающий лишай намного болезненнее ветрянки. Количество потерянных лет качественной жизни в 10 раз больше для больных опоясывающим лишаем, чем для больных ветрянкой. Поэтому повышение заболеваемости опоясывающим лишаем будет иметь серьезные последствия для общественного здравоохранения, и перечеркнет выгоду пониженной заболеваемости ветрянкой.</description>
+    </item>
+    
+    <item>
       <title>Varicella vaccination: Evidence for frequent reactivation of the vaccine strain in healthy children</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/046-varicella-vaccination-evidence-for-frequent-reactivation-of-the-vaccine-strain-in-healthy-children/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -499,15 +502,6 @@ MMRV повышает риск фебрильных судорог в 7.6 раз
       <description>Вакцинный штамм вируса остается в организме и периодически активируется на фоне снижения иммунитета. Это может иметь негативные долгосрочные последствия.
 Вирус реактивируется с вероятностью 19% в год у детей с низкими титрами, и 41% в год у детей с постоянно низкими титрами. С такой же вероятностью дикий штамм вируса реактивируется у людей с очень ослабленным иммунитетом.
 Поскольку иммунитет от вируса, который дает прививка, слабее, чем иммунитет от перенесенной болезни, долгосрочный эффект частой реактивации вируса на опоясывающий лишай и на другие последствия — неизвестен.</description>
-    </item>
-    
-    <item>
-      <title>Varicella vaccination: a double-edged sword?</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/026-varicella-vaccination-a-double-edged-sword/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/026-varicella-vaccination-a-double-edged-sword/</guid>
-      <description>Опоясывающий лишай намного болезненнее ветрянки. Количество потерянных лет качественной жизни в 10 раз больше для больных опоясывающим лишаем, чем для больных ветрянкой. Поэтому повышение заболеваемости опоясывающим лишаем будет иметь серьезные последствия для общественного здравоохранения, и перечеркнет выгоду пониженной заболеваемости ветрянкой.</description>
     </item>
     
     <item>

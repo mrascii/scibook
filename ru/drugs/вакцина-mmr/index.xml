@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Вакцина MMR on SciBook: анализ публикуемой информации о прививках</title>
@@ -139,16 +139,6 @@
     </item>
     
     <item>
-      <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
-      <description>Дети из Гвинеи-Биссау, которым сделали прививку от дифтерии/столбняка/коклюша вместе с прививкой от кори умирали в 2 раза чаще, чем те, которым сделали только прививку от кори.
-Авторы приводят еще несколько исследований с такими же результатами в Гамбии, Малави, Конго, Гане и Сенегале.</description>
-    </item>
-    
-    <item>
       <title>Deep sequencing reveals persistence of cell-associated mumps vaccine virus in chronic encephalitis</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/mumps/025-deep-sequencing-reveals-persistence-of-cell-associated-mumps-vaccine-virus-in-chronic-encephalitis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -164,6 +154,16 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/081-depressed-lymphocyte-function-after-measles-mumps-rubella-vaccination/</guid>
       <description>Авторы проверили реакцию лимфоцитов на кандиду у привитых, и обнаружили, что MMR приводит к пониженной функции лимфоцитов, и это длится 1-5 недель после вакцинации. Функция лимфоцитов возвращается на прежний уровень лишь через 10-12 недель после прививки. Другие исследования показали похожие результаты.</description>
+    </item>
+    
+    <item>
+      <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
+      <description>Дети из Гвинеи-Биссау, которым сделали прививку от дифтерии/столбняка/коклюша вместе с прививкой от кори умирали в 2 раза чаще, чем те, которым сделали только прививку от кори.
+Авторы приводят еще несколько исследований с такими же результатами в Гамбии, Малави, Конго, Гане и Сенегале.</description>
     </item>
     
     <item>
@@ -254,16 +254,6 @@ CDC утверждают, что летальность коревого энц�
     </item>
     
     <item>
-      <title>Measles Virus Neutralizing Antibodies in Intravenous Immunoglobulins: is an Increase by Re-Vaccination of Plasma Donors possible?</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/023-measles-virus-neutralizing-antibodies-in-intravenous-immunoglobulins-is-an-increase-by-re-vaccination-of-plasma-donors-possible/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/023-measles-virus-neutralizing-antibodies-in-intravenous-immunoglobulins-is-an-increase-by-re-vaccination-of-plasma-donors-possible/</guid>
-      <description>Для лечения кори у людей с иммунными заболеваниями используется иммуноглобулин, который делают из плазмы крови доноров.
-Авторы проанализировали антитела от кори у доноров крови, и оказалось, что у тех, кто родился после 1990 года в 7 раз меньше антител, чем у тех, кто родился до 1962 года. Вакцинация этой проблемы не решала, поскольку поднимала уровень антител лишь в два раза, и всего на несколько месяцев. Авторы рекомендуют FDA снизить количество требуемых антител в иммуноглобулине.</description>
-    </item>
-    
-    <item>
       <title>Measles inclusion-body encephalitis caused by the vaccine strain of measles virus</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/085-measles-inclusion-body-encephalitis-caused-by-the-vaccine-strain-of-measles-virus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -271,6 +261,16 @@ CDC утверждают, что летальность коревого энц�
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/085-measles-inclusion-body-encephalitis-caused-by-the-vaccine-strain-of-measles-virus/</guid>
       <description>Здоровому 12-месячному ребенку сделали прививку MMR, а через 8.5 месяцев у него начался энцефалит (MIBE). Биопсия мозга выявила вакцинный штамм кори. Ребенок умер через 1.5 месяца. Зарегистрированы еще несколько подобных случаев, но обычно они происходят с больными, а не со здоровыми.
 В принципе MIBE — это тот же самый панэнцефалит (SSPE), редкое осложнение кори, которое проявляется через несколько лет, но он развивается раньше и намного быстрее. И не факт, что коревой панэнцефалит от вакцины случается реже, чем от болезни.</description>
+    </item>
+    
+    <item>
+      <title>Measles Virus Neutralizing Antibodies in Intravenous Immunoglobulins: is an Increase by Re-Vaccination of Plasma Donors possible?</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/023-measles-virus-neutralizing-antibodies-in-intravenous-immunoglobulins-is-an-increase-by-re-vaccination-of-plasma-donors-possible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/023-measles-virus-neutralizing-antibodies-in-intravenous-immunoglobulins-is-an-increase-by-re-vaccination-of-plasma-donors-possible/</guid>
+      <description>Для лечения кори у людей с иммунными заболеваниями используется иммуноглобулин, который делают из плазмы крови доноров.
+Авторы проанализировали антитела от кори у доноров крови, и оказалось, что у тех, кто родился после 1990 года в 7 раз меньше антител, чем у тех, кто родился до 1962 года. Вакцинация этой проблемы не решала, поскольку поднимала уровень антител лишь в два раза, и всего на несколько месяцев. Авторы рекомендуют FDA снизить количество требуемых антител в иммуноглобулине.</description>
     </item>
     
     <item>
@@ -332,17 +332,6 @@ CDC утверждают, что летальность коревого энц�
     </item>
     
     <item>
-      <title>The Risk of Seizures after Receipt of Whole-Cell Pertussis or Measles, Mumps, and Rubella Vaccine</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/096-the-risk-of-seizures-after-receipt-of-whole-cell-pertussis-or-measles-mumps-and-rubella-vaccine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/096-the-risk-of-seizures-after-receipt-of-whole-cell-pertussis-or-measles-mumps-and-rubella-vaccine/</guid>
-      <description>Риск фебрильных судорог у младенцев до 12 месяцев, которые получили прививку DTP, был в 9.3 раза выше в день вакцинации, чем у непривитых недавно детей.
-Риск фебрильных судорог у тех, кто получили прививку MMR, был в 2.8 раз выше 8-14 дней после вакцинации.
-В другом исследовании риск фебрильных судорог после MMR был выше в 6 раз. Похожие исследования: [1], [2], [3]</description>
-    </item>
-    
-    <item>
       <title>The effect of live measles vaccines on serum vitamin A levels in healthy children</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/039-the-effect-of-live-measles-vaccines-on-serum-vitamin-a-levels-in-healthy-children/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -369,6 +358,17 @@ CDC утверждают, что летальность коревого энц�
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/095-the-risk-of-immune-thrombocytopenic-purpura-after-vaccination-in-children-and-adolescents/</guid>
       <description>Риск тромбоцитопении повышается в 5.5 раз после MMR. Еще: [1], [2], [3], [4], [5], [6], [7], [8].
 Риск тромбоцитопении также повышен после прививки от ветрянки, TdaP, и гепатита А у более старших детей.</description>
+    </item>
+    
+    <item>
+      <title>The Risk of Seizures after Receipt of Whole-Cell Pertussis or Measles, Mumps, and Rubella Vaccine</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/measles/096-the-risk-of-seizures-after-receipt-of-whole-cell-pertussis-or-measles-mumps-and-rubella-vaccine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/measles/096-the-risk-of-seizures-after-receipt-of-whole-cell-pertussis-or-measles-mumps-and-rubella-vaccine/</guid>
+      <description>Риск фебрильных судорог у младенцев до 12 месяцев, которые получили прививку DTP, был в 9.3 раза выше в день вакцинации, чем у непривитых недавно детей.
+Риск фебрильных судорог у тех, кто получили прививку MMR, был в 2.8 раз выше 8-14 дней после вакцинации.
+В другом исследовании риск фебрильных судорог после MMR был выше в 6 раз. Похожие исследования: [1], [2], [3]</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural immunity on SciBook: analysis of published information about vaccinations and infections</title>
@@ -22,17 +22,6 @@ Among the 530 people in the study, the authors found bacteria in the intestines 
     </item>
     
     <item>
-      <title>Naturally Acquired Immunity to Tetanus Toxin in an Isolated Community</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</guid>
-      <description>There is a complete medical consensus on that natural immunity against tetanus is impossible, and only a vaccine can prevent the disease.
-The authors ran blood tests of two hundred randomly selected immigrants from Ethiopia to Israel and found tetanus antibodies in 98% of them. 30% of them had the level of antibodies that is considered protective (above 0.01 UI/ml). None of them have been vaccinated.
-The amount of antibodies increased with age.</description>
-    </item>
-    
-    <item>
       <title>Naturally acquired antibodies to tetanus toxin in humans and animals from the Galápagos islands</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/008-naturally-acquired-antibodies-to-tetanus-toxin-in-humans-and-animals-from-the-gal%C3%A1pagos-islands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +30,17 @@ The amount of antibodies increased with age.</description>
       <description>The level of tetanus antibodies of 57 tested residents of Galapagos Islands was above the protective level. None of them had been vaccinated. Two of them have had tetanus in the past. This contradicts the accepted dogma that having had the disease does not give immunity.
 They also checked nine animals (horses, cows, donkeys and a dog) and all of them had sufficient levels of antibodies.
 The authors believe that immunity is produced by swallowing bacterial spores that multiply in the intestines.</description>
+    </item>
+    
+    <item>
+      <title>Naturally Acquired Immunity to Tetanus Toxin in an Isolated Community</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</guid>
+      <description>There is a complete medical consensus on that natural immunity against tetanus is impossible, and only a vaccine can prevent the disease.
+The authors ran blood tests of two hundred randomly selected immigrants from Ethiopia to Israel and found tetanus antibodies in 98% of them. 30% of them had the level of antibodies that is considered protective (above 0.01 UI/ml). None of them have been vaccinated.
+The amount of antibodies increased with age.</description>
     </item>
     
     <item>

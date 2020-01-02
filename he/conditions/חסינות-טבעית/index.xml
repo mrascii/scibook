@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>חסינות טבעית on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
@@ -18,7 +18,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/meningococcal/007-human-immunity-to-the-meningococcus.-ii.-development-of-natural-immunity/</guid>
       <description>כתוצאה מנשאות מנינגוקוק נטולת תסמינים, תוך מספר שבועות מופקים נוגדנים אליו.
-תינוקות מתחת לגיל חצי שנה מוגנים ע&amp;rdquo;י הנוגדנים של האם. ריכוז הנוגדנים בדם של התינוקות גבוה יותר מאשר אצל אימותיהם. החסינות הטבעית למנינגוקוק נוצרת לרוב בילדות.</description>
+תינוקות מתחת לגיל חצי שנה מוגנים ע&amp;quot;י הנוגדנים של האם. ריכוז הנוגדנים בדם של התינוקות גבוה יותר מאשר אצל אימותיהם. החסינות הטבעית למנינגוקוק נוצרת לרוב בילדות.</description>
     </item>
     
     <item>
@@ -29,16 +29,6 @@
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tetanus/013-human-intestinal-carriers-of-tetanus-spores-in-california/</guid>
       <description>בארבעת השנים מ-1922 ועד 1925 נרשמו בקליפורניה 245 מקרי טטנוס. התמותה הייתה 67%.
 ל-24% מבין 530 משתתפי המחקר נמצאו במעיים חיידקי טטנוס. המחברים סבורים כי נוכחות חיידקי הטטנוס במעיים תלויה במיקרופלורה של המעיים כיוון שלצד חיידקי טטנוס תמיד נמצא סוג נוסף של חיידק שלא נמצא כשגם חיידקי טטנוס לא נמצאו.</description>
-    </item>
-    
-    <item>
-      <title>Naturally Acquired Immunity to Tetanus Toxin in an Isolated Community</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</guid>
-      <description>קיים קונצנזוס רפואי מוחלט בנושא היעדר קיום חסינות טבעית מפני הטטנוס ורק החיסון מסוגל למנוע תחלואה. המחברים ביצעו בדיקות דם בקרב 200 עולים מאתיופיה לישראל שנבחרו באקראי ומצאו כי ל-98% מהם היו נוגדנים לטטנוס. ל-30% מהם ריכוז הנוגדנים היה גבוה מרמת הסף הנחשבת למספיקה להגנה (יותר מ- 0.01 UI/ml). אף אחד מהעולים שהשתתפו במחקר לא חוסן. ריכוז הנוגדנים היה גבוה יותר ככל שהעולים היו מבוגרים יותר.
-המחברים מסיקים שהחסינות הטבעית נוצרת כתוצאה מחשיפה מתמשכת אל החיידק</description>
     </item>
     
     <item>
@@ -61,7 +51,17 @@
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/004-naturally-acquired-immunity-to-haemophilus-influenzae-type-b-in-healthy-cuban-children/</guid>
       <description>המחברים סקרו 974 ילדים קובניים בריאים לא מחוסנים ומצאו שלקראת גיל 4-5 ל-99.7% מהם הייתה חסינות טבעית ל-HiB. חסינות טבעית ל-HiB נמצאה גם בפינלנד (79%) ובהודו (80%).
 מסיבה זו ארגון הבריאות העולמי ממליץ את החיסון רק למדינות שיכולות להרשות זאת לעצמן מבחינה כלכלית בלי לשלול משאבים מחיסונים חשובים יותר.
-כאן מדווח על חסינות טבעית ל-HiA (המופילוס אינפלואנזה מסוג A) בקרב האבוריג&amp;rsquo;נים בקנדה. עוד: [1]</description>
+כאן מדווח על חסינות טבעית ל-HiA (המופילוס אינפלואנזה מסוג A) בקרב האבוריג&#39;נים בקנדה. עוד: [1]</description>
+    </item>
+    
+    <item>
+      <title>Naturally Acquired Immunity to Tetanus Toxin in an Isolated Community</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</guid>
+      <description>קיים קונצנזוס רפואי מוחלט בנושא היעדר קיום חסינות טבעית מפני הטטנוס ורק החיסון מסוגל למנוע תחלואה. המחברים ביצעו בדיקות דם בקרב 200 עולים מאתיופיה לישראל שנבחרו באקראי ומצאו כי ל-98% מהם היו נוגדנים לטטנוס. ל-30% מהם ריכוז הנוגדנים היה גבוה מרמת הסף הנחשבת למספיקה להגנה (יותר מ- 0.01 UI/ml). אף אחד מהעולים שהשתתפו במחקר לא חוסן. ריכוז הנוגדנים היה גבוה יותר ככל שהעולים היו מבוגרים יותר.
+המחברים מסיקים שהחסינות הטבעית נוצרת כתוצאה מחשיפה מתמשכת אל החיידק</description>
     </item>
     
     <item>
@@ -102,8 +102,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tetanus/009-the-tetanus-bacillus-as-an-intestinal-saprophyte-in-man/</guid>
-      <description>התשובה לשאלה כיצד מתקבלת חסינות טבעית ניתנה עוד בשנות ה-20 של המאה הקודמת. חיידקי טטנוס נמצאו ל-35% מתוך 78 גברים שנבדקו בביג&amp;rsquo;ין. בתחילת המאה ה-20 טטנוס היתה מחלה נדירה מאוד בסין (לא כולל טטנוס ילודים).
-החוקרים מצאו חיידקי טטנוס בצואה של חולים גם אחרי שלושה חודשי אשפוז בבי&amp;rdquo;ח שבמהלכו אכלו מזון כמעט סטרילי. מתוך העובדה הזאת ניתן להסיק כי חיידקי טטנוס מתרבים במעיים.</description>
+      <description>התשובה לשאלה כיצד מתקבלת חסינות טבעית ניתנה עוד בשנות ה-20 של המאה הקודמת. חיידקי טטנוס נמצאו ל-35% מתוך 78 גברים שנבדקו בביג&#39;ין. בתחילת המאה ה-20 טטנוס היתה מחלה נדירה מאוד בסין (לא כולל טטנוס ילודים).
+החוקרים מצאו חיידקי טטנוס בצואה של חולים גם אחרי שלושה חודשי אשפוז בבי&amp;quot;ח שבמהלכו אכלו מזון כמעט סטרילי. מתוך העובדה הזאת ניתן להסיק כי חיידקי טטנוס מתרבים במעיים.</description>
     </item>
     
     <item>

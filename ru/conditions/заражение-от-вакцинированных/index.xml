@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Заражение от вакцинированных on SciBook: анализ публикуемой информации о прививках</title>
@@ -52,11 +52,29 @@
     </item>
     
     <item>
+      <title>Effect of immunization against rubella on lactation products. I. Development and characterization of specific immunologic reactivity in breast milk</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/026-effect-of-immunization-against-rubella-on-lactation-products.-i.-development-and-characterization-of-specific-immunologic-reactivity-in-breast-milk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/026-effect-of-immunization-against-rubella-on-lactation-products.-i.-development-and-characterization-of-specific-immunologic-reactivity-in-breast-milk/</guid>
+      <description>У 69% вакцинированных от краснухи после родов женщин, вирус выделялся в грудном молоке. Среди тех, кто получили штамм RA27/3 87.5% выделяли вирус.</description>
+    </item>
+    
+    <item>
       <title>Effect of immunization against rubella on lactation products. II. Maternal-neonatal interactions</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/026-effect-of-immunization-against-rubella-on-lactation-products.-ii.-maternal-neonatal-interactions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/026-effect-of-immunization-against-rubella-on-lactation-products.-ii.-maternal-neonatal-interactions/</guid>
+      <description>56% питающихся грудным молоком младенцев, чьи матери были привиты от краснухи, после родов заразились краснухой.</description>
+    </item>
+    
+    <item>
+      <title>Effect of immunization against rubella on lactation products. II. Maternal-neonatal interactions</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/027-effect-of-immunization-against-rubella-on-lactation-products.-ii.-maternal-neonatal-interactions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/027-effect-of-immunization-against-rubella-on-lactation-products.-ii.-maternal-neonatal-interactions/</guid>
       <description>56% питающихся грудным молоком младенцев, чьи матери были привиты от краснухи, после родов заразились краснухой.</description>
     </item>
     
@@ -132,6 +150,17 @@
     </item>
     
     <item>
+      <title>Postpartum live virus vaccination: lessons from veterinary medicine</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/029-postpartum-live-virus-vaccination-lessons-from-veterinary-medicine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/029-postpartum-live-virus-vaccination-lessons-from-veterinary-medicine/</guid>
+      <description>Среди 62-х матерей, которым после родов сделали прививку от краснухи или MMR, у 47-и был как минимум один ребенок аутист, и еще у 10-и были дети с подозрением на аутизм или с задержкой в развитии.
+Известно, что вирус краснухи после прививки выделяется в грудном молоке, но неизвестно, выделяются ли также вирусы кори и свинки.
+В ветеринарии многие прививки не рекомендованы после родов и во время лактации, среди них прививка от чумки собак.</description>
+    </item>
+    
+    <item>
       <title>Postpartum rubella immunization: association with development of prolonged arthritis, neurological sequelae, and chronic rubella viremia</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/027-postpartum-rubella-immunization-association-with-development-of-prolonged-arthritis-neurological-sequelae-and-chronic-rubella-viremia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -141,14 +170,21 @@
     </item>
     
     <item>
+      <title>Postpartum rubella immunization: association with development of prolonged arthritis, neurological sequelae, and chronic rubella viremia</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/028-postpartum-rubella-immunization-association-with-development-of-prolonged-arthritis-neurological-sequelae-and-chronic-rubella-viremia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/028-postpartum-rubella-immunization-association-with-development-of-prolonged-arthritis-neurological-sequelae-and-chronic-rubella-viremia/</guid>
+      <description>Шесть женщин получили прививку от краснухи после родов. У всех начался острый артрит, а потом хронический артрит, который длился 2-7 лет после прививки. У трех были неврологические последствия (синдром запястного канала, парестезия, помутнение зрения и т.д.). У пяти из них вирус был обнаружен в крови через до 6 лет после прививки. У одной из них вирус был обнаружен в грудном молоке через 9 месяцев после прививки. У двух из четырех младенцев, питающихся грудным молоком, вирус краснухи был обнаружен в крови.</description>
+    </item>
+    
+    <item>
       <title>Rotavirus vaccines: viral shedding and risk of transmission</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/rotavirus/008-rotavirus-vaccines-viral-shedding-and-risk-of-transmission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rotavirus/008-rotavirus-vaccines-viral-shedding-and-risk-of-transmission/</guid>
-      <description>Первая вакцина от ротавируса (Rotashield) была лицензирована в 1998-м и содержала 4 штамма. Она была отозвана в 1999-м, поскольку была ассоциирована с инвагинацией кишечника. Инвагинация кишечника (intussusception) это когда часть кишечника складывается сама на себя, как телескоп.
- Общественность не желает мириться даже с небольшим риском серьезных побочных эффектов. Даже таким низким, как 1 на 10,000.
- В 1998 году была лицензирована вакцина Rotarix (GSK). Содержит один штамм. Выделенный штамм из зараженного ребенка был ослаблен посредством 33 серийных переходов через почечные клетки африканских зеленых обезьян.</description>
+      <description>Первая вакцина от ротавируса (Rotashield) была лицензирована в 1998-м и содержала 4 штамма. Она была отозвана в 1999-м, поскольку была ассоциирована с инвагинацией кишечника. Инвагинация кишечника (intussusception) это когда часть кишечника складывается сама на себя, как телескоп. Общественность не желает мириться даже с небольшим риском серьезных побочных эффектов. Даже таким низким, как 1 на 10,000. В 1998 году была лицензирована вакцина Rotarix (GSK). Содержит один штамм. Выделенный штамм из зараженного ребенка был ослаблен посредством 33 серийных переходов через почечные клетки африканских зеленых обезьян.</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Замена штаммов on SciBook: анализ публикуемой информации о прививках</title>
@@ -115,15 +115,6 @@
     </item>
     
     <item>
-      <title>Effect of Pneumococcal Conjugate Vaccination on Serotype-Specific Carriage and Invasive Disease in England: A Cross-Sectional Study</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</guid>
-      <description>В Англии колонизация вакцинными серотипами снизилась, а невакцинными серотипами увеличилась. В целом колонизация увеличилась на 6% (нет статистической значимости).</description>
-    </item>
-    
-    <item>
       <title>Effect of conjugate pneumococcal vaccine followed by polysaccharide pneumococcal vaccine on recurrent acute otitis media: a randomised study</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/056-effect-of-conjugate-pneumococcal-vaccine-followed-by-polysaccharide-pneumococcal-vaccine-on-recurrent-acute-otitis-media-a-randomised-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,6 +122,15 @@
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/056-effect-of-conjugate-pneumococcal-vaccine-followed-by-polysaccharide-pneumococcal-vaccine-on-recurrent-acute-otitis-media-a-randomised-study/</guid>
       <description>Рандомизированное двойное слепое исследование влияния вакцины от пневмококка на острый средний отит у склонных к нему детей старше года. В качестве плацебо использовались вакцины от гепатита В и гепатита А.
 Заболеваемость острым средним отитом у привитых была повышена на 25%, хотя статистическая значимость пограничная (CI 0.99-1.57). У детей старше 2-х лет, вакцина повышала риск отита на 45%. У детей не слишком склонных к отиту, вакцина повышала риск на 66%. Вакцинация никак не повлияла на колонизацию пневмококка, так как вакцинные серотипы заменились невакцинными.</description>
+    </item>
+    
+    <item>
+      <title>Effect of Pneumococcal Conjugate Vaccination on Serotype-Specific Carriage and Invasive Disease in England: A Cross-Sectional Study</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</guid>
+      <description>В Англии колонизация вакцинными серотипами снизилась, а невакцинными серотипами увеличилась. В целом колонизация увеличилась на 6% (нет статистической значимости).</description>
     </item>
     
     <item>
@@ -144,16 +144,6 @@
     </item>
     
     <item>
-      <title>Emergence of Multidrug-Resistant Pneumococcal Serotype 35B among Children in the United States</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</guid>
-      <description>После начала вакцинации появился новый серотип 35В, который редко встречался ранее, но теперь из года в год ответственен за всё большее количество пневмококковых инфекций. Этот серотип в 5 раз смертельнее других серотипов, и часто нечувствителен к антибиотикам.
-Заболеваемость пневмококком снизилась в 2 раза в течение 2-х лет после начала вакцинации, и осталась примерно на том же уровне. Еще: [1].</description>
-    </item>
-    
-    <item>
       <title>Emergence of invasive pneumococcal disease caused by nonvaccine serotypes in the era of 7-valent conjugate vaccine</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/035-emergence-of-invasive-pneumococcal-disease-caused-by-nonvaccine-serotypes-in-the-era-of-7-valent-conjugate-vaccine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -162,6 +152,16 @@
       <description>После начала вакцинации заболеваемость пневмококковой инфекцией в Барселоне выросла на 58%, а среди детей — на 135%.
 Заболеваемость вакцинными серотипами уменьшилась на 40%, а невакцинными серотипами увеличилась на 531%.
 Заболеваемость пневмонией и эмпиемой среди детей младше 5 лет выросла на 320%.</description>
+    </item>
+    
+    <item>
+      <title>Emergence of Multidrug-Resistant Pneumococcal Serotype 35B among Children in the United States</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</guid>
+      <description>После начала вакцинации появился новый серотип 35В, который редко встречался ранее, но теперь из года в год ответственен за всё большее количество пневмококковых инфекций. Этот серотип в 5 раз смертельнее других серотипов, и часто нечувствителен к антибиотикам.
+Заболеваемость пневмококком снизилась в 2 раза в течение 2-х лет после начала вакцинации, и осталась примерно на том же уровне. Еще: [1].</description>
     </item>
     
     <item>
@@ -222,6 +222,15 @@
     </item>
     
     <item>
+      <title>Invasive disease due to Haemophilus influenzae serotype f: clinical and epidemiologic characteristics in the H. influenzae serotype b vaccine era. The Haemophilus influenzae Study Group</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/029-invasive-disease-due-to-haemophilus-influenzae-serotype-f-clinical-and-epidemiologic-characteristics-in-the-h.-influenzae-serotype-b-vaccine-era.-the-haemophilus-influenzae-study-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hib/029-invasive-disease-due-to-haemophilus-influenzae-serotype-f-clinical-and-epidemiologic-characteristics-in-the-h.-influenzae-serotype-b-vaccine-era.-the-haemophilus-influenzae-study-group/</guid>
+      <description>Заболеваемость серотипом F увеличилась в 3.8 раз между 1989 и 1994-м, и составляет уже 17% всех случаев гемофильной инфекции. Смертность этого серотипа составляет 30% среди взрослых и 21% среди детей.</description>
+    </item>
+    
+    <item>
       <title>Invasive Haemophilus influenzae disease in adults</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/024-invasive-haemophilus-influenzae-disease-in-adults/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -237,15 +246,6 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hib/027-invasive-haemophilus-influenzae-in-british-columbia-non-hib-and-non-typeable-strains-causing-disease-in-children-and-adults/</guid>
       <description>В 1989-м, до начала вакцинации в Канаде, в Британской Колумбии было зарегистрировано 24 случая Hib за год. В 2008-2009 было зарегистрировано 45-53 случая в год. Понизилась заболеваемость серотипом В, и повысилась заболеваемость серотипом А. Если раньше болели в основном дети, то сейчас стали болеть и взрослые.</description>
-    </item>
-    
-    <item>
-      <title>Invasive disease due to Haemophilus influenzae serotype f: clinical and epidemiologic characteristics in the H. influenzae serotype b vaccine era. The Haemophilus influenzae Study Group</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/029-invasive-disease-due-to-haemophilus-influenzae-serotype-f-clinical-and-epidemiologic-characteristics-in-the-h.-influenzae-serotype-b-vaccine-era.-the-haemophilus-influenzae-study-group/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hib/029-invasive-disease-due-to-haemophilus-influenzae-serotype-f-clinical-and-epidemiologic-characteristics-in-the-h.-influenzae-serotype-b-vaccine-era.-the-haemophilus-influenzae-study-group/</guid>
-      <description>Заболеваемость серотипом F увеличилась в 3.8 раз между 1989 и 1994-м, и составляет уже 17% всех случаев гемофильной инфекции. Смертность этого серотипа составляет 30% среди взрослых и 21% среди детей.</description>
     </item>
     
     <item>

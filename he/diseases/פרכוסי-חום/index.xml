@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>פרכוסי חום on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
@@ -29,17 +29,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/varicella/047-measles-mumps-rubella-varicella-combination-vaccine-and-the-risk-of-febrile-seizures/</guid>
       <description>חיסון MMRV מגדיל את הסיכון לפרכוסי חום במשך 7-10 ימים אחרי החיסון פי 2 בהשוואה לחיסוני MMR ואבעבועות רוח שניתנים בנפרד.
-באופן כללי MMRV מגדיל את הסיכון לפרכוסי חום פי 7.6, MMR וחיסון אבעבועות רוח נפרד – פי 4, ו-MMR בלבד – פי 3.7 (ארה&amp;rdquo;ב).</description>
-    </item>
-    
-    <item>
-      <title>Risk of Febrile Seizures and Epilepsy After Vaccination With Diphtheria, Tetanus, Acellular Pertussis, Inactivated Poliovirus, and Haemophilus Influenzae Type b</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/062-risk-of-febrile-seizures-and-epilepsy-after-vaccination-with-diphtheria-tetanus-acellular-pertussis-inactivated-poliovirus-and-haemophilus-influenzae-type-b/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/062-risk-of-febrile-seizures-and-epilepsy-after-vaccination-with-diphtheria-tetanus-acellular-pertussis-inactivated-poliovirus-and-haemophilus-influenzae-type-b/</guid>
-      <description>החיסון DTaP-IPV-Hib מעלה את הסיכון לפרכוסי חום פי 4-7 ביום החיסון. כשהחיסון הזה ניתן יחד עם החיסון נגד פנאומוקוק אזי הסיכון מוגדל גם ב-3 ימים נוספים.
-כאן מדווח שהחיסון נגד פנאומוקוק (PCV7) הוא הריאקטוגני ביותר מבין כל החיסונים הנמצאים היום בשימוש.</description>
+באופן כללי MMRV מגדיל את הסיכון לפרכוסי חום פי 7.6, MMR וחיסון אבעבועות רוח נפרד – פי 4, ו-MMR בלבד – פי 3.7 (ארה&amp;quot;ב).</description>
     </item>
     
     <item>
@@ -58,6 +48,16 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/varicella/048-risk-of-febrile-seizures-after-first-dose-of-measles-mumps-rubella-varicella-vaccine-a-population-based-cohort-study/</guid>
       <description>ה-MMRV מגדיל את הסיכון לפרכוסי חום פי 6.5, MMR וחיסון אבעבועות רוח בנפרד – פי 3.3 (קנדה)</description>
+    </item>
+    
+    <item>
+      <title>Risk of Febrile Seizures and Epilepsy After Vaccination With Diphtheria, Tetanus, Acellular Pertussis, Inactivated Poliovirus, and Haemophilus Influenzae Type b</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/062-risk-of-febrile-seizures-and-epilepsy-after-vaccination-with-diphtheria-tetanus-acellular-pertussis-inactivated-poliovirus-and-haemophilus-influenzae-type-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/062-risk-of-febrile-seizures-and-epilepsy-after-vaccination-with-diphtheria-tetanus-acellular-pertussis-inactivated-poliovirus-and-haemophilus-influenzae-type-b/</guid>
+      <description>החיסון DTaP-IPV-Hib מעלה את הסיכון לפרכוסי חום פי 4-7 ביום החיסון. כשהחיסון הזה ניתן יחד עם החיסון נגד פנאומוקוק אזי הסיכון מוגדל גם ב-3 ימים נוספים.
+כאן מדווח שהחיסון נגד פנאומוקוק (PCV7) הוא הריאקטוגני ביותר מבין כל החיסונים הנמצאים היום בשימוש.</description>
     </item>
     
     <item>

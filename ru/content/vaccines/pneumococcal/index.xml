@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Пневмококк on SciBook: анализ публикуемой информации о прививках</title>
@@ -94,8 +94,7 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/066/</guid>
       <description>В другом конфиденциальном отчете, который Wyeth (впоследствии Pfizer) предоставила европейскому агентству лекарственных средств, и который анализирует клинические исследования 13-валентной вакцины, сообщается:
-1) Клинические исследования безопасности Prevenar 13 включали 1,365 детей. Из них тестируемую вакцину получили 493 младенца и 287 детей. Лишь за 580 из них наблюдали в течение 6 месяцев после прививки. В качестве плацебо использовалась семивалентная вакцина.
-2) Среди тех, кто получили вакцину подкожно, менее 8% использовали антипиретики после прививки.</description>
+ Клинические исследования безопасности Prevenar 13 включали 1,365 детей. Из них тестируемую вакцину получили 493 младенца и 287 детей. Лишь за 580 из них наблюдали в течение 6 месяцев после прививки. В качестве плацебо использовалась семивалентная вакцина. Среди тех, кто получили вакцину подкожно, менее 8% использовали антипиретики после прививки. Среди тех, кто получили вакцину внутримышечно, антипиретики использовали 80%.</description>
     </item>
     
     <item>
@@ -136,17 +135,6 @@
     </item>
     
     <item>
-      <title>CDC Pinkbook</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/002-cdc-pinkbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/002-cdc-pinkbook/</guid>
-      <description>Пневмококк (Streptococcus pneumoniae) живет в носоглотке 5%-90% здоровых людей. Среди школьников бактерия встречается у 20%-60%, среди солдат — у 50%-60%, а среди бездетных взрослых — у 5%-10%.
-Связь между колонизацией пневмококком и естественным иммунитетом плохо изучена.
-Пневмококк может привести к пневмонии, бактериемии и менингиту. Точной статистики по пневмококку не ведется, но оценивается, что каждый год в США 400,000 человек болеют пневмококковой пневмонией (летальность 5%-7%), 12,000 — бактериемией (летальность 20%, а среди пожилых 60%), и 3000-6000 — менингитом (летальность 8% среди детей и 22% среди взрослых).</description>
-    </item>
-    
-    <item>
       <title>Carriage of Haemophilus influenzae is associated with pneumococcal vaccination in Italian children</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/046-carriage-of-haemophilus-influenzae-is-associated-with-pneumococcal-vaccination-in-italian-children/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -163,6 +151,17 @@
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/045-carriage-of-pneumococci-after-pneumococcal-vaccination/</guid>
       <description>Поскольку для инвазивной инфекции требуется для начала колонизация бактерий в носоглотке, целью вакцинации является также снижение колонизации пневмококка.
 Впервые конъюгированная пневмококковая вакцина была испытана на младенцах в Гамбии в 1993-м году, где выяснилось, что тогда как колонизация вакцинными серотипами снизилась на 78%-89%, колонизация невакцинными серотипами увеличилась в 4.5 раза.</description>
+    </item>
+    
+    <item>
+      <title>CDC Pinkbook</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/002-cdc-pinkbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/002-cdc-pinkbook/</guid>
+      <description>Пневмококк (Streptococcus pneumoniae) живет в носоглотке 5%-90% здоровых людей. Среди школьников бактерия встречается у 20%-60%, среди солдат — у 50%-60%, а среди бездетных взрослых — у 5%-10%.
+Связь между колонизацией пневмококком и естественным иммунитетом плохо изучена.
+Пневмококк может привести к пневмонии, бактериемии и менингиту. Точной статистики по пневмококку не ведется, но оценивается, что каждый год в США 400,000 человек болеют пневмококковой пневмонией (летальность 5%-7%), 12,000 — бактериемией (летальность 20%, а среди пожилых 60%), и 3000-6000 — менингитом (летальность 8% среди детей и 22% среди взрослых).</description>
     </item>
     
     <item>
@@ -241,15 +240,6 @@
     </item>
     
     <item>
-      <title>Effect of Pneumococcal Conjugate Vaccination on Serotype-Specific Carriage and Invasive Disease in England: A Cross-Sectional Study</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</guid>
-      <description>В Англии колонизация вакцинными серотипами снизилась, а невакцинными серотипами увеличилась. В целом колонизация увеличилась на 6% (нет статистической значимости).</description>
-    </item>
-    
-    <item>
       <title>Effect of conjugate pneumococcal vaccine followed by polysaccharide pneumococcal vaccine on recurrent acute otitis media: a randomised study</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/056-effect-of-conjugate-pneumococcal-vaccine-followed-by-polysaccharide-pneumococcal-vaccine-on-recurrent-acute-otitis-media-a-randomised-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -257,6 +247,15 @@
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/056-effect-of-conjugate-pneumococcal-vaccine-followed-by-polysaccharide-pneumococcal-vaccine-on-recurrent-acute-otitis-media-a-randomised-study/</guid>
       <description>Рандомизированное двойное слепое исследование влияния вакцины от пневмококка на острый средний отит у склонных к нему детей старше года. В качестве плацебо использовались вакцины от гепатита В и гепатита А.
 Заболеваемость острым средним отитом у привитых была повышена на 25%, хотя статистическая значимость пограничная (CI 0.99-1.57). У детей старше 2-х лет, вакцина повышала риск отита на 45%. У детей не слишком склонных к отиту, вакцина повышала риск на 66%. Вакцинация никак не повлияла на колонизацию пневмококка, так как вакцинные серотипы заменились невакцинными.</description>
+    </item>
+    
+    <item>
+      <title>Effect of Pneumococcal Conjugate Vaccination on Serotype-Specific Carriage and Invasive Disease in England: A Cross-Sectional Study</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</guid>
+      <description>В Англии колонизация вакцинными серотипами снизилась, а невакцинными серотипами увеличилась. В целом колонизация увеличилась на 6% (нет статистической значимости).</description>
     </item>
     
     <item>
@@ -312,16 +311,6 @@
     </item>
     
     <item>
-      <title>Emergence of Multidrug-Resistant Pneumococcal Serotype 35B among Children in the United States</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</guid>
-      <description>После начала вакцинации появился новый серотип 35В, который редко встречался ранее, но теперь из года в год ответственен за всё большее количество пневмококковых инфекций. Этот серотип в 5 раз смертельнее других серотипов, и часто нечувствителен к антибиотикам.
-Заболеваемость пневмококком снизилась в 2 раза в течение 2-х лет после начала вакцинации, и осталась примерно на том же уровне. Еще: [1].</description>
-    </item>
-    
-    <item>
       <title>Emergence of invasive pneumococcal disease caused by nonvaccine serotypes in the era of 7-valent conjugate vaccine</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/035-emergence-of-invasive-pneumococcal-disease-caused-by-nonvaccine-serotypes-in-the-era-of-7-valent-conjugate-vaccine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -330,6 +319,16 @@
       <description>После начала вакцинации заболеваемость пневмококковой инфекцией в Барселоне выросла на 58%, а среди детей — на 135%.
 Заболеваемость вакцинными серотипами уменьшилась на 40%, а невакцинными серотипами увеличилась на 531%.
 Заболеваемость пневмонией и эмпиемой среди детей младше 5 лет выросла на 320%.</description>
+    </item>
+    
+    <item>
+      <title>Emergence of Multidrug-Resistant Pneumococcal Serotype 35B among Children in the United States</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</guid>
+      <description>После начала вакцинации появился новый серотип 35В, который редко встречался ранее, но теперь из года в год ответственен за всё большее количество пневмококковых инфекций. Этот серотип в 5 раз смертельнее других серотипов, и часто нечувствителен к антибиотикам.
+Заболеваемость пневмококком снизилась в 2 раза в течение 2-х лет после начала вакцинации, и осталась примерно на том же уровне. Еще: [1].</description>
     </item>
     
     <item>
@@ -593,15 +592,6 @@
     </item>
     
     <item>
-      <title>The Role of Innate Immune Responses in the Outcome of Interspecies Competition for Colonization of Mucosal Surfaces</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/017-the-role-of-innate-immune-responses-in-the-outcome-of-interspecies-competition-for-colonization-of-mucosal-surfaces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/017-the-role-of-innate-immune-responses-in-the-outcome-of-interspecies-competition-for-colonization-of-mucosal-surfaces/</guid>
-      <description>Хотя in vitro пневмококк убивает гемофильную палочку, in vivo на мышах все получилось наоборот. Несмотря на то, что пневмококк и гемофильная палочка живут в носоглотке каждая по отдельности, при совместной колонизации пневмококк быстро исчезает, и остается лишь гемофильная палочка. Оказывается, что гемофильная палочка каким-то образом воздействует на нейтрофилы (вид фагоцитов), которые и убивают пневмококковые бактерии. Сами по себе нейтрофилы не убивают пневмококков так эффективно, как в присутствии гемофильной бактерии. Каким именно образом гемофильная бактерия влияет на нейтрофилы еще неизвестно.</description>
-    </item>
-    
-    <item>
       <title>The changing role of exposure to children as a risk factor for bacteremic pneumococcal disease in the post conjugate vaccine era</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/042-the-changing-role-of-exposure-to-children-as-a-risk-factor-for-bacteremic-pneumococcal-disease-in-the-post-conjugate-vaccine-era/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -649,6 +639,15 @@
       <description>Полисахаридная вакцина от пневмококка была лицензирована в США в 1977 году. Ее делают пожилым, различными хроническим больным и другим группам риска (например индейцам).
 Авторы анализируют все опубликованные исследования, и заключают, что нет никаких свидетельств того, что эта вакцина эффективна для какой-либо группы населения.
 FDA лицензировала эту вакцину на основании исследований 30-х и 40-х годов, исследований на южноафриканских работниках золотых рудников и на горцах из Новой Гвинеи. Рандомизированные исследования, опубликованные после лицензирования, показывали нулевую эффективность.</description>
+    </item>
+    
+    <item>
+      <title>The Role of Innate Immune Responses in the Outcome of Interspecies Competition for Colonization of Mucosal Surfaces</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/017-the-role-of-innate-immune-responses-in-the-outcome-of-interspecies-competition-for-colonization-of-mucosal-surfaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/017-the-role-of-innate-immune-responses-in-the-outcome-of-interspecies-competition-for-colonization-of-mucosal-surfaces/</guid>
+      <description>Хотя in vitro пневмококк убивает гемофильную палочку, in vivo на мышах все получилось наоборот. Несмотря на то, что пневмококк и гемофильная палочка живут в носоглотке каждая по отдельности, при совместной колонизации пневмококк быстро исчезает, и остается лишь гемофильная палочка. Оказывается, что гемофильная палочка каким-то образом воздействует на нейтрофилы (вид фагоцитов), которые и убивают пневмококковые бактерии. Сами по себе нейтрофилы не убивают пневмококков так эффективно, как в присутствии гемофильной бактерии. Каким именно образом гемофильная бактерия влияет на нейтрофилы еще неизвестно.</description>
     </item>
     
     <item>

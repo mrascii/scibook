@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>הנקה on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/010-a-case-control-assessment-of-risk-factors-for-haemophilus-influenzae-type-b-meningitis/</guid>
-      <description>הנקה של יותר מחודש אחד קשורה לירידה בסיכון לדלקת קרום המוח הנגרמת ע&amp;rdquo;י HiB ב-62%. הנקה של יותר מ-9 חודשים - לירידה של 88% בסיכון. שהייה בגן ילדים מעלה את הסיכון פי 2.6-4.7.</description>
+      <description>הנקה של יותר מחודש אחד קשורה לירידה בסיכון לדלקת קרום המוח הנגרמת ע&amp;quot;י HiB ב-62%. הנקה של יותר מ-9 חודשים - לירידה של 88% בסיכון. שהייה בגן ילדים מעלה את הסיכון פי 2.6-4.7.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/vitamink/010-are-breast-fed-infants-vitamin-k-deficient/</guid>
-      <description>חלב אם מכיל מעט מאוד ויטמין K (כ-1 מ&amp;rdquo;ג לליטר). אבל אם האם צורכת יותר מ 1 מק&amp;rdquo;ג לק&amp;rdquo;ג משקלה בתקופת ההריון וההנקה, רמת הויטמין גדלה משמעותית גם בחלב (עד 80 מק&amp;rdquo;ג לליטר) וגם בדם התינוק. עוד: [1].</description>
+      <description>חלב אם מכיל מעט מאוד ויטמין K (כ-1 מ&amp;quot;ג לליטר). אבל אם האם צורכת יותר מ 1 מק&amp;quot;ג לק&amp;quot;ג משקלה בתקופת ההריון וההנקה, רמת הויטמין גדלה משמעותית גם בחלב (עד 80 מק&amp;quot;ג לליטר) וגם בדם התינוק. עוד: [1].</description>
     </item>
     
     <item>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/013-effect-of-breast-feeding-on-antibody-response-to-conjugate-vaccine/</guid>
-      <description>ילדים שינקו חלב אם הפיקו יותר נוגדנים בתגובה לחיסון מאשר ילדים שניזונו מתמ&amp;rdquo;ל.</description>
+      <description>ילדים שינקו חלב אם הפיקו יותר נוגדנים בתגובה לחיסון מאשר ילדים שניזונו מתמ&amp;quot;ל.</description>
     </item>
     
     <item>
@@ -96,7 +96,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/aluminium/029-infants-exposure-to-aluminum-from-vaccines-and-breast-milk-during-the-first-6-months/</guid>
-      <description>רק החיסון לצהבת B שניתן ביום הלידה מכיל פי 5 אלומיניום מאשר כל כמות האלומיניום שהתינוק יקבל בשישה חודשי ינקות מחלב אם. בנוסף, אי אפשר להשוות בין אלומיניום שנצרך דרך הפה ואלומיניום כאלג&amp;rsquo;ובנט שמוזרק לשריר כשהוא קשור לאנטיגן שאותו הרבה יותר קשה לגוף להפריש.
+      <description>רק החיסון לצהבת B שניתן ביום הלידה מכיל פי 5 אלומיניום מאשר כל כמות האלומיניום שהתינוק יקבל בשישה חודשי ינקות מחלב אם. בנוסף, אי אפשר להשוות בין אלומיניום שנצרך דרך הפה ואלומיניום כאלג&#39;ובנט שמוזרק לשריר כשהוא קשור לאנטיגן שאותו הרבה יותר קשה לגוף להפריש.
 על הטיעון השלישי עונה המאמר שסקרנו לעיל. אופיט שוכח להזכיר של-20% מהעכברים הייתה פגיעת בפעילות מוטורית. שלא לדבר על כך שאי אפשר להשוות בין אלומיניום מוזרק לנאכל (שרק 0.</description>
     </item>
     
@@ -124,9 +124,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/006-protective-effect-of-breastfeeding-an-ecologic-study-of-haemophilus-influenzae-meningitis-and-breastfeeding-in-a-swedish-population/</guid>
-      <description>בעידן שלפני החיסון התחלואה ב-HiB באלסקה היתה 30 מקרים ל-100,000 בקרב הלבנים ו-600 מקרים ל-100,000 בקרב האוריג&amp;rsquo;נים. התחלואה בארה&amp;rdquo;ב גדלה פי 4 בפרק הזמן שבין 1940 לבין 1970. תופעה דומה נרשמה בסקוטלנד ובשוודיה.
-הנקה מעניקה הגנה מפני דלקת קרום המוח הנגרמת ע&amp;rdquo;י HiB והשפעת ההגנה נמשכת 5-10 שנים.
+      <description>בעידן שלפני החיסון התחלואה ב-HiB באלסקה היתה 30 מקרים ל-100,000 בקרב הלבנים ו-600 מקרים ל-100,000 בקרב האוריג&#39;נים. התחלואה בארה&amp;quot;ב גדלה פי 4 בפרק הזמן שבין 1940 לבין 1970. תופעה דומה נרשמה בסקוטלנד ובשוודיה.
+הנקה מעניקה הגנה מפני דלקת קרום המוח הנגרמת ע&amp;quot;י HiB והשפעת ההגנה נמשכת 5-10 שנים.
 תקופת הנקה קצרה (פחות מ-13 שבועות) מגדילה את הסיכון של HiB פי 3.8. ילדים עם מערכת חיסון חלשה חולים פי 4.5 לעתים קרובות יותר.</description>
+    </item>
+    
+    <item>
+      <title>Risk factors for invasive Haemophilus influenzae type b in Los Angeles County children 18-60 months of age</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/hib/014-risk-factors-for-invasive-haemophilus-influenzae-type-b-in-los-angeles-county-children-18-60-months-of-age/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/014-risk-factors-for-invasive-haemophilus-influenzae-type-b-in-los-angeles-county-children-18-60-months-of-age/</guid>
+      <description>ניתוח כל מקרי HiB בלוס אנג&#39;לס ב- 1988/89 (באוכלוסייה של 8.7 מיליון איש, מתוכם 750 אלף ילדים מתחת לגיל 5). בסה&amp;quot;כ נרשמו 88 מקרים בשנה בקרב ילדים. התמותה הייתה 4.5%.
+הסיכון ל-HiB בבתי אב שבו גרים יותר משני מעשנים היה גבוה פי 6. בתי אב בהם התגוררו 6 אנשים ויותר התאפיינו בסיכון HiB גבוה פי 3.7. האפרו-אמריקאים חלו ב-HiB פי 3.5 יותר מכלל האוכלוסייה. מחלת רקע כרונית והכנסה נמוכה גם מעלים את הסיכון.</description>
     </item>
     
     <item>
@@ -137,16 +147,6 @@
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/003-risk-factors-for-invasive-pneumococcal-disease-in-children-a-population-based-case-control-study-in-north-america/</guid>
       <description>הנקה מקושרת לירידה של 73% בסיכון לזיהום פנאומוקוקי.
 כאן מדווח כי הסיכון לאשפוז עקב דלקת ריאות (לא רק פנאומוקוקית) גבוה פי 17 עבור תינוקות שלא יונקים לעומת תינוקות יונקים, וגבוה פי 61 עבור תינוקות לא יונקים מתחת לגיל 3 חודשים.</description>
-    </item>
-    
-    <item>
-      <title>Risk factors for invasive Haemophilus influenzae type b in Los Angeles County children 18-60 months of age</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/hib/014-risk-factors-for-invasive-haemophilus-influenzae-type-b-in-los-angeles-county-children-18-60-months-of-age/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/014-risk-factors-for-invasive-haemophilus-influenzae-type-b-in-los-angeles-county-children-18-60-months-of-age/</guid>
-      <description>ניתוח כל מקרי HiB בלוס אנג&amp;rsquo;לס ב- 1988/89 (באוכלוסייה של 8.7 מיליון איש, מתוכם 750 אלף ילדים מתחת לגיל 5). בסה&amp;rdquo;כ נרשמו 88 מקרים בשנה בקרב ילדים. התמותה הייתה 4.5%.
-הסיכון ל-HiB בבתי אב שבו גרים יותר משני מעשנים היה גבוה פי 6. בתי אב בהם התגוררו 6 אנשים ויותר התאפיינו בסיכון HiB גבוה פי 3.7. האפרו-אמריקאים חלו ב-HiB פי 3.5 יותר מכלל האוכלוסייה. מחלת רקע כרונית והכנסה נמוכה גם מעלים את הסיכון.</description>
     </item>
     
     <item>
@@ -187,7 +187,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/vitamink/011-vitamin-k-in-preterm-breastmilk-with-maternal-supplementation/</guid>
-      <description>שש אימהות מניקות קיבלו 2.5 מ&amp;rdquo;ג ויטמין K ביום במשך שבועיים. כבר אחרי המנה הראשונה ריכוז הויטמין בחלב גדל מ-3 מק&amp;rdquo;ג לליטר ל-23 מק&amp;rdquo;ג לליטר בממוצע, ואחרי היום השישי הוא התייצב על 64 מק&amp;rdquo;ג לליטר בממוצע.</description>
+      <description>שש אימהות מניקות קיבלו 2.5 מ&amp;quot;ג ויטמין K ביום במשך שבועיים. כבר אחרי המנה הראשונה ריכוז הויטמין בחלב גדל מ-3 מק&amp;quot;ג לליטר ל-23 מק&amp;quot;ג לליטר בממוצע, ואחרי היום השישי הוא התייצב על 64 מק&amp;quot;ג לליטר בממוצע.</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/vitamink/012-vitamin-k1-content-of-maternal-milk-influence-of-the-stage-of-lactation-lipid-composition-and-vitamin-k1-supplements-given-to-the-mother/</guid>
       <description>הריכוז של ויטמין K גבוה יותר בחלב אם אחורי מאשר בחלב הקדמי. זה לא מפתיע כי ידוע שחלב אחורי שומני יותר.
-תוספת ויטמין K לתזונה של האימהות (0.5-3 מ&amp;rdquo;ג ליום) הגדילה משמעותית את ריכוז הויטמין בחלב.</description>
+תוספת ויטמין K לתזונה של האימהות (0.5-3 מ&amp;quot;ג ליום) הגדילה משמעותית את ריכוז הויטמין בחלב.</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ללא חיסונים on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/unvaccinated/006-a-population-based-cohort-study-of-undervaccination-in-8-managed-care-organizations-across-the-united-states/</guid>
-      <description>מחקר שמשווה בין ילדים מחוסנים לבין מחוסנים חלקית בארה&amp;rdquo;ב. ילדים &amp;ldquo;מחוסנים חלקית&amp;rdquo; אלה ילדים שלא חוסנו לפחות בחיסון אחד בהתאם לגיל, או קיבלו חיסון אחד לפחות מאוחר יותר מהתכנית המומלצת אפילו ביום אחד.
+      <description>מחקר שמשווה בין ילדים מחוסנים לבין מחוסנים חלקית בארה&amp;quot;ב. ילדים &amp;ldquo;מחוסנים חלקית&amp;rdquo; אלה ילדים שלא חוסנו לפחות בחיסון אחד בהתאם לגיל, או קיבלו חיסון אחד לפחות מאוחר יותר מהתכנית המומלצת אפילו ביום אחד.
 ילדים שחוסנו חלקית לפי בחירת הוריהם נזקקו לעזרה ראשונה דחופה בשכיחות נמוכה ב-9% מהמחוסנים באופן מלא, ביקרו אצל רופאים ב-5% פחות וחלו בדלקת לוע ומחלות זיהומיות של דרכי נשימה בשכיחות הקטנה ב-11%.
 היחס של &amp;ldquo;מחוסנים חלקית&amp;rdquo; מכלל האוכלוסיה גדל בהתמדה (מ-42% ב-2004 ל-54% ב-2008).</description>
     </item>
@@ -29,8 +29,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/024-assessment-of-temporally-related-acute-respiratory-illness-following-influenza-vaccination./</guid>
       <description>אנשים רבים סבורים כי חיסון נגד שפעת יכול בעצמו לגרום לשפעת. מחברי המחקר ערכו אותו במטרה להראות שאין זה המצב. הם מצאו ש:
-1) לא נרשם הבדל בתחלואה בשפעת בין המחוסנים ללא-מחוסנים.
-2) תחלואה במחלות הזיהומיות האחרות של דרכי הנשימה בילדים מחוסנים הייתה גבוהה יותר ב-71% מהלא-מחוסנים.</description>
+ לא נרשם הבדל בתחלואה בשפעת בין המחוסנים ללא-מחוסנים. תחלואה במחלות הזיהומיות האחרות של דרכי הנשימה בילדים מחוסנים הייתה גבוהה יותר ב-71% מהלא-מחוסנים.  </description>
     </item>
     
     <item>
@@ -48,7 +47,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/unvaccinated/007-influence-of-pediatric-vaccines-on-amygdala-growth-and-opioid-ligand-binding-in-rhesus-macaque-infants-a-pilot-study/</guid>
-      <description>קבוצת קופי מקוק קיבלה חיסונים בהתאם ללוח החיסונים המומלץ של ארה&amp;rdquo;ב לשנת 1999 ונעשתה השוואה ביניהם לקבוצת קופים לא-מחוסנים.
+      <description>קבוצת קופי מקוק קיבלה חיסונים בהתאם ללוח החיסונים המומלץ של ארה&amp;quot;ב לשנת 1999 ונעשתה השוואה ביניהם לקבוצת קופים לא-מחוסנים.
 נפח המוח של קופים המחוסנים היה משמעותית גדול יותר (תופעה זו נצפית גם בילדים אוטיסטים).
 גם נפח האמיגדלה היה גדול משמעותית במחוסנים מאשר בלא-מחוסנים (גם תופעה זו נצפית בילדים אוטיסטים).</description>
     </item>
@@ -69,12 +68,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/unvaccinated/003-pilot-comparative-study-on-the-health-of-vaccinated-and-unvaccinated-6-to-12-year-old-u.s.-children/</guid>
-      <description>מחקר שמשווה בין ילדים בחינוך ביתי ב-4 מדינות ארה&amp;rdquo;ב. השתתפו 405 ילדים מחוסנים ו-261 לא מחוסנים.
+      <description>מחקר שמשווה בין ילדים בחינוך ביתי ב-4 מדינות ארה&amp;quot;ב. השתתפו 405 ילדים מחוסנים ו-261 לא מחוסנים.
 מחלות זיהומיות:
-- המחוסנים חלו באבעבועות רוח בשכיחות נמוכה פי 4, בשעלת בשכיחות נמוכה פי 3 ובאדמת בשכיחות נמוכה פי 10.
-- לעומת זאת המחוסנים חלו בדלקת אוזן תיכונה בשכיחות גבוהה פי 4, ובדלקות ריאות בשכיחות גבוהה פי 6 מהלא-מחוסנים.
-מחלות כרוניות:
-- המחוסנים סבלו פי 30 יותר מנזלת אלרגית, ופי 4 יותר מאלרגיות שונות.</description>
+ המחוסנים חלו באבעבועות רוח בשכיחות נמוכה פי 4, בשעלת בשכיחות נמוכה פי 3 ובאדמת בשכיחות נמוכה פי 10. לעומת זאת המחוסנים חלו בדלקת אוזן תיכונה בשכיחות גבוהה פי 4, ובדלקות ריאות בשכיחות גבוהה פי 6 מהלא-מחוסנים.
+מחלות כרוניות: המחוסנים סבלו פי 30 יותר מנזלת אלרגית, ופי 4 יותר מאלרגיות שונות. המחוסנים אובחנו באוטיזם בשכיחות גבוהה פי 4, בהפרעות קשב וריכוז בשכיחות גבוהה פי 4, סבלו פי 3 יותר מאקזמה, פי 5 מליקויי למידה, פי 4 מהפרעות נוירולוגיות שונות ופי 2.</description>
+    </item>
+    
+    <item>
+      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
+      <description>56% מבין המחוסנים בחיסון DTP סבלו מאסתמה, נזלת כרונית או דרמטיטיס. מבין הלא-מחוסנים רק 9% סבלו מהמחלות הללו.</description>
     </item>
     
     <item>
@@ -87,15 +93,6 @@
 הסיכון למוות בילדים המחוסנים נגד דיפטריה-טטנוס-שעלת (DTP) היה גבוה פי 10 מילדים שלא חוסנו. ילדים שחוסנו גם נגד פוליו (בחיסון OPV &amp;ldquo;חי-מוחלש&amp;rdquo;) מתו &amp;ldquo;רק&amp;rdquo; פי 5 יותר מהלא-מחוסנים.
 אחרי תחילת מתן חיסונים תמותת תינוקות מעל גיל 3 חודשים עלתה פי שניים.
 מחברי המאמר מגיעים למסקנה שהחיסון נגד דיפטריה-טטנוס-שעלת הורג יותר ילדים מאשר הוא מציל.</description>
-    </item>
-    
-    <item>
-      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
-      <description>56% מבין המחוסנים בחיסון DTP סבלו מאסתמה, נזלת כרונית או דרמטיטיס. מבין הלא-מחוסנים רק 9% סבלו מהמחלות הללו.</description>
     </item>
     
     <item>

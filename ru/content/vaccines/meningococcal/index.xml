@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Менингококк on SciBook: анализ публикуемой информации о прививках</title>
@@ -155,6 +155,15 @@ Bexsero содержит наибольшее количество алюмин�
     </item>
     
     <item>
+      <title>Capsule switching of Neisseria meningitidis</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/025-capsule-switching-of-neisseria-meningitidis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/025-capsule-switching-of-neisseria-meningitidis/</guid>
+      <description>Также как и пневмококк, бактерии менингококка умеют менять свою серогруппу.</description>
+    </item>
+    
+    <item>
       <title>CDC Pinkbook Meningococcal</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/002-cdc-pinkbook-meningococcal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -168,12 +177,13 @@ Bexsero содержит наибольшее количество алюмин�
     </item>
     
     <item>
-      <title>Capsule switching of Neisseria meningitidis</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/025-capsule-switching-of-neisseria-meningitidis/</link>
+      <title>Changes in bacterial meningitis</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/005-changes-in-bacterial-meningitis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/025-capsule-switching-of-neisseria-meningitidis/</guid>
-      <description>Также как и пневмококк, бактерии менингококка умеют менять свою серогруппу.</description>
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/005-changes-in-bacterial-meningitis/</guid>
+      <description>Летальность менингококковой инфекции в Шотландии упала с 10.3% в 1946-61 до 1.2% в 1971-86. Заболеваемость снизилась с 7.9 до 5.3 на 100,000 детей.
+Заболеваемость гемофильной инфекцией за это время увеличилась в 4 раза, тогда как летальность упала с 19.2% до 3%.</description>
     </item>
     
     <item>
@@ -185,16 +195,6 @@ Bexsero содержит наибольшее количество алюмин�
       <description>Между 1998 и 2007 заболеваемость менингококковой инфекцией снизилась на 64%. В среднем за эти годы заболеваемость составляла 1 на 200 тысяч, а к 2007-му году заболеваемость менингококком снизилась до 1 на 300 тысяч.
 Самая высокая заболеваемость была среди младенцев младше года (5 на 100 тысяч). 50% случаев у них вызываются серогруппой B. А две трети случаев в первый год жизни происходят среди младенцев младше 6 месяцев.
 Негры болеют на 44% чаще чем белые.</description>
-    </item>
-    
-    <item>
-      <title>Changes in bacterial meningitis</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/005-changes-in-bacterial-meningitis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/005-changes-in-bacterial-meningitis/</guid>
-      <description>Летальность менингококковой инфекции в Шотландии упала с 10.3% в 1946-61 до 1.2% в 1971-86. Заболеваемость снизилась с 7.9 до 5.3 на 100,000 детей.
-Заболеваемость гемофильной инфекцией за это время увеличилась в 4 раза, тогда как летальность упала с 19.2% до 3%.</description>
     </item>
     
     <item>
@@ -340,6 +340,17 @@ FDA получает менее 1% подозреваемых серьезных
     </item>
     
     <item>
+      <title>Meningococcal carriage among a university student population - United States, 2015</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/028-meningococcal-carriage-among-a-university-student-population-united-states-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/028-meningococcal-carriage-among-a-university-student-population-united-states-2015/</guid>
+      <description>Исследование колонизации менингококка в другом университете в Род-Айленде.
+Вакцинация никак не повлияла на колонизацию.
+Курение ассоциировано с повышением риска колонизации в 1.5 раза, а посещение баров как минимум раз в неделю — в 2 раза.</description>
+    </item>
+    
+    <item>
       <title>Meningococcal Carriage Evaluation in Response to a Serogroup B Meningococcal Disease Outbreak and Mass Vaccination Campaign at a College-Rhode Island, 2015-2016</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/027-meningococcal-carriage-evaluation-in-response-to-a-serogroup-b-meningococcal-disease-outbreak-and-mass-vaccination-campaign-at-a-college-rhode-island-2015-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -359,17 +370,6 @@ FDA получает менее 1% подозреваемых серьезных
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/029-meningococcal-carriage-following-a-vaccination-campaign-with-menb-4c-and-menb-fhbp-in-response-to-a-university-serogroup-b-meningococcal-disease-outbreak-oregon-2015-2016/</guid>
       <description>Вследствие вспышки в университете в Орегоне была проведена кампания вакцинации. 11%-17% были носителями менингококка, из них 1.2%-2.4% были носителями серогруппы В.
 Вакцинация 1-2 дозами Бексеро и 1-3 дозами Труменбы никак не повлияла на колонизацию менингококка в целом, и на колонизацию серогруппы В в частности.</description>
-    </item>
-    
-    <item>
-      <title>Meningococcal carriage among a university student population - United States, 2015</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/028-meningococcal-carriage-among-a-university-student-population-united-states-2015/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/028-meningococcal-carriage-among-a-university-student-population-united-states-2015/</guid>
-      <description>Исследование колонизации менингококка в другом университете в Род-Айленде.
-Вакцинация никак не повлияла на колонизацию.
-Курение ассоциировано с повышением риска колонизации в 1.5 раза, а посещение баров как минимум раз в неделю — в 2 раза.</description>
     </item>
     
     <item>
@@ -433,16 +433,6 @@ FDA получает менее 1% подозреваемых серьезных
     </item>
     
     <item>
-      <title>Safety of Quadrivalent Meningococcal Conjugate Vaccine in 11- to 21-Year-Olds</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/034-safety-of-quadrivalent-meningococcal-conjugate-vaccine-in-11-to-21-year-olds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/034-safety-of-quadrivalent-meningococcal-conjugate-vaccine-in-11-to-21-year-olds/</guid>
-      <description>Среди тех, кто получал прививку от менингококка (Менактра/Менвео) вместе с другими прививками, риск лицевого паралича в течение 12 недель после прививки был в 5 раз выше по сравнению с контрольной группой. Правда, в качестве контрольной группы использовались те же самые привитые, только через 12 недель после прививки и далее.
-Риск болезни Хашимото у привитых был в 5.5 раз выше, иридоциклита в 3.1 раз выше, а эпилептического припадка в 2.9 раз выше.</description>
-    </item>
-    
-    <item>
       <title>Safety of a quadrivalent meningococcal serogroups A, C, W and Y conjugate vaccine (MenACWY-CRM) administered with routine infant vaccinations: results of an open-label, randomized, phase 3b controlled study in healthy infants</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/035-safety-of-a-quadrivalent-meningococcal-serogroups-a-c-w-and-y-conjugate-vaccine-menacwy-crm-administered-with-routine-infant-vaccinations-results-of-an-open-label-randomized-phase-3b-controlled-study-in-healthy-infants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -451,6 +441,16 @@ FDA получает менее 1% подозреваемых серьезных
       <description>Клинические испытания вакцины Менвео. 5700 получили Менвео и другие вакцины (DTaP/IPV/Hib/MMR/PCV), и 2000 получили только другие вакцины.
 Среди младенцев, привитых вакциной Менвео и другими вакцинами, серьезные системные реакции наблюдались у 16%, а среди привитых только другими вакцинами — у 13%. Авторы немного поигрались со статистикой и заключили, что никакой разницы между двумя группами не было, и вакцина совершенно безопасна.
 Также в группе привитых от менингококка было в два раза больше умерших, но их смерти никак с вакцинацией не были связаны.</description>
+    </item>
+    
+    <item>
+      <title>Safety of Quadrivalent Meningococcal Conjugate Vaccine in 11- to 21-Year-Olds</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/034-safety-of-quadrivalent-meningococcal-conjugate-vaccine-in-11-to-21-year-olds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/034-safety-of-quadrivalent-meningococcal-conjugate-vaccine-in-11-to-21-year-olds/</guid>
+      <description>Среди тех, кто получал прививку от менингококка (Менактра/Менвео) вместе с другими прививками, риск лицевого паралича в течение 12 недель после прививки был в 5 раз выше по сравнению с контрольной группой. Правда, в качестве контрольной группы использовались те же самые привитые, только через 12 недель после прививки и далее.
+Риск болезни Хашимото у привитых был в 5.5 раз выше, иридоциклита в 3.1 раз выше, а эпилептического припадка в 2.9 раз выше.</description>
     </item>
     
     <item>

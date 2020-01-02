@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Грудное вскармливание on SciBook: анализ публикуемой информации о прививках</title>
@@ -130,16 +130,6 @@
     </item>
     
     <item>
-      <title>Risk Factors for Invasive Pneumococcal Disease in Children: A Population-based Case-Control Study in North America</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/003-risk-factors-for-invasive-pneumococcal-disease-in-children-a-population-based-case-control-study-in-north-america/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/003-risk-factors-for-invasive-pneumococcal-disease-in-children-a-population-based-case-control-study-in-north-america/</guid>
-      <description>Грудное вскармливание (ГВ) ассоциировано со снижением риска пневмококковой инфекции на 73%.
-Здесь сообщается, что риск госпитализации детей не на ГВ из-за пневмонии (не только пневмококковой) был в 17 раз выше, чем детей на ГВ. А среди младенцев младше 3-х месяцев — в 61 раз выше.</description>
-    </item>
-    
-    <item>
       <title>Risk factors for invasive Haemophilus influenzae type b in Los Angeles County children 18-60 months of age</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/014-risk-factors-for-invasive-haemophilus-influenzae-type-b-in-los-angeles-county-children-18-60-months-of-age/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,6 +138,16 @@
       <description>Анализ всех случаев Hib в Лос Анджелесе в 1988/9 (8.7 млн населения, из них 750 тыс детей до 5 лет). Всего было зарегистрировано 88 случаев среди детей за год. Летальность составляла 4.5%.
 Риск Hib у детей в домах, где живут более 2-х курящих, был в 6 раз выше.
 Шесть и более проживающих в одном доме ассоциировано с повышением риска Hib в 3.71 раз. Негры болеют в 3.47 раз чаще. Также риск повышают хроническая болезнь и низкий доход.</description>
+    </item>
+    
+    <item>
+      <title>Risk Factors for Invasive Pneumococcal Disease in Children: A Population-based Case-Control Study in North America</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/003-risk-factors-for-invasive-pneumococcal-disease-in-children-a-population-based-case-control-study-in-north-america/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/003-risk-factors-for-invasive-pneumococcal-disease-in-children-a-population-based-case-control-study-in-north-america/</guid>
+      <description>Грудное вскармливание (ГВ) ассоциировано со снижением риска пневмококковой инфекции на 73%.
+Здесь сообщается, что риск госпитализации детей не на ГВ из-за пневмонии (не только пневмококковой) был в 17 раз выше, чем детей на ГВ. А среди младенцев младше 3-х месяцев — в 61 раз выше.</description>
     </item>
     
     <item>

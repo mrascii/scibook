@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anti-vaxxers on SciBook: analysis of published information about vaccinations and infections</title>
@@ -42,15 +42,6 @@ And here are some more unusually important studies for which taxpayers&amp;rsquo
     </item>
     
     <item>
-      <title>A Population-Based Evaluation of a Publicly Funded, School-Based HPV Vaccine Program in British Columbia, Canada: Parental Factors Associated with HPV Vaccine Receipt</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/010-a-population-based-evaluation-of-a-publicly-funded-school-based-hpv-vaccine-program-in-british-columbia-canada-parental-factors-associated-with-hpv-vaccine-receipt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/010-a-population-based-evaluation-of-a-publicly-funded-school-based-hpv-vaccine-program-in-british-columbia-canada-parental-factors-associated-with-hpv-vaccine-receipt/</guid>
-      <description>More educated parents more often refused HPV vaccines for their daughters. (Canada)</description>
-    </item>
-    
-    <item>
       <title>A comparison of the use of language in in-formation and anti-vaccination in the response to a high profile Facebook post</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/020-a-comparison-of-the-use-of-language-in-in-formation-and-anti-vaccination-in-the-response-to-a-high-profile-facebook-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -58,6 +49,15 @@ And here are some more unusually important studies for which taxpayers&amp;rsquo
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/020-a-comparison-of-the-use-of-language-in-in-formation-and-anti-vaccination-in-the-response-to-a-high-profile-facebook-post/</guid>
       <description>The authors of the study analyzed comments on the post of Mark Zuckerberg on Facebook. They concluded that anti-vaccination comments were more analytical, and were greater in this case. Comments on vaccines were characterized by increased anxiety.
 Here the authors analyzed the anti-vaccination movement on Facebook, and concluded that the majority of participants in anti-vaccination groups are women.</description>
+    </item>
+    
+    <item>
+      <title>A Population-Based Evaluation of a Publicly Funded, School-Based HPV Vaccine Program in British Columbia, Canada: Parental Factors Associated with HPV Vaccine Receipt</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/010-a-population-based-evaluation-of-a-publicly-funded-school-based-hpv-vaccine-program-in-british-columbia-canada-parental-factors-associated-with-hpv-vaccine-receipt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/010-a-population-based-evaluation-of-a-publicly-funded-school-based-hpv-vaccine-program-in-british-columbia-canada-parental-factors-associated-with-hpv-vaccine-receipt/</guid>
+      <description>More educated parents more often refused HPV vaccines for their daughters. (Canada)</description>
     </item>
     
     <item>
@@ -142,7 +142,7 @@ When parents are told that MMR is not related to autism, they agree, but their i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/anti-vaxx/004-effects-of-maternal-and-provider-characteristics-on-the-up-to-date-immunization-status-of-children-aged-19-to-35-months/</guid>
-      <description>The lower the mother&amp;rsquo;s level of education, and the poorer, the higher the chance that she fully vaccinates her children.
+      <description>The lower the mother&#39;s level of education, and the poorer, the higher the chance that she fully vaccinates her children.
 More African and Latin Americans are vaccinating their children, and the poorer they are, the more they vaccinate. (USA)</description>
     </item>
     

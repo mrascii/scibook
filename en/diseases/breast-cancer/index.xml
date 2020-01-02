@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breast cancer on SciBook: analysis of published information about vaccinations and infections</title>
@@ -17,10 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/aluminium/034-aluminum-antiperspirants-and-breast-cancer/</guid>
-      <description>Aluminum in antiperspirants blocks the sweat glands preventing them from releasing sweat, which is what makes them so effective.
- The cause of 90% of breast cancer is environmental, not genetic.
- In 1926 only 31% of cancer tumors were located in upper outer part of the breast. In 1994 the numbers increased to 61%. This proportion is growing linearly each year.
- Genomic instability in outer part of the breast is constantly increasing.</description>
+      <description>Aluminum in antiperspirants blocks the sweat glands preventing them from releasing sweat, which is what makes them so effective. The cause of 90% of breast cancer is environmental, not genetic. In 1926 only 31% of cancer tumors were located in upper outer part of the breast. In 1994 the numbers increased to 61%. This proportion is growing linearly each year. Genomic instability in outer part of the breast is constantly increasing.</description>
     </item>
     
   </channel>

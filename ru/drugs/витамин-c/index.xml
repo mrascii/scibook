@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Витамин C on SciBook: анализ публикуемой информации о прививках</title>
@@ -98,10 +98,7 @@ Clark (1976). [1]. J Nutr Sci Vitaminol (Tokyo)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/diphtheria/030-effects-of-vitamin-c-intake-upon-the-degree-of-tooth-injury-produced-by-diphtheria-toxin/</guid>
-      <description>Когда морским свинкам вкалывают сублетальную дозу дифтерийного токсина, наблюдается 30-50% снижение уровня витамина С в тканях в течение 24-48 часов.
- У детей, которые получали мало витамина С, во время инфекции начиналась цинга. Она спонтанно проходила после выздоровления, без увеличения витамина С в диете.
- То, что коррелирует с отсутствием кариеса у детей 10-14 лет, это хорошее питание и отсутствие болезней в младенчестве и в детстве.
- Морским свинкам вкололи 0.</description>
+      <description>Когда морским свинкам вкалывают сублетальную дозу дифтерийного токсина, наблюдается 30-50% снижение уровня витамина С в тканях в течение 24-48 часов. У детей, которые получали мало витамина С, во время инфекции начиналась цинга. Она спонтанно проходила после выздоровления, без увеличения витамина С в диете. То, что коррелирует с отсутствием кариеса у детей 10-14 лет, это хорошее питание и отсутствие болезней в младенчестве и в детстве. Морским свинкам вкололи 0.4 или 0.</description>
     </item>
     
     <item>
@@ -118,15 +115,6 @@ Clark (1976). [1]. J Nutr Sci Vitaminol (Tokyo)</description>
     </item>
     
     <item>
-      <title>Inactivation of Tetanus Toxin by Crystalline Vitamin C</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/043-inactivation-of-tetanus-toxin-by-crystalline-vitamin-c/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/043-inactivation-of-tetanus-toxin-by-crystalline-vitamin-c/</guid>
-      <description>Витамин С инактивирует тетаноспазмин in vitro, но не in vivo на морских свинках.</description>
-    </item>
-    
-    <item>
       <title>Inactivation of poliomyelitis virus in vitro by crystalline vitamin C (ascorbic asid)</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/057-inactivation-of-poliomyelitis-virus-in-vitro-by-crystalline-vitamin-c-ascorbic-asid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -134,6 +122,15 @@ Clark (1976). [1]. J Nutr Sci Vitaminol (Tokyo)</description>
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/057-inactivation-of-poliomyelitis-virus-in-vitro-by-crystalline-vitamin-c-ascorbic-asid/</guid>
       <description>Полиовирус особенно чувствителен к оксидантам, таким как перекись водорода и марганцовка, и в то же время совсем не чувствителен к таким ядам, как фенол.
 Тридцать макак получили укол полиовируса в мозг, с добавкой натурального витамина С, который был любезно предоставлен Merck. Макаки, которые не получили витамина, или получили 0.05 мг, были полностью парализованы вирусом. 0.1-1 мг витамина спасали лишь некоторых макак от паралича, а при дозе в 5-10 мг паралича уже не было ни у кого.</description>
+    </item>
+    
+    <item>
+      <title>Inactivation of Tetanus Toxin by Crystalline Vitamin C</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/043-inactivation-of-tetanus-toxin-by-crystalline-vitamin-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/043-inactivation-of-tetanus-toxin-by-crystalline-vitamin-c/</guid>
+      <description>Витамин С инактивирует тетаноспазмин in vitro, но не in vivo на морских свинках.</description>
     </item>
     
     <item>
@@ -180,8 +177,7 @@ Clark (1976). [1]. J Nutr Sci Vitaminol (Tokyo)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/diphtheria/029-the-influence-of-vitamin-c-deficiency-upon-the-resistance-of-guinea-pigs-to-diphtheria-toxin-glucose-tolerance/</guid>
-      <description>Недостаток витамина С приводит к пониженной сопротивляемости к инфекциям, и к повышенным повреждениям от бактериальных токсинов. Пониженная сопротивляемость проявляется до того, как видны симптомы цинги.
- У морских свинок на диете с низким витамином С, которым вкололи сублетальную дозу дифтерийного токсина, наблюдалось более широкое повреждение тканей, большее снижение веса, более широкие области некроза, худшее развитие зубов, и низкая продолжительность жизни по сравнению с морскими свинками, которых не ограничивали в витамине.</description>
+      <description>Недостаток витамина С приводит к пониженной сопротивляемости к инфекциям, и к повышенным повреждениям от бактериальных токсинов. Пониженная сопротивляемость проявляется до того, как видны симптомы цинги. У морских свинок на диете с низким витамином С, которым вкололи сублетальную дозу дифтерийного токсина, наблюдалось более широкое повреждение тканей, большее снижение веса, более широкие области некроза, худшее развитие зубов, и низкая продолжительность жизни по сравнению с морскими свинками, которых не ограничивали в витамине.</description>
     </item>
     
     <item>
@@ -200,9 +196,7 @@ Clark (1976). [1]. J Nutr Sci Vitaminol (Tokyo)</description>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/036-the-poison-cause-of-poliomyelitis-and-obstructions-to-its-investigation/</guid>
       <description>Здесь приводится анализ десятков случаев и вспышек полиомиелита, в которых причиной паралича были отравления свинцом, мышьяком, ртутью, цианидом, пестицидами, угарным газом и т.д.
-Также сообщается, что витамин С, который эффективно лечит полиомиелит, использовался также для лечения отравлений.
- Столетие назад было замечено, что лимонный сок защищает от отравления рыбой, что иногда приводило к параличу. Это, возможно, причина того, что рыбу сегодня обычно подают с лимонным соком.
- Обезьяны ни разу не заражались друг от друга полиомиелитом.</description>
+Также сообщается, что витамин С, который эффективно лечит полиомиелит, использовался также для лечения отравлений. Столетие назад было замечено, что лимонный сок защищает от отравления рыбой, что иногда приводило к параличу. Это, возможно, причина того, что рыбу сегодня обычно подают с лимонным соком. Обезьяны ни разу не заражались друг от друга полиомиелитом.</description>
     </item>
     
     <item>
@@ -221,18 +215,8 @@ Clark (1976). [1]. J Nutr Sci Vitaminol (Tokyo)</description>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/060-the-treatment-of-poliomyelitis-and-other-virus-diseases-with-vitamin-c/</guid>
       <description>(полный текст)
-- Уровень витамина С в моче у больных полиомиелитом был ниже, чем у здоровых.
-- 60 больных полиомиелитом поступили на лечение. Им не делали люмбальную пункцию чтобы окончательно подтвердить диагноз, во-первых, потому что если вирус уже в крови, но не достиг нервной системы, то люмбальная пункция может ему в этом помочь, а во-вторых, иначе их бы нужно было отправить на конвенциональное лечение.
+ Уровень витамина С в моче у больных полиомиелитом был ниже, чем у здоровых. 60 больных полиомиелитом поступили на лечение. Им не делали люмбальную пункцию чтобы окончательно подтвердить диагноз, во-первых, потому что если вирус уже в крови, но не достиг нервной системы, то люмбальная пункция может ему в этом помочь, а во-вторых, иначе их бы нужно было отправить на конвенциональное лечение.
 Все получали 1-2 г витамина С внутривенно каждые 2-4 часа в первые сутки, а потом каждые 6 часов.</description>
-    </item>
-    
-    <item>
-      <title>Vitamin C Potentiates the Killing of Mycobacterium tuberculosis by the First-Line Tuberculosis Drugs Isoniazid and Rifampin in Mice</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/032-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/032-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</guid>
-      <description>Комбинирование витамина С с лекарствами от туберкулеза приводит к более быстрому выздоровлению у мышей.</description>
     </item>
     
     <item>
@@ -267,6 +251,15 @@ Clark (1976). [1]. J Nutr Sci Vitaminol (Tokyo)</description>
       <description>(полный текст)
 Здесь описываются несколько случаев излечения от острого полиомиелита большими дозами витамина С (по 10 г каждые 3 часа). Излечение происходило за несколько дней.
 Здесь сообщается, что витамин С инактивирует полиовирус in vitro, а также другие энтеровирусы — Коксаки и эховирус.</description>
+    </item>
+    
+    <item>
+      <title>Vitamin C Potentiates the Killing of Mycobacterium tuberculosis by the First-Line Tuberculosis Drugs Isoniazid and Rifampin in Mice</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/032-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/032-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</guid>
+      <description>Комбинирование витамина С с лекарствами от туберкулеза приводит к более быстрому выздоровлению у мышей.</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Гепатит B on SciBook: анализ публикуемой информации о прививках</title>
@@ -86,7 +86,7 @@ Engerix-B содержит гидроксид алюминия, а Recombivax а
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hepatitisb/009/</guid>
-      <description>В большинстве европейских стран новорожденным не делают прививку от гепатита В, а прививают их через 2-3 месяца после рождения. В некоторых странах (Финляндия, Исландия, Дания, Венгрия) детей вообще не прививают от гепатита В, но эпидемий там не наблюдается. Наоборот, уровень смертности от гепатита В в них намного ниже чем в среднем по Европе.</description>
+      <description>В большинстве европейских стран новорожденным не делают прививку от гепатита В, а прививают их через 2-3 месяца после рождения. В некоторых странах (Финляндия, Исландия, Дания, Венгрия) детей вообще не прививают от гепатита В, но эпидемий там не наблюдается. Наоборот, уровень смертности от гепатита В в них намного [ниже](http://global-disease-burden.healthgrove.com/l/27593/Hepatitis-B-in-Iceland#Impact in Similar Locations&amp;amp;s=1hHHUH) чем в среднем по Европе.</description>
     </item>
     
     <item>
@@ -105,7 +105,7 @@ Engerix-B содержит гидроксид алюминия, а Recombivax а
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hepatitisb/037/</guid>
-      <description>В VAERS зарегистрированы 1540 случаев смерти, 600 случаев инвалидности и 8675 серьезных осложнений у детей до года после прививки от гепатита В (то есть реальное количество в 10-100 раз больше).</description>
+      <description>В VAERS [зарегистрированы](http://www.medalerts.org/vaersdb/findfield.php?TABLE=ON&amp;amp;GROUP1=CAT&amp;amp;VAX[]=6VAX-F&amp;amp;VAX[]=DTAPHEPBIP&amp;amp;VAX[]=DTPHEP&amp;amp;VAX[]=HBHEPB&amp;amp;VAX[]=HEP&amp;amp;VAX[]=HEPAB&amp;amp;VAXTYPES[]=Hepatitis B&amp;amp;AGES[]=1&amp;amp;AGES[]=2) 1540 случаев смерти, 600 случаев инвалидности и 8675 серьезных [осложнений](http://www.medalerts.org/vaersdb/findfield.php?TABLE=ON&amp;amp;GROUP1=SER&amp;amp;VAX[]=6VAX-F&amp;amp;VAX[]=DTAPHEPBIP&amp;amp;VAX[]=DTPHEP&amp;amp;VAX[]=HBHEPB&amp;amp;VAX[]=HEP&amp;amp;VAX[]=HEPAB&amp;amp;VAXTYPES[]=Hepatitis B&amp;amp;AGES[]=1&amp;amp;AGES[]=2) у детей до года после прививки от гепатита В (то есть реальное количество в 10-100 раз больше).</description>
     </item>
     
     <item>

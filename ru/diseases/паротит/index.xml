@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Паротит on SciBook: анализ публикуемой информации о прививках</title>
@@ -27,6 +27,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/031-an-evaluation-of-the-adverse-reaction-potential-of-three-measles-mumps-rubella-combination-vaccines/</guid>
+      <description>Сравнение трех разных вакцин MMR. Прививки повышали риск лимфаденопатиии в 3.11/2.22/1.4 раз, и риск паротита в 5.72/2.33/2.46 раз.</description>
+    </item>
+    
+    <item>
+      <title>An evaluation of the adverse reaction potential of three measles-mumps-rubella combination vaccines</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/032-an-evaluation-of-the-adverse-reaction-potential-of-three-measles-mumps-rubella-combination-vaccines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rubella/032-an-evaluation-of-the-adverse-reaction-potential-of-three-measles-mumps-rubella-combination-vaccines/</guid>
       <description>Сравнение трех разных вакцин MMR. Прививки повышали риск лимфаденопатиии в 3.11/2.22/1.4 раз, и риск паротита в 5.72/2.33/2.46 раз.</description>
     </item>
     

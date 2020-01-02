@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>שחלוף זנים on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/044/</guid>
-      <description>עוד מספר מאמרים הדנים בהחלפת הזנים שבחיסון ע&amp;rdquo;י הזנים שלא נכללים בחיסון: [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17].
+      <description>עוד מספר מאמרים הדנים בהחלפת הזנים שבחיסון ע&amp;quot;י הזנים שלא נכללים בחיסון: [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17].
 …ובהחלפת הפנאומוקוק בהמופילוס אינפלונזה וחיידקים אחרים: [1], [2], [3], [4], [5], [6], [7].</description>
     </item>
     
@@ -64,7 +64,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/054-changes-in-frequency-and-pathogens-causing-acute-otitis-media-in-1995-2003/</guid>
-      <description>התחלואה בדלקת אקוטית של האוזן התיכונה לא השתנתה בין 1995 ל-2003, אך החלק היחסי של דלקת ממושכת ירד מ-16% ל-12%, כשהמופולוס אינפלואנזה החליף את פנאומוקוק כגורם העיקרי לתחלואה (רוצ&amp;rsquo;סטר, ניו יורק).</description>
+      <description>התחלואה בדלקת אקוטית של האוזן התיכונה לא השתנתה בין 1995 ל-2003, אך החלק היחסי של דלקת ממושכת ירד מ-16% ל-12%, כשהמופולוס אינפלואנזה החליף את פנאומוקוק כגורם העיקרי לתחלואה (רוצ&#39;סטר, ניו יורק).</description>
     </item>
     
     <item>
@@ -115,15 +115,6 @@
     </item>
     
     <item>
-      <title>Effect of Pneumococcal Conjugate Vaccination on Serotype-Specific Carriage and Invasive Disease in England: A Cross-Sectional Study</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</guid>
-      <description>באנגליה ירד היקף הנשאות בסרוטיפים החיסוניים ועלה בשאר הסרוטיפים. בספירה כללית היקף הנשאות עלה ב-6% (אין מובהקות סטטיסטית).</description>
-    </item>
-    
-    <item>
       <title>Effect of conjugate pneumococcal vaccine followed by polysaccharide pneumococcal vaccine on recurrent acute otitis media: a randomised study</title>
       <link>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/056-effect-of-conjugate-pneumococcal-vaccine-followed-by-polysaccharide-pneumococcal-vaccine-on-recurrent-acute-otitis-media-a-randomised-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,6 +122,15 @@
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/056-effect-of-conjugate-pneumococcal-vaccine-followed-by-polysaccharide-pneumococcal-vaccine-on-recurrent-acute-otitis-media-a-randomised-study/</guid>
       <description>ניסוי אקראי מבוקר כפול-סמיות שחקר את השפעת החיסון נגד פנאומוקוק על דלקת האוזן התיכונה בקרב ילדים בני שנה ומעלה בעלי נטיה לדלקת זו. בתור פלסבו השתמשו בחיסונים נגד הפטיטיס A ו-B.
 התחלואה בדלקת האוזן התיכונה בקרב המחוסנים הייתה גבוהה ב-25%, אם כי המובהקות הסטטיסטית הייתה גבולית (CI 0.99-1.57). בקרב ילדים מעל גיל שנתיים החיסון העלה את הסיכון לדלקת אוזניים ב-45%. בילדים שאינם בעלי נטיה לדלקת, החיסון העלה את הסיכון ב-66%.</description>
+    </item>
+    
+    <item>
+      <title>Effect of Pneumococcal Conjugate Vaccination on Serotype-Specific Carriage and Invasive Disease in England: A Cross-Sectional Study</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/052-effect-of-pneumococcal-conjugate-vaccination-on-serotype-specific-carriage-and-invasive-disease-in-england-a-cross-sectional-study/</guid>
+      <description>באנגליה ירד היקף הנשאות בסרוטיפים החיסוניים ועלה בשאר הסרוטיפים. בספירה כללית היקף הנשאות עלה ב-6% (אין מובהקות סטטיסטית).</description>
     </item>
     
     <item>
@@ -144,16 +144,6 @@
     </item>
     
     <item>
-      <title>Emergence of Multidrug-Resistant Pneumococcal Serotype 35B among Children in the United States</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</guid>
-      <description>לאחר תחילת התחסנות נוצר סרוטיפ חדש 35B שתחילה לא היה נפוץ אך משנה לשנה גורם לכמויות רבות יותר של זיהומים פנאומוקוקיים. הסרוטיפ הזה קטלני פי 5 משאר הסרוטיפים ולעתים קרובות עמוד לאנטיביוטיקה.
-התחלואה בפנאומוקוק ירדה פי 2 תוך שנתיים אחרי תחילת החיסון, ונותרה מאז ברמה קבועה. עוד: [1].</description>
-    </item>
-    
-    <item>
       <title>Emergence of invasive pneumococcal disease caused by nonvaccine serotypes in the era of 7-valent conjugate vaccine</title>
       <link>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/035-emergence-of-invasive-pneumococcal-disease-caused-by-nonvaccine-serotypes-in-the-era-of-7-valent-conjugate-vaccine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -162,6 +152,16 @@
       <description>בברצלונה אחרי תחילת החיסון התחלואה בזיהומים פנאומוקוקיים עלתה ב-58%, ובקרב הילדים – ב-135%.
 התחלואה בסרוטיפים מהחיסון ירדה ב-40%, ואילו התחלואה בסרוטיפים שלא נכללו בחיסון עלתה ב-531%.
 התחלואה בדלקות ריאות וסיבוכי הצטברות מוגלה עלתה ב-320% בקרב ילדים מתחת לגיל 5.</description>
+    </item>
+    
+    <item>
+      <title>Emergence of Multidrug-Resistant Pneumococcal Serotype 35B among Children in the United States</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/034-emergence-of-multidrug-resistant-pneumococcal-serotype-35b-among-children-in-the-united-states/</guid>
+      <description>לאחר תחילת התחסנות נוצר סרוטיפ חדש 35B שתחילה לא היה נפוץ אך משנה לשנה גורם לכמויות רבות יותר של זיהומים פנאומוקוקיים. הסרוטיפ הזה קטלני פי 5 משאר הסרוטיפים ולעתים קרובות עמוד לאנטיביוטיקה.
+התחלואה בפנאומוקוק ירדה פי 2 תוך שנתיים אחרי תחילת החיסון, ונותרה מאז ברמה קבועה. עוד: [1].</description>
     </item>
     
     <item>
@@ -218,7 +218,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/026-increasing-incidence-of-invasive-haemophilus-influenzae-disease-in-adults-utah-usa/</guid>
-      <description>החיסון הפחית כמות מקרי HiB בילדים ב-99%, אך התחלואה בהמופילוס אינפלואנזה בקרב מבוגרים עלתה פי 11.5 בין 1998 לבין 2008. רוב התחלואה נגרמה ע&amp;rdquo;י סרוטיפ F וזנים נטולי קפסולה. התמותה עמדה על 22%.</description>
+      <description>החיסון הפחית כמות מקרי HiB בילדים ב-99%, אך התחלואה בהמופילוס אינפלואנזה בקרב מבוגרים עלתה פי 11.5 בין 1998 לבין 2008. רוב התחלואה נגרמה ע&amp;quot;י סרוטיפ F וזנים נטולי קפסולה. התמותה עמדה על 22%.</description>
+    </item>
+    
+    <item>
+      <title>Invasive disease due to Haemophilus influenzae serotype f: clinical and epidemiologic characteristics in the H. influenzae serotype b vaccine era. The Haemophilus influenzae Study Group</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/hib/029-invasive-disease-due-to-haemophilus-influenzae-serotype-f-clinical-and-epidemiologic-characteristics-in-the-h.-influenzae-serotype-b-vaccine-era.-the-haemophilus-influenzae-study-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/029-invasive-disease-due-to-haemophilus-influenzae-serotype-f-clinical-and-epidemiologic-characteristics-in-the-h.-influenzae-serotype-b-vaccine-era.-the-haemophilus-influenzae-study-group/</guid>
+      <description>בין 1989 ל-1994 התחלואה בסרוטיפ F עלתה פי 3.8 ועומדת כעת על 17% מכל מקרי המופילוס אינפלואנזה. התמותה כתוצאה מהסרוטיפ הזה עומדת על 30% בקרב המבוגרים ועל 21% בקרב הילדים.</description>
     </item>
     
     <item>
@@ -240,15 +249,6 @@
     </item>
     
     <item>
-      <title>Invasive disease due to Haemophilus influenzae serotype f: clinical and epidemiologic characteristics in the H. influenzae serotype b vaccine era. The Haemophilus influenzae Study Group</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/hib/029-invasive-disease-due-to-haemophilus-influenzae-serotype-f-clinical-and-epidemiologic-characteristics-in-the-h.-influenzae-serotype-b-vaccine-era.-the-haemophilus-influenzae-study-group/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/029-invasive-disease-due-to-haemophilus-influenzae-serotype-f-clinical-and-epidemiologic-characteristics-in-the-h.-influenzae-serotype-b-vaccine-era.-the-haemophilus-influenzae-study-group/</guid>
-      <description>בין 1989 ל-1994 התחלואה בסרוטיפ F עלתה פי 3.8 ועומדת כעת על 17% מכל מקרי המופילוס אינפלואנזה. התמותה כתוצאה מהסרוטיפ הזה עומדת על 30% בקרב המבוגרים ועל 21% בקרב הילדים.</description>
-    </item>
-    
-    <item>
       <title>Invasive meningococcal disease in Quebec, Canada, due to an emerging clone of ST-269 serogroup B meningococci with serotype antigen 17 and serosubtype antigen P1.19 (B:17:P1.19)</title>
       <link>https://mrascii.github.io/scibook/he/content/vaccines/meningococcal/026-invasive-meningococcal-disease-in-quebec-canada-due-to-an-emerging-clone-of-st-269-serogroup-b-meningococci-with-serotype-antigen-17-and-serosubtype-antigen-p1.19-b17p1.19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -263,8 +263,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/037-invasive-pneumococcal-disease-caused-by-nonvaccine-serotypes-among-alaska-native-children-with-high-levels-of-7-valent-pneumococcal-conjugate-vaccine-coverage/</guid>
-      <description>ילדי האוכלוסיה האבוריג&amp;rsquo;נית באלסקה לוקים בזיהומים פנאומוקוקיים פולשניים פי 3 יותר מאשר בממוצע בארה&amp;rdquo;ב.
-תוך 3 השנים הראשונות מאז תחילת ההתחסנות (2001-2003) התחלואה בזיהומי פנאומוקוק בילדי אבוריג&amp;rsquo;נים מתחת לגיל שנתיים ירדה ב-67%. אך לאחר מכן בשנים 2004-2006 התחלואה עלתה ב-82%. התחלואה בסרוטיפים שבחיסון ירדה ב-96% והתחלואה בסרוטיפים שבחיסון עלתה ב-140%.
+      <description>ילדי האוכלוסיה האבוריג&#39;נית באלסקה לוקים בזיהומים פנאומוקוקיים פולשניים פי 3 יותר מאשר בממוצע בארה&amp;quot;ב.
+תוך 3 השנים הראשונות מאז תחילת ההתחסנות (2001-2003) התחלואה בזיהומי פנאומוקוק בילדי אבוריג&#39;נים מתחת לגיל שנתיים ירדה ב-67%. אך לאחר מכן בשנים 2004-2006 התחלואה עלתה ב-82%. התחלואה בסרוטיפים שבחיסון ירדה ב-96% והתחלואה בסרוטיפים שבחיסון עלתה ב-140%.
 כמות המקרים עם סיבוכים מוגלתיים עלתה מ-2% ל-13%. החלק היחסי של דלקות ריאות עם זיהומי דם עלה מ-40% ל-57%.
 ב-2004 41% מהאוכלוסיה היו נשאים של הפנאומוקוק.</description>
     </item>
@@ -275,7 +275,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/048-post-pcv7-changes-in-colonizing-pneumococcal-serotypes-in-16-massachusetts-communities-2001-and-2004/</guid>
-      <description>במסצ&amp;rsquo;וסטס, ארה&amp;rdquo;ב, בין 2001 ל-2004 הנשאות של שבעת הסרוטיפים החיסוניים בקרב ילדים מתחת לגיל 7 ירדה, ונשאות של הסרוטיפים האחרים עלתה. באופן כללי הנשאות של הפנאומוקוק כמעט ולא השתנתה. העמידות לפניצילין עלתה מ-8% ל-25% בסרוטיפים הלא-חיסוניים, ומ-45% ל-56% בסרוטיפים החיסוניים.</description>
+      <description>במסצ&#39;וסטס, ארה&amp;quot;ב, בין 2001 ל-2004 הנשאות של שבעת הסרוטיפים החיסוניים בקרב ילדים מתחת לגיל 7 ירדה, ונשאות של הסרוטיפים האחרים עלתה. באופן כללי הנשאות של הפנאומוקוק כמעט ולא השתנתה. העמידות לפניצילין עלתה מ-8% ל-25% בסרוטיפים הלא-חיסוניים, ומ-45% ל-56% בסרוטיפים החיסוניים.</description>
     </item>
     
     <item>
@@ -285,7 +285,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/pneumococcal/055-predominance-of-nontypeable-haemophilus-influenzae-in-children-with-otitis-media-following-introduction-of-a-3&#43;0-pneumococcal-conjugate-vaccine-schedule/</guid>
       <description>פנאומוקוק והמופילוס אינפלואנזה הם &amp;ldquo;האחראים&amp;rdquo; ל-80% ממקרי דלקת אקוטית של אוזן תיכונה. החיידק М.catarrhalis גורם ל-3&amp;ndash;20% מהמקרים.
-אחרי תחילת ההתחסנות רוב מקרי דלקת אוזניים החלו להיגרם ע&amp;rdquo;י סרוטיפים נטולי קפסולה של המופילוס אינפלואנזה.</description>
+אחרי תחילת ההתחסנות רוב מקרי דלקת אוזניים החלו להיגרם ע&amp;quot;י סרוטיפים נטולי קפסולה של המופילוס אינפלואנזה.</description>
     </item>
     
     <item>
@@ -304,7 +304,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/022-prevention-of-haemophilus-influenzae-type-b-hib-meningitis-and-emergence-of-serotype-replacement-with-type-a-strains-after-introduction-of-hib-immunization-in-brazil/</guid>
-      <description>שנה לאחר תחילת החיסון בברזיל כמות מקרי דלקת קרום המוח הנגרמת ע&amp;rdquo;י HiB פחתה ב-69% (מ-2.62 ל-0.81 ל-100,000). כמות מקרי דלקת קרום המוח הנגרמת ע&amp;rdquo;י HiA עלתה פי 8 (מ-0.02 ל-0.16 ל-100,000).
+      <description>שנה לאחר תחילת החיסון בברזיל כמות מקרי דלקת קרום המוח הנגרמת ע&amp;quot;י HiB פחתה ב-69% (מ-2.62 ל-0.81 ל-100,000). כמות מקרי דלקת קרום המוח הנגרמת ע&amp;quot;י HiA עלתה פי 8 (מ-0.02 ל-0.16 ל-100,000).
 מבחינה קלינית הוירולנטיות של HiB ו-HiA אינה שונה. התמותה כתוצאה מ-HiA עמדה על 23%.</description>
     </item>
     
@@ -323,8 +323,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/papilloma/018-shift-in-prevalence-of-hpv-types-in-cervical-cytology-specimens-in-the-era-of-hpv-vaccination/</guid>
-      <description>הזנים האונקוגניים 16 ו-18 שוחלפו ע&amp;rdquo;י זנים אונקוגניים אחרים: 31, 51, 53, 56 ו-66.
-עוד שלושה מחקרים עם מסקנות דומות שנערכו באיטליה, הולנד וארה&amp;rdquo;ב.</description>
+      <description>הזנים האונקוגניים 16 ו-18 שוחלפו ע&amp;quot;י זנים אונקוגניים אחרים: 31, 51, 53, 56 ו-66.
+עוד שלושה מחקרים עם מסקנות דומות שנערכו באיטליה, הולנד וארה&amp;quot;ב.</description>
     </item>
     
     <item>
@@ -343,7 +343,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/hib/028-the-changing-epidemiology-of-invasive-haemophilus-influenzae-disease-especially-in-persons-or-65-years-old/</guid>
-      <description>מ-1996 ועד 2004 כמות מקרי HiB באילינוי, ארה&amp;rdquo;ב גדלה פי 2.5, ובקרב המבוגרים – פי 3.5.
+      <description>מ-1996 ועד 2004 כמות מקרי HiB באילינוי, ארה&amp;quot;ב גדלה פי 2.5, ובקרב המבוגרים – פי 3.5.
 התחלואה בזנים נטולי קפסולה עלתה ב-657%. אם ב-1996 HiB נטול קפסולה היה גורם ל-17% מהמקרים, ב-2004 הוא היה גורם כבר ל-70% מהמקרים. התמותה עמדה על 13%, ובקרב הקשישים – 21%.
 התמותה כתוצאה מסרוטיפ F עמדה על 11% בקרב הקשישים, ומסרוטיפ E על 38%.</description>
     </item>

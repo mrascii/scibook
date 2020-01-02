@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Индия on SciBook: анализ публикуемой информации о прививках</title>
@@ -13,21 +13,21 @@
     
     <item>
       <title></title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/sids/013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/sids/013/</guid>
-      <description>Здесь сообщается, что более 10,000 детей в Индии умерли от побочных эффектов вакцин за последние 10 лет.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/diphtheria/036/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/diphtheria/036/</guid>
       <description>А вот данные из Индии, более-менее единственной страны в мире, где еще осталась дифтерия. Несмотря на выросший охват вакцинации, количество случаев дифтерии не особо уменьшается с 80-х годов.
   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/sids/013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/sids/013/</guid>
+      <description>Здесь сообщается, что более 10,000 детей в Индии умерли от побочных эффектов вакцин за последние 10 лет.</description>
     </item>
     
     <item>
@@ -85,7 +85,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/024-evaluation-of-non-specific-effects-of-infant-immunizations-on-early-infant-mortality-in-a-southern-indian-population/</guid>
-      <description>Исследование неспецифических эффектов вакцины в южной Индии (11,000 младенцев).
+      <description>Исследование неспецифических эффектов вакцины в южной Индии (10 000 младенцев).
 Среди привитых одной из вакцин DTP или БЦЖ, смертность была ниже, чем у непривитых. Однако среди привитых обеими вакцинами смертность была такой же, как у непривитых.
 У девочек, которые получили обе вакцины, смертность была в 4.5 раза выше, чем у привитых одной вакциной.
 Младенцев, которые умерли в первую неделю после прививки, авторы не учитывали, так как смертность была высокая, могла затмить релевантные ассоциации, и, по их мнению, не могла быть вызвана неспецифическими эффектами БЦЖ.</description>
@@ -119,7 +119,7 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/038-polio-eradication-in-india-some-observations/</guid>
       <description>Мировое искоренение полиовируса должно было завершиться к 2000 году, однако эта цель сдвинулась сначала на 2002 год, а затем на 2005-й. Несмотря на согласованные усилия, полиовирус в Индии не смогли искоренить. Возможно, вместо того, чтобы снова и снова сдвигать крайний срок искоренения, пришло время остановиться и задуматься, почему эта цель не достигается. Мы полагаем, что у этого есть 4 причины.
-1) Неэффективность живой вакцины. Уже в 1960-х было известно, что в странах с теплым климатом OPV менее эффективна.</description>
+ Неэффективность живой вакцины. Уже в 1960-х было известно, что в странах с теплым климатом OPV менее эффективна.</description>
     </item>
     
     <item>
@@ -148,7 +148,7 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/039-some-ethical-issues-arising-from-polio-eradication-programmes-in-india/</guid>
       <description>Программа ВОЗ по искоренению полиомиелита в Индии поднимает много этических вопросов. Здесь мы сосредоточимся на двух.
-1) Баланс между рисками и преимуществами программы искоренения полиомиелита.
+ Баланс между рисками и преимуществами программы искоренения полиомиелита.
 В отличие от неактивированной вакцины, живая вакцина вырабатывает также коллективный иммунитет. Поскольку привитый ребенок выделяет вирус, им заражаются также те, с кем он контактирует. То есть каждый привитый человек продолжает распространять прививку далее.
 Правда в процессе распространения вакцинных штаммов вирус мутирует, и согласно японскому исследованию, 69% мутаций полиовируса серотипа 1, 92% мутаций серотипа 2, и 55% мутаций серотипа 3 оказались нейровирулентными.</description>
     </item>

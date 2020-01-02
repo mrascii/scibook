@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Антипрививочники on SciBook: анализ публикуемой информации о прививках</title>
@@ -81,15 +81,6 @@
     </item>
     
     <item>
-      <title>A Population-Based Evaluation of a Publicly Funded, School-Based HPV Vaccine Program in British Columbia, Canada: Parental Factors Associated with HPV Vaccine Receipt</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/anti-vaxx/010-a-population-based-evaluation-of-a-publicly-funded-school-based-hpv-vaccine-program-in-british-columbia-canada-parental-factors-associated-with-hpv-vaccine-receipt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/anti-vaxx/010-a-population-based-evaluation-of-a-publicly-funded-school-based-hpv-vaccine-program-in-british-columbia-canada-parental-factors-associated-with-hpv-vaccine-receipt/</guid>
-      <description>Более образованные родители чаще отказывались от ВПЧ прививки для своих дочерей. (Канада)</description>
-    </item>
-    
-    <item>
       <title>A comparison of language use in pro- and anti-vaccination comments in response to a high proﬁle Facebook post</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/anti-vaxx/020-a-comparison-of-language-use-in-pro-and-anti-vaccination-comments-in-response-to-a-high-profile-facebook-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,6 +88,15 @@
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/anti-vaxx/020-a-comparison-of-language-use-in-pro-and-anti-vaccination-comments-in-response-to-a-high-profile-facebook-post/</guid>
       <description>Авторы исследования проанализировали комментарии к посту Марка Цукерберга на фейсбуке. Они заключили, что комментарии антипрививочников более аналитические, и были больше по делу. Комментарии пропрививочников отличались повышенной тревожностью.
 Здесь авторы проанализировали антипрививочное движение на фейсбуке, и заключили, что большинство участников антипрививочных групп — это женщины.</description>
+    </item>
+    
+    <item>
+      <title>A Population-Based Evaluation of a Publicly Funded, School-Based HPV Vaccine Program in British Columbia, Canada: Parental Factors Associated with HPV Vaccine Receipt</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/anti-vaxx/010-a-population-based-evaluation-of-a-publicly-funded-school-based-hpv-vaccine-program-in-british-columbia-canada-parental-factors-associated-with-hpv-vaccine-receipt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/anti-vaxx/010-a-population-based-evaluation-of-a-publicly-funded-school-based-hpv-vaccine-program-in-british-columbia-canada-parental-factors-associated-with-hpv-vaccine-receipt/</guid>
+      <description>Более образованные родители чаще отказывались от ВПЧ прививки для своих дочерей. (Канада)</description>
     </item>
     
     <item>
@@ -133,7 +133,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/anti-vaxx/018-clinician-parent-discussions-about-influenza-vaccination-of-children-and-their-association-with-vaccine-acceptance/</guid>
-      <description>Если врач заявляет &amp;ldquo;сегодня мы сделаем прививку от гриппа&amp;rdquo;, то 72% родителей соглашаются. А если врач спрашивает &amp;ldquo;мы сегодня будем делать прививку от гриппа?&amp;rdquo;, то лишь 17% соглашаются.
+      <description>Если врач заявляет &amp;ldquo;сегодня мы сделаем прививку от гриппа&amp;rdquo;, то 72% родителей соглашаются. А если врач спрашивает &amp;ldquo;мы сегодня будем делать прививку от гриппа?&amp;quot;, то лишь 17% соглашаются.
 Если врач рекомендует сделать прививку от гриппа вместе с какой-либо другой прививкой, то 83% родителей соглашаются. А если врач отдельно предлагает прививку от гриппа, то лишь 33% соглашаются её сделать. Врачам на заметку.</description>
     </item>
     

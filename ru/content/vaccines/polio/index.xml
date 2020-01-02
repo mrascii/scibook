@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Полиомиелит on SciBook: анализ публикуемой информации о прививках</title>
@@ -56,8 +56,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/014/</guid>
-      <description> Поскольку полиомиелит уже десятки лет не встречается в развитых странах, студенты медвузов вообще ничего про него не учат (spouse, personal communication).
-  </description>
+      <description>Поскольку полиомиелит уже десятки лет не встречается в развитых странах, студенты медвузов вообще ничего про него не учат (spouse, personal communication).  </description>
     </item>
     
     <item>
@@ -289,6 +288,16 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
     </item>
     
     <item>
+      <title>Causality assessment of serious neurologic adverse events following the bOPV national vaccination campaign in Israel</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/069-causality-assessment-of-serious-neurologic-adverse-events-following-the-bopv-national-vaccination-campaign-in-israel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/069-causality-assessment-of-serious-neurologic-adverse-events-following-the-bopv-national-vaccination-campaign-in-israel/</guid>
+      <description>Этой вакциной были привиты около миллиона детей в Израиле. (Врачи и медсестры, однако, отказывались прививаться и от полиомиелита, и от других болезней. Особенно ревностно отказывались более опытные врачи).
+После этого у троих детей был диагностирован синдром Гийена-Барре, а еще у одного острый рассеянный энцефаломиелит. Это вызвало внимание общественности, и могло привести к срыву кампании вакцинации. Поэтому эти случаи были быстро проанализированы. Полиовируса в стуле у детей не нашли, в медицинской литературе не нашелся ни один случай причинно-следственной связи между бивалентной вакциной и энцефаломиелитом, а количество случаев Гийена-Барре не было повышено среди привитых, поэтому авторы заключили, что вакцинация тут не при чем, а виноват, скорее всего, кампилобактер.</description>
+    </item>
+    
+    <item>
       <title>CDC Pinkbook Polio</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/002-cdc-pinkbook-polio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -297,17 +306,7 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
       <description>Полиовирус это один из многочисленных энтеровирусов (кишечных вирусов), и, как и большинство из них, распространяется фекально-оральным путем.
 Существуют три разных серотипа полиовируса (P1, P2, P3).
 Существуют два типа вакцин от полиомиелита.
-1) IPV — Инактивированная (вакцина Солка). Обычно эта вакцина комбинирована с дифтерией, столбняком, коклюшем, и часто с гепатитом В и Hib, поэтому содержит алюминий. Неизвестно, на сколько времени она даёт иммунитет. Содержит эмбриональную бычью сыворотку. (IPV была первой в мире вакциной, вирус для которой был размножен в клетках животных.</description>
-    </item>
-    
-    <item>
-      <title>Causality assessment of serious neurologic adverse events following the bOPV national vaccination campaign in Israel</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/069-causality-assessment-of-serious-neurologic-adverse-events-following-the-bopv-national-vaccination-campaign-in-israel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/069-causality-assessment-of-serious-neurologic-adverse-events-following-the-bopv-national-vaccination-campaign-in-israel/</guid>
-      <description>Этой вакциной были привиты около миллиона детей в Израиле. (Врачи и медсестры, однако, отказывались прививаться и от полиомиелита, и от других болезней. Особенно ревностно отказывались более опытные врачи).
-После этого у троих детей был диагностирован синдром Гийена-Барре, а еще у одного острый рассеянный энцефаломиелит. Это вызвало внимание общественности, и могло привести к срыву кампании вакцинации. Поэтому эти случаи были быстро проанализированы. Полиовируса в стуле у детей не нашли, в медицинской литературе не нашелся ни один случай причинно-следственной связи между бивалентной вакциной и энцефаломиелитом, а количество случаев Гийена-Барре не было повышено среди привитых, поэтому авторы заключили, что вакцинация тут не при чем, а виноват, скорее всего, кампилобактер.</description>
+ IPV — Инактивированная (вакцина Солка). Обычно эта вакцина комбинирована с дифтерией, столбняком, коклюшем, и часто с гепатитом В и Hib, поэтому содержит алюминий. Неизвестно, на сколько времени она даёт иммунитет. Содержит эмбриональную бычью сыворотку. (IPV была первой в мире вакциной, вирус для которой был размножен в клетках животных.</description>
     </item>
     
     <item>
@@ -418,9 +417,7 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/070-guillian-barr%C3%A9-syndrome-and-acute-disseminated-encephalomyelitis-related-to-the-bivalent-oral-poliovirus-vaccine/</guid>
       <description>В этой статье подробно разбираются все аргументы авторов предыдущей статьи. Среди прочего:
-- в настоящее время установлено, что существующий иммунитет к одному патогену может основательно изменить реакцию на несвязанные патогены. Это явление известно как гетерологичный иммунитет, и хотя он может благотворно влиять на защитные иммунные реакции, он также может привести к тяжелой иммунопатологии;
-- причинно следственная связь между OPV и синдромом Гийена-Барре была установлена IOM еще в 1994 году;
-- в Финляндии была зарегистрирована вспышка синдрома Гийена-Барре после похожей кампании вакцинации;</description>
+ в настоящее время установлено, что существующий иммунитет к одному патогену может основательно изменить реакцию на несвязанные патогены. Это явление известно как гетерологичный иммунитет, и хотя он может благотворно влиять на защитные иммунные реакции, он также может привести к тяжелой иммунопатологии; причинно следственная связь между OPV и синдромом Гийена-Барре была установлена IOM еще в 1994 году; в Финляндии была зарегистрирована вспышка синдрома Гийена-Барре после похожей кампании вакцинации; диагноз вакцинного полиомиелита вполне может быть поставлен и без полиовируса, который к тому времени уже может перестать выделяться; случаи энцефаломиелита после OPV были описаны и ранее; кампилобактер может привести к синдрому Гийена-Барре у взрослых, но не у детей.</description>
     </item>
     
     <item>
@@ -553,22 +550,22 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
     </item>
     
     <item>
-      <title>Polio Eradication in Pakistan: Call for Alliance</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/046-polio-eradication-in-pakistan-call-for-alliance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/046-polio-eradication-in-pakistan-call-for-alliance/</guid>
-      <description>В Пакистане, практически последней стране где паралич от дикого полиовируса все еще иногда случается, моджахеды не любят прививки, и распространяют антипрививочные теории заговора среди племенного населения, где 40,000 родителей отказываются прививать детей. Они считают, что вакцина содержит запрещенные исламом ингредиенты, такие как экскременты обезьян и жир свиней. Многие в Пакистане также верят, что вакцина приводит к бесплодию. Более 50 вакцинаторов, а также 7 полицейских охраняющих их, были убиты в 2013 и 2014 годах.</description>
-    </item>
-    
-    <item>
       <title>Polio eradication in India: some observations</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/038-polio-eradication-in-india-some-observations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/038-polio-eradication-in-india-some-observations/</guid>
       <description>Мировое искоренение полиовируса должно было завершиться к 2000 году, однако эта цель сдвинулась сначала на 2002 год, а затем на 2005-й. Несмотря на согласованные усилия, полиовирус в Индии не смогли искоренить. Возможно, вместо того, чтобы снова и снова сдвигать крайний срок искоренения, пришло время остановиться и задуматься, почему эта цель не достигается. Мы полагаем, что у этого есть 4 причины.
-1) Неэффективность живой вакцины. Уже в 1960-х было известно, что в странах с теплым климатом OPV менее эффективна.</description>
+ Неэффективность живой вакцины. Уже в 1960-х было известно, что в странах с теплым климатом OPV менее эффективна.</description>
+    </item>
+    
+    <item>
+      <title>Polio Eradication in Pakistan: Call for Alliance</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/046-polio-eradication-in-pakistan-call-for-alliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/046-polio-eradication-in-pakistan-call-for-alliance/</guid>
+      <description>В Пакистане, практически последней стране где паралич от дикого полиовируса все еще иногда случается, моджахеды не любят прививки, и распространяют антипрививочные теории заговора среди племенного населения, где 40,000 родителей отказываются прививать детей. Они считают, что вакцина содержит запрещенные исламом ингредиенты, такие как экскременты обезьян и жир свиней. Многие в Пакистане также верят, что вакцина приводит к бесплодию. Более 50 вакцинаторов, а также 7 полицейских охраняющих их, были убиты в 2013 и 2014 годах.</description>
     </item>
     
     <item>
@@ -601,15 +598,6 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
     </item>
     
     <item>
-      <title>Poliomyelitis Associated With Type 2 Virus Paralytic Disease in the Father of a Recently Immunized Child</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/076-poliomyelitis-associated-with-type-2-virus-paralytic-disease-in-the-father-of-a-recently-immunized-child/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/076-poliomyelitis-associated-with-type-2-virus-paralytic-disease-in-the-father-of-a-recently-immunized-child/</guid>
-      <description>Двухлетнему мальчику сделали прививку с живой вакциной. Через два дня у него началось недомогание, диарея, высокая температура и отсутствие аппетита. Его отец несколько раз менял ему подгузники, а через 3 недели он заразился от сына вакцинным штаммом, и заболел паралитическим полиомиелитом. Авторы рекомендуют врачам интересоваться привиты ли родители, перед тем как делать прививку их детям. Еще несколько таких случаев: [1], [2], [3], [4].</description>
-    </item>
-    
-    <item>
       <title>Poliomyelitis and recent tonsillectomy</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/026-poliomyelitis-and-recent-tonsillectomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -619,14 +607,21 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
     </item>
     
     <item>
+      <title>Poliomyelitis Associated With Type 2 Virus Paralytic Disease in the Father of a Recently Immunized Child</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/076-poliomyelitis-associated-with-type-2-virus-paralytic-disease-in-the-father-of-a-recently-immunized-child/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/076-poliomyelitis-associated-with-type-2-virus-paralytic-disease-in-the-father-of-a-recently-immunized-child/</guid>
+      <description>Двухлетнему мальчику сделали прививку с живой вакциной. Через два дня у него началось недомогание, диарея, высокая температура и отсутствие аппетита. Его отец несколько раз менял ему подгузники, а через 3 недели он заразился от сына вакцинным штаммом, и заболел паралитическим полиомиелитом. Авторы рекомендуют врачам интересоваться привиты ли родители, перед тем как делать прививку их детям. Еще несколько таких случаев: [1], [2], [3], [4].</description>
+    </item>
+    
+    <item>
       <title>Poliomyelitis: the role of diet in the development of the disease</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/028-poliomyelitis-the-role-of-diet-in-the-development-of-the-disease/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/028-poliomyelitis-the-role-of-diet-in-the-development-of-the-disease/</guid>
-      <description>Наше понимание патогенеза полиомиелита не особо продвинулось за последние 30 лет, а в принятой картине этиологии болезни есть несколько аномалий. Я полагаю, что главной причиной полиомиелита является питание.
- Хотя эпидемии часто заканчиваются после массовых вакцинаций, невозможно знать, что бы случилось, если бы их не было. Ведь в конце концов, все эпидемии заканчиваются.
- В 1974 году, когда выяснилось, что эффективность OPV в Африке довольно низкая, ВОЗ объяснила это тем, что некая неизвестная субстанция в слюне или в грудном молоке подавляет размножение вируса.</description>
+      <description>Наше понимание патогенеза полиомиелита не особо продвинулось за последние 30 лет, а в принятой картине этиологии болезни есть несколько аномалий. Я полагаю, что главной причиной полиомиелита является питание. Хотя эпидемии часто заканчиваются после массовых вакцинаций, невозможно знать, что бы случилось, если бы их не было. Ведь в конце концов, все эпидемии заканчиваются. В 1974 году, когда выяснилось, что эффективность OPV в Африке довольно низкая, ВОЗ объяснила это тем, что некая неизвестная субстанция в слюне или в грудном молоке подавляет размножение вируса.</description>
     </item>
     
     <item>
@@ -676,15 +671,6 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
     </item>
     
     <item>
-      <title>Simian Virus 40 Transformation, Malignant Mesothelioma and Brain Tumors</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/063-simian-virus-40-transformation-malignant-mesothelioma-and-brain-tumors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/063-simian-virus-40-transformation-malignant-mesothelioma-and-brain-tumors/</guid>
-      <description>В 1960 году оказалось, что почечные клетки макак, в которых выращивали вирусы для вакцин были заражены обезьяньим вирусом SV40, который вызывал рак у хомяков. Впоследствии были опубликованы десятки исследований, которые находили этот вирус и в человеческих опухолях. SV40 находят в мезотелиомах, опухолях мозга, груди, толстого кишечника, лимфомах и остеосаркомах и т. д. Мезотелиома — это агрессивный рак плевры легких, который не лечится конвенциональными методами, и 90% умирают от него в течение 2-х лет.</description>
-    </item>
-    
-    <item>
       <title>Simian cytomegalovirus and contamination of oral poliovirus vaccines</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/080-simian-cytomegalovirus-and-contamination-of-oral-poliovirus-vaccines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -695,13 +681,22 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
     </item>
     
     <item>
+      <title>Simian Virus 40 Transformation, Malignant Mesothelioma and Brain Tumors</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/063-simian-virus-40-transformation-malignant-mesothelioma-and-brain-tumors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/063-simian-virus-40-transformation-malignant-mesothelioma-and-brain-tumors/</guid>
+      <description>В 1960 году оказалось, что почечные клетки макак, в которых выращивали вирусы для вакцин были заражены обезьяньим вирусом SV40, который вызывал рак у хомяков. Впоследствии были опубликованы десятки исследований, которые находили этот вирус и в человеческих опухолях. SV40 находят в мезотелиомах, опухолях мозга, груди, толстого кишечника, лимфомах и остеосаркомах и т. д. Мезотелиома — это агрессивный рак плевры легких, который не лечится конвенциональными методами, и 90% умирают от него в течение 2-х лет.</description>
+    </item>
+    
+    <item>
       <title>Some ethical issues arising from polio eradication programmes in India</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/039-some-ethical-issues-arising-from-polio-eradication-programmes-in-india/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/039-some-ethical-issues-arising-from-polio-eradication-programmes-in-india/</guid>
       <description>Программа ВОЗ по искоренению полиомиелита в Индии поднимает много этических вопросов. Здесь мы сосредоточимся на двух.
-1) Баланс между рисками и преимуществами программы искоренения полиомиелита.
+ Баланс между рисками и преимуществами программы искоренения полиомиелита.
 В отличие от неактивированной вакцины, живая вакцина вырабатывает также коллективный иммунитет. Поскольку привитый ребенок выделяет вирус, им заражаются также те, с кем он контактирует. То есть каждый привитый человек продолжает распространять прививку далее.
 Правда в процессе распространения вакцинных штаммов вирус мутирует, и согласно японскому исследованию, 69% мутаций полиовируса серотипа 1, 92% мутаций серотипа 2, и 55% мутаций серотипа 3 оказались нейровирулентными.</description>
     </item>
@@ -734,17 +729,6 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/087-the-1916-new-york-city-epidemic-of-poliomyelitis-where-did-the-virus-come-from/</guid>
       <description>Эпидемия полиомиелита в Нью Йорке в 1916-м была довольно необычной. Она началась в мае, намного раньше обычного. У 2% зараженных 2-х и 3-х летних детей был паралич, летальность достигала 25%. Официально считается, что ее начали дети, которые приехали из Италии. Однако эпидемия началась до прибытия этих детей. В то время считалось, что полиовирус разносят мухи, а кошки являются его носителями. 72 тысячи кошек были убиты.
 В трех милях от эпицентра вспышки находился институт Рокфеллера, где ученые пытались усилить вирулентность полиовируса, проводя его через спинной мозг макак.</description>
-    </item>
-    
-    <item>
-      <title>The Present Status of Polio Vaccines</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/011-the-present-status-of-polio-vaccines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/011-the-present-status-of-polio-vaccines/</guid>
-      <description>(полный текст)
-- В 1955 году, когда была лицензирована вакцина Солка, определение полиомиелита изменили. Если раньше для постановки диагноза было достаточно, чтобы паралич длился 24 часа, то с 1955 года паралич должен был длиться как минимум 60 дней. Поскольку большинство случаев паралича кратковременные, количество случаев полиомиелита уменьшилось без всякой связи с вакциной. В отдельную категорию выделили также вирусы Коксаки и асептический менингит, которые до этого принимались за полиомиелит.
-- Изменилось и определение эпидемии.</description>
     </item>
     
     <item>
@@ -785,9 +769,17 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/036-the-poison-cause-of-poliomyelitis-and-obstructions-to-its-investigation/</guid>
       <description>Здесь приводится анализ десятков случаев и вспышек полиомиелита, в которых причиной паралича были отравления свинцом, мышьяком, ртутью, цианидом, пестицидами, угарным газом и т.д.
-Также сообщается, что витамин С, который эффективно лечит полиомиелит, использовался также для лечения отравлений.
- Столетие назад было замечено, что лимонный сок защищает от отравления рыбой, что иногда приводило к параличу. Это, возможно, причина того, что рыбу сегодня обычно подают с лимонным соком.
- Обезьяны ни разу не заражались друг от друга полиомиелитом.</description>
+Также сообщается, что витамин С, который эффективно лечит полиомиелит, использовался также для лечения отравлений. Столетие назад было замечено, что лимонный сок защищает от отравления рыбой, что иногда приводило к параличу. Это, возможно, причина того, что рыбу сегодня обычно подают с лимонным соком. Обезьяны ни разу не заражались друг от друга полиомиелитом.</description>
+    </item>
+    
+    <item>
+      <title>The Present Status of Polio Vaccines</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/011-the-present-status-of-polio-vaccines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/011-the-present-status-of-polio-vaccines/</guid>
+      <description>(полный текст)
+ В 1955 году, когда была лицензирована вакцина Солка, определение полиомиелита изменили. Если раньше для постановки диагноза было достаточно, чтобы паралич длился 24 часа, то с 1955 года паралич должен был длиться как минимум 60 дней. Поскольку большинство случаев паралича кратковременные, количество случаев полиомиелита уменьшилось без всякой связи с вакциной. В отдельную категорию выделили также вирусы Коксаки и асептический менингит, которые до этого принимались за полиомиелит. Изменилось и определение эпидемии.</description>
     </item>
     
     <item>
@@ -796,7 +788,7 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/029-the-production-of-neuronal-injury-and-necrosis-with-the-virus-of-poliomyelitis-in-rabbits-during-insulin-hypoglycemia/</guid>
-      <description>Недоедание и гипогликемия тоже повышают восприимчивость к полиомиелиту. Еще на эту тему: [1], [2].</description>
+      <description>Недоедание и гипогликемия тоже повышают восприимчивость к полиомиелиту. Еще на эту тему: [1], [[2]](https://www.seleneriverpress.com/images/pdfs/DIET PREVENTS POLIO.PDF).</description>
     </item>
     
     <item>
@@ -817,8 +809,7 @@ Experimental oral polio vaccines and acquired immune deficiency syndrome. (Hoope
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/060-the-treatment-of-poliomyelitis-and-other-virus-diseases-with-vitamin-c/</guid>
       <description>(полный текст)
-- Уровень витамина С в моче у больных полиомиелитом был ниже, чем у здоровых.
-- 60 больных полиомиелитом поступили на лечение. Им не делали люмбальную пункцию чтобы окончательно подтвердить диагноз, во-первых, потому что если вирус уже в крови, но не достиг нервной системы, то люмбальная пункция может ему в этом помочь, а во-вторых, иначе их бы нужно было отправить на конвенциональное лечение.
+ Уровень витамина С в моче у больных полиомиелитом был ниже, чем у здоровых. 60 больных полиомиелитом поступили на лечение. Им не делали люмбальную пункцию чтобы окончательно подтвердить диагноз, во-первых, потому что если вирус уже в крови, но не достиг нервной системы, то люмбальная пункция может ему в этом помочь, а во-вторых, иначе их бы нужно было отправить на конвенциональное лечение.
 Все получали 1-2 г витамина С внутривенно каждые 2-4 часа в первые сутки, а потом каждые 6 часов.</description>
     </item>
     

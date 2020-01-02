@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>США on SciBook: анализ публикуемой информации о прививках</title>
@@ -10,6 +10,26 @@
     
 	<atom:link href="https://mrascii.github.io/scibook/ru/countries/%D1%81%D1%88%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/hepatitisa/013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hepatitisa/013/</guid>
+      <description>До лицензирования вакцины заболеваемость гепатитом А в США составляла примерно 1 на 10,000, а смертность 1 на 3 миллиона. В 1999-м была введена вакцинация в 11 штатах, где заболеваемость была выше, чем 1 на 5,000.
+В 2006-м вакцина была добавлена в национальный календарь прививок. Заболеваемость гепатитом А на этот момент составляла 1 на 100,000, а смертность составляла 1 на десять миллионов. И почти все умершие были люди старше 50-и, с сопутствующими заболеваниями.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hib/015/</guid>
+      <description>До начала вакцинации эскимосы на Аляске болели Hib в 10 раз чаще, чем остальные жители США.
+Австралийские аборигены, индейцы, эскимосы и африканцы в Гамбии и Сомали болели в 3-4 раза чаще, чем американцы, и в 10 раз чаще, чем европейцы.</description>
+    </item>
     
     <item>
       <title></title>
@@ -38,26 +58,6 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/sids/044/</guid>
       <description>В 2011 году здоровый четырехмесячный младенец в США получил 7 вакцин, а на следующий день умер с диагнозом СВДС. В июле 2017-го, суд решил, что вакцины сыграли существенную роль в смерти мальчика, и без их влияния он бы не умер.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/hepatitisa/013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hepatitisa/013/</guid>
-      <description>До лицензирования вакцины заболеваемость гепатитом А в США составляла примерно 1 на 10,000, а смертность 1 на 3 миллиона. В 1999-м была введена вакцинация в 11 штатах, где заболеваемость была выше, чем 1 на 5,000.
-В 2006-м вакцина была добавлена в национальный календарь прививок. Заболеваемость гепатитом А на этот момент составляла 1 на 100,000, а смертность составляла 1 на десять миллионов. И почти все умершие были люди старше 50-и, с сопутствующими заболеваниями.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/015/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hib/015/</guid>
-      <description>До начала вакцинации эскимосы на Аляске болели Hib в 10 раз чаще, чем остальные жители США.
-Австралийские аборигены, индейцы, эскимосы и африканцы в Гамбии и Сомали болели в 3-4 раза чаще, чем американцы, и в 10 раз чаще, чем европейцы.</description>
     </item>
     
     <item>
@@ -119,6 +119,16 @@
     </item>
     
     <item>
+      <title>An infant with acute gastroenteritis caused by a secondary infection with a Rotarix-derived strain</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/rotavirus/031-an-infant-with-acute-gastroenteritis-caused-by-a-secondary-infection-with-a-rotarix-derived-strain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rotavirus/031-an-infant-with-acute-gastroenteritis-caused-by-a-secondary-infection-with-a-rotarix-derived-strain/</guid>
+      <description>Двухмесячная девочка в Японии была привита Ротарикс, а через 10 дней ее двухлетняя сестра была госпитализирована с тяжелым гастроэнтеритом. Оказалось, что она заразилась от своей сестры вакцинным штаммом вируса, который мутировал.
+Здесь сообщается о точно таком же случае в США с вакциной Ротатек. Привитый младенец через 10 дней заразил своего брата штаммом ротавируса, реассортантным из двух вакцинных штаммов.</description>
+    </item>
+    
+    <item>
       <title>An Institutional Outbreak of Poliomyelitis Apparently Due to a Streptococcus in Milk</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/030-an-institutional-outbreak-of-poliomyelitis-apparently-due-to-a-streptococcus-in-milk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -136,16 +146,6 @@
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/diphtheria/018-an-outbreak-of-diphtheria-in-baltimore-in-1944/</guid>
       <description>Вспышка дифтерии в Балтиморе. В 1943 году были зарегистрированы 103 случая. Из них 29% были привиты, и еще 14% заявляли, что они привиты, но это не было подтверждено документально.
 Вследствие этого в Балтиморе стали прививать больше. За первое полугодие 1944-го было зарегистрировано уже 142 случая. Из них уже 63% были привиты.</description>
-    </item>
-    
-    <item>
-      <title>An infant with acute gastroenteritis caused by a secondary infection with a Rotarix-derived strain</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/rotavirus/031-an-infant-with-acute-gastroenteritis-caused-by-a-secondary-infection-with-a-rotarix-derived-strain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/rotavirus/031-an-infant-with-acute-gastroenteritis-caused-by-a-secondary-infection-with-a-rotarix-derived-strain/</guid>
-      <description>Двухмесячная девочка в Японии была привита Ротарикс, а через 10 дней ее двухлетняя сестра была госпитализирована с тяжелым гастроэнтеритом. Оказалось, что она заразилась от своей сестры вакцинным штаммом вируса, который мутировал.
-Здесь сообщается о точно таком же случае в США с вакциной Ротатек. Привитый младенец через 10 дней заразил своего брата штаммом ротавируса, реассортантным из двух вакцинных штаммов.</description>
     </item>
     
     <item>
@@ -183,8 +183,7 @@
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/024-assessment-of-temporally-related-acute-respiratory-illness-following-influenza-vaccination./</guid>
       <description>Многие люди считают, что вакцинация от гриппа может вызвать грипп. Авторы провели данное исследование чтобы доказать, что это не так. Они обнаружили что:
-1) Заболеваемость гриппом среди привитых и непривитых не отличалась.
-2) Заболеваемость другими респираторными заболеваниями среди привитых детей была на 71% выше, чем у непривитых.</description>
+ Заболеваемость гриппом среди привитых и непривитых не отличалась. Заболеваемость другими респираторными заболеваниями среди привитых детей была на 71% выше, чем у непривитых.  </description>
     </item>
     
     <item>
@@ -245,6 +244,15 @@
     </item>
     
     <item>
+      <title>Day care attendance and other risk factors for invasive Haemophilus influenzae type b disease</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/009-day-care-attendance-and-other-risk-factors-for-invasive-haemophilus-influenzae-type-b-disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hib/009-day-care-attendance-and-other-risk-factors-for-invasive-haemophilus-influenzae-type-b-disease/</guid>
+      <description>Пассивное курение ассоциировано с повышением риска Hib на 40%. Детский сад — с повышением риска в 2.9 раз. ГВ — с понижением риска на 50%. Негры болели в 4.1 раза чаще.</description>
+    </item>
+    
+    <item>
       <title>DDT poisoning and elusive virus X; a new cause for gastro-enteritis</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/031-ddt-poisoning-and-elusive-virus-x-a-new-cause-for-gastro-enteritis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -253,15 +261,6 @@
       <description>В последние годы в США появился новый странный синдром, который скорее всего вызывается какой-то инфекцией, которую назвали &amp;ldquo;вирус Х&amp;rdquo;.
 Синдрому сопутствуют острый гастроэнтерит, тошнота, рвота, боль в животе, диарея, насморк, кашель, больное горло, боль в суставах, мышечная слабость, усталость и паралич. Впоследствии выяснилось, что все эти симптомы вызывал ДДТ. Паралич от ДДТ похож на полиомиелит.
 Хотя ДДТ это летальный яд, он считается полностью безопасным в любых дозах. Его используют в каждом доме в неограниченных количествах, распыляют на кожу, на постель и на одежду, на пищу и на посуду, на сельскохозяйственные урожаи и на скот.</description>
-    </item>
-    
-    <item>
-      <title>Day care attendance and other risk factors for invasive Haemophilus influenzae type b disease</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/009-day-care-attendance-and-other-risk-factors-for-invasive-haemophilus-influenzae-type-b-disease/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/hib/009-day-care-attendance-and-other-risk-factors-for-invasive-haemophilus-influenzae-type-b-disease/</guid>
-      <description>Пассивное курение ассоциировано с повышением риска Hib на 40%. Детский сад — с повышением риска в 2.9 раз. ГВ — с понижением риска на 50%. Негры болели в 4.1 раза чаще.</description>
     </item>
     
     <item>
@@ -289,8 +288,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/diphtheria/006-diphtheria-in-north-america/</guid>
-      <description>Дифтерия считалась всегда детской болезнью, однако в середине 20-го века ей начали болеть взрослые. В 1960 году 21% заболеваний приходилось на взрослых (старше 15 лет). В 1964-м взрослых было уже 36%, а в 1970-х 48%. Также изменилась соотношение смертности. В 1960-х годах 70% умерших от дифтерии в Канаде были дети, а 1970-х 73% умерших уже были взрослые.
- В 1960-х индейцы болели дифтерией в 20 раз больше белых, и в 3 раза больше черных.</description>
+      <description>Дифтерия считалась всегда детской болезнью, однако в середине 20-го века ей начали болеть взрослые. В 1960 году 21% заболеваний приходилось на взрослых (старше 15 лет). В 1964-м взрослых было уже 36%, а в 1970-х 48%. Также изменилась соотношение смертности. В 1960-х годах 70% умерших от дифтерии в Канаде были дети, а 1970-х 73% умерших уже были взрослые. В 1960-х индейцы болели дифтерией в 20 раз больше белых, и в 3 раза больше черных.</description>
     </item>
     
     <item>
@@ -575,6 +573,17 @@ CDC заключают, что это, возможно, случайное со
     </item>
     
     <item>
+      <title>Meningococcal carriage among a university student population - United States, 2015</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/028-meningococcal-carriage-among-a-university-student-population-united-states-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/028-meningococcal-carriage-among-a-university-student-population-united-states-2015/</guid>
+      <description>Исследование колонизации менингококка в другом университете в Род-Айленде.
+Вакцинация никак не повлияла на колонизацию.
+Курение ассоциировано с повышением риска колонизации в 1.5 раза, а посещение баров как минимум раз в неделю — в 2 раза.</description>
+    </item>
+    
+    <item>
       <title>Meningococcal Carriage Evaluation in Response to a Serogroup B Meningococcal Disease Outbreak and Mass Vaccination Campaign at a College-Rhode Island, 2015-2016</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/027-meningococcal-carriage-evaluation-in-response-to-a-serogroup-b-meningococcal-disease-outbreak-and-mass-vaccination-campaign-at-a-college-rhode-island-2015-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -594,17 +603,6 @@ CDC заключают, что это, возможно, случайное со
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/029-meningococcal-carriage-following-a-vaccination-campaign-with-menb-4c-and-menb-fhbp-in-response-to-a-university-serogroup-b-meningococcal-disease-outbreak-oregon-2015-2016/</guid>
       <description>Вследствие вспышки в университете в Орегоне была проведена кампания вакцинации. 11%-17% были носителями менингококка, из них 1.2%-2.4% были носителями серогруппы В.
 Вакцинация 1-2 дозами Бексеро и 1-3 дозами Труменбы никак не повлияла на колонизацию менингококка в целом, и на колонизацию серогруппы В в частности.</description>
-    </item>
-    
-    <item>
-      <title>Meningococcal carriage among a university student population - United States, 2015</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/028-meningococcal-carriage-among-a-university-student-population-united-states-2015/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/meningococcal/028-meningococcal-carriage-among-a-university-student-population-united-states-2015/</guid>
-      <description>Исследование колонизации менингококка в другом университете в Род-Айленде.
-Вакцинация никак не повлияла на колонизацию.
-Курение ассоциировано с повышением риска колонизации в 1.5 раза, а посещение баров как минимум раз в неделю — в 2 раза.</description>
     </item>
     
     <item>
@@ -681,21 +679,21 @@ CDC заключают, что это, возможно, случайное со
     
     <item>
       <title>Possible temporal association between diphtheria-tetanus toxoid-pertussis vaccination and sudden infant death syndrome</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/037-possible-temporal-association-between-diphtheria-tetanus-toxoid-pertussis-vaccination-and-sudden-infant-death-syndrome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/037-possible-temporal-association-between-diphtheria-tetanus-toxoid-pertussis-vaccination-and-sudden-infant-death-syndrome/</guid>
+      <description>Вакцина DTP ассоциирована с синдромом внезапной детской смерти (СВДС) в Лос-Анжелесе. Визиты к врачу также были ассоциированы с СВДС.</description>
+    </item>
+    
+    <item>
+      <title>Possible temporal association between diphtheria-tetanus toxoid-pertussis vaccination and sudden infant death syndrome</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/sids/006-possible-temporal-association-between-diphtheria-tetanus-toxoid-pertussis-vaccination-and-sudden-infant-death-syndrome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/sids/006-possible-temporal-association-between-diphtheria-tetanus-toxoid-pertussis-vaccination-and-sudden-infant-death-syndrome/</guid>
       <description>Вакцинация DTP и визиты к врачу ассоциированы с СВДС в Лос-Анджелесе. 6 из 27 младенцев умерли в течение 24 часов после прививки, и 17 умерли в первую неделю после прививки.
 Это исследование подверглось критике, поскольку, по мнению автора, не учитывает, что период повышенного риска умереть от СВДС совпадает с периодом, когда младенцам делают прививки, а потом резко падает. Поэтому, возможно, так случайно совпало, что младенцы чаще умирали именно в первый день, и в первую неделю после прививки.</description>
-    </item>
-    
-    <item>
-      <title>Possible temporal association between diphtheria-tetanus toxoid-pertussis vaccination and sudden infant death syndrome</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/037-possible-temporal-association-between-diphtheria-tetanus-toxoid-pertussis-vaccination-and-sudden-infant-death-syndrome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/037-possible-temporal-association-between-diphtheria-tetanus-toxoid-pertussis-vaccination-and-sudden-infant-death-syndrome/</guid>
-      <description>Вакцина DTP ассоциирована с синдромом внезапной детской смерти (СВДС) в Лос-Анжелесе. Визиты к врачу также были ассоциированы с СВДС.</description>
     </item>
     
     <item>
@@ -879,17 +877,6 @@ CDC заключают, что это, возможно, случайное со
     </item>
     
     <item>
-      <title>The Present Status of Polio Vaccines</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/011-the-present-status-of-polio-vaccines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/011-the-present-status-of-polio-vaccines/</guid>
-      <description>(полный текст)
-- В 1955 году, когда была лицензирована вакцина Солка, определение полиомиелита изменили. Если раньше для постановки диагноза было достаточно, чтобы паралич длился 24 часа, то с 1955 года паралич должен был длиться как минимум 60 дней. Поскольку большинство случаев паралича кратковременные, количество случаев полиомиелита уменьшилось без всякой связи с вакциной. В отдельную категорию выделили также вирусы Коксаки и асептический менингит, которые до этого принимались за полиомиелит.
-- Изменилось и определение эпидемии.</description>
-    </item>
-    
-    <item>
       <title>The changing epidemiology of invasive Haemophilus influenzae disease, especially in persons &gt; or = 65 years old</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/hib/028-the-changing-epidemiology-of-invasive-haemophilus-influenzae-disease-especially-in-persons-or-65-years-old/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -928,9 +915,17 @@ CDC заключают, что это, возможно, случайное со
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/036-the-poison-cause-of-poliomyelitis-and-obstructions-to-its-investigation/</guid>
       <description>Здесь приводится анализ десятков случаев и вспышек полиомиелита, в которых причиной паралича были отравления свинцом, мышьяком, ртутью, цианидом, пестицидами, угарным газом и т.д.
-Также сообщается, что витамин С, который эффективно лечит полиомиелит, использовался также для лечения отравлений.
- Столетие назад было замечено, что лимонный сок защищает от отравления рыбой, что иногда приводило к параличу. Это, возможно, причина того, что рыбу сегодня обычно подают с лимонным соком.
- Обезьяны ни разу не заражались друг от друга полиомиелитом.</description>
+Также сообщается, что витамин С, который эффективно лечит полиомиелит, использовался также для лечения отравлений. Столетие назад было замечено, что лимонный сок защищает от отравления рыбой, что иногда приводило к параличу. Это, возможно, причина того, что рыбу сегодня обычно подают с лимонным соком. Обезьяны ни разу не заражались друг от друга полиомиелитом.</description>
+    </item>
+    
+    <item>
+      <title>The Present Status of Polio Vaccines</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/polio/011-the-present-status-of-polio-vaccines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/polio/011-the-present-status-of-polio-vaccines/</guid>
+      <description>(полный текст)
+ В 1955 году, когда была лицензирована вакцина Солка, определение полиомиелита изменили. Если раньше для постановки диагноза было достаточно, чтобы паралич длился 24 часа, то с 1955 года паралич должен был длиться как минимум 60 дней. Поскольку большинство случаев паралича кратковременные, количество случаев полиомиелита уменьшилось без всякой связи с вакциной. В отдельную категорию выделили также вирусы Коксаки и асептический менингит, которые до этого принимались за полиомиелит. Изменилось и определение эпидемии.</description>
     </item>
     
     <item>

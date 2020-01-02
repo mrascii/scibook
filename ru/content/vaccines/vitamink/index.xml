@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Витамин К on SciBook: анализ публикуемой информации о прививках</title>
@@ -73,8 +73,7 @@ Konakion MM (Roche)</description>
       <description>Полулетальная доза бензилового спирта для мышей составляет 0.48 г/кг. (Обычный этиловый спирт в 4 раза менее токсичен, чем бензиловый).
 Всего в ампуле инъекции (от Hospira) содержится 9 мг бензилового спирта на 2 мг витамина К. То есть примерно 0.7% полулетальной дозы для новорожденного (3 мг/кг).
 Википедия сообщает, что:
-1) бензиловый спирт очень токсичен для глаз. Чистый бензиловый спирт приводит к некрозу роговицы.
-2) бензиловый спирт токсичен для новорожденных, он вызывает gasping syndrome.</description>
+ бензиловый спирт очень токсичен для глаз. Чистый бензиловый спирт приводит к некрозу роговицы. бензиловый спирт токсичен для новорожденных, он вызывает gasping syndrome.</description>
     </item>
     
     <item>
@@ -153,6 +152,15 @@ Konakion MM не не содержит бензиловый спирт, проп
     </item>
     
     <item>
+      <title>Are breast-fed infants vitamin K deficient?</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/vitamink/010-are-breast-fed-infants-vitamin-k-deficient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/vitamink/010-are-breast-fed-infants-vitamin-k-deficient/</guid>
+      <description>В грудном молоке содержится очень мало витамина К (~1 мкг/л). Но если мать употребляет более 1 мкг/кг/день во время беременности и лактации, это значительно повышает уровень витамина К в молоке (до 80 мкг/л) и в плазме крови младенца. Еще: [1]</description>
+    </item>
+    
+    <item>
       <title>Are There Long-Term Consequences of Pain in Newborn or Very Young Infants?</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/vitamink/034-are-there-long-term-consequences-of-pain-in-newborn-or-very-young-infants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,15 +168,6 @@ Konakion MM не не содержит бензиловый спирт, проп
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/vitamink/034-are-there-long-term-consequences-of-pain-in-newborn-or-very-young-infants/</guid>
       <description>В течение многих лет врачи в США не рассматривали боль у младенцев, как один из рисков или недостатков в принятии решений о лечении. Поверхностные наблюдения показали, что обезболивающие препараты имеют некоторые риски, а младенцы, похоже, все равно забывали о боли. Ведь если пациент не возвращается обратно с жалобами на боль, что в ней может быть особо важного?
 Однако проведенные в 90-х годах исследования выявили, что испытанная в младенчестве боль имеет долгосрочные последствия.</description>
-    </item>
-    
-    <item>
-      <title>Are breast-fed infants vitamin K deficient?</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/vitamink/010-are-breast-fed-infants-vitamin-k-deficient/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/vitamink/010-are-breast-fed-infants-vitamin-k-deficient/</guid>
-      <description>В грудном молоке содержится очень мало витамина К (~1 мкг/л). Но если мать употребляет более 1 мкг/кг/день во время беременности и лактации, это значительно повышает уровень витамина К в молоке (до 80 мкг/л) и в плазме крови младенца. Еще: [1]</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Свинка on SciBook: анализ публикуемой информации о прививках</title>
@@ -193,17 +193,6 @@
     </item>
     
     <item>
-      <title>Mumps outbreak in Israel&#39;s highly vaccinated society: are two doses enough?</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/mumps/012-mumps-outbreak-in-israels-highly-vaccinated-society-are-two-doses-enough/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/mumps/012-mumps-outbreak-in-israels-highly-vaccinated-society-are-two-doses-enough/</guid>
-      <description>Вспышка свинки в Израиле (более 5000 случаев), 78% были полностью привиты. В основном болели подростки и взрослые. В других странах (Австрия, США, Нидерланды, Великобритания) вспышки свинки также наблюдались среди подростков и студентов, тогда как в странах где от свинки не прививают, ей болеют дети от 5 до 9 лет.
-Несмотря на высокий прививочный охват (90-97%), антитела к свинке обнаружены лишь у 68% населения.
-Авторы пишут, что вспышки свинки последних лет были вызваны генотипом G, тогда как вакцина содержит вирус генотипа А.</description>
-    </item>
-    
-    <item>
       <title>Mumps outbreak in a highly vaccinated school population. Evidence for large-scale vaccination failure</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/mumps/013-mumps-outbreak-in-a-highly-vaccinated-school-population.-evidence-for-large-scale-vaccination-failure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -212,6 +201,17 @@
       <description>Вспышка свинки в школе, где все ученики кроме одного были привиты. Всего было 54 случая.
 Подобных исследований, о вспышках свинки среди полностью привитых очень много, вот еще несколько: [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14].
 Вакцина от свинки настолько неэффективна, и вспышек свинки среди привитых так много, что в википедии есть специальная статья перечисляющая вспышки свинки в 21-м веке.</description>
+    </item>
+    
+    <item>
+      <title>Mumps outbreak in Israel&#39;s highly vaccinated society: are two doses enough?</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/mumps/012-mumps-outbreak-in-israels-highly-vaccinated-society-are-two-doses-enough/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/mumps/012-mumps-outbreak-in-israels-highly-vaccinated-society-are-two-doses-enough/</guid>
+      <description>Вспышка свинки в Израиле (более 5000 случаев), 78% были полностью привиты. В основном болели подростки и взрослые. В других странах (Австрия, США, Нидерланды, Великобритания) вспышки свинки также наблюдались среди подростков и студентов, тогда как в странах где от свинки не прививают, ей болеют дети от 5 до 9 лет.
+Несмотря на высокий прививочный охват (90-97%), антитела к свинке обнаружены лишь у 68% населения.
+Авторы пишут, что вспышки свинки последних лет были вызваны генотипом G, тогда как вакцина содержит вирус генотипа А.</description>
     </item>
     
     <item>

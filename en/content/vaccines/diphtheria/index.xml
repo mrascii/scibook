@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diphtheria on SciBook: analysis of published information about vaccinations and infections</title>
@@ -187,16 +187,6 @@ The authors conclude that the benefit from booster vaccines against diphtheria a
     </item>
     
     <item>
-      <title>Diphtheria Outbreaks in Immunized Populations</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/011-diphtheria-outbreaks-in-immunized-populations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/011-diphtheria-outbreaks-in-immunized-populations/</guid>
-      <description>A decrease in the incidence of diphtheria in the 1970s occurred despite the lack of immunity among adults.
-Recent diphtheria outbreaks occur only among alcoholics and homeless.</description>
-    </item>
-    
-    <item>
       <title>Diphtheria in North America</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/006-diphtheria-in-north-america/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -211,8 +201,7 @@ Recent diphtheria outbreaks occur only among alcoholics and homeless.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/020-diphtheria-in-the-former-soviet-union-reemergence-of-a-pandemic-disease/</guid>
-      <description>The role of antibacterial immunity in protection against diphtheria has not been studied since the 30s.
- Prior to the World War II, diphtheria was rarely observed in the countries of Western Europe. During the war, an epidemic started in Netherlands, Denmark and Norway, in the territories occupied by the Germans. It was the last diphtheria epidemic in developed European countries. The remaining isolated cases were observed mainly among the lower socioeconomic class.</description>
+      <description>The role of antibacterial immunity in protection against diphtheria has not been studied since the 30s. Prior to the World War II, diphtheria was rarely observed in the countries of Western Europe. During the war, an epidemic started in Netherlands, Denmark and Norway, in the territories occupied by the Germans. It was the last diphtheria epidemic in developed European countries. The remaining isolated cases were observed mainly among the lower socioeconomic class.</description>
     </item>
     
     <item>
@@ -224,6 +213,16 @@ Recent diphtheria outbreaks occur only among alcoholics and homeless.</descripti
       <description>1,860 cases of diphtheria in the Botkin hospital in St. Petersburg. Mortality rate was 2.3%. 69% of those who died were chronic alcoholics.
 Among those who suffered from the toxic form of the disease, mortality rate was 26%. 6% of vaccinated patients and 14% of unvaccinated patients suffered from the toxic form. However, only those vaccinated in the last five years were considered as vaccinated.
 Overall, the diphtheria mortality rate (2.</description>
+    </item>
+    
+    <item>
+      <title>Diphtheria Outbreaks in Immunized Populations</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/011-diphtheria-outbreaks-in-immunized-populations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/011-diphtheria-outbreaks-in-immunized-populations/</guid>
+      <description>A decrease in the incidence of diphtheria in the 1970s occurred despite the lack of immunity among adults.
+Recent diphtheria outbreaks occur only among alcoholics and homeless.</description>
     </item>
     
     <item>
@@ -241,9 +240,7 @@ Overall, the diphtheria mortality rate (2.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/030-effects-of-vitamin-c-intake-on-the-degree-of-tooth-injury-produced-by-diphtheria-toxin/</guid>
-      <description>When guinea pigs are injected with a sublethal dose of diphtheria toxin, a 30-50% decrease in the vitamin C level in tissues is observed within 24-48 hours.
- Children who received little vitamin C, developed scurvy during the infection. It resolved spontaneously after recovery, without increasing the amount of vitamin C in the diet.
- What correlated with the absence of tooth caries in children of 10-14 years of age are good nutrition and lack of diseases in infancy and childhood.</description>
+      <description>When guinea pigs are injected with a sublethal dose of diphtheria toxin, a 30-50% decrease in the vitamin C level in tissues is observed within 24-48 hours. Children who received little vitamin C, developed scurvy during the infection. It resolved spontaneously after recovery, without increasing the amount of vitamin C in the diet. What correlated with the absence of tooth caries in children of 10-14 years of age are good nutrition and lack of diseases in infancy and childhood.</description>
     </item>
     
     <item>
@@ -261,9 +258,7 @@ Overall, the diphtheria mortality rate (2.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/007-immunity-and-immunization-of-children-against-diphtheria-in-sweden/</guid>
-      <description>The protective level of antibodies of diphtheria is considered to be from 0.01 to 0.1 IU/ml. The exact value cannot be determined.
- Not a single case of diphtheria has been recorded in Sweden from the late 1950s to 1984. 3 outbreaks were observed in 1984 (17 cases, 3 deaths). Almost all patients were chronic alcoholics. Most patients had the level of antibodies below 0.01 IU/ml.
- Researchers measured the level of antibodies in children.</description>
+      <description>The protective level of antibodies of diphtheria is considered to be from 0.01 to 0.1 IU/ml. The exact value cannot be determined. Not a single case of diphtheria has been recorded in Sweden from the late 1950s to 1984. 3 outbreaks were observed in 1984 (17 cases, 3 deaths). Almost all patients were chronic alcoholics. Most patients had the level of antibodies below 0.01 IU/ml. Researchers measured the level of antibodies in children.</description>
     </item>
     
     <item>
@@ -291,10 +286,7 @@ Glenny was not interested in the safety of having aluminum in a vaccine 90 years
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/022-risk-factors-for-diphtheria-a-prospective-case-control-study-in-the-republic-of-georgia-1995-1996/</guid>
-      <description>To get diphtheria from another person, the distance to that person should be less than 1 meter. If the distance is greater, the risk of infection is significantly reduced.
- 40-78% of unvaccinated children in Afghanistan, Burma and Nigeria developed natural immunity by the age of 5.
- Socioeconomic factors, such as cramped quarters, poverty, alcoholism and low level of hygiene contribute to the spread of diphtheria.
-  A study of 218 cases of diphtheria in Georgia in 1995-1996.</description>
+      <description>To get diphtheria from another person, the distance to that person should be less than 1 meter. If the distance is greater, the risk of infection is significantly reduced. 40-78% of unvaccinated children in Afghanistan, Burma and Nigeria developed natural immunity by the age of 5. Socioeconomic factors, such as cramped quarters, poverty, alcoholism and low level of hygiene contribute to the spread of diphtheria.  A study of 218 cases of diphtheria in Georgia in 1995-1996.</description>
     </item>
     
     <item>
@@ -378,8 +370,7 @@ Guinea pigs that received large doses of vitamin C, survived even after being in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/diphtheria/029-the-influence-of-vitamin-c-deficiency-in-the-protection-of-guinea-pigs-to-diphtheria-toxin-glucose-tolerance/</guid>
-      <description>Vitamin C deficiency causes the decreased resistance to infections and increased damages from bacterial toxins. Decreased resistance appears before the scurvy symptoms can be observed.
- Guinea pigs on a low vitamin C diet, who got injected with sublethal dose of diphtheria toxin, experienced a wider tissue damage, bigger weight loss, wider areas of necrosis, worse teeth development, and shorter lifespan, as compared to guinea pigs who were not restricted in vitamin C consumption.</description>
+      <description>Vitamin C deficiency causes the decreased resistance to infections and increased damages from bacterial toxins. Decreased resistance appears before the scurvy symptoms can be observed. Guinea pigs on a low vitamin C diet, who got injected with sublethal dose of diphtheria toxin, experienced a wider tissue damage, bigger weight loss, wider areas of necrosis, worse teeth development, and shorter lifespan, as compared to guinea pigs who were not restricted in vitamin C consumption.</description>
     </item>
     
     <item>

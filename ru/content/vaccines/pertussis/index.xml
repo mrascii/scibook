@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Коклюш on SciBook: анализ публикуемой информации о прививках</title>
@@ -309,16 +309,6 @@ DTaP — это бесклеточная вакцина от коклюша.</de
     </item>
     
     <item>
-      <title>Pertussis Infection in Fully Vaccinated Children in Day-Care Centers, Israel</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/017-pertussis-infection-in-fully-vaccinated-children-in-day-care-centers-israel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/017-pertussis-infection-in-fully-vaccinated-children-in-day-care-centers-israel/</guid>
-      <description>Я до сих пор не приводил case reports, которых есть сотни для каждой прививки, но здесь не могу удержаться. Случай произошел в 2000-м году, когда еще использовали цельноклеточную, т.е. более эффективную вакцину.
-4-х месячный ребенок в Израиле умер от коклюша. Он был привит в двухмесячном возрасте. Вся его семья (мать, тетя и три брата — 2, 5 и 11 лет) были полностью привиты. Все дети, которые ходили в детские сады с двумя младшими братьями, были полностью привиты 4-мя дозами.</description>
-    </item>
-    
-    <item>
       <title>Pertussis epidemic despite high levels of vaccination coverage with acellular pertussis vaccine</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/009-pertussis-epidemic-despite-high-levels-of-vaccination-coverage-with-acellular-pertussis-vaccine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -326,6 +316,16 @@ DTaP — это бесклеточная вакцина от коклюша.</de
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/009-pertussis-epidemic-despite-high-levels-of-vaccination-coverage-with-acellular-pertussis-vaccine/</guid>
       <description>Эпидемия коклюша в Испании. 421 случая, в основном дети до года. Подавляющее большинство заболевших (90%) были полностью привиты. Переносчиками были в основном полностью привитые дети 5-9 лет. Никто не умер, 8% были госпитализированы. Авторы заключают, что несмотря на высокий уровень вакцинации, коклюш совершенно не поддается контролю, и что реальное количество больных намного больше, так как они рассматривали лишь лабораторно подтвержденные случаи.
 Таких исследований десятки. Несмотря на высокий уровень вакцинации, в последние 20 лет во всем мире происходят все больше и больше эпидемий коклюша, и большинство заболевших привиты.</description>
+    </item>
+    
+    <item>
+      <title>Pertussis Infection in Fully Vaccinated Children in Day-Care Centers, Israel</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/017-pertussis-infection-in-fully-vaccinated-children-in-day-care-centers-israel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/017-pertussis-infection-in-fully-vaccinated-children-in-day-care-centers-israel/</guid>
+      <description>Я до сих пор не приводил case reports, которых есть сотни для каждой прививки, но здесь не могу удержаться. Случай произошел в 2000-м году, когда еще использовали цельноклеточную, т.е. более эффективную вакцину.
+4-х месячный ребенок в Израиле умер от коклюша. Он был привит в двухмесячном возрасте. Вся его семья (мать, тетя и три брата — 2, 5 и 11 лет) были полностью привиты. Все дети, которые ходили в детские сады с двумя младшими братьями, были полностью привиты 4-мя дозами.</description>
     </item>
     
     <item>
@@ -372,7 +372,7 @@ DTaP — это бесклеточная вакцина от коклюша.</de
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/005-the-true-story-of-pertussis-vaccination-a-sordid-legacy/</guid>
       <description>Длинная, но познавательная статья про историю вакцины от коклюша, и не только. Если вы всё ещё случайно надеетесь, что главной целью фармацевтических компаний является создание эффективных и безопасных препаратов, то эта статья вас немного протрезвит. Здесь есть русский перевод. Очень рекомендую прочитать ее полностью.
-- В вакцину добавляется коклюшный токсин. Этот токсин увеличивает проницаемость гематоэнцефалического барьера, что позволяет ему, а также другим токсинам и вирусам проникнуть в мозг. Ну и сам коклюшный токсин является нейротоксином.</description>
+ В вакцину добавляется коклюшный токсин. Этот токсин увеличивает проницаемость гематоэнцефалического барьера, что позволяет ему, а также другим токсинам и вирусам проникнуть в мозг. Ну и сам коклюшный токсин является нейротоксином.</description>
     </item>
     
     <item>
@@ -412,7 +412,7 @@ DTaP — это бесклеточная вакцина от коклюша.</de
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/025-what-is-wrong-with-pertussis-vaccine-immunity-inducing-and-recalling-vaccine-specific-immunity/</guid>
       <description>Determination of Serum Antibody to Bordetella pertussis Adenylate Cyclase Toxin in Vaccinated and Unvaccinated Children and in Children and Adults with Pertussis (Cherry, 2004, Clin Infect Dis.)
-Когда иммунная система встречает патоген в первый раз, она формирует на него иммунный ответ. В следующий раз, встретив этот, или похожий патоген, она формирует тот же самый иммунный ответ, даже если другой ответ был бы более эффективным. Этот феномен называется &amp;ldquo;первородный антигенный грех&amp;rdquo;.</description>
+Когда иммунная система встречает патоген в первый раз, она формирует на него иммунный ответ. В следующий раз, встретив этот, или похожий патоген, она формирует тот же самый иммунный ответ, даже если другой ответ был бы более эффективным. Этот феномен называется &amp;ldquo;первородный антигенный грех&amp;quot;.</description>
     </item>
     
     <item>
@@ -422,9 +422,7 @@ DTaP — это бесклеточная вакцина от коклюша.</de
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/023-what-is-wrong-with-pertussis-vaccine-immunity-why-immunological-memory-to-pertussis-is-failing/</guid>
       <description>Вернемся к коклюшу.
-- Бесклеточная вакцина от коклюша смещает иммунную реакцию в сторону гуморального иммунитета (Th2), тогда как цельноклеточная вакцина ассоциирована больше с клеточным иммунитетом (Th1). (Цельноклеточная вакцина тоже смещает иммунную реакцию в сторону Th2, но не так сильно.)
-- В бесклеточной вакцине содержится намного меньше антигенов, чем в цельноклеточной вакцине. Тем не менее, бесклеточная вакцина способствует вырабатыванию намного большего количества антител.
-- Чем больше ревакцинаций бесклеточной вакцины человек получает, тем меньше длится иммунитет от этих прививок.</description>
+ Бесклеточная вакцина от коклюша смещает иммунную реакцию в сторону гуморального иммунитета (Th2), тогда как цельноклеточная вакцина ассоциирована больше с клеточным иммунитетом (Th1). (Цельноклеточная вакцина тоже смещает иммунную реакцию в сторону Th2, но не так сильно.) В бесклеточной вакцине содержится намного меньше антигенов, чем в цельноклеточной вакцине. Тем не менее, бесклеточная вакцина способствует вырабатыванию намного большего количества антител. Чем больше ревакцинаций бесклеточной вакцины человек получает, тем меньше длится иммунитет от этих прививок.</description>
     </item>
     
     <item>

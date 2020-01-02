@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Фебрильные Судороги on SciBook: анализ публикуемой информации о прививках</title>
@@ -196,16 +196,6 @@ MMRV повышает риск фебрильных судорог в 7.6 раз
     </item>
     
     <item>
-      <title>Risk of Febrile Seizures and Epilepsy After Vaccination With Diphtheria, Tetanus, Acellular Pertussis, Inactivated Poliovirus, and Haemophilus Influenzae Type b</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/062-risk-of-febrile-seizures-and-epilepsy-after-vaccination-with-diphtheria-tetanus-acellular-pertussis-inactivated-poliovirus-and-haemophilus-influenzae-type-b/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/062-risk-of-febrile-seizures-and-epilepsy-after-vaccination-with-diphtheria-tetanus-acellular-pertussis-inactivated-poliovirus-and-haemophilus-influenzae-type-b/</guid>
-      <description>Вакцина DTaP-IPV-Hib повышает риск фебрильных судoрог в 4-7 раз в день вакцинации. Когда ее делают вместе с вакциной от пневмококка, то риск повышен и в последующие 3 дня. Риск эпилепсии не повышается.
-Здесь сообщается, что вакцина от пневмококка (PCV7) является самой реактогенной из всех используемых на сегодня.</description>
-    </item>
-    
-    <item>
       <title>Risk of febrile convulsions after MMRV vaccination in comparison to MMR or MMR&#43;V vaccination</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/049-risk-of-febrile-convulsions-after-mmrv-vaccination-in-comparison-to-mmr-or-mmr&#43;v-vaccination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -221,6 +211,16 @@ MMRV повышает риск фебрильных судорог в 7.6 раз
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/varicella/048-risk-of-febrile-seizures-after-first-dose-of-measles-mumps-rubella-varicella-vaccine-a-population-based-cohort-study/</guid>
       <description>MMRV повышает риск фебрильных судорог в 6.5 раз, а MMR+V — в 3.3 раза. (Канада)</description>
+    </item>
+    
+    <item>
+      <title>Risk of Febrile Seizures and Epilepsy After Vaccination With Diphtheria, Tetanus, Acellular Pertussis, Inactivated Poliovirus, and Haemophilus Influenzae Type b</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/062-risk-of-febrile-seizures-and-epilepsy-after-vaccination-with-diphtheria-tetanus-acellular-pertussis-inactivated-poliovirus-and-haemophilus-influenzae-type-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pneumococcal/062-risk-of-febrile-seizures-and-epilepsy-after-vaccination-with-diphtheria-tetanus-acellular-pertussis-inactivated-poliovirus-and-haemophilus-influenzae-type-b/</guid>
+      <description>Вакцина DTaP-IPV-Hib повышает риск фебрильных судoрог в 4-7 раз в день вакцинации. Когда ее делают вместе с вакциной от пневмококка, то риск повышен и в последующие 3 дня. Риск эпилепсии не повышается.
+Здесь сообщается, что вакцина от пневмококка (PCV7) является самой реактогенной из всех используемых на сегодня.</description>
     </item>
     
     <item>

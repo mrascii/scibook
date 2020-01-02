@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DTP Vaccine on SciBook: analysis of published information about vaccinations and infections</title>
@@ -27,19 +27,9 @@
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/047/</guid>
       <description>Films and Lectures:
-DPT Vaccine Roulette A 1982 film about the DTP vaccine was shown on NBC. The main point of this film was to explain that the US switched to the acellular vaccine, and that the legislation related to vaccination was completely changed. It&amp;rsquo;s impossible to imagine that this is shown on TV.
+DPT Vaccine Roulette A 1982 film about the DTP vaccine was shown on NBC. The main point of this film was to explain that the US switched to the acellular vaccine, and that the legislation related to vaccination was completely changed. It&#39;s impossible to imagine that this is shown on TV.
 Dr. Suzanne Humphries
 Dr. Sherri Tenpenny</description>
-    </item>
-    
-    <item>
-      <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
-      <description>Children from Guinea-Bissau, who received a diphtheria/tetanus/pertussis vaccine together with the measles vaccine died twice more often that those who only received a measles vaccine.
-Authors cite several more studies with the same results in Gambia, Malawi, Congo, Ghana and Senegal.</description>
     </item>
     
     <item>
@@ -50,6 +40,16 @@ Authors cite several more studies with the same results in Gambia, Malawi, Congo
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/033-delay-in-diphtheria-pertussis-tetanus-vaccination-is-associated-with-a-reduced-risk-of-childhood-asthma/</guid>
       <description>In an analysis of 11,000 children who received a whole-cell vaccine in Canada, those who received the first dose of the vaccine two months later than usual developed asthma far less often (2-fold lower chance). Furthermore, those who received all three doses of the vaccine later in childhood had a 2.5-fold lower risk of developing asthma.
 This phenomenon is due to the fact that the immune reaction shifts towards Th2. The exact cause of asthma is not yet known, but according to one of the prevailing theories, asthma is caused by increased hygiene.</description>
+    </item>
+    
+    <item>
+      <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
+      <description>Children from Guinea-Bissau, who received a diphtheria/tetanus/pertussis vaccine together with the measles vaccine died twice more often that those who only received a measles vaccine.
+Authors cite several more studies with the same results in Gambia, Malawi, Congo, Ghana and Senegal.</description>
     </item>
     
     <item>
@@ -119,6 +119,15 @@ There wasn’t a single case of asthma, or consults on asthma, or allergies amon
     </item>
     
     <item>
+      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
+      <description>Among the children vaccinated with the DTP vaccine, 56% had asthma, chronic rhinitis or dermatitis. Among the unvaccinated ones only 9% had those diseases.</description>
+    </item>
+    
+    <item>
       <title>The Introduction of Diphtheria-Tetanus-Pertussis and Oral Polio Vaccine Among Young Infants in the Urban African Community: A Natural Experiment</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/004-the-introduction-of-diphtheria-tetanus-pertussis-and-oral-polio-vaccine-among-young-infants-in-the-urban-african-community-a-natural-experiment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -135,16 +144,7 @@ The risk of death in children vaccinated against diphtheria/tetanus/pertussis (D
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/005-the-true-story-of-pertussis-vaccination-a-sordid-legacy/</guid>
       <description>A long but informative article on the history of the pertussis vaccine. If you still believe that the main goal of pharmaceutical companies is to create effective and safe drugs, this article might make you see things differently; we highly recommend reading it!
-- The pertussis toxin is added to the whole-cell vaccine. This toxin increases the permeability of the blood-brain barrier, rendering this barrier more penetrable to other toxins and viruses.</description>
-    </item>
-    
-    <item>
-      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
-      <description>Among the children vaccinated with the DTP vaccine, 56% had asthma, chronic rhinitis or dermatitis. Among the unvaccinated ones only 9% had those diseases.</description>
+ The pertussis toxin is added to the whole-cell vaccine. This toxin increases the permeability of the blood-brain barrier, rendering this barrier more penetrable to other toxins and viruses.</description>
     </item>
     
   </channel>

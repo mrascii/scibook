@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Естественный иммунитет on SciBook: анализ публикуемой информации о прививках</title>
@@ -33,17 +33,6 @@
     </item>
     
     <item>
-      <title>Naturally Acquired Immunity to Tetanus Toxin in an Isolated Community</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</guid>
-      <description>Существует полный медицинский консенсус насчет того, что естественный иммунитет от столбняка невозможен, и только прививка способна предотвратить болезнь.
-Авторы провели анализ крови двухсот случайно выбранных иммигрантов из Эфиопии в Израиль, и обнаружили у 98% из них антитела к столбняку. У 30% из них уровень антител считается защитным (выше 0.01 UI/ml). Никто из них не был привит.
-Количество антител увеличивалось с возрастом. Авторы заключили, что естественный иммунитет вырабатывается от постоянного соприкосновения с бактерией.</description>
-    </item>
-    
-    <item>
       <title>Naturally acquired antibodies to tetanus toxin in humans and animals from the Galápagos islands</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/008-naturally-acquired-antibodies-to-tetanus-toxin-in-humans-and-animals-from-the-gal%C3%A1pagos-islands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -63,6 +52,17 @@
       <description>Авторы проанализировали 974 здоровых непривитых детей на Кубе, и обнаружили, что к 4-5 летнему возрасту 99.7% из них обладали естественным иммунитетом к Hib. Естественный иммунитет к Hib обнаружился также в Финляндии (79%) и в Индии (80%).
 Поэтому ВОЗ рекомендует вводить эту вакцину в национальный календарь только в тех странах, которые могут себе это финансово позволить, не отнимая ресурсы от других важных вакцин.
 Здесь сообщается про естественный иммунитет к Hia у аборигенов в Канаде.</description>
+    </item>
+    
+    <item>
+      <title>Naturally Acquired Immunity to Tetanus Toxin in an Isolated Community</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tetanus/006-naturally-acquired-immunity-to-tetanus-toxin-in-an-isolated-community/</guid>
+      <description>Существует полный медицинский консенсус насчет того, что естественный иммунитет от столбняка невозможен, и только прививка способна предотвратить болезнь.
+Авторы провели анализ крови двухсот случайно выбранных иммигрантов из Эфиопии в Израиль, и обнаружили у 98% из них антитела к столбняку. У 30% из них уровень антител считается защитным (выше 0.01 UI/ml). Никто из них не был привит.
+Количество антител увеличивалось с возрастом. Авторы заключили, что естественный иммунитет вырабатывается от постоянного соприкосновения с бактерией.</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UK on SciBook: analysis of published information about vaccinations and infections</title>
@@ -93,7 +93,7 @@ Those who had measles and had not received the vaccine, had a 45% lower risk of 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/pertussis/015-increase-in-pertussis-may-be-due-to-increased-recognition-and-diagnosis/</guid>
-      <description>An article by a British doctor states that, according to his long-term experience, whooping cough hasn&amp;rsquo;t disappeared. In fact, after vaccination was implemented, whooping cough only disappeared from official records because doctors stopped diagnosing it.
+      <description>An article by a British doctor states that, according to his long-term experience, whooping cough hasn&#39;t disappeared. In fact, after vaccination was implemented, whooping cough only disappeared from official records because doctors stopped diagnosing it.
 This article reports that even though vaccination coverage against pertussis in England fell from 78% to 49% between the 1960s and the 1970s, whooping cough-related mortality during this same period decreased 3-fold.</description>
     </item>
     

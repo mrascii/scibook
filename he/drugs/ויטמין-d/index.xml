@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ויטמין D on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
@@ -71,7 +71,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/076-epidemic-influenza-and-vitamin-d/</guid>
       <description>מרבית ויטמין D מופק תחת השפעה של קרינת שמש. בקוי רוחב בינוניים (23-67 מעלות) לרבים יש רמות ויטמין D נמוכות, במיוחד בחורף.
-בהשפעת אותה רמת קרינה, קשישים מפיקים פי 4 פחות ויטמין D מאשר בני 20. בלונדון (קו רוחב 52) ויטמין D לא מופק בין אוקטובר למרץ, מאחר וכל קרינת ה-UVB נספגת ע&amp;rdquo;י שכבת האוזון. תמותת החורף בבריטניה נמצאת ביחס הפוך לכמות אור השמש. כל שעה נוספת של אור שמש מקטינה את התמותה ב-2.</description>
+בהשפעת אותה רמת קרינה, קשישים מפיקים פי 4 פחות ויטמין D מאשר בני 20. בלונדון (קו רוחב 52) ויטמין D לא מופק בין אוקטובר למרץ, מאחר וכל קרינת ה-UVB נספגת ע&amp;quot;י שכבת האוזון. תמותת החורף בבריטניה נמצאת ביחס הפוך לכמות אור השמש. כל שעה נוספת של אור שמש מקטינה את התמותה ב-2.</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/tuberculosis/034-impact-of-vitamin-d-in-the-treatment-of-tuberculosis/</guid>
       <description>לפני תקופת האנטיביוטיקה שחפת טופלה במינונים גדולים של ויטמין D בצורת שמן דגים או שהיה בשמש. בשנת 1854, סטודנט לבוטניקה חולה שחפת נסע להימלאיה לצורך הלימודים והחלים משחפת. רמות נמוכות של ויטמין D קשורות לעלייה של פי חמישה בסיכון לשחפת. עוד: [1] [2] [3]
-כאן מדווח על ניסוי קליני של ההשפעות של שתי מנות של ויטמין D 600,000 יחב&amp;rdquo;ל), אשר הובילה לשיפור התסמינים.
+כאן מדווח על ניסוי קליני של ההשפעות של שתי מנות של ויטמין D 600,000 יחב&amp;quot;ל), אשר הובילה לשיפור התסמינים.
 כאן מדווח על ניסוי קליני של ויטמין D, אשר לא הביא לירידה בתמותה.</description>
     </item>
     
@@ -124,6 +124,15 @@
     </item>
     
     <item>
+      <title>Serum 25-hydroxyvitamin d and the incidence of acute viral respiratory tract infections in healthy adults</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/influenza/087-serum-25-hydroxyvitamin-d-and-the-incidence-of-acute-viral-respiratory-tract-infections-in-healthy-adults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/087-serum-25-hydroxyvitamin-d-and-the-incidence-of-acute-viral-respiratory-tract-infections-in-healthy-adults/</guid>
+      <description>מבוגרים בעלי רמות ויטמין D הגבוהות מ-38ng/mL חלו במחלות דרכי נשימה פי 2.7 פחות, ומשך המחלה היה אצלם נמוך פי 4.9. חיסון נגד שפעת לא השפיע על התחלואה.</description>
+    </item>
+    
+    <item>
       <title>Serum 25-hydroxyvitamin D, mortality, and incident cardiovascular disease, respiratory disease, cancers, and fractures: a 13-y prospective population study</title>
       <link>https://mrascii.github.io/scibook/he/content/vaccines/influenza/085-serum-25-hydroxyvitamin-d-mortality-and-incident-cardiovascular-disease-respiratory-disease-cancers-and-fractures-a-13-y-prospective-population-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,15 +140,6 @@
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/085-serum-25-hydroxyvitamin-d-mortality-and-incident-cardiovascular-disease-respiratory-disease-cancers-and-fractures-a-13-y-prospective-population-study/</guid>
       <description>מחקר פרוספקטיבי שנערך בבריטניה והכיל מעקב על 14,000 אנשים במשך 13 שנה.
 ככל שרמת ויטמין D הייתה גבוהה יותר, כך התמותה הייתה נמוכה יותר. בקרב בעלי רמת ויטמין D הגבוהה מ-90nmol/L, התמותה הייתה נמוכה ב-34% מאשר בקרב בעלי רמת ויטמין הנמוכה מ-30nmol/L. הסיכון למוות כתוצאה ממחלות לב היה נמוך ב-38%, הסיכון לתמותה מסרטן – נמוך ב-15%, וממחלות דרכי נשימה – נמוך ב-78%.</description>
-    </item>
-    
-    <item>
-      <title>Serum 25-hydroxyvitamin d and the incidence of acute viral respiratory tract infections in healthy adults</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/influenza/087-serum-25-hydroxyvitamin-d-and-the-incidence-of-acute-viral-respiratory-tract-infections-in-healthy-adults/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/087-serum-25-hydroxyvitamin-d-and-the-incidence-of-acute-viral-respiratory-tract-infections-in-healthy-adults/</guid>
-      <description>מבוגרים בעלי רמות ויטמין D הגבוהות מ-38ng/mL חלו במחלות דרכי נשימה פי 2.7 פחות, ומשך המחלה היה אצלם נמוך פי 4.9. חיסון נגד שפעת לא השפיע על התחלואה.</description>
     </item>
     
     <item>
@@ -186,7 +186,7 @@
       
       <guid>https://mrascii.github.io/scibook/he/content/vaccines/influenza/090-vitamin-d-a-new-anti-infective-agent/</guid>
       <description>רמה נמוכה של ויטמין D מקושרת לזיהומים במעיים, דלקות ריאות, דלקות אוזניים, דלקות בדרכי השתן, צהבת B, צהבת C, ומחלות אחרות. משתמשים בויטמין D בטיפול נגד דילול עצם, שיגרון וסרטן.
-עד לאמצע המאה ה-20, מחלת השחפת טופלה ע&amp;rdquo;י שמש ושמן דגים. לשתי השיטות האלה מרכיב אחד משוטף – ויטמין D.</description>
+עד לאמצע המאה ה-20, מחלת השחפת טופלה ע&amp;quot;י שמש ושמן דגים. לשתי השיטות האלה מרכיב אחד משוטף – ויטמין D.</description>
     </item>
     
   </channel>

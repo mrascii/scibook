@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Вакцина DTP on SciBook: анализ публикуемой информации о прививках</title>
@@ -33,16 +33,6 @@ DTaP — это бесклеточная вакцина от коклюша.</de
     </item>
     
     <item>
-      <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
-      <description>Дети из Гвинеи-Биссау, которым сделали прививку от дифтерии/столбняка/коклюша вместе с прививкой от кори умирали в 2 раза чаще, чем те, которым сделали только прививку от кори.
-Авторы приводят еще несколько исследований с такими же результатами в Гамбии, Малави, Конго, Гане и Сенегале.</description>
-    </item>
-    
-    <item>
       <title>Delay in diphtheria, pertussis, tetanus vaccination is associated with a reduced risk of childhood asthma</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/033-delay-in-diphtheria-pertussis-tetanus-vaccination-is-associated-with-a-reduced-risk-of-childhood-asthma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,6 +40,16 @@ DTaP — это бесклеточная вакцина от коклюша.</de
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/033-delay-in-diphtheria-pertussis-tetanus-vaccination-is-associated-with-a-reduced-risk-of-childhood-asthma/</guid>
       <description>Анализ 11,000 детей, которые получили цельноклеточную вакцину в Канаде. Те, кто получили первую дозу вакцины на два месяца позже обычного срока, болели астмой в два раза реже. У тех, кто получил все три дозы вакцины позже — риск развития астмы был в 2.5 раза ниже.
 Это происходит из-за того, что иммунная реакция смещается в сторону Th2. Точная причина астмы еще неизвестна, но согласно одной из господствующих теорий, астма вызывается повышенной гигиеной.</description>
+    </item>
+    
+    <item>
+      <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
+      <description>Дети из Гвинеи-Биссау, которым сделали прививку от дифтерии/столбняка/коклюша вместе с прививкой от кори умирали в 2 раза чаще, чем те, которым сделали только прививку от кори.
+Авторы приводят еще несколько исследований с такими же результатами в Гамбии, Малави, Конго, Гане и Сенегале.</description>
     </item>
     
     <item>
@@ -120,6 +120,15 @@ DTaP — это бесклеточная вакцина от коклюша.</de
     </item>
     
     <item>
+      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
+      <description>Среди привитых вакциной DTP 56% болели астмой, хроническим насморком или дерматитом. Среди непривитых болели лишь 9%.</description>
+    </item>
+    
+    <item>
       <title>The Introduction of Diphtheria-Tetanus-Pertussis and Oral Polio Vaccine Among Young Infants in an Urban African Community: A Natural Experiment</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/004-the-introduction-of-diphtheria-tetanus-pertussis-and-oral-polio-vaccine-among-young-infants-in-an-urban-african-community-a-natural-experiment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -137,16 +146,7 @@ DTaP — это бесклеточная вакцина от коклюша.</de
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/pertussis/005-the-true-story-of-pertussis-vaccination-a-sordid-legacy/</guid>
       <description>Длинная, но познавательная статья про историю вакцины от коклюша, и не только. Если вы всё ещё случайно надеетесь, что главной целью фармацевтических компаний является создание эффективных и безопасных препаратов, то эта статья вас немного протрезвит. Здесь есть русский перевод. Очень рекомендую прочитать ее полностью.
-- В вакцину добавляется коклюшный токсин. Этот токсин увеличивает проницаемость гематоэнцефалического барьера, что позволяет ему, а также другим токсинам и вирусам проникнуть в мозг. Ну и сам коклюшный токсин является нейротоксином.</description>
-    </item>
-    
-    <item>
-      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
-      <description>Среди привитых вакциной DTP 56% болели астмой, хроническим насморком или дерматитом. Среди непривитых болели лишь 9%.</description>
+ В вакцину добавляется коклюшный токсин. Этот токсин увеличивает проницаемость гематоэнцефалического барьера, что позволяет ему, а также другим токсинам и вирусам проникнуть в мозг. Ну и сам коклюшный токсин является нейротоксином.</description>
     </item>
     
   </channel>

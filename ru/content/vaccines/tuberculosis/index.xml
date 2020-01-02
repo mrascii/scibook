@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Туберкулёз on SciBook: анализ публикуемой информации о прививках</title>
@@ -81,6 +81,17 @@ CDC сообщает, что БЦЖ может вызвать ложнополо
     </item>
     
     <item>
+      <title>Bacillus Calmette-Guérin vaccination and infant mortality</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/021-bacillus-calmette-gu%C3%A9rin-vaccination-and-infant-mortality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/021-bacillus-calmette-gu%C3%A9rin-vaccination-and-infant-mortality/</guid>
+      <description>Когда БЦЖ была введена в 1920-е годы, было высказано предположение, что она иногда оказывала неспецифическое благоприятное воздействие на смертность. Учитывая, что БЦЖ с тех пор стала самой популярной вакциной в мире, было проведено удивительно мало исследований влияния БЦЖ на общую смертность и заболеваемость.
+Недавние исследования показывают, что БЦЖ имеет благоприятные неспецифические эффекты на общую младенческую заболеваемость и смертность в странах с низким доходом, особенно среди девочек.
+Помимо противостолбнячной вакцины для беременных, ни одна вакцина в мире не была введена вследствие испытаний, измеряющих их влияние на общую смертность и заболеваемость.</description>
+    </item>
+    
+    <item>
       <title>BCG - different strains, different vaccines?</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/001-bcg-different-strains-different-vaccines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,17 +109,6 @@ CDC сообщает, что БЦЖ может вызвать ложнополо
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/020-bcg-vaccination-and-the-subsequent-development-of-cancer-in-humans/</guid>
       <description>Но если смотреть на все виды рака, то вакцинация БЦЖ была ассоциирована с повышениям риска онкологических заболеваний на 13%. Еще: [1] [2] [3]
 После того, как на южном острове Новой Зеландии перестали прививать БЦЖ, а на северном острове продолжили, смертность от неходжкинской лимфомы на северном острове увеличилась, а на южном острове уменьшилась, хотя до этого она была одинакова. Авторы заключают, что предложения использовать БЦЖ против лейкемии неблагоразумны.</description>
-    </item>
-    
-    <item>
-      <title>Bacillus Calmette-Guérin vaccination and infant mortality</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/021-bacillus-calmette-gu%C3%A9rin-vaccination-and-infant-mortality/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/021-bacillus-calmette-gu%C3%A9rin-vaccination-and-infant-mortality/</guid>
-      <description>Когда БЦЖ была введена в 1920-е годы, было высказано предположение, что она иногда оказывала неспецифическое благоприятное воздействие на смертность. Учитывая, что БЦЖ с тех пор стала самой популярной вакциной в мире, было проведено удивительно мало исследований влияния БЦЖ на общую смертность и заболеваемость.
-Недавние исследования показывают, что БЦЖ имеет благоприятные неспецифические эффекты на общую младенческую заболеваемость и смертность в странах с низким доходом, особенно среди девочек.
-Помимо противостолбнячной вакцины для беременных, ни одна вакцина в мире не была введена вследствие испытаний, измеряющих их влияние на общую смертность и заболеваемость.</description>
     </item>
     
     <item>
@@ -165,7 +165,7 @@ CDC сообщает, что БЦЖ может вызвать ложнополо
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/024-evaluation-of-non-specific-effects-of-infant-immunizations-on-early-infant-mortality-in-a-southern-indian-population/</guid>
-      <description>Исследование неспецифических эффектов вакцины в южной Индии (11,000 младенцев).
+      <description>Исследование неспецифических эффектов вакцины в южной Индии (10 000 младенцев).
 Среди привитых одной из вакцин DTP или БЦЖ, смертность была ниже, чем у непривитых. Однако среди привитых обеими вакцинами смертность была такой же, как у непривитых.
 У девочек, которые получили обе вакцины, смертность была в 4.5 раза выше, чем у привитых одной вакциной.
 Младенцев, которые умерли в первую неделю после прививки, авторы не учитывали, так как смертность была высокая, могла затмить релевантные ассоциации, и, по их мнению, не могла быть вызвана неспецифическими эффектами БЦЖ.</description>
@@ -404,15 +404,6 @@ L-формы — это бактерии, которые лишены клето
     </item>
     
     <item>
-      <title>Vitamin C Potentiates the Killing of Mycobacterium tuberculosis by the First-Line Tuberculosis Drugs Isoniazid and Rifampin in Mice</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/032-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/032-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</guid>
-      <description>Комбинирование витамина С с лекарствами от туберкулеза приводит к более быстрому выздоровлению у мышей.</description>
-    </item>
-    
-    <item>
       <title>Vitamin C and tuberculosis</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/029-vitamin-c-and-tuberculosis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -420,6 +411,15 @@ L-формы — это бактерии, которые лишены клето
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/029-vitamin-c-and-tuberculosis/</guid>
       <description>Защитный эффект витамина С против туберкулеза у животных был неоднократно описан. Животные на бедной витамином С диете более восприимчивы к туберкулезной инфекции, а зараженные животные более восприимчивы к цинге.
 Больные туберкулезом люди выделяют меньше витамина С в моче, чем здоровые, из чего вероятно следует, что потребность организма в витамине во время инфекции повышается.</description>
+    </item>
+    
+    <item>
+      <title>Vitamin C Potentiates the Killing of Mycobacterium tuberculosis by the First-Line Tuberculosis Drugs Isoniazid and Rifampin in Mice</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/032-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/tuberculosis/032-vitamin-c-potentiates-the-killing-of-mycobacterium-tuberculosis-by-the-first-line-tuberculosis-drugs-isoniazid-and-rifampin-in-mice/</guid>
+      <description>Комбинирование витамина С с лекарствами от туберкулеза приводит к более быстрому выздоровлению у мышей.</description>
     </item>
     
     <item>

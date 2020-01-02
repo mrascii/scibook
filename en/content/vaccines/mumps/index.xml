@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mumps on SciBook: analysis of published information about vaccinations and infections</title>
@@ -201,17 +201,6 @@ The authors report that historically, vaccine prevention of mumps did not get as
     </item>
     
     <item>
-      <title>Mumps outbreak in Israel&#39;s highly vaccinated society: are two doses enough?</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/012-mumps-outbreak-in-israels-highly-vaccinated-society-are-two-doses-enough/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/012-mumps-outbreak-in-israels-highly-vaccinated-society-are-two-doses-enough/</guid>
-      <description>A mumps outbreak in Israel (over 5,000 cases). 78% had been fully vaccinated. Mostly teenagers and adults got sick. In other countries (Austria, USA, Netherlands, Great Britain) mumps outbreaks were also observed among teenagers and college students, whereas in countries where there is no vaccination against mumps, children aged 5-9 years got sick.
-Despite the high vaccination coverage (90-97%), mumps antibodies were found in only 68% of the population.
-The authors report that the recent mumps outbreaks have been caused by the genotype G virus, whereas the vaccine contains genotype A.</description>
-    </item>
-    
-    <item>
       <title>Mumps outbreak in a highly vaccinated school population. Evidence for a large-scale vaccination failure</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/013-mumps-outbreak-in-a-highly-vaccinated-school-population.-evidence-for-a-large-scale-vaccination-failure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -221,6 +210,17 @@ The authors report that the recent mumps outbreaks have been caused by the genot
 There are many similar studies on mumps outbreaks among fully vaccinated. Here are a few more:
 [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14].
 The vaccine against mumps is so ineffective, and the outbreaks among fully vaccinated are so common, that there is a special article on Wikipedia, listing all the mumps outbreaks in the 21st century.</description>
+    </item>
+    
+    <item>
+      <title>Mumps outbreak in Israel&#39;s highly vaccinated society: are two doses enough?</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/012-mumps-outbreak-in-israels-highly-vaccinated-society-are-two-doses-enough/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/012-mumps-outbreak-in-israels-highly-vaccinated-society-are-two-doses-enough/</guid>
+      <description>A mumps outbreak in Israel (over 5,000 cases). 78% had been fully vaccinated. Mostly teenagers and adults got sick. In other countries (Austria, USA, Netherlands, Great Britain) mumps outbreaks were also observed among teenagers and college students, whereas in countries where there is no vaccination against mumps, children aged 5-9 years got sick.
+Despite the high vaccination coverage (90-97%), mumps antibodies were found in only 68% of the population.
+The authors report that the recent mumps outbreaks have been caused by the genotype G virus, whereas the vaccine contains genotype A.</description>
     </item>
     
     <item>

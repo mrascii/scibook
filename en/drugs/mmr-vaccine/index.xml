@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MMR Vaccine on SciBook: analysis of published information about vaccinations and infections</title>
@@ -61,6 +61,15 @@ In this lecture Susan Humphries explains why the combination of live and killed 
     </item>
     
     <item>
+      <title>Deep sequencing reveals persistence of cell-associated mumps vaccine virus in chronic encephalitis</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/025-deep-sequencing-reveals-persistence-of-cell-associated-mumps-vaccine-virus-in-chronic-encephalitis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/025-deep-sequencing-reveals-persistence-of-cell-associated-mumps-vaccine-virus-in-chronic-encephalitis/</guid>
+      <description>A 14 months old boy was given an MMR vaccine, and 4 months later he was diagnosed with a severe combined immunodeficiency. He then successfully underwent a bone marrow transplant, but developed chronic encephalitis, and died at the age of 5. A brain biopsy showed that he had the vaccine strain of the mumps virus in his brain. This was the first case of panencephalitis caused by the mumps virus.</description>
+    </item>
+    
+    <item>
       <title>DTP with or after measles vaccination is associated with increased in-hospital mortality in Guinea-Bissau</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,15 +77,6 @@ In this lecture Susan Humphries explains why the combination of live and killed 
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/014-dtp-with-or-after-measles-vaccination-is-associated-with-increased-in-hospital-mortality-in-guinea-bissau/</guid>
       <description>Children from Guinea-Bissau, who received a diphtheria/tetanus/pertussis vaccine together with the measles vaccine died twice more often that those who only received a measles vaccine.
 Authors cite several more studies with the same results in Gambia, Malawi, Congo, Ghana and Senegal.</description>
-    </item>
-    
-    <item>
-      <title>Deep sequencing reveals persistence of cell-associated mumps vaccine virus in chronic encephalitis</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/mumps/025-deep-sequencing-reveals-persistence-of-cell-associated-mumps-vaccine-virus-in-chronic-encephalitis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/mumps/025-deep-sequencing-reveals-persistence-of-cell-associated-mumps-vaccine-virus-in-chronic-encephalitis/</guid>
-      <description>A 14 months old boy was given an MMR vaccine, and 4 months later he was diagnosed with a severe combined immunodeficiency. He then successfully underwent a bone marrow transplant, but developed chronic encephalitis, and died at the age of 5. A brain biopsy showed that he had the vaccine strain of the mumps virus in his brain. This was the first case of panencephalitis caused by the mumps virus.</description>
     </item>
     
     <item>

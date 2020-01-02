@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Непривитые on SciBook: анализ публикуемой информации о прививках</title>
@@ -29,8 +29,7 @@ Kоличество недопривитых неуклонно растёт (о
       
       <guid>https://mrascii.github.io/scibook/ru/content/vaccines/influenza/024-assessment-of-temporally-related-acute-respiratory-illness-following-influenza-vaccination./</guid>
       <description>Многие люди считают, что вакцинация от гриппа может вызвать грипп. Авторы провели данное исследование чтобы доказать, что это не так. Они обнаружили что:
-1) Заболеваемость гриппом среди привитых и непривитых не отличалась.
-2) Заболеваемость другими респираторными заболеваниями среди привитых детей была на 71% выше, чем у непривитых.</description>
+ Заболеваемость гриппом среди привитых и непривитых не отличалась. Заболеваемость другими респираторными заболеваниями среди привитых детей была на 71% выше, чем у непривитых.  </description>
     </item>
     
     <item>
@@ -78,6 +77,15 @@ Kоличество недопривитых неуклонно растёт (о
     </item>
     
     <item>
+      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
+      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
+      <description>Среди привитых вакциной DTP 56% болели астмой, хроническим насморком или дерматитом. Среди непривитых болели лишь 9%.</description>
+    </item>
+    
+    <item>
       <title>The Introduction of Diphtheria-Tetanus-Pertussis and Oral Polio Vaccine Among Young Infants in an Urban African Community: A Natural Experiment</title>
       <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/004-the-introduction-of-diphtheria-tetanus-pertussis-and-oral-polio-vaccine-among-young-infants-in-an-urban-african-community-a-natural-experiment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -86,15 +94,6 @@ Kоличество недопривитых неуклонно растёт (о
       <description>Из-за того, что в Гвинее-Бисау прививали детей раз в три месяца, получился натуральный эксперимент. Некоторые дети в 3-5 месяцев уже были привиты, а некоторые нет.
 Риск смерти у детей привитых от дифтерии/столбняка/коклюша (DTP) был в 10 раз выше, чем у непривитых детей. Дети, которые были привиты также от полиомиелита (OPV) умирали лишь в 5 раз чаще непривитых.
 После того, как началась вакцинация, младенческая смертность в возрасте выше 3-х месяцев повысилась в 2 раза.</description>
-    </item>
-    
-    <item>
-      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
-      <link>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/ru/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
-      <description>Среди привитых вакциной DTP 56% болели астмой, хроническим насморком или дерматитом. Среди непривитых болели лишь 9%.</description>
     </item>
     
     <item>

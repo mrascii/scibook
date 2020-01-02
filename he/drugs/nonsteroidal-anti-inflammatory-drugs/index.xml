@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nonsteroidal anti-inflammatory drugs on SciBook: ניתוח מידע ממקורות מדעיים: חיסונים, מחלות, תרופות</title>
@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Nonsteroidal anti-inflammatory drug use and the risk of severe skin and soft tissue complications in patients with varicella or zoster disease</title>
+      <link>https://mrascii.github.io/scibook/he/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/he/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</guid>
+      <description>נטילת תרופות מקבוצת NSAID (תכשירים אנטי-דלקטיים לא סטרואידיים) בחודש שלפני התפרצות אבעבועות רוח מקושרת לעליה של פי 5 של הסיכון לסיבוכים. אקמול מקושר לעליית הסיכון לסיבוכים ב-50%.
+במחקרים אחרים נמצא כי נטילת איבופרופן (נורופן) בחודש שלפני התפרצות אבעבועות רוח מקושרת:
+ לעליה פי 3 בסיכון לזיהומי עור עמידים. לעליה פי 11.5 בסיכון לדלקות נקרוטיות. לעליה פי 3.9 בסיכון לזיהום סטרפטוקוק A פולשני. עוד: [1].  </description>
+    </item>
+    
+    <item>
       <title>NSAIDs and chickenpox</title>
       <link>https://mrascii.github.io/scibook/he/content/vaccines/varicella/044-nsaids-and-chickenpox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,19 +31,6 @@
       <description>&amp;ldquo;לאחרונה השלמתי את לימודיי בפקולטה לרפואה, ובמשך 6 שנות לימוד, למרות שנתקלתי לא פעם באבעבועות רוח, מעולם לא שמעתי על כך שתרופות אנטי-דלקטיות גורמות לסיבוכים במהלך המחלה. לכן לא התייחסתי ברצינות למאמר ב-Daily Mail שמזהיר מפני השימוש באיבופרופן בזמן אבעבועות רוח.
 אולם גיליתי כי משרד הבריאות וארגונים רפואיים שונים אכן ממליצים לא להשתמש בתרופות אנטי-דלקתיות בתקופת המחלה.
 מוזר שבכל תקופת לימודי מעולם לא הזהירו אותי על כך. כמובן שהמידע נגיש בתנאי שמחפשים אותו, אך מכיוון שאיבופרופן הוא תרופה נפוצה ביותר, רצוי שהמידע הזה יפורסם באופן בולט יותר.</description>
-    </item>
-    
-    <item>
-      <title>Nonsteroidal anti-inflammatory drug use and the risk of severe skin and soft tissue complications in patients with varicella or zoster disease</title>
-      <link>https://mrascii.github.io/scibook/he/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/he/content/vaccines/varicella/043-nonsteroidal-anti-inflammatory-drug-use-and-the-risk-of-severe-skin-and-soft-tissue-complications-in-patients-with-varicella-or-zoster-disease/</guid>
-      <description>נטילת תרופות מקבוצת NSAID (תכשירים אנטי-דלקטיים לא סטרואידיים) בחודש שלפני התפרצות אבעבועות רוח מקושרת לעליה של פי 5 של הסיכון לסיבוכים. אקמול מקושר לעליית הסיכון לסיבוכים ב-50%.
-במחקרים אחרים נמצא כי נטילת איבופרופן (נורופן) בחודש שלפני התפרצות אבעבועות רוח מקושרת:
-1) לעליה פי 3 בסיכון לזיהומי עור עמידים.
-2) לעליה פי 11.5 בסיכון לדלקות נקרוטיות.
-3) לעליה פי 3.9 בסיכון לזיהום סטרפטוקוק A פולשני. עוד: [1].</description>
     </item>
     
   </channel>

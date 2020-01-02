@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unvaccinated on SciBook: analysis of published information about vaccinations and infections</title>
@@ -155,6 +155,15 @@ Authors conclude that, perhaps, the current policy on simultaneous vaccinations 
     </item>
     
     <item>
+      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
+      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
+      <description>Among the children vaccinated with the DTP vaccine, 56% had asthma, chronic rhinitis or dermatitis. Among the unvaccinated ones only 9% had those diseases.</description>
+    </item>
+    
+    <item>
       <title>The Introduction of Diphtheria-Tetanus-Pertussis and Oral Polio Vaccine Among Young Infants in the Urban African Community: A Natural Experiment</title>
       <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/004-the-introduction-of-diphtheria-tetanus-pertussis-and-oral-polio-vaccine-among-young-infants-in-the-urban-african-community-a-natural-experiment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -162,15 +171,6 @@ Authors conclude that, perhaps, the current policy on simultaneous vaccinations 
       <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/004-the-introduction-of-diphtheria-tetanus-pertussis-and-oral-polio-vaccine-among-young-infants-in-the-urban-african-community-a-natural-experiment/</guid>
       <description>Due to the fact that in Guinea-Bissau children were vaccinated once in three months, it turned out to be a natural experiment. Some children have already been vaccinated by the age of 3-5 months, and some haven’t.
 The risk of death in children vaccinated against diphtheria/tetanus/pertussis (DTP) was 10 times higher than that of the unvaccinated children. Children who were also vaccinated against poliomyelitis (OPV) died only 5 times more often that the unvaccinated children.</description>
-    </item>
-    
-    <item>
-      <title>The effect of DPT and BCG vaccinations on atopic disorders</title>
-      <link>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrascii.github.io/scibook/en/content/vaccines/unvaccinated/012-the-effect-of-dpt-and-bcg-vaccinations-on-atopic-disorders/</guid>
-      <description>Among the children vaccinated with the DTP vaccine, 56% had asthma, chronic rhinitis or dermatitis. Among the unvaccinated ones only 9% had those diseases.</description>
     </item>
     
     <item>

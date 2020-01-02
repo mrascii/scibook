@@ -26,10 +26,14 @@ function onTranslateToSelected(el) {
         // Generate URL to create a new page translation.
         var filename =
             encodeURIComponent('{0}.{1}.md'.format(basename, toLanguage));
+        var lastDir = dir.split('/')
+        // Last path element can be empty due to a trailing slash.
+        lastDir = lastDir.pop() || lastDir.pop()
         var newFileUrl =
-            'https://github.com/mrascii/scibook/new/master/content/{0}/{1}?filename={1}&value={2}'
+            'https://github.com/mrascii/scibook/new/master/content/{0}?filename={1}/{2}&value={3}'
                 .format(
-                    dir.substr(0, dir.length - 1), filename, markdownContent);
+                    dir.substr(0, dir.length - 1), lastDir, filename,
+                    markdownContent);
 
         window.open(newFileUrl, '_blank');
       } else {
