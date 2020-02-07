@@ -1,0 +1,20 @@
+# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+# This is the only image with embedded postcss-cli.
+image: biodranik/hugo-extended-git-postcss-cli
+
+test:
+  script:
+    - bash tools/build_search_index.sh
+    - hugo --baseURL https://mrascii.gitlab.io/scibook
+  except:
+    - master
+
+pages:
+  script:
+    - bash tools/build_search_index.sh
+    - hugo --baseURL https://mrascii.gitlab.io/scibook
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
