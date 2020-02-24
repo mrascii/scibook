@@ -351,9 +351,10 @@ def markdownify(digest, lang):
     # For lists, insert additional \n only for the first li element
     # digest = digest.replace('<br>- ', '\n\n- ', 1)
     toReplace = {'\r\n': '\n', '<br>': '\n', '...': '…', '  ': ' ', ' \n': '\n', '\t': ' ',
-      'http: ': 'http:', ' .com/': '.com/', 'nordic. cochrane.org': 'nordic.cochrane.org',
-      'nlm. nih.gov':'nlm.nih.gov', 'ncbi .nlm': 'ncbi.nlm', 'push -its-': 'push-its-',
-      'fr- j_appl': 'fr-j_appl', '-that -all-':'-that-all-'}
+                 'http: ': 'http:', ' .com/': '.com/', 'nordic. cochrane.org': 'nordic.cochrane.org',
+                 'nlm. nih.gov': 'nlm.nih.gov', 'ncbi .nlm': 'ncbi.nlm', 'push -its-': 'push-its-',
+                 'fr- j_appl': 'fr-j_appl', '-that -all-': '-that-all-',
+                 '[]=Hepatitis B&': '[]=Hepatitis%20B&'}
     if lang == 'ru':
         toReplace[' - '] = ' — '
     for old in toReplace:
