@@ -25,42 +25,42 @@ TAG_TYPE = 'I_S_type_this'
 TAG_CODENAME = 'I_S_codename'
 
 CHAPTERS_ORDER = [
-  {'vaccines': [
-    'intro',
-    'anti-vaxx',
-    'physicians',
-    'placebo',
-    'safety',
-    'unvaccinated',
-    'aluminium',
-    'papilloma',
-    'hepatitisB',
-    'pertussis',
-    'tetanus',
-    'diphtheria',
-    'measles',
-    'mumps',
-    'rubella',
-    'polio',
-    'influenza',
-    'hib',
-    'pneumococcal',
-    'varicella',
-    'rotavirus',
-    'hepatitisA',
-    'meningococcal',
-    'tuberculosis',
-    'vitaminK',
-    'SIDS',
-    'mercury',
-    'autism']},
-  {'antipyretics': [
-    'fever',
-    'paracetamol',
-    'ibuprofen',
-    'febrileseizures',
-    'alternatives']},
-  {'childbirth': ['cordclamping']}
+    {'vaccines': [
+        'intro',
+        'anti-vaxx',
+        'physicians',
+        'placebo',
+        'safety',
+        'unvaccinated',
+        'aluminium',
+        'papilloma',
+        'hepatitisB',
+        'pertussis',
+        'tetanus',
+        'diphtheria',
+        'measles',
+        'mumps',
+        'rubella',
+        'polio',
+        'influenza',
+        'hib',
+        'pneumococcal',
+        'varicella',
+        'rotavirus',
+        'hepatitisA',
+        'meningococcal',
+        'tuberculosis',
+        'vitaminK',
+        'SIDS',
+        'mercury',
+        'autism']},
+    {'antipyretics': [
+        'fever',
+        'paracetamol',
+        'ibuprofen',
+        'febrileseizures',
+        'alternatives']},
+    {'childbirth': ['cordclamping']}
 ]
 
 TRANSLATIONS = {
@@ -69,6 +69,7 @@ TRANSLATIONS = {
     'childbirth': {'en': 'Childbirth', 'ru': 'Роды', 'he': 'לידה'},
     'source': {'en': 'Source', 'ru': 'Источник', 'he': 'מקור'},
 }
+
 
 def loadTags(objectsJson):
     """Load tags with their translations."""
@@ -305,7 +306,7 @@ def markdownify(digest, lang):
     digest = digest.replace(' ]', ']')
     # Fix some missing closing bracers in original links
     toReplace = {'/wiki/Гирсутизм': '/wiki/Гирсутизм]',
-        '/wiki/Аланинаминотрансфераза': '/wiki/Аланинаминотрансфераза]'}
+                 '/wiki/Аланинаминотрансфераза': '/wiki/Аланинаминотрансфераза]'}
     for old in toReplace:
         digest = digest.replace(old, toReplace[old])
 
@@ -438,7 +439,9 @@ def parseReferences(ch, lang):
 def imageFrom(dict, lang):
     markdown = '\n{{< figure src="' + dict['info_img'] + '"'
     if 'info_imgSource' in dict:
-        markdown += ' attr="' + TRANSLATIONS['source'][lang] + '" attrlink="' + dict['info_imgSource'] + '"'
+        markdown += ' attr="' + \
+            TRANSLATIONS['source'][lang] + '" attrlink="' + \
+            dict['info_imgSource'] + '"'
     markdown += ' >}}\n'
     return markdown
 
@@ -453,7 +456,8 @@ def parseChapter(ch, lang, siteContentDir):
     chapterTitle = ch['title'] if 'title' in ch else ch['subject']
     codename = ch[TAG_CODENAME] if TAG_CODENAME in ch else "intro"
     date = ch['date']['$date']
-    epigraphText = markdownify(trim(ch['epigraph'].get('text')).replace('<br>', ' '), lang)
+    epigraphText = markdownify(
+        trim(ch['epigraph'].get('text')).replace('<br>', ' '), lang)
     epigraphSource = ch['epigraph'].get('source')
     intro = markdownify(ch['intro'], lang) if 'intro' in ch else ""
     summary = markdownify(ch['summary'], lang) if 'summary' in ch else ""
@@ -476,7 +480,8 @@ def parseChapter(ch, lang, siteContentDir):
             namespaceWeight = (i + 1) * 10
             break
     with open(siteContentDir / namespace / f'_index.{lang}.md', 'w') as fp:
-        fp.write(f'---\ntitle: {TRANSLATIONS[namespace][lang]}\nweight: {namespaceWeight}\n---\n')
+        fp.write(
+            f'---\ntitle: {TRANSLATIONS[namespace][lang]}\nweight: {namespaceWeight}\n---\n')
 
     # Write chapter index
     index = f"---\n"
@@ -507,8 +512,6 @@ def parseChapter(ch, lang, siteContentDir):
         index += intro
         with open(outDir / f"introduction/index.{lang}.md", 'w') as fp:
             fp.write(index)
-
-
 
     # Sanity check for duplicate links in a chapter
     chapterLinks = dict()
@@ -561,7 +564,7 @@ def parseChapter(ch, lang, siteContentDir):
                 html.unescape(title.replace('"', '\\"')))
         # Date changes default file name sorting order in hugo.
         #txt += f"date: {date}\n"
-        #if lastmod:
+        # if lastmod:
         #    txt += f"lastmod: {lastmod}\n"
         # Duplicate analyst for each article
         txt += f"analyst: {analyst}\n"
@@ -598,7 +601,7 @@ def parseChapter(ch, lang, siteContentDir):
         txt += '\n'
 
         if 'sources_pool' in pt:
-            for src in sorted(pt['sources_pool'], key=lambda v:v['num']):
+            for src in sorted(pt['sources_pool'], key=lambda v: v['num']):
                 txt += "\n"
                 if 'info_authors' in src:
                     txt += f"{src['info_authors']} ({src['info_date']}). "
@@ -613,7 +616,7 @@ def parseChapter(ch, lang, siteContentDir):
 
         # Image pool if it's present is also displayed at the end
         if 'img_pool' in pt:
-            for img in sorted(pt['img_pool'], key=lambda v:v['num']):
+            for img in sorted(pt['img_pool'], key=lambda v: v['num']):
                 txt += imageFrom(img, lang)
 
         finalDir = outDir / mdFileDir
@@ -648,7 +651,8 @@ def LoadJsons(jsonsDir, contentDir):
         jsonFile = str(jsonFile)
         with open(jsonFile, 'r') as fp:
             chapter = json.load(fp)
-            lang = jsonFile[len(jsonFile) - len('xx.json'): len(jsonFile) - len('.json')]
+            lang = jsonFile[len(jsonFile) - len('xx.json')
+                                : len(jsonFile) - len('.json')]
             parseChapter(chapter, lang, contentDir)
 
 
