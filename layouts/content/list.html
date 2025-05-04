@@ -8,7 +8,9 @@
 {{- else -}}
 {{- partial "next-prev" . -}}
 {{- partial "epigraph" . -}}
-{{- partial "load-introduction" . -}}
+{{- if .File -}}
+  {{- partial "load-introduction" . -}}
+{{- end -}}
 {{- partial "article-from-pages" (dict "pages" .Pages "header" true) -}}
 {{ if .Content -}}
 <section class="summary">
