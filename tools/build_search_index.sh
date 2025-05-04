@@ -25,7 +25,7 @@ popd
 
 for lang in "${LANGUAGES[@]}"
 do
-  input="$SCRIPT_DIR/../$SEARCH_INDEX_ROOT/$lang/search.json"
+  input="$SCRIPT_DIR/../$SEARCH_INDEX_ROOT/$lang/index.json"
   output="${input}.js"
   node "$SCRIPT_DIR/build_search_index.js" "$lang" "$input" "$output"
   MD5_SUM=$(md5_of_file "$output")

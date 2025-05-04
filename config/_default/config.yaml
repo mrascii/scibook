@@ -44,12 +44,6 @@ taxonomies:
   drug: drugs
   condition: conditions
 
-outputFormats:
-  SearchIndex:
-    mediaType: application/json
-    baseName: search
-    notAlternative: true
-
 markup:
   goldmark:
     renderer:

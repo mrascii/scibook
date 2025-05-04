@@ -10,4 +10,4 @@ disableKinds:
 
 outputs:
   home:
-  - SearchIndex
+  - json  # Outputs search-index/en/index.json
