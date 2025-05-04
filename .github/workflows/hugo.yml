@@ -51,8 +51,8 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
+          tools/build_search_index.sh  # Should run before hugo build to copy files from static to public folder
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-          tools/build_search_index.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
