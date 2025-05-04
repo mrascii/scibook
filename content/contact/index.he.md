@@ -1,5 +1,6 @@
 ---
 title: כתבו לנו
+type: custom
 layout: contact
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Обратная связь
+type: custom
 layout: contact
 ---
 
