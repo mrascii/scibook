@@ -52,7 +52,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           tools/build_search_index.sh  # Should run before hugo build to copy files from static to public folder
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
