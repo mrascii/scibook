@@ -1,10 +1,10 @@
 {{ $context := .context }}
 {{ $outfile := .outfile }}
-{{ if ne hugo.Environment "production" }}
+{{/*{{ if ne hugo.Environment "production" }}*/}}
 {{ range $src := .js }}
 <script src="{{ (resources.Get $src | resources.ExecuteAsTemplate $src $context).RelPermalink }}"></script>
 {{ end }}
-{{ else }}
+{{/* {{ else }}
 {{ $allScripts := slice }}
 {{ range $src := .js }}
 {{ $js := resources.Get $src | resources.ExecuteAsTemplate $outfile $context }}
@@ -14,3 +14,4 @@
 {{ $js = $js | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{ end }}
+*/}}
