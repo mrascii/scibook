@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python3
 #################################################################################
 # Parse scibook.org json DB backup and generate content for static hugo website #
 #################################################################################
